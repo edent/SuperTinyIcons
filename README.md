@@ -11,6 +11,42 @@ Originally created for my contact page - https://edent.tel/
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/github.svg" width="100" />  	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/github.png" width="100" />        	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/1d6887058425cbfe913ed0abcf4480c449212008/tiny/twitter.svg" width="100" />   	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/twitter.png" width="100" />       	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/flickr.svg" width="100" />   	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/flickr.png" width="100" />       	|
 
+## What's available so far?
+
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/hackernews.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/bc32c00ed0ffe77fc284b762497162bd3fa2604e/tiny/flickr.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/facebook.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/tumblr.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/785dd5c329ce406b569d9fe0dab04dbd533e0afc/tiny/telegram.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/dropbox.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/instagram.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/linkedin.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/stackoverflow.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/vimeo.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/1d6887058425cbfe913ed0abcf4480c449212008/tiny/twitter.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/785dd5c329ce406b569d9fe0dab04dbd533e0afc/tiny/lock.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/html5.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/paypal.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/pinterest.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/slideshare.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/soundcloud.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/spotify.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/steam.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/whatsapp.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/wikipedia.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/wordpress.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/785dd5c329ce406b569d9fe0dab04dbd533e0afc/tiny/github.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/785dd5c329ce406b569d9fe0dab04dbd533e0afc/tiny/phone.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/785dd5c329ce406b569d9fe0dab04dbd533e0afc/tiny/skype.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/785dd5c329ce406b569d9fe0dab04dbd533e0afc/tiny/wire.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/amazon.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/google_plus.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/snapchat.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/wechat.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/youtube.svg" width="100" />
+<img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/blob/07f50efbe8d0d5f8596e9599949eeab20644d5db/tiny/youtube-tiny.svg" width="100" />
+
+
 ## Why so smallious?
 
 Bytes cost money.  They cost money to store, transport, and process.  Simplicity should be our goal in all endeavours.
@@ -26,7 +62,7 @@ Yes! These files were minified using [svgo](https://github.com/svg/svgo) and the
 * Colours can be simplified. `#FF0000` becomes `red`
 * The precision of the paths is *mostly* 0 decimal places. A few logos have 1 or 2 dp to make them look more accurate. The precision can be reduced if necessary.
 
-You can see the difference this makes in `youtube.svg` which is a ginormous 1,074 Bytes. By applyig some of the above techniques we can get it down to a svelte 998 Bytes in `youtube-tiny.svg`.
+You can see the difference this makes in `youtube.svg` which is a ginormous 1,074 Bytes. By applying some of the above techniques we can get it down to a svelte 998 Bytes in `youtube-tiny.svg`.
 
 Think you can make them smaller? Tell me by raising an issue!
 
