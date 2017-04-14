@@ -7,7 +7,7 @@ Originally designed for my contact page - https://edent.tel/
 
 ## How Small?
 
-| 839 Bytes SVG	| 18,580 Bytes PNG	|  918 Bytes SVG	| 22,317 bytes PNG	|  463 Bytes SVG	| 16,019 Bytes PNG	|  275 Bytes SVG	| 13,485 Bytes PNG	|
+| 839 Bytes SVG	| 18,580 Bytes PNG	|  918 Bytes SVG	| 22,317 bytes PNG	|  436 Bytes SVG	| 16,019 Bytes PNG	|  275 Bytes SVG	| 13,485 Bytes PNG	|
 |------	        |-----------	|------	                |----------	|------	                |-----------	|------	                |----------	|
 | ![GitHub Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/github.svg)  	| ![GitHub Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/github.png)       	| ![Skype Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/skype.svg)  	| ![Skype Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/skype.png)      	| ![Twitter Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/twitter.svg)  	| ![Twitter Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/twitter.png)      	| ![Flickr Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/flickr.svg)  	| ![Flickr Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/flickr.png)      	|
 
