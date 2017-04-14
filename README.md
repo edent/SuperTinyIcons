@@ -25,7 +25,7 @@ Yes! These files were minified using [svgo](https://github.com/svg/svgo) and the
 
 * Each of these has an `xmlns="http://www.w3.org/2000/svg"` in the `<svg>` tag. This isn't strictly necessary - but some web browsers won't display them as an image without it.
 * Newlines can be stripped - they've been kept for readability where possible.
-* Rounded corners can be dropped - `rx="15%" ry="15%"` - the effect can be done in CSV if you want.
+* Rounded corners can be dropped - `rx="15%" ry="15%"` - the effect can be done in CSS if you want.
 * The background colour can also be excluded if you're including it elsewhere.
 * Colours can be simplified. `#FF0000` becomes `red`
 * The precision of the paths is *mostly* 0 decimal places. A few logos have 1 or 2 dp to make them look more accurate. The precision can be reduced if necessary.
