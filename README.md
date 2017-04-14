@@ -9,7 +9,7 @@ Originally designed for my contact page - https://edent.tel/
 
 | 839 Bytes SVG	| 18,580 Bytes PNG	|   436 Bytes SVG	| 16,019 Bytes PNG	|  275 Bytes SVG	| 13,485 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
-| ![GitHub Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/github.svg)  	| ![GitHub Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/github.png)       	| ![Twitter Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/1d6887058425cbfe913ed0abcf4480c449212008/tiny/twitter.svg)  	| ![Twitter Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/twitter.png)      	| ![Flickr Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/flickr.svg)  	| ![Flickr Logo](https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/flickr.png)      	|
+| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/github.svg" width="256" />  	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/github.png" width="256" />        	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/1d6887058425cbfe913ed0abcf4480c449212008/tiny/twitter.svg" width="256" />   	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/twitter.png" width="256" />       	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/tiny/flickr.svg" width="256" />   	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/flickr.png" width="256" />       	|
 
 ## Can you go smaller?
 
