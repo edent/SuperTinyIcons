@@ -47,6 +47,7 @@ The majority of these vector logos are based on someone else's work.
 * [Signal Logo](https://github.com/WhisperSystems/Signal-iOS/blob/master/Signal/Images.xcassets/logoSignal.imageset/logoSignal.pdf) - GPLv3
 * [RSS Icon](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg) - MPL 1.1
 * [PDF Icon](https://www.iconfinder.com/iconsets/line-icons-set) - Free
+* [Reddit's Snoo](http://ionicons.com/) - MIT
 * [HTML5 Shield](https://www.w3.org/html/logo/) - CC-BY
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright laws, but these files are small enough to memorise.
