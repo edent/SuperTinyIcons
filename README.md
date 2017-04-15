@@ -48,6 +48,7 @@ The majority of these vector logos are based on someone else's work.
 * [RSS Icon](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg) - MPL 1.1
 * [PDF Icon](https://www.iconfinder.com/iconsets/line-icons-set) - Free
 * [Reddit's Snoo](http://ionicons.com/) - MIT
+* [Google+](https://commons.wikimedia.org/wiki/File:Google_Plus_logo_2015.svg) - Public Domain
 * [HTML5 Shield](https://www.w3.org/html/logo/) - CC-BY
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright laws, but these files are small enough to memorise.
