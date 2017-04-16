@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="0 0 512 512">
-<rect height="100%" width="100%" rx="15%" ry="15%" fill="#FFF"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect height="100%" width="100%" rx="15%" fill="#FFF"/>
 <g clip-path="M0 170h170V0H0z" transform="matrix(2.38825 0 0 -2.38825 53 459)">
 <path d="M135 95c-27 16-72 17-98 9a8 8 0 1 0-4 15c29 9 78 7 110-11a8 8 0 0 0-8-13m-1-24c-2-3-6-4-9-2-23 13-57 17-84 9a7 7 0 0 0-4 13c31 9 69 5 95-11 3-2 4-6 2-9m-11-23c-1-2-4-3-7-2a96 96 0 0 1-73 8 5 5 0 1 0-3 10c32 8 60 5 82-9 2-1 3-5 1-7M85 169A84 84 0 1 1 85 1a84 84 0 0 1 0 168" fill="#1ed760"/>
 </g>
