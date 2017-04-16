@@ -1,13 +1,13 @@
 # Super Tiny Social Icons
-Under 1KB each! Super Tiny Social Icons are minuscule SVG versions of your favourite logos
+Under 1KB each! Super Tiny Social Icons are minuscule SVG versions of your favourite logos. The average size is 600 bytes!
 
-The logos have a 512x512 viewbox and will scale up and down to suit your needs.
+The logos are 400x400 & have a 512x512 viewbox. They will scale up and down to suit your needs.
 
 Originally created for my contact page - https://edent.tel/
 
 ## How Small?
 
-| 839 Bytes SVG	| 31,061 Bytes PNG	|   436 Bytes SVG	| 26,980 Bytes PNG	|  251 Bytes SVG	| 16,093 Bytes PNG	|
+| 767 Bytes SVG	| 31,061 Bytes PNG	|   414 Bytes SVG	| 26,980 Bytes PNG	|  222 Bytes SVG	| 16,093 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinySocialIcons/tiny/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinySocialIcons/original/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinySocialIcons/original/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinySocialIcons/original/flickr.png" width="100" />       	|
 
@@ -21,16 +21,16 @@ Bytes cost money.  They cost money to store, transport, and process.  Simplicity
 
 ## Scream if you want to go smaller
 
-These files were minified using [svgo](https://github.com/svg/svgo) and then hand edited.  Further smallification is possible.
+These files edited by hand in Inkscape, then were minified using [svgo](https://github.com/svg/svgo) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible.
 
 * Each of these has an `xmlns="http://www.w3.org/2000/svg"` in the `<svg>` tag. This isn't strictly necessary - but some web browsers won't display them as an image without it.
 * Newlines can be stripped - they've been kept for readability where possible.
-* Rounded corners can be dropped - `rx="15%" ry="15%"` - the effect can be done in CSS if you want.
+* Rounded corners can be dropped - `rx="15%"` - the effect can be done in CSS if you want.
 * The background colour can also be excluded if you're including it elsewhere.
-* Colours can be simplified. `#FF0000` becomes `red`
+* Colours can be simplified. `#FF0000` becomes `red`.
 * The precision of the paths is *mostly* 0 decimal places. A few logos have 1 or 2 dp to make them look more accurate. The precision can be reduced if necessary.
 
-You can see the difference this makes in [`youtube.svg`](https://github.com/edent/SuperTinySocialIcons/raw/master/tiny/youtube.svg) which is a ginormous 1,074 Bytes. By applying some of the above techniques we can get it down to a svelte 998 Bytes in [`youtube-tiny.svg`](https://github.com/edent/SuperTinySocialIcons/raw/master/tiny/youtube-tiny.svg).
+You can see the difference this makes in [`youtube.svg`](https://github.com/edent/SuperTinySocialIcons/raw/master/tiny/youtube.svg) which is a ginormous 1,032 Bytes. By applying some of the above techniques we can get it down to a svelte 981 Bytes in [`youtube-tiny.svg`](https://github.com/edent/SuperTinySocialIcons/raw/master/tiny/youtube-tiny.svg).
 
 Think you can make them smaller? Tell me by raising an issue!
 
@@ -51,4 +51,4 @@ The majority of these vector logos are based on someone else's work.
 * [Google+](https://commons.wikimedia.org/wiki/File:Google_Plus_logo_2015.svg) - Public Domain
 * [HTML5 Shield](https://www.w3.org/html/logo/) - CC-BY
 
-Where possible, they retain their original licenses.  Some logos may be subject to copyright laws, but these files are small enough to memorise.
+Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.

@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="0 0 512 512">
-<rect height="100%" width="100%" rx="15%" ry="15%" fill="orange"/>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#ffa500" height="100%" rx="15%" width="100%"/>
 <g fill="#fff">
 <circle cx="123" cy="389" r="67"/>
-<path d="M56 256a200 200 0 0 1 200 200h67A267 267 0 0 0 56 189z"/>
-<path d="M56 123a333 333 0 0 1 333 333h67A433 433 0 0 0 56 56z"/>
+<path d="m56 256a200 200 0 0 1 200 200h67a267 267 0 0 0 -267-267z"/>
+<path d="m56 123a333 333 0 0 1 333 333h67a433 433 0 0 0 -400-400z"/>
 </g>
 </svg>
