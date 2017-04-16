@@ -9,7 +9,7 @@ Originally created for my contact page - https://edent.tel/
 
 | 839 Bytes SVG	| 31,061 Bytes PNG	|   436 Bytes SVG	| 26,980 Bytes PNG	|  251 Bytes SVG	| 16,093 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
-| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinySocialIcons/original/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="100" />   	| <img src="https://cdn.rawgit.com/edent/SuperTinySocialIcons/master/original/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinySocialIcons/original/flickr.png" width="100" />       	|
+| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinySocialIcons/original/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinySocialIcons/original/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinySocialIcons/original/flickr.png" width="100" />       	|
 
 ## What's Available so far?
 
