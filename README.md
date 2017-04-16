@@ -3,7 +3,7 @@ Under 1KB each! Super Tiny Social Icons are minuscule SVG versions of your favou
 
 The logos are 400x400 & have a 512x512 viewbox. They will scale up and down to suit your needs.
 
-Originally created for my contact page - https://edent.tel/
+Originally created for my contact page - [https://edent.tel/](https://edent.tel/)
 
 ## How Small?
 
