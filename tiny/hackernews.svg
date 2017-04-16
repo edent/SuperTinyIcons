@@ -1,4 +1,4 @@
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<rect fill="#f60" height="100%" rx="15%" width="100%"/>
+<rect fill="#f60" height="512" rx="15%" width="512"/>
 <path d="m101 56 129 255v145h52v-145l129-255h-57l-98 192-94-192z" fill="#fff"/>
 </svg>
