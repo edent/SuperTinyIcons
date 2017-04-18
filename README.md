@@ -55,7 +55,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/pdf.svg" width="125" /><br>854 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/vk.svg" width="125" />832 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/vk.svg" width="125" /><br>832 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/rss.svg" width="125" /><br>321 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/mail.svg" width="125" /><br>575 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/email.svg" width="125" /><br>749 Bytes</td>
