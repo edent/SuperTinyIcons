@@ -52,7 +52,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wechat.svg" width="125" /><br>760 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/phone.svg" width="125" /><br>863 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/youtube.svg" width="125" /><br>924 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/pdf.svg" width="125" /><br>854 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/pdf.svg" width="125" /><br>635 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/vk.svg" width="125" /><br>832 Bytes</td>
