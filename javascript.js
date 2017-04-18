@@ -20,7 +20,7 @@ number.addEventListener('input', function(e){
   render(e.target.value);
 });
 
-var urls = items.map(item => '/tiny/' + item + '.svg');
+var urls = items.map(item => 'tiny/' + item + '.svg');
 var icons;
 Promise.all(urls.map(url => fetch(url).then(res => res.text()))).then(all => {
   icons = all;
