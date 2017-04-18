@@ -51,7 +51,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/google_plus.svg" width="125" /><br>347 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wechat.svg" width="125" /><br>760 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/phone.svg" width="125" /><br>863 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/youtube.svg" width="125" /><br>1,0<em>30</em> Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/youtube.svg" width="125" /><br>924 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/pdf.svg" width="125" /><br>854 Bytes</td>
 </tr>
 <tr>
@@ -84,8 +84,6 @@ These files edited by hand in Inkscape, then were minified using [svgo](https://
 * The background colour can also be excluded if you're including it elsewhere.
 * Colours can be simplified. `#FF0000` becomes `red`.
 * The precision of the paths is *mostly* 0 decimal places. A few logos have 1 or 2 dp to make them look more accurate. The precision can be reduced if necessary.
-
-You can see the difference this makes in [`youtube.svg`](https://github.com/edent/SuperTinySocialIcons/raw/master/tiny/youtube.svg) which is a ginormous 1,032 Bytes. By applying some of the above techniques we can get it down to a svelte 981 Bytes in [`youtube-tiny.svg`](https://github.com/edent/SuperTinySocialIcons/raw/master/tiny/youtube-tiny.svg).
 
 Think you can make them smaller? Tell me by raising an issue!
 
