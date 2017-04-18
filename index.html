@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Super Tiny Social Icons</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/picnicss/6.3.2/picnic.min.css">
+    <style>
+      body {
+        width: 100%;
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 20px;
+        font-family: sans-serif;
+      }
+      @media all and (max-width: 600px) {
+        body {
+          margin: 0 auto;
+        }
+      }
+      h1, h2 {
+        padding-top: 0;
+      }
+      input {
+        margin: 0 0 .6em 0;
+      }
+      svg {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Super Tiny Social Icons</h1>
+
+    <section class="flex two four-800">
+      <h2>Radius %</h2>
+      <label>
+        <input class="rangeout" value="15">
+      </label>
+      <label class="full half-800">
+        <input type="range" value="15" min="0" max="50" name="radius" placeholder="">
+      </label>
+    </section>
+
+    <div class="icons flex three four-500 five-700 six-900"></div>
+
+    <script src="javascript.js"></script>
+  </body>
+</html>
