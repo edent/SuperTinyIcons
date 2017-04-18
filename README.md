@@ -48,9 +48,9 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/steam.svg" width="125" /><br>555 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/google.svg" width="125" /><br>229 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/google_plus.svg" width="125" /><br>347 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wechat.svg" width="125" /><br>760 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/phone.svg" width="125" /><br>863 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/youtube.svg" width="125" /><br>924 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/pdf.svg" width="125" /><br>635 Bytes</td>
 </tr>
@@ -63,6 +63,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wire.svg" width="125" /><br>730 Bytes</td>
 </tr>
 <tr>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/phone.svg" width="125" /><br>863 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/lock.svg" width="125" /><br>738 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/html5.svg" width="125" /><br>379 Bytes</td>
 </tr>
@@ -102,6 +103,7 @@ The majority of these vector logos are based on someone else's work.
 * [PDF Icon](https://www.iconfinder.com/iconsets/line-icons-set) - Free
 * [Reddit's Snoo](http://ionicons.com/) - MIT
 * [Google+](https://commons.wikimedia.org/wiki/File:Google_Plus_logo_2015.svg) - Public Domain
+* [Google](http://svgshare.com/s/q)
 * [Mastodon](https://github.com/tootsuite/mastodon/blob/0ad694f96b7f0e951950e7525bde52cd11454cb2/app/assets/images/logo.svg) - AGPLv3
 * [HTML5 Shield](https://www.w3.org/html/logo/) - CC-BY
 
