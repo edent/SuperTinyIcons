@@ -3,8 +3,8 @@ var items = [
   'pinterest', 'stackoverflow', 'whatsapp', 'email', 'linkedin', 'reddit',
   'steam', 'wikipedia', 'facebook', 'lock', 'rss', 'slideshare', 'telegram',
   'mail', 'skype', 'tumblr', 'wordpress', 'github', 'pdf', 'vk', 'wire',
-  'twitter', 'youtube', 'google_plus', 'paypal', 'snapchat', 'vimeo', 'flickr',
-  'soundcloud', 'html5', 'mastodon'
+  'twitter', 'youtube', 'google', 'google_plus', 'paypal', 'snapchat', 'vimeo', 'flickr',
+  'soundcloud', 'html5', 'mastodon', 'gitlab'
 ];
 
 var container = document.querySelector('.icons');
