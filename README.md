@@ -7,7 +7,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 
 ## How Small?
 
-| 765 Bytes SVG	| 22,573 Bytes PNG	|   412 Bytes SVG	| 20,956 Bytes PNG	|  211 Bytes SVG	| 13,284 Bytes PNG	|
+| 765 Bytes SVG	| 22,573 Bytes PNG	|   397 Bytes SVG	| 20,956 Bytes PNG	|  211 Bytes SVG	| 13,284 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinySocialIcons/tiny/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinySocialIcons/original/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinySocialIcons/original/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinySocialIcons/original/flickr.png" width="100" />       	|
 
@@ -19,7 +19,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="125" /><br>211 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/facebook.svg" width="125" /><br>254 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/tumblr.svg" width="125" /><br>296 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="125" /><br>412 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="125" /><br>397 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/whatsapp.svg" width="125" /><br>622 Bytes</td>
 </tr>
 <tr>
