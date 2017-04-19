@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="#2b90d9" >
-<rect fill="#fff" height="512" rx="15%" width="512"/>
-<path d="M397 115q-58-59-141-59t-141 59q-59 58-59 141t59 141q58 59 141 59t141-59q59-58 59-141t-59-141zM141 340h-1q-17 0-29-12-12-13-12-30v-84q0-16 12-28t29-12q17 0 29 12t12 28v88q1 22 19 38zm155-62q0 16-12 28t-29 12q-17 0-29-12-12-11-13-28v-84q0-17 13-29 12-12 29-12h60q-18 15-19 37zm115 20q0 17-12 30-12 12-29 12h-60q17-16 18-38v-88q1-16 12-28 12-12 30-12 17 0 29 12 11 12 12 28z" fill="#2b90d9"/>
-<circle cx="141" cy="220" r="11"/>
-<circle cx="141" cy="256" r="11"/>
-<circle cx="141" cy="292" r="11"/>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#2b90d9">
+<rect height="512" rx="15%" width="512" fill="#fff"/>
+<circle cx="256" cy="256" r="200"/>
+<g id="a" >
+<path d="m369 175c22 0 42 18 42 40v84c0 24-21 41-42 41h-60c12-10 18-22 19-37v-88c0-22 19-40 41-40z" fill="#fff"/>
 <circle cx="369" cy="220" r="11"/>
 <circle cx="369" cy="256" r="11"/>
 <circle cx="369" cy="292" r="11"/>
-<circle cx="256" cy="198" r="11"/>
-<circle cx="256" cy="236" r="11"/>
-<circle cx="256" cy="273" r="11"/>
+</g>
+<use xlink:href="#a" transform="matrix(-1 0 0 -1 624 493)"/>
+<use xlink:href="#a" transform="matrix(-1 0 0 1 510 0)"/>
 </svg>
