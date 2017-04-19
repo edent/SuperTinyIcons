@@ -16,7 +16,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <table>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/hackernews.svg" width="125" /><br>204 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="125" /><br>220 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="125" /><br>211 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/facebook.svg" width="125" /><br>254 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/tumblr.svg" width="125" /><br>296 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="125" /><br>412 Bytes</td>
