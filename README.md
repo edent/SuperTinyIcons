@@ -31,7 +31,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wordpress.svg" width="125" /><br>782 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/skype.svg" width="125" /><br>899 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/skype.svg" width="125" /><br>487 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/reddit.svg" width="125" /><br>852 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/pinterest.svg" width="125" /><br>502 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/paypal.svg" width="125" /><br>562 Bytes</td>
