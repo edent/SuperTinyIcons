@@ -60,7 +60,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/mail.svg" width="125" /><br>575 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/email.svg" width="125" /><br>749 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/mastodon.svg" width="125" /><br>392 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wire.svg" width="125" /><br>730 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wire.svg" width="125" /><br>263 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/gitlab.svg" width="125" /><br>283 Bytes</td>
