@@ -42,7 +42,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/vimeo.svg" width="125" /><br>349 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/slideshare.svg" width="125" /><br>611 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/soundcloud.svg" width="125" /><br>928 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/spotify.svg" width="125" /><br>509 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/spotify.svg" width="125" /><br>413 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/snapchat.svg" width="125" /><br>769 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/amazon.svg" width="125" /><br>750 Bytes</td>
 </tr>
