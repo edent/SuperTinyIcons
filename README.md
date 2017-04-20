@@ -48,7 +48,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/steam.svg" width="125" /><br>555 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/google.svg" width="125" /><br>229 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/google.svg" width="125" /><br>221 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/google_plus.svg" width="125" /><br>347 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wechat.svg" width="125" /><br>760 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/youtube.svg" width="125" /><br>924 Bytes</td>
