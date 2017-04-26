@@ -1,8 +1,5 @@
 <svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
 <rect fill="#ffa500" height="512" rx="15%" width="512"/>
-<g fill="#fff">
-<circle cx="123" cy="389" r="67"/>
-<path d="m56 256a200 200 0 0 1 200 200h67a267 267 0 0 0 -267-267z"/>
-<path d="m56 123a333 333 0 0 1 333 333h67a433 433 0 0 0 -400-400z"/>
-</g>
+<circle cx="123" cy="389" fill="#fff" r="67"/>
+<path d="m423 456c0-203-164-367-367-367m234 367c0-128-105-234-234-234" fill="none" stroke="#fff" stroke-width="68"/>
 </svg>
