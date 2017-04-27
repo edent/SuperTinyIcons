@@ -44,7 +44,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/soundcloud.svg" width="125" /><br>928 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/spotify.svg" width="125" /><br>413 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/snapchat.svg" width="125" /><br>769 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/amazon.svg" width="125" /><br>750 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/amazon.svg" width="125" /><br>648 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/steam.svg" width="125" /><br>555 Bytes</td>
