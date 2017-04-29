@@ -43,7 +43,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/slideshare.svg" width="125" /><br>611 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/soundcloud.svg" width="125" /><br>928 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/spotify.svg" width="125" /><br>413 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/snapchat.svg" width="125" /><br>769 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/snapchat.svg" width="125" /><br>863 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/amazon.svg" width="125" /><br>648 Bytes</td>
 </tr>
 <tr>
@@ -64,7 +64,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/gitlab.svg" width="125" /><br>264 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/phone.svg" width="125" /><br>863 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/phone.svg" width="125" /><br>730 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/lock.svg" width="125" /><br>385 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/html5.svg" width="125" /><br>379 Bytes</td>
 </tr>
