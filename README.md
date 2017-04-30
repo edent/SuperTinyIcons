@@ -63,6 +63,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wire.svg" width="125" /><br>263 Bytes</td>
 </tr>
 <tr>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/tox.svg" width="125" /><br>529 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/gitlab.svg" width="125" /><br>264 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/phone.svg" width="125" /><br>730 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/lock.svg" width="125" /><br>385 Bytes</td>
