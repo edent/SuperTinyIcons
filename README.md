@@ -28,7 +28,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/linkedin.svg" width="125" /><br>367 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/stackoverflow.svg" width="125" /><br>335 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/instagram.svg" width="125" /><br>290 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wordpress.svg" width="125" /><br>782 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wordpress.svg" width="125" /><br>515 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/skype.svg" width="125" /><br>469 Bytes</td>
