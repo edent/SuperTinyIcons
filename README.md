@@ -1,5 +1,5 @@
 # Super Tiny Social Icons
-Under 1KB each! Super Tiny Social Icons are minuscule SVG versions of your favourite logos. The average size is 600 bytes!
+Under 1KB each! Super Tiny Social Icons are minuscule SVG versions of your favourite logos. The average size is *under* 500 bytes!
 
 The logos are 400x400 & have a 512x512 viewbox. They will scale up and down to suit your needs.
 
