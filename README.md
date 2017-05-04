@@ -32,7 +32,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/skype.svg" width="125" /><br>469 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/reddit.svg" width="125" /><br>684 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/reddit.svg" width="125" /><br>509 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/pinterest.svg" width="125" /><br>502 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/paypal.svg" width="125" /><br>562 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/github.svg" width="125" /><br>720 Bytes</td>
@@ -103,7 +103,6 @@ The majority of these vector logos are based on someone else's work.
 * [Signal Logo](https://github.com/WhisperSystems/Signal-iOS/blob/master/Signal/Images.xcassets/logoSignal.imageset/logoSignal.pdf) - GPLv3
 * [RSS Icon](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg) - MPL 1.1
 * [PDF Icon](https://www.iconfinder.com/iconsets/line-icons-set) - Free
-* [Reddit's Snoo](http://ionicons.com/) - MIT
 * [Google+](https://commons.wikimedia.org/wiki/File:Google_Plus_logo_2015.svg) - Public Domain
 * [Google](http://svgshare.com/s/q)
 * [Mastodon](https://github.com/tootsuite/mastodon/blob/0ad694f96b7f0e951950e7525bde52cd11454cb2/app/assets/images/logo.svg) - AGPLv3
