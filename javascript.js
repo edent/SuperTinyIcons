@@ -1,10 +1,9 @@
 var items = [
-  'amazon', 'phone', 'spotify', 'wechat', 'dropbox', 'instagram', 'hackernews',
-  'pinterest', 'stackoverflow', 'whatsapp', 'email', 'linkedin', 'reddit',
-  'steam', 'wikipedia', 'facebook', 'lock', 'rss', 'slideshare', 'telegram',
-  'mail', 'skype', 'tumblr', 'wordpress', 'github', 'pdf', 'vk', 'wire',
-  'twitter', 'youtube', 'google', 'google_plus', 'paypal', 'snapchat', 'vimeo', 'flickr',
-  'soundcloud', 'html5', 'mastodon', 'gitlab'
+  'amazon', 'github', 'html5', 'mastodon', 'reddit', 'soundcloud', 'tox', 'wechat', 'youtube',
+  'dropbox', 'gitlab', 'instagram', 'paypal', 'rss', 'spotify', 'tumblr', 'whatsapp',
+  'email', 'google_plus', 'linkedin', 'pdf', 'skype', 'stackoverflow', 'twitter', 'wikipedia',
+  'facebook', 'google', 'lock', 'phone', 'slideshare', 'steam', 'vimeo', 'wire',
+  'flickr', 'hackernews', 'mail', 'pinterest', 'snapchat', 'telegram', 'vk', 'wordpress'
 ];
 
 var container = document.querySelector('.icons');
