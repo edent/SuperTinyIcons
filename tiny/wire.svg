@@ -1,4 +1,4 @@
-<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-<rect fill="#fff" height="600" rx="15%" width="600"/>
-<path d="m113 147v193c0 149 222 149 222 0v-158c-2-46-68-46-70 0v158c0 149 222 149 222 0v-193" fill="none" stroke="#000" stroke-width="23"/>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#fff" height="512" rx="15%" width="512"/>
+<path d="m69 103v193c0 149 222 149 222 0v-158c-2-46-68-46-70 0v158c0 149 222 149 222 0v-193" fill="none" stroke="#000" stroke-width="23"/>
 </svg>
