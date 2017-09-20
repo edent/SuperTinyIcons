@@ -70,6 +70,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/html5.svg" width="125" /><br>379 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/meetup.svg" width="125" /><br>611 Bytes</td>
 </tr>
+<tr>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/line.svg" width="125" /><br>455 Bytes</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 You can [play around with the corner radius size using our interactive tool](https://edent.github.io/SuperTinySocialIcons/radius.html)

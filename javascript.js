@@ -3,7 +3,7 @@ var items = [
   'dropbox', 'gitlab', 'instagram', 'paypal', 'rss', 'spotify', 'tumblr', 'whatsapp',
   'email', 'google_plus', 'linkedin', 'pdf', 'skype', 'stackoverflow', 'twitter', 'wikipedia',
   'facebook', 'google', 'lock', 'phone', 'slideshare', 'steam', 'vimeo', 'wire',
-  'flickr', 'hackernews', 'mail', 'pinterest', 'snapchat', 'telegram', 'vk', 'wordpress', 'meetup'
+  'flickr', 'hackernews', 'mail', 'pinterest', 'snapchat', 'telegram', 'vk', 'wordpress', 'meetup', 'line'
 ];
 
 var container = document.querySelector('.icons');
