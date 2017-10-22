@@ -72,7 +72,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/line.svg" width="125" /><br>455 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/lastpass.svg" width="125" /><br>299 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
