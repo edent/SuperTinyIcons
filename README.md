@@ -47,7 +47,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/amazon.svg" width="125" alt="Amazon" /><br>648 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/steam.svg" width="125" alt="Steam" /><br>555 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/steam.svg" width="125" alt="Steam" /><br>837 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/google.svg" width="125" alt="Google" /><br>221 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/google_plus.svg" width="125" alt="Google Plus" /><br>347 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wechat.svg" width="125" alt="WeChat" /><br>739 Bytes</td>
@@ -127,5 +127,6 @@ The majority of these vector logos are based on someone else's work.
 * [HTML5 Shield](https://www.w3.org/html/logo/) - CC-BY
 * [NPM Logo](https://commons.wikimedia.org/wiki/File:Npm-logo.svg) - CC-BY
 * [Docker Logo](https://github.com/docker/docker.github.io/blob/master/LICENSE) - Apache
+* [Steam](https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg)
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
