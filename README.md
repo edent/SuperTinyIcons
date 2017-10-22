@@ -131,5 +131,6 @@ The majority of these vector logos are based on someone else's work.
 * [Docker Logo](https://github.com/docker/docker.github.io/blob/master/LICENSE) - Apache
 * [Steam](https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg)
 * [Symantec](https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg)
+* [Yubico](https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png) - BSD
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
