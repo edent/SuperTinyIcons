@@ -80,7 +80,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/apple.svg" width="125" alt="Apple" /><br>984 Bytes</td>
-<td><br></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/npm.svg" width="125" alt="NPM" /><br>377 Bytes</td>
 <td><br></td>
 <td><br></td>
 <td><br></td>
@@ -125,5 +125,6 @@ The majority of these vector logos are based on someone else's work.
 * [Mastodon](https://github.com/tootsuite/mastodon/blob/0ad694f96b7f0e951950e7525bde52cd11454cb2/app/assets/images/logo.svg) - AGPLv3
 * [GitLab](https://about.gitlab.com/press/)
 * [HTML5 Shield](https://www.w3.org/html/logo/) - CC-BY
+* [NPM Logo](https://commons.wikimedia.org/wiki/File:Npm-logo.svg) - CC-BY
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
