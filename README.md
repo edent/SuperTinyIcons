@@ -82,7 +82,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/apple.svg" width="125" alt="Apple" /><br>984 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/npm.svg" width="125" alt="NPM" /><br>377 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/docker.svg" width="125" alt="Docker" /><br>502 Bytes</td>
-<td><br></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/symantec.svg" width="125" alt="Symantec" /><br>1023 Bytes</td>
 <td><br></td>
 <td><br></td>
 </tr>
@@ -128,5 +128,6 @@ The majority of these vector logos are based on someone else's work.
 * [NPM Logo](https://commons.wikimedia.org/wiki/File:Npm-logo.svg) - CC-BY
 * [Docker Logo](https://github.com/docker/docker.github.io/blob/master/LICENSE) - Apache
 * [Steam](https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg)
+* [Symantec](https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg)
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
