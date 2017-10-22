@@ -5,6 +5,8 @@ The logos are 400x400 & have a 512x512 viewbox. They will scale up and down to s
 
 Originally created for my contact page - [https://edent.tel/](https://edent.tel/)
 
+**New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://github.com/inloop/svg2android/issues - not guaranteed to be under 1KB.
+
 ## How Small?
 
 | 720 Bytes SVG	| 21,263 Bytes PNG	|   397 Bytes SVG	| 20,225 Bytes PNG	|  211 Bytes SVG	| 11,837 Bytes PNG	|
