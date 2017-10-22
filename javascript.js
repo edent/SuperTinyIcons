@@ -4,7 +4,7 @@ var items = [
   'email', 'google_plus', 'linkedin', 'pdf', 'skype', 'stackoverflow', 'twitter', 'wikipedia',
   'facebook', 'google', 'lock', 'phone', 'slideshare', 'steam', 'vimeo', 'wire',
   'flickr', 'hackernews', 'mail', 'pinterest', 'snapchat', 'telegram', 'vk', 'wordpress', 'meetup', 'line',
-  'lastpass', 'windows', 'digidentity', 'ubuntu'
+  'lastpass', 'windows', 'digidentity', 'ubuntu', 'bitbucket'
 ];
 
 var container = document.querySelector('.icons');
