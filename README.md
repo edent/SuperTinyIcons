@@ -86,7 +86,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/docker.svg" width="125" alt="Docker" /><br>502 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/symantec.svg" width="125" alt="Symantec" /><br>1023 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yubico.svg" width="125" alt="Yubico" /><br>286 Bytes</td>
-<td><br></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/keybase.svg" width="125" alt="Keybase" /><br>286 Bytes</td>
 </tr>
 </table>
 
@@ -132,5 +132,6 @@ The majority of these vector logos are based on someone else's work.
 * [Steam](https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg)
 * [Symantec](https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg)
 * [Yubico](https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png) - BSD
+* [Keybase](https://github.com/keybase/client/blob/master/shared/images/iconfont/kb-iconfont-keybase-16.svg) - BSD
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.

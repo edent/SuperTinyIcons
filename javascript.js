@@ -1,10 +1,13 @@
 var items = [
-  'amazon', 'github', 'html5', 'mastodon', 'reddit', 'soundcloud', 'tox', 'wechat', 'youtube',
-  'dropbox', 'gitlab', 'instagram', 'paypal', 'rss', 'spotify', 'tumblr', 'whatsapp',
-  'email', 'google_plus', 'linkedin', 'pdf', 'skype', 'stackoverflow', 'twitter', 'wikipedia',
-  'facebook', 'google', 'lock', 'phone', 'slideshare', 'steam', 'vimeo', 'wire',
-  'flickr', 'hackernews', 'mail', 'pinterest', 'snapchat', 'telegram', 'vk', 'wordpress', 'meetup', 'line',
-  'lastpass', 'windows', 'digidentity', 'ubuntu', 'bitbucket', 'apple', 'npm', 'docker', 'symantec', 'yubico'
+  'amazon', 'github', 'html5', 'mastodon', 'reddit', 'soundcloud', 
+  'tox', 'wechat', 'youtube', 'dropbox', 'gitlab', 'instagram', 
+  'paypal', 'rss', 'spotify', 'tumblr', 'whatsapp', 'email',
+  'google_plus', 'linkedin', 'pdf', 'skype', 'stackoverflow', 'twitter',
+  'wikipedia', 'facebook', 'google', 'lock', 'phone', 'slideshare',
+  'steam', 'vimeo', 'wire', 'flickr', 'hackernews', 'mail',
+  'pinterest', 'snapchat', 'telegram', 'vk', 'wordpress', 'meetup',
+  'line', 'lastpass', 'windows', 'digidentity', 'ubuntu', 'bitbucket',
+  'apple', 'npm', 'docker', 'symantec', 'yubico', 'keybase'
 ];
 
 var container = document.querySelector('.icons');
