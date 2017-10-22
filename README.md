@@ -140,5 +140,6 @@ The majority of these vector logos are based on someone else's work.
 * [Symantec](https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg)
 * [Yubico](https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png) - BSD
 * [Keybase](https://github.com/keybase/client/blob/master/shared/images/iconfont/kb-iconfont-keybase-16.svg) - BSD
+* [ebay](https://commons.wikimedia.org/wiki/File:EBay_logo.svg)
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
