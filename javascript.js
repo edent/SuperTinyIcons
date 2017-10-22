@@ -7,7 +7,8 @@ var items = [
   'steam', 'vimeo', 'wire', 'flickr', 'hackernews', 'mail',
   'pinterest', 'snapchat', 'telegram', 'vk', 'wordpress', 'meetup',
   'line', 'lastpass', 'windows', 'digidentity', 'ubuntu', 'bitbucket',
-  'apple', 'npm', 'docker', 'symantec', 'yubico', 'keybase'
+  'apple', 'npm', 'docker', 'symantec', 'yubico', 'keybase',
+  'ebay'
 ];
 
 var container = document.querySelector('.icons');

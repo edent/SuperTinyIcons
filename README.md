@@ -86,7 +86,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/docker.svg" width="125" alt="Docker" /><br>502 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/symantec.svg" width="125" alt="Symantec" /><br>1023 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yubico.svg" width="125" alt="Yubico" /><br>286 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/keybase.svg" width="125" alt="Keybase" /><br>286 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/keybase.svg" width="125" alt="Keybase" /><br>982 Bytes</td>
+</tr><tr>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/ebay.svg" width="125" alt="eBay" /><br>807 Bytes</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
