@@ -78,6 +78,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/ubuntu.svg" width="125" alt="Ubuntu" /><br>895 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/bitbucket.svg" width="125" alt="Atlassian BitBucket" /><br>895 Bytes</td>
 </tr>
+<tr>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/apple.svg" width="125" alt="Apple" /><br>984 Bytes</td>
+<td><br></td>
+<td><br></td>
+<td><br></td>
+<td><br></td>
+<td><br></td>
+</tr>
 </table>
 
 You can [play around with the corner radius size using our interactive tool](https://edent.github.io/SuperTinySocialIcons/radius.html)
