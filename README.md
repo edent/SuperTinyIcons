@@ -17,12 +17,12 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 
 <table>
 <tr>
-<td>Hacker News<img src="https://edent.github.io/SuperTinySocialIcons/tiny/hackernews.svg" width="125" alt="Hacker News" /><br>198 Bytes</td>
-<td>flickr<img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="125" alt="flickr" /><br>211 Bytes</td>
-<td>Facebook<img src="https://edent.github.io/SuperTinySocialIcons/tiny/facebook.svg" width="125" alt="Facebook" /><br>244 Bytes</td>
-<td>tumblr<img src="https://edent.github.io/SuperTinySocialIcons/tiny/tumblr.svg" width="125" alt="tumblr" /><br>296 Bytes</td>
-<td>Twitter<img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="125" alt="Twitter" /><br>397 Bytes</td>
-<td>WhatsApp<img src="https://edent.github.io/SuperTinySocialIcons/tiny/whatsapp.svg" width="125" alt="WhatsApp" /><br>622 Bytes</td>
+<td>Hacker News<br><img src="https://edent.github.io/SuperTinySocialIcons/tiny/hackernews.svg" width="125" alt="Hacker News" /><br>198 Bytes</td>
+<td>flickr<br><img src="https://edent.github.io/SuperTinySocialIcons/tiny/flickr.svg" width="125" alt="flickr" /><br>211 Bytes</td>
+<td>Facebook<br><img src="https://edent.github.io/SuperTinySocialIcons/tiny/facebook.svg" width="125" alt="Facebook" /><br>244 Bytes</td>
+<td>tumblr<br><img src="https://edent.github.io/SuperTinySocialIcons/tiny/tumblr.svg" width="125" alt="tumblr" /><br>296 Bytes</td>
+<td>Twitter<br><img src="https://edent.github.io/SuperTinySocialIcons/tiny/twitter.svg" width="125" alt="Twitter" /><br>397 Bytes</td>
+<td>WhatsApp<br><img src="https://edent.github.io/SuperTinySocialIcons/tiny/whatsapp.svg" width="125" alt="WhatsApp" /><br>622 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/dropbox.svg" width="125" alt="Dropbox" /><br>339 Bytes</td>
