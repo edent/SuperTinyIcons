@@ -89,8 +89,8 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/keybase.svg" width="125" title="Keybase" /><br>982 Bytes</td>
 </tr><tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/ebay.svg" width="125" title="eBay" /><br>807 Bytes</td>
-<td></td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/evernote.svg" width="125" title="Evernote" /><br>810 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/kickstarter.svg" width="125" title="Kickstarter" /><br>362 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
@@ -141,5 +141,6 @@ The majority of these vector logos are based on someone else's work.
 * [Yubico](https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png) - BSD
 * [Keybase](https://github.com/keybase/client/blob/master/shared/images/iconfont/kb-iconfont-keybase-16.svg) - BSD
 * [ebay](https://commons.wikimedia.org/wiki/File:EBay_logo.svg)
+* Kickstarter - Own work, MIT
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
