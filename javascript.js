@@ -8,7 +8,7 @@ var items = [
   'pinterest', 'snapchat', 'telegram', 'vk', 'wordpress', 'meetup',
   'line', 'lastpass', 'windows', 'digidentity', 'ubuntu', 'bitbucket',
   'apple', 'npm', 'docker', 'symantec', 'yubico', 'keybase',
-  'ebay', 'evernote', 'kickstarter', 'yahoo'
+  'ebay', 'evernote', 'kickstarter', 'yahoo', 'bitcoin'
 ];
 
 var container = document.querySelector('.icons');

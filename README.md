@@ -92,7 +92,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/evernote.svg" width="125" title="Evernote" /><br>810 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/kickstarter.svg" width="125" title="Kickstarter" /><br>362 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yahoo.svg" width="125" title="Yahoo!" /><br>548 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/bitcoin.svg" width="125" title="BitCoin" /><br>497 Bytes</td>
 <td></td>
 </tr>
 </table>
