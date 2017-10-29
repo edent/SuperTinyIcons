@@ -93,7 +93,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/kickstarter.svg" width="125" title="Kickstarter" /><br>362 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yahoo.svg" width="125" title="Yahoo!" /><br>548 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/bitcoin.svg" width="125" title="BitCoin" /><br>497 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/bluetooth.svg" width="125" title="bluetooth" /><br>247 Bytes</td>
 </tr>
 </table>
 
@@ -143,5 +143,7 @@ The majority of these vector logos are based on someone else's work.
 * [ebay](https://commons.wikimedia.org/wiki/File:EBay_logo.svg)
 * Kickstarter - Own work, MIT
 * [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
+* [BitCoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
+* [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
