@@ -87,13 +87,22 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/symantec.svg" width="125" title="Symantec" /><br>1023 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yubico.svg" width="125" title="Yubico" /><br>286 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/keybase.svg" width="125" title="Keybase" /><br>982 Bytes</td>
-</tr><tr>
+</tr>
+<tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/ebay.svg" width="125" title="eBay" /><br>807 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/evernote.svg" width="125" title="Evernote" /><br>810 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/kickstarter.svg" width="125" title="Kickstarter" /><br>362 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yahoo.svg" width="125" title="Yahoo!" /><br>548 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/bitcoin.svg" width="125" title="BitCoin" /><br>497 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/bluetooth.svg" width="125" title="bluetooth" /><br>247 Bytes</td>
+</tr>
+<tr>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/ibm.svg" width="125" title="IBM" /><br>912 Bytes</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -145,5 +154,6 @@ The majority of these vector logos are based on someone else's work.
 * [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
 * [BitCoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
 * [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
+* [IBM](https://github.com/gilbarbara/logos/) - CC0
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
