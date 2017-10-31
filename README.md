@@ -1,11 +1,11 @@
 # Super Tiny Social Icons
-Under 1KB each! Super Tiny Social Icons are minuscule SVG versions of your favourite logos. The average size is *under* 500 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is *under* 500 bytes!
 
-The logos are 400x400 & have a 512x512 viewbox. They will scale up and down to suit your needs.
+The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
+
+You can [play around with the corner radius size using our interactive tool](https://edent.github.io/SuperTinySocialIcons/radius.html)
 
 Originally created for my contact page - [https://edent.tel/](https://edent.tel/)
-
-**New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://github.com/inloop/svg2android/issues - not guaranteed to be under 1KB.
 
 ## How Small?
 
@@ -98,15 +98,13 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/ibm.svg" width="125" title="IBM" /><br>912 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yammer.svg" width="125" title="Yammer" /><br>918 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 </table>
-
-You can [play around with the corner radius size using our interactive tool](https://edent.github.io/SuperTinySocialIcons/radius.html)
 
 ## Why so smallious?
 
@@ -126,6 +124,9 @@ These files edited by hand in Inkscape, then were minified using [svgo](https://
 Think you can make them smaller? Tell me by raising an issue!
 
 Want more icons?  Tell me by raising an issue!
+
+**New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://github.com/inloop/svg2android/issues - not guaranteed to be under 1KB.
+
 
 ## Licenses
 
@@ -154,6 +155,9 @@ The majority of these vector logos are based on someone else's work.
 * [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
 * [BitCoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
 * [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
-* [IBM](https://github.com/gilbarbara/logos/) - CC0
+
+From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
+* IBM
+* Yammer
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
