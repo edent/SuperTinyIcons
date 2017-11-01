@@ -99,7 +99,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/ibm.svg" width="125" title="IBM" /><br>912 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yammer.svg" width="125" title="Yammer" /><br>918 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/android.svg" width="125" title="Android" /><br>788 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
