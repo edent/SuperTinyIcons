@@ -101,7 +101,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/yammer.svg" width="125" title="Yammer" /><br>918 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/android.svg" width="125" title="Android" /><br>788 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/authy.svg" width="125" title="Authy" /><br>624 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/blogger.svg" width="125" title="Blogger" /><br>479 Bytes</td>
 <td></td>
 </tr>
 </table>
@@ -155,6 +155,7 @@ The majority of these vector logos are based on someone else's work.
 * [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
 * [BitCoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
 * [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
+* [Blogger](https://commons.wikimedia.org/wiki/File:Blogger_icon.svg)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 * IBM
