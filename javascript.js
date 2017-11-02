@@ -9,7 +9,7 @@ var items = [
   'line', 'lastpass', 'windows', 'digidentity', 'ubuntu', 'bitbucket',
   'apple', 'npm', 'docker', 'symantec', 'yubico', 'keybase',
   'ebay', 'evernote', 'kickstarter', 'yahoo', 'bitcoin', 'bluetooth',
-  'ibm', 'yammer', 'android'
+  'ibm', 'yammer', 'android', 'authy'
 ];
 
 var container = document.querySelector('.icons');
