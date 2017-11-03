@@ -102,7 +102,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/android.svg" width="125" title="Android" /><br>788 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/authy.svg" width="125" title="Authy" /><br>624 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/blogger.svg" width="125" title="Blogger" /><br>479 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/cloudflare.svg" width="125" title="CloudFlare" /><br>538 Bytes</td>
 </tr>
 </table>
 
@@ -158,9 +158,7 @@ The majority of these vector logos are based on someone else's work.
 * [Blogger](https://commons.wikimedia.org/wiki/File:Blogger_icon.svg)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
-* IBM
-* Yammer
-* Android
-* Authy
+
+IBM, Yammer, Android, Authy, ClourFlare
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
