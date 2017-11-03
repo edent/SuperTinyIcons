@@ -10,7 +10,7 @@ var items = [
   'apple', 'npm', 'docker', 'symantec', 'yubico', 'keybase',
   'ebay', 'evernote', 'kickstarter', 'yahoo', 'bitcoin', 'bluetooth',
   'ibm', 'yammer', 'android', 'authy', 'blogger', 'cloudflare',
-  'codepen', 'digitalocean'
+  'codepen', 'digitalocean', 'discord'
 ];
 
 var container = document.querySelector('.icons');
