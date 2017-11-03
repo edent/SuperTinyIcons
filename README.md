@@ -1,5 +1,5 @@
 # Super Tiny Social Icons
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is *under* 500 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is *under* 600 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -120,7 +120,7 @@ Bytes cost money.  They cost money to store, transport, and process.  Simplicity
 
 ## Scream if you want to go smaller
 
-These files edited by hand in Inkscape, then were minified using [svgo](https://github.com/svg/svgo) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible.
+These files edited by hand in Inkscape, then were minified using [svgo](https://github.com/svg/svgo) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible. Try it!
 
 * Each of these has an `xmlns="http://www.w3.org/2000/svg"` in the `<svg>` tag. This isn't strictly necessary - but some web browsers won't display them as an image without it.
 * Newlines can be stripped - they've been kept for readability where possible.
@@ -135,6 +135,14 @@ Want more icons?  Tell me by raising an issue!
 
 **New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://github.com/inloop/svg2android/issues - not guaranteed to be under 1KB.
 
+## Submitting Icons
+
+I'd *love* you to submit something 😸 The rules are simple, your icon must:
+
+* be **under** 1024 bytes. That is, the maximum file size is 1023 bytes. No arguments.
+* fit inside a circle with radius 256 pixels. Set `rx="50%"` to check.
+* have solid colours. No gradients or fades.
+* represent a popular service's current logo.
 
 ## Licenses
 
