@@ -108,7 +108,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/codepen.svg" width="125" title="CodePen" /><br>616 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/digitalocean.svg" width="125" title="Digital Ocean" /><br>400 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/discord.svg" width="125" title="Discord" /><br>662 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/medium.svg" width="125" title="Medium" /><br>352 Bytes</td>
 <td></td>
 <td></td>
 </tr>
@@ -172,6 +172,7 @@ The majority of these vector logos are based on someone else's work.
 * [BitCoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
 * [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
 * [Blogger](https://commons.wikimedia.org/wiki/File:Blogger_icon.svg)
+* [Medium](https://medium.design/logos-and-brand-guidelines-f1a01a733592)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
