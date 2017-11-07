@@ -109,7 +109,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/digitalocean.svg" width="125" title="Digital Ocean" /><br>400 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/discord.svg" width="125" title="Discord" /><br>662 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/medium.svg" width="125" title="Medium" /><br>352 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/airbnb.svg" width="125" title="AirBnB" /><br>975 Bytes</td>
 <td></td>
 </tr>
 </table>
@@ -176,6 +176,6 @@ The majority of these vector logos are based on someone else's work.
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
-IBM, Yammer, Android, Authy, ClourFlare, CodePen, DigitalOcean, Discord
+IBM, Yammer, Android, Authy, ClourFlare, CodePen, DigitalOcean, Discord, AirBnB
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
