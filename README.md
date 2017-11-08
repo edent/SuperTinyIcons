@@ -115,7 +115,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/delicious.svg" width="125" title="delicious" /><br>341 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/disqus.svg" width="125" title="Disqus" /><br>370 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/ghost.svg" width="125" title="Ghost" /><br>376 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
@@ -181,6 +181,7 @@ The majority of these vector logos are based on someone else's work.
 * [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
 * [Blogger](https://commons.wikimedia.org/wiki/File:Blogger_icon.svg)
 * [Medium](https://medium.design/logos-and-brand-guidelines-f1a01a733592)
+* [Ghost](https://commons.wikimedia.org/wiki/File:Ghost-Logo.svg)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
