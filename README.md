@@ -114,7 +114,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/delicious.svg" width="125" title="delicious" /><br>341 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/disqus.svg" width="125" title="Disqus" /><br>370 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
