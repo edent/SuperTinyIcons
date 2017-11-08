@@ -112,6 +112,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/airbnb.svg" width="125" title="AirBnB" /><br>975 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/wifi.svg" width="125" title="Wi-Fi" /><br>622 Bytes</td>
 </tr>
+<tr>
+<td><img src="https://edent.github.io/SuperTinySocialIcons/tiny/delicious.svg" width="125" title="delicious" /><br>341 Bytes</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 ## Why so smallious?
@@ -176,6 +184,6 @@ The majority of these vector logos are based on someone else's work.
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
-IBM, Yammer, Android, Authy, ClourFlare, CodePen, DigitalOcean, Discord, AirBnB, WiFi
+IBM, Yammer, Android, Authy, ClourFlare, CodePen, DigitalOcean, Discord, AirBnB, WiFi, delicious
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
