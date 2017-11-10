@@ -11,7 +11,7 @@ var items = [
   'ebay',       'evernote',    'kickstarter','yahoo',      'bitcoin',      'bluetooth',
   'ibm',        'yammer',      'android',    'authy',      'blogger',      'cloudflare',
   'codepen',    'digitalocean','discord',    'medium',     'airbnb',       'wifi',
-  'delicious',  'disqus',      'ghost',      'opensource'
+  'delicious',  'disqus',      'ghost',      'opensource', 'patreon'
 ];
 
 var container = document.querySelector('.icons');
