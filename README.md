@@ -81,12 +81,12 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>823 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/apple.svg" width="125" title="Apple" /><br>1017 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/apple.svg" width="125" title="Apple" /><br>1,017 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/npm.svg" width="125" title="NPM" /><br>405 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/docker.svg" width="125" title="Docker" /><br>533 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/symantec.svg" width="125" title="Symantec" /><br>**1056** Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/symantec.svg" width="125" title="Symantec" /><br>1,002 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/yubico.svg" width="125" title="Yubico" /><br>317 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/keybase.svg" width="125" title="Keybase" /><br>1014 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/keybase.svg" width="125" title="Keybase" /><br>1,014 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/ebay.svg" width="125" title="eBay" /><br>836 Bytes</td>
