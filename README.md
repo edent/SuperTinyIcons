@@ -106,7 +106,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/codepen.svg" width="125" title="CodePen" /><br>648 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/digitalocean.svg" width="125" title="Digital Ocean" /><br>438 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/digitalocean.svg" width="125" title="Digital Ocean" /><br>274 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/discord.svg" width="125" title="Discord" /><br>694 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/medium.svg" width="125" title="Medium" /><br>383 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/airbnb.svg" width="125" title="AirBnB" /><br>999 Bytes</td>
