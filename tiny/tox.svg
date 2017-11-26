@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#414141">
+<svg role="img" aria-label="Tox" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#414141">
 <rect width="512" height="512" rx="15%"/>
 <g fill="#fff">
 <rect height="270" rx="100" width="200" x="156" y="52"/>

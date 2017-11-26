@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<svg role="img" aria-label="PayPal" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
 <rect fill="#003087" height="512" rx="15%" width="512"/>
 <g fill="#fff">
 <path d="m431 126c17 30 11 65 4 85-35 114-195 107-218 107-24 0-29 21-29 21l-17 74c-5 26-29 25-29 25h-52l-4-1c0 5 1 19 18 19h52s24 1 29-25l17-73s6-21 29-21 183 6 219-107c8-25 14-72-19-104z"/>

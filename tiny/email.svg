@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#673147">
+<svg role="img" aria-label="Email" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#673147">
 <rect width="512" height="512" rx="15%"/>
 <rect x="56" y="111" width="400" height="290" rx="44" fill="#fff"/>
 <path d="m89 148h334v216h-334"/>

@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#fff">
+<svg role="img" aria-label="Windows" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#fff">
 <rect fill="#00adef" height="512" rx="15%" width="512"/>
 <polygon points="24,92 210,66 210,243 24,243"/>
 <polygon points="24,264 210,264 210,440 24,415"/>
