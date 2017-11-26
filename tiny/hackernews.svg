@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<svg role="img" aria-label="Hacker News" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
 <rect fill="#f60" height="512" rx="15%" width="512"/>
 <path d="m101 56h61l94 192 94-192h61l-129 255v145h-52v-145" fill="#fff"/>
 </svg>

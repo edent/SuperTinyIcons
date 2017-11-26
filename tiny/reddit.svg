@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#ff4500">
+<svg role="img" aria-label="Reddit" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#ff4500">
 <rect width="512" height="512" rx="15%"/>
 <ellipse cx="256" cy="305" rx="177" ry="123" fill="#fff"/>
 <path d="m199 347c35 29 79 29 114 0l12 11c-42 35-96 35-138 0z"/>

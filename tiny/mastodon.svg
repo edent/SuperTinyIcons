@@ -1,4 +1,4 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#2b90d9">
+<svg role="img" aria-label="Mastodon" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#2b90d9">
 <rect width="512" height="512" rx="15%" fill="#fff"/>
 <circle cx="256" cy="256" r="200"/>
 <g id="a">
