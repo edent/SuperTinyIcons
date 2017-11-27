@@ -91,7 +91,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/ebay.svg" width="125" title="eBay" /><br>836 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/evernote.svg" width="125" title="Evernote" /><br>802 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/kickstarter.svg" width="125" title="Kickstarter" /><br>398 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/kickstarter.svg" width="125" title="Kickstarter" /><br>675 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/yahoo.svg" width="125" title="Yahoo!" /><br>579 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/bitcoin.svg" width="125" title="BitCoin" /><br>529 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/bluetooth.svg" width="125" title="bluetooth" /><br>281 Bytes</td>
@@ -183,7 +183,7 @@ The majority of these vector logos are based on someone else's work.
 * [Yubico](https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png) - BSD
 * [Keybase](https://github.com/keybase/client/blob/master/shared/images/iconfont/kb-iconfont-keybase-16.svg) - BSD
 * [ebay](https://commons.wikimedia.org/wiki/File:EBay_logo.svg)
-* Kickstarter - Own work, MIT
+* [Kickstarter](https://www.kickstarter.com/help/brand_assets)
 * [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
 * [BitCoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
 * [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)

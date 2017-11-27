@@ -1,6 +1,15 @@
-<svg role="img" aria-label="Kickstarter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" fill="#14e06e">
-<rect fill="#0e2104" height="512" rx="15%" width="512"/>
-<rect x="75" y="44" height="425" width="142" rx="13%"/>
-<rect x="282" y="-177" height="320" width="142" rx="13%" transform="rotate(35)"/>
-<rect x="-36" y="285" height="324" width="142" rx="13%" transform="rotate(-39)"/>
+<svg role="img" aria-label="Kickstarter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#fff" height="512" rx="15%" width="512"/><defs>
+<clipPath id="a">
+<path d="M1226.4 862.8l154 153a405.2 405.2 0 0 1 0 575 411.8 411.8 0 0 1-578.9 0l-56-55.7A409 409 0 0 1 409 1710C183.2 1710 0 1528 0 1303.7v-881C0 198.5 183.2 16.6 409 16.6a409 409 0 0 1 336.5 174.9l56-55.7a411.8 411.8 0 0 1 578.9 0 405.2 405.2 0 0 1 0 575z"/>
+</clipPath>
+<clipPath id="b">
+<path d="M0 0h1500v1710H0z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#a)" transform="matrix(.25981 0 0 -.25981 61 480.3)">
+<g clip-path="url(#b)">
+<path d="M0 0h1650v1860H0z" fill="#034752"/>
+</g>
+</g>
 </svg>
