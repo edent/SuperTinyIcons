@@ -123,7 +123,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiniest/intel.svg" width="125" title="intel" /><br>983 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiniest/badoo.svg" width="125" title="Badoo" /><br>373 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiniest/samsunginternet.svg" width="125" title="Samsung Internet" /><br>943 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
