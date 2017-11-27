@@ -9,7 +9,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 
 ## How Small?
 
-| 751 Bytes SVG	| 21,263 Bytes PNG	|   429 Bytes SVG	| 20,225 Bytes PNG	|  257 Bytes SVG	| 6,343 Bytes PNG	|
+| 751 Bytes SVG	| 3,549 Bytes PNG	|   429 Bytes SVG	| 3,204 Bytes PNG	|  257 Bytes SVG	| 2,581 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinyIcons/tiny/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinyIcons/original/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinyIcons/tiny/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/original/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinyIcons/tiny/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/original/flickr.png" width="100" />       	|
 
