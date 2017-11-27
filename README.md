@@ -50,7 +50,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/steam.svg" width="125" title="Steam" /><br>867 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/google.svg" width="125" title="Google" /><br>252 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/google.svg" width="125" title="Google" /><br>987 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/google_plus.svg" width="125" title="Google Plus" /><br>379 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/wechat.svg" width="125" title="WeChat" /><br>770 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/youtube.svg" width="125" title="YouTube" /><br>956 Bytes</td>
