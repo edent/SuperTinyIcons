@@ -9,30 +9,14 @@
         android:fillColor="#fff"
         android:pathData="M 15 0 L 497 0 Q 512 0 512 15 L 512 497 Q 512 512 497 512 L 15 512 Q 0 512 0 497 L 0 15 Q 0 0 15 0 Z" />
     <path
-        android:fillColor="#00e864"
-        android:pathData="M 256 237 C 266.493410247 237 275 245.506589753 275 256 C 275 266.493410247 266.493410247 275 256 275 C 245.506589753 275 237 266.493410247 237 256 C 237 245.506589753 245.506589753 237 256 237 Z" />
+        android:fillColor="#000000"
+        android:strokeColor="#000"
+        android:strokeWidth="1"
+        android:pathData="M256 42v150m0 128v150M42 256h150m128 0h150M104 104l106 106m92 92l106
+106m0-304L302 210" />
     <path
         android:fillColor="#000000"
-        android:pathData="M 245 28 L 267 28 Q 270 28 270 31 L 270 203 Q 270 206 267 206 L 245 206 Q 242 206 242 203 L 242 31 Q 242 28 245 28 Z" />
-    <path
-        android:fillColor="#000000"
-        android:pathData="M 245 28 L 267 28 Q 270 28 270 31 L 270 203 Q 270 206 267 206 L 245 206 Q 242 206 242 203 L 242 31 Q 242 28 245 28 Z" />
-    <path
-        android:fillColor="#000000"
-        android:pathData="M 305 242 L 477 242 Q 480 242 480 245 L 480 267 Q 480 270 477 270 L 305 270 Q 302 270 302 267 L 302 245 Q 302 242 305 242 Z" />
-    <path
-        android:fillColor="#000000"
-        android:pathData="M 245 28 L 267 28 Q 270 28 270 31 L 270 203 Q 270 206 267 206 L 245 206 Q 242 206 242 203 L 242 31 Q 242 28 245 28 Z" />
-    <path
-        android:fillColor="#000000"
-        android:pathData="M 245 302 L 267 302 Q 270 302 270 305 L 270 477 Q 270 480 267 480 L 245 480 Q 242 480 242 477 L 242 305 Q 242 302 245 302 Z" />
-    <path
-        android:fillColor="#00e864"
-        android:pathData="M 245 28 L 267 28 Q 270 28 270 31 L 270 203 Q 270 206 267 206 L 245 206 Q 242 206 242 203 L 242 31 Q 242 28 245 28 Z" />
-    <path
-        android:fillColor="#000000"
-        android:pathData="M 31 242 L 203 242 Q 206 242 206 245 L 206 267 Q 206 270 203 270 L 31 270 Q 28 270 28 267 L 28 245 Q 28 242 31 242 Z" />
-    <path
-        android:fillColor="#000000"
-        android:pathData="M 245 28 L 267 28 Q 270 28 270 31 L 270 203 Q 270 206 267 206 L 245 206 Q 242 206 242 203 L 242 31 Q 242 28 245 28 Z" />
+        android:strokeColor="#00e864"
+        android:strokeWidth="1"
+        android:pathData="M208 300L102 406m149-150a5 5 0 0 0 10 0 5 5 0 0 0-10 0" />
 </vector>

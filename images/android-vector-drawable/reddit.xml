@@ -27,5 +27,5 @@
     <path
         android:strokeColor="#fff"
         android:strokeWidth="22"
-        android:pathData="M87 282c-45-22-5-92 40-50m298 50c45-22 5-92-40-50m-127-45 24-83 80 16" />
+        android:pathData="M87 282c-45-22-5-92 40-50m298 50c45-22 5-92-40-50m-127-45l24-83 80 16" />
 </vector>
