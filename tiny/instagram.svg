@@ -1,8 +1,0 @@
-<svg role="img" aria-label="Instagram" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<rect height="512" rx="15%" width="512"/>
-<g stroke="#fff" stroke-width="36">
-<rect height="364" rx="92" width="364" x="74" y="74"/>
-<circle cx="256" cy="256" r="85"/>
-</g>
-<circle cx="362" cy="150" fill="#fff" r="24"/>
-</svg>

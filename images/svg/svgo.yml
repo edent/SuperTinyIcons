@@ -1,5 +1,6 @@
 # SVGO config
-# Usage: svgo -f tiny --config=tiny/svgo.yml --pretty --indent 0 --precision 2
+# Usage:
+#     svgo --config=svgo.yml --precision 2
 
 full: true
 multipass: true
@@ -48,4 +49,4 @@ plugins:
  - removeViewBox
  - removeXMLNS: false
  - removeXMLProcInst
- - sortAttrs: false
+ - sortAttrs: true # can help with transport-level compression

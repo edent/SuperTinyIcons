@@ -1,9 +1,0 @@
-<svg role="img" aria-label="Spotify" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<rect fill="#1ed760" height="512" rx="15%" width="512"/>
-<circle cx="256" cy="256" fill="#fff" r="200"/>
-<g fill="none" stroke="#1ed760" stroke-linecap="round">
-<path d="M136 192c78-20 171-15 248 25" stroke-width="37"/>
-<path d="M148 257c63-18 150-14 211 25" stroke-width="32"/>
-<path d="M152 317c56-12 121-17 185 21" stroke-width="25"/>
-</g>
-</svg>
