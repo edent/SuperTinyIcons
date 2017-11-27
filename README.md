@@ -53,7 +53,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/google.svg" width="125" title="Google" /><br>252 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/google_plus.svg" width="125" title="Google Plus" /><br>379 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/wechat.svg" width="125" title="WeChat" /><br>770 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/youtube.svg" width="125" title="YouTube" /><br>956 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/youtube.svg" width="125" title="YouTube" /><br>427 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/pdf.svg" width="125" title="PDF" /><br>388 Bytes</td>
 </tr>
 <tr>
@@ -201,6 +201,7 @@ The majority of these vector logos are based on someone else's work.
 * [tumblr](https://www.tumblr.com/logo)
 * [intel](https://commons.wikimedia.org/wiki/File:Intel-logo.svg)
 * [Badoo](https://team.badoo.com/new/)
+* [YouTube](https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
