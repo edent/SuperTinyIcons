@@ -123,6 +123,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/intel.svg" width="125" title="intel" /><br>1,012 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/badoo.svg" width="125" title="Badoo" /><br>498 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/amilia.svg" width="125" title="Amilia" /><br>934 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
@@ -201,6 +202,7 @@ The majority of these vector logos are based on someone else's work.
 * [tumblr](https://www.tumblr.com/logo)
 * [intel](https://commons.wikimedia.org/wiki/File:Intel-logo.svg)
 * [Badoo](https://team.badoo.com/new/)
+* [Amilia](https://www.amilia.com/public)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
