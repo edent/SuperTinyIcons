@@ -75,8 +75,8 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/line.svg" width="125" title="Line" /><br>484 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/lastpass.svg" width="125" title="LastPass" /><br>332 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/windows.svg" width="125" title="Microsoft Windows" /><br>371 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/digidentity.svg" width="125" title="Digidentity" /><br>794 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/windows.svg" width="125" title="Microsoft Windows" /><br>278 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/digidentity.svg" width="125" title="Digidentity" /><br>397 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/ubuntu.svg" width="125" title="Ubuntu" /><br>926 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>823 Bytes</td>
 </tr>
@@ -115,13 +115,13 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/delicious.svg" width="125" title="delicious" /><br>375 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/disqus.svg" width="125" title="Disqus" /><br>401 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/ghost.svg" width="125" title="Ghost" /><br>406 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/opensource.svg" width="125" title="Open Source" /><br>540 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/ghost.svg" width="125" title="Ghost" /><br>276 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/opensource.svg" width="125" title="Open Source" /><br>258 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/patreon.svg" width="125" title="Patreon" /><br>327 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/trello.svg" width="125" title="Trello" /><br>280 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/intel.svg" width="125" title="intel" /><br>1,012 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/intel.svg" width="125" title="intel" /><br>990 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/badoo.svg" width="125" title="Badoo" /><br>498 Bytes</td>
 <td></td>
 <td></td>

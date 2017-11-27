@@ -1,12 +1,5 @@
-<svg role="img" aria-label="Digidentity" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+<svg role="img" aria-label="Digidentity" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" stroke-linecap="round" stroke-width="28">
 <rect fill="#fff" height="512" rx="15%" width="512"/>
-<circle cx="256" cy="256" r="19" fill="#00e864"/>
-<rect x="242" y="28" height="178" width="28" rx="3%"/>
-<rect x="242" y="28" height="178" width="28" rx="3%" transform="rotate(45 256 256)"/>
-<rect x="302" y="242" height="28" width="178" rx="3%"/>
-<rect x="242" y="28" height="178" width="28" rx="3%" transform="rotate(135 256 256)"/>
-<rect x="242" y="302" height="178" width="28" rx="3%"/>
-<rect x="242" y="28" height="178" width="28" rx="3%" transform="rotate(225 256 256)" fill="#00e864"/>
-<rect x="28" y="242" height="28" width="178" rx="3%"/>
-<rect x="242" y="28" height="178" width="28" rx="3%" transform="rotate(315 256 256)"/>
+<path stroke="#000" d="M256 42v150m0 128v150M42 256h150m128 0h150M104 104l106 106m92 92l106 106m0-304L302 210"/>
+<path stroke="#00e864" d="M208 300L102 406m149-150a5 5 0 0 0 10 0 5 5 0 0 0-10 0"/>
 </svg>
