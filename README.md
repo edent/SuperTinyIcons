@@ -25,7 +25,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/whatsapp.svg" width="125" title="WhatsApp" /><br>655 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/dropbox.svg" width="125" title="Dropbox" /><br>371 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/dropbox.svg" width="125" title="Dropbox" /><br>341 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/telegram.svg" width="125" title="Telegram" /><br>360 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/linkedin.svg" width="125" title="LinkedIn" /><br>380 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/stackoverflow.svg" width="125" title="StackOverflow" /><br>373 Bytes</td>
