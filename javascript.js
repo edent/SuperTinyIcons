@@ -12,7 +12,7 @@ var items = [
   'ibm',        'yammer',      'android',    'authy',      'blogger',      'cloudflare',
   'codepen',    'digitalocean','discord',    'medium',     'airbnb',       'wifi',
   'delicious',  'disqus',      'ghost',      'opensource', 'patreon',      'trello',
-  'intel'
+  'intel',      'badoo'
 ];
 
 var container = document.querySelector('.icons');
