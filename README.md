@@ -122,7 +122,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/intel.svg" width="125" title="intel" /><br>1,012 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/here.svg" width="125" title="HERE" /><br>975 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
