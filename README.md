@@ -75,7 +75,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/line.svg" width="125" title="Line" /><br>484 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/lastpass.svg" width="125" title="LastPass" /><br>332 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/windows.svg" width="125" title="Microsoft Windows" /><br>371 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/windows.svg" width="125" title="Microsoft Windows" /><br>278 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/digidentity.svg" width="125" title="Digidentity" /><br>794 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/ubuntu.svg" width="125" title="Ubuntu" /><br>926 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>823 Bytes</td>
