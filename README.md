@@ -116,7 +116,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/delicious.svg" width="125" title="delicious" /><br>375 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/disqus.svg" width="125" title="Disqus" /><br>401 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/ghost.svg" width="125" title="Ghost" /><br>406 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/opensource.svg" width="125" title="Open Source" /><br>540 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/opensource.svg" width="125" title="Open Source" /><br>258 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/patreon.svg" width="125" title="Patreon" /><br>327 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/trello.svg" width="125" title="Trello" /><br>280 Bytes</td>
 </tr>
