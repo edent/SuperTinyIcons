@@ -150,7 +150,7 @@ Want more icons?  Tell me by raising an issue!
 
 Think the icons look wrong?  Tell me by raising an issue!
 
-**New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://github.com/inloop/svg2android/issues - not guaranteed to be under 1KB.
+**New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://inloop.github.io/svg2android/ - not guaranteed to be under 1KB.
 
 ## Icon accessibility
 

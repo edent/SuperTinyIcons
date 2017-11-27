@@ -11,6 +11,5 @@
     <path
         android:strokeColor="#000"
         android:strokeWidth="23"
-        android:pathData="M69 103v193c0 149 222 149 222 0v-158c-2-46-68-46-70 0v158c0 149 222 149 222
-0v-193" />
+        android:pathData="M69 103v193c0 149 222 149 222 0V138c-2-46-68-46-70 0v158c0 149 222 149 222 0V103" />
 </vector>

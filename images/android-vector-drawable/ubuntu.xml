@@ -34,11 +34,6 @@
         android:pathData="M 60 211 C 84.8528137424 211 105 231.147186258 105 256 C 105 280.852813742 84.8528137424 301 60 301 C 35.1471862576 301 15 280.852813742 15 256 C 15 231.147186258 35.1471862576 211 60 211 Z" />
     <path
         android:fillColor="#E95420"
-        android:pathData="M 245 80 H 267 V 160 H 245 V 80 Z" />
-    <path
-        android:fillColor="#E95420"
-        android:pathData="M 245 80 H 267 V 160 H 245 V 80 Z" />
-    <path
-        android:fillColor="#E95420"
-        android:pathData="M 245 80 H 267 V 160 H 245 V 80 Z" />
+        android:pathData="M432 245v22h-80v-22zM177.53 413.92l-19.06-11 40-69.28 19.06
+11zm-19.06-304.84l19.06-11 40 69.28-19.06 11z" />
 </vector>
