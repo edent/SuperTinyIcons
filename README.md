@@ -202,6 +202,7 @@ The majority of these vector logos are based on someone else's work.
 * [intel](https://commons.wikimedia.org/wiki/File:Intel-logo.svg)
 * [Badoo](https://team.badoo.com/new/)
 * [YouTube](https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors)
+* [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
