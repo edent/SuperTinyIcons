@@ -121,7 +121,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/trello.svg" width="125" title="Trello" /><br>280 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/intel.svg" width="125" title="intel" /><br>1,012 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/intel.svg" width="125" title="intel" /><br>990 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/badoo.svg" width="125" title="Badoo" /><br>498 Bytes</td>
 <td></td>
 <td></td>
