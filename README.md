@@ -9,7 +9,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 
 ## How Small?
 
-| 751 Bytes SVG	| 21,263 Bytes PNG	|   429 Bytes SVG	| 20,225 Bytes PNG	|  257 Bytes SVG	| 6,343 Bytes PNG	|
+| 751 Bytes SVG	| 3,549 Bytes PNG	|   429 Bytes SVG	| 3,204 Bytes PNG	|  257 Bytes SVG	| 2,581 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinyIcons/tiny/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinyIcons/original/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinyIcons/tiny/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/original/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinyIcons/tiny/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/original/flickr.png" width="100" />       	|
 
@@ -25,7 +25,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/whatsapp.svg" width="125" title="WhatsApp" /><br>655 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/dropbox.svg" width="125" title="Dropbox" /><br>371 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/dropbox.svg" width="125" title="Dropbox" /><br>341 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/telegram.svg" width="125" title="Telegram" /><br>360 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/linkedin.svg" width="125" title="LinkedIn" /><br>380 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/stackoverflow.svg" width="125" title="StackOverflow" /><br>373 Bytes</td>
@@ -91,7 +91,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/ebay.svg" width="125" title="eBay" /><br>836 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/evernote.svg" width="125" title="Evernote" /><br>802 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/kickstarter.svg" width="125" title="Kickstarter" /><br>398 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/kickstarter.svg" width="125" title="Kickstarter" /><br>675 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/yahoo.svg" width="125" title="Yahoo!" /><br>579 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/bitcoin.svg" width="125" title="BitCoin" /><br>529 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/bluetooth.svg" width="125" title="bluetooth" /><br>281 Bytes</td>
@@ -99,7 +99,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/ibm.svg" width="125" title="IBM" /><br>940 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/yammer.svg" width="125" title="Yammer" /><br>949 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/android.svg" width="125" title="Android" /><br>819 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/android.svg" width="125" title="Android" /><br>820 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/authy.svg" width="125" title="Authy" /><br>654 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/blogger.svg" width="125" title="Blogger" /><br>510 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/cloudflare.svg" width="125" title="CloudFlare" /><br>573 Bytes</td>
@@ -119,6 +119,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/opensource.svg" width="125" title="Open Source" /><br>258 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/patreon.svg" width="125" title="Patreon" /><br>327 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/trello.svg" width="125" title="Trello" /><br>280 Bytes</td>
+</tr>
+<tr>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/intel.svg" width="125" title="intel" /><br>1,012 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/badoo.svg" width="125" title="Badoo" /><br>498 Bytes</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
@@ -183,7 +191,7 @@ The majority of these vector logos are based on someone else's work.
 * [Yubico](https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png) - BSD
 * [Keybase](https://github.com/keybase/client/blob/master/shared/images/iconfont/kb-iconfont-keybase-16.svg) - BSD
 * [ebay](https://commons.wikimedia.org/wiki/File:EBay_logo.svg)
-* Kickstarter - Own work, MIT
+* [Kickstarter](https://www.kickstarter.com/help/brand_assets)
 * [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
 * [BitCoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
 * [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
@@ -191,6 +199,8 @@ The majority of these vector logos are based on someone else's work.
 * [Medium](https://medium.design/logos-and-brand-guidelines-f1a01a733592)
 * [Ghost](https://commons.wikimedia.org/wiki/File:Ghost-Logo.svg)
 * [tumblr](https://www.tumblr.com/logo)
+* [intel](https://commons.wikimedia.org/wiki/File:Intel-logo.svg)
+* [Badoo](https://team.badoo.com/new/)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
