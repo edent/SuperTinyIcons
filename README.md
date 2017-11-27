@@ -20,7 +20,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/hackernews.svg" width="125" title="Hacker News" /><br>198 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/flickr.svg" width="125" title="flickr" /><br>226 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/facebook.svg" width="125" title="Facebook" /><br>244 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/tumblr.svg" width="125" title="tumblr" /><br>296 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/tumblr.svg" width="125" title="tumblr" /><br>716 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/twitter.svg" width="125" title="Twitter" /><br>397 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/whatsapp.svg" width="125" title="WhatsApp" /><br>622 Bytes</td>
 </tr>
