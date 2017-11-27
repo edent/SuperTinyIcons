@@ -120,6 +120,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/patreon.svg" width="125" title="Patreon" /><br>327 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/tiny/trello.svg" width="125" title="Trello" /><br>280 Bytes</td>
 </tr>
+<tr>
+<td><img src="https://edent.github.io/SuperTinyIcons/tiny/intel.svg" width="125" title="intel" /><br>1,012 Bytes</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 ## Why so smallious?
@@ -191,6 +199,7 @@ The majority of these vector logos are based on someone else's work.
 * [Medium](https://medium.design/logos-and-brand-guidelines-f1a01a733592)
 * [Ghost](https://commons.wikimedia.org/wiki/File:Ghost-Logo.svg)
 * [tumblr](https://www.tumblr.com/logo)
+* [intel](https://commons.wikimedia.org/wiki/File:Intel-logo.svg)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
