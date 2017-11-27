@@ -1,5 +1,5 @@
 <svg role="img" aria-label="RSS" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
-<rect fill="#ffa500" height="512" rx="15%" width="512"/>
+<rect fill="orange" height="512" rx="15%" width="512"/>
 <circle cx="123" cy="389" fill="#fff" r="67"/>
-<path d="m56 89c203 0 367 164 367 367m-133 0c0-128-105-234-234-234" fill="none" stroke="#fff" stroke-width="68"/>
+<path d="M56 89c203 0 367 164 367 367m-133 0c0-128-105-234-234-234" fill="none" stroke="#fff" stroke-width="68"/>
 </svg>
