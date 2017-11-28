@@ -90,8 +90,7 @@
 			console.log('Rendering!', icons);
 
 			icons = icons.map(icon => {
-			 return icon.replace(/rx\=\"\d{0,2}\%/, 'rx="' + radius + '%"')
-			  + '<b>' + icon.match(/aria-label\=\"(.*?)\"/)[1] + '</b>';
+			 return icon.replace(/rx\=\"\d{0,2}\%/, 'rx="' + radius + '%"');
 			});
 			container.innerHTML = '<div>' + icons.join('</div><div>') + '</div>';
 		}
