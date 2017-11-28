@@ -1,0 +1,52 @@
+# SVGO config
+# Usage:
+#     svgo --config=svgo.yml --precision 2
+
+full: true
+multipass: true
+plugins:
+ - addAttributesToSVGElement
+ - addClassesToSVGElement
+ - cleanupAttrs
+ - cleanupEnableBackground
+ - cleanupIDs
+ - cleanupListOfValues
+ - cleanupNumericValues
+ - collapseGroups
+ - convertColors
+ - convertPathData
+ - convertShapeToPath
+ - convertStyleToAttrs
+ - convertTransform
+ - inlineStyles
+ - mergePaths
+ - minifyStyles
+ - moveElemsAttrsToGroup
+ - moveGroupAttrsToElems
+ - prefixIds
+ - removeAttrs
+ - removeComments
+ - removeDesc
+ - removeDimensions
+ - removeDoctype
+ - removeEditorsNSData
+ - removeElementsByAttr: false
+ - removeEmptyAttrs
+ - removeEmptyContainers
+ - removeEmptyText
+ - removeHiddenElems
+ - removeMetadata
+ - removeNonInheritableGroupAttrs
+ - removeRasterImages: false
+ - removeScriptElement: false
+ - removeStyleElement: false
+ - removeTitle
+ - removeUnknownsAndDefaults:
+    unknownAttrs: false # Preserves 'role="img"', needed for accessibility: https://github.com/edent/SuperTinyIcons/pull/62#issuecomment-347227889
+ - removeUnusedNS
+ - removeUselessDefs
+ - removeUselessStrokeAndFill
+ - removeViewBox
+ - removeXMLNS: false
+ - removeXMLProcInst
+ - sortAttrs: true # can help with transport-level compression
