@@ -91,7 +91,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ebay.svg" width="125" title="eBay" /><br>830 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="125" title="Evernote" /><br>799 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>661 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>308 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>575 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="125" title="BitCoin" /><br>525 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="125" title="bluetooth" /><br>255 Bytes</td>
