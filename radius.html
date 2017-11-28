@@ -79,10 +79,7 @@
 		var urls = items.map(item => 'images/svg/' + item + '.svg');
 		var icons;
 		Promise.all(urls.map(url => fetch(url).then(res => res.text()))).then(all => {
-			icons = all.map(icon => {
-				return icon + '<b>' + icon.match(/aria-label\=\"(.*?)\"/)[1] + '</b>';
-			});
-
+			icons = all;
 			render(range.value);
 		});
 
@@ -90,8 +87,7 @@
 			console.log('Rendering!', icons);
 
 			icons = icons.map(icon => {
-			 return icon.replace(/rx\=\"\d{0,2}\%/, 'rx="' + radius + '%"')
-			  + '<b>' + icon.match(/aria-label\=\"(.*?)\"/)[1] + '</b>';
+			 return icon.replace(/rx\=\"\d{0,2}\%/, 'rx="' + radius + '%"');
 			});
 			container.innerHTML = '<div>' + icons.join('</div><div>') + '</div>';
 		}
