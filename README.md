@@ -58,7 +58,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vk.svg" width="125" title="VK" /><br>597 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="125" title="RSS" /><br>310 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="125" title="RSS" /><br>276 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="125" title="mail" /><br>573 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="email" /><br>379 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="125" title="Mastodon" /><br>567 Bytes</td>
@@ -73,21 +73,12 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/meetup.svg" width="125" title="Meetup" /><br>634 Bytes</td>
 </tr>
 <tr>
-<<<<<<< HEAD
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/line.svg" width="125" title="Line" /><br>484 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/lastpass.svg" width="125" title="LastPass" /><br>332 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/windows.svg" width="125" title="Microsoft Windows" /><br>278 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/digidentity.svg" width="125" title="Digidentity" /><br>397 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/ubuntu.svg" width="125" title="Ubuntu" /><br>926 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/tiny/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>823 Bytes</td>
-=======
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/line.svg" width="125" title="Line" /><br>479 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/lastpass.svg" width="125" title="LastPass" /><br>325 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>269 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/digidentity.svg" width="125" title="Digidentity" /><br>393 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>634 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>658 Bytes</td>
->>>>>>> f0f0e5f1e2dd0d82ea3bdc4eecb4a327a5b195e8
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="125" title="Apple" /><br>502 Bytes</td>
