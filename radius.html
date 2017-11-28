@@ -79,7 +79,10 @@
 		var urls = items.map(item => 'images/svg/' + item + '.svg');
 		var icons;
 		Promise.all(urls.map(url => fetch(url).then(res => res.text()))).then(all => {
-			icons = all;
+			icons = all.map(icon => {
+				return icon + '<b>' + icon.match(/aria-label\=\"(.*?)\"/)[1] + '</b>';
+			});
+
 			render(range.value);
 		});
 
