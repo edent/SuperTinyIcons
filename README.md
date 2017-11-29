@@ -21,7 +21,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="125" title="flickr" /><br>252 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" /><br>270 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/tumblr.svg" width="125" title="tumblr" /><br>451 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" /><br>428 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" /><br>438 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>630 Bytes</td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vk.svg" width="125" title="VK" /><br>597 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="125" title="RSS" /><br>310 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="125" title="RSS" /><br>305 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="125" title="mail" /><br>573 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="email" /><br>379 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="125" title="Mastodon" /><br>567 Bytes</td>
