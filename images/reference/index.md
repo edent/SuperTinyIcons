@@ -2,4 +2,4 @@
 
 | SVG	| Official Logo | Source	|
 |-----|---------------|----------|
-| ![](/images/svg/twitter.svg)	| ![](/images/reference/twitter.svg)	| https://about.twitter.com/en_us/company/brand-resources.html	|
+| <img src="/images/svg/twitter.svg" width="256" />	| <img src="/images/reference/twitter.svg" width="256" />	| https://about.twitter.com/en_us/company/brand-resources.html	|
