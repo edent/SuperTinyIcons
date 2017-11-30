@@ -38,11 +38,11 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/vk.svg" width="256" />	| <img src="/images/reference/vk.png" width="256" />	| https://vk.com/public47200950	|
 | <img src="/images/svg/rss.svg" width="256" />	| <img src="/images/reference/rss.svg" width="256" />	| http://www.feedicons.com/	|
 | <img src="/images/svg/mastodon.svg" width="256" />	| <img src="/images/reference/mastodon.svg" width="256" />	| https://github.com/tootsuite/joinmastodon/blob/master/public/press-kit.zip	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
+| <img src="/images/svg/wire.svg" width="256" />	| <img src="/images/reference/wire.svg" width="256" />	| https://brand.wire.com/symbol/|
+| <img src="/images/svg/tox.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https://github.com/Tox/tox.chat/blob/master/themes/website/static/img/icon.svg	|
+| <img src="/images/svg/gitlab.svg" width="256" />	| <img src="/images/reference/gitlab.svg" width="256" />	| https://about.gitlab.com/press/	|
+| <img src="/images/svg/html5.svg" width="256" />	| <img src="/images/reference/html5.svg" width="256" />	| https://www.w3.org/html/logo/	|
+| <img src="/images/svg/meetup.svg" width="256" />	| <img src="/images/reference/meetup.jpg" width="256" />	| https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg	|
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
