@@ -119,6 +119,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/trello.svg" width="125" title="Trello" /><br>276 Bytes</td>
 </tr>
 <tr>
+<<<<<<< HEAD
 <td><img src="images/svg/intel.svg" width="125" title="intel" /><br>983 Bytes</td>
 <td><img src="images/svg/badoo.svg" width="125" title="Badoo" /><br>286 Bytes</td>
 <td><img src="images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>347 Bytes</td>
@@ -128,6 +129,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="images/svg/twilio.svg" width="125" title="Twilio" /><br>395 Bytes</td>
+<td><img src="images/svg/opencast.svg" width="125" title="Opencast" /><br>306 Bytes</td>
 <tr>
 </table>
 
@@ -219,6 +221,7 @@ The majority of these vector logos are based on someone else's work.
 * [Google Play](https://commons.wikimedia.org/wiki/File:Google_Play_symbol_2016.svg)
 * [Gmail](https://commons.wikimedia.org/wiki/File:Gmail_Icon.svg)
 * [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
+* [Opencast](http://opencast.org) - ECL
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
