@@ -34,10 +34,10 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/google_plus.svg" width="256" />	| <img src="/images/reference/google_plus.png" width="256" />	| https://plus.google.com/+googleplus	|
 | <img src="/images/svg/wechat.svg" width="256" />	| <img src="/images/reference/wechat.svg" width="256" />	| https://wechat.design/?locale=en_US	|
 | <img src="/images/svg/youtube.svg" width="256" />	| <img src="/images/reference/youtube.svg" width="256" />	| https://www.youtube.com/intl/en/yt/about/brand-resources/#logos-icons-colors	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
+| <img src="/images/svg/pdf.svg" width="256" />	| <img src="/images/reference/pdf.svg" width="256" />	| https://www.adobe.com/content/dam/acom/en/legal/documents/Adobe_Trademark_Guidelines_11012014.pdf	|
+| <img src="/images/svg/vk.svg" width="256" />	| <img src="/images/reference/vk.png" width="256" />	| https://vk.com/public47200950	|
+| <img src="/images/svg/rss.svg" width="256" />	| <img src="/images/reference/rss.svg" width="256" />	| http://www.feedicons.com/	|
+| <img src="/images/svg/mastodon.svg" width="256" />	| <img src="/images/reference/mastodon.svg" width="256" />	| https://github.com/tootsuite/joinmastodon/blob/master/public/press-kit.zip	|
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
