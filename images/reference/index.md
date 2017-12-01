@@ -77,7 +77,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/disqus.svg" width="256" />	| <img src="/images/reference/disqus.svg" width="256" />	| https://disqus.com/brand/	|
 | <img src="/images/svg/ghost.svg" width="256" />	| <img src="/images/reference/ghost.svg" width="256" />	| https://ghost.org/design/	|
 | <img src="/images/svg/opensource.svg" width="256" />	| <img src="/images/reference/opensource.png" width="256" />	| https://opensource.org/logo-usage-guidelines	|
-| <img src="/images/svg/patreon.svg" width="256" />	| <img src="/images/reference/patreon.svg" width="256" />	| https://www.patreon.com/brand/guidelines	|
+| <img src="/images/svg/patreon.svg" width="256" />	| <img src="/images/reference/patreon.png" width="256" />	| https://www.patreon.com/brand/guidelines	|
 | <img src="/images/svg/trello.svg" width="256" />	| <img src="/images/reference/trello.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/intel.svg" width="256" />	| <img src="/images/reference/intel.png" width="256" />	| https://newsroom.intel.com/news/intel-accelerates-ai-innovation-3-new-intel-capital-investments/intel-logo-default/	|
 | <img src="/images/svg/badoo.svg" width="256" />	| <img src="/images/reference/badoo.svg" width="256" />	| https://team.badoo.com/new/	|
