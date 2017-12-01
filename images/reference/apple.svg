@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11.815833mm"
+   height="14.511213mm"
+   viewBox="0 0 11.815833 14.511213"
+   version="1.1"
+   id="svg74"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="apple.svg">
+  <defs
+     id="defs68">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath42">
+      <path
+         d="m 687.96,500.244 h 63 v 65.604 h -63 z"
+         id="path40"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30">
+      <path
+         d="M 704.506,516.89 H 738 v 41.135 h -33.494 z"
+         id="path28"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="59.098653"
+     inkscape:cy="32.337198"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="739"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata71">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(4.36838e-6,-282.48879)">
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-248.53406,479.34746)"
+       id="g24">
+      <g
+         id="g26"
+         clip-path="url(#clipPath30)">
+        <g
+           id="g32"
+           transform="translate(729.3897,548.0862)">
+          <path
+             d="m 0,0 c -3.386,0.251 -6.26,-1.892 -7.862,-1.892 -1.627,0 -4.134,1.838 -6.793,1.788 -3.491,-0.051 -6.708,-2.032 -8.508,-5.157 -3.626,-6.294 -0.926,-15.62 2.606,-20.727 1.727,-2.496 3.788,-5.308 6.494,-5.205 2.605,0.102 3.591,1.684 6.74,1.684 3.147,0 4.035,-1.684 6.79,-1.634 2.803,0.052 4.58,2.547 6.295,5.057 1.984,2.896 2.8,5.701 2.848,5.849 -0.062,0.023 -5.465,2.097 -5.519,8.322 -0.049,5.205 4.248,7.707 4.444,7.828 C 5.095,-0.495 1.327,-0.098 0,0"
+             style="fill:#b0b6bb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path34"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.35277777,0,0,-0.35277777,-248.53406,479.34746)"
+       id="g36">
+      <g
+         id="g38"
+         clip-path="url(#clipPath42)">
+        <g
+           id="g44"
+           transform="translate(727.3,551.4576)">
+          <path
+             d="M 0,0 C 1.438,1.738 2.406,4.159 2.14,6.567 0.069,6.485 -2.434,5.188 -3.919,3.451 -5.248,1.912 -6.416,-0.553 -6.099,-2.911 -3.792,-3.09 -1.437,-1.739 0,0"
+             style="fill:#b0b6bb;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path46"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
