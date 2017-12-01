@@ -125,7 +125,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="125" title="Badoo" /><br>373 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>943 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>879 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="125" title="Twilio" /><br>395 Bytes</td>
 <td></td>
 </tr>
 </table>
@@ -172,6 +172,7 @@ I'd *love* you to submit something 😸 The rules are simple, your icon must:
 ### Guidelines
 
 This is the standard guideline. Use this to help with sizing yout icons and they will look good no matter what border radius is chosen.
+
 <img src="https://edent.github.io/SuperTinyIcons/images/guidelines/guideline.svg" width="256" alt="A template for logos" />
 
 * **Green** is the safe zone, where the main body of the icon should be.

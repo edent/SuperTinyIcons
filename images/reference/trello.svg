@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 62.999998 63.040003"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="trello.svg"
+   width="63"
+   height="63.040001"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Trello-icon-blue-white</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview33"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.1933581"
+     inkscape:cx="146.645"
+     inkscape:cy="32.279999"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg31" />
+  <defs
+     id="defs9">
+    <style
+       id="style2">.cls-1{fill:#253858;}.cls-2{fill:url(#New_Gradient_Swatch_1);}</style>
+    <linearGradient
+       id="New_Gradient_Swatch_1"
+       x1="31.52"
+       y1="-6412.98"
+       x2="31.52"
+       y2="-6349.9302"
+       gradientTransform="matrix(1,0,0,-1,0,-6348.42)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.18"
+         stop-color="#0052cc"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#2684ff"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title11">Trello-icon-blue-white</title>
+  <g
+     id="Layer_2-2"
+     data-name="Layer 2"
+     transform="translate(0,-1.51)">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1-2">
+      <path
+         class="cls-2"
+         d="M 55.16,1.51 H 7.88 A 7.88,7.88 0 0 0 0,9.39 v 47.28 a 7.88,7.88 0 0 0 7.88,7.88 H 55.16 A 7.88,7.88 0 0 0 63,56.67 V 9.39 A 7.88,7.88 0 0 0 55.16,1.51 Z M 27.42,49.26 A 3.78,3.78 0 0 1 23.64,53 H 12 A 3.78,3.78 0 0 1 8.2,49.26 v 0 -35.77 A 3.78,3.78 0 0 1 12,9.71 h 11.64 a 3.78,3.78 0 0 1 3.78,3.78 z M 54.85,33.5 a 3.78,3.78 0 0 1 -3.78,3.78 H 39.4 A 3.78,3.78 0 0 1 35.62,33.5 v -20 A 3.78,3.78 0 0 1 39.4,9.71 h 11.67 a 3.78,3.78 0 0 1 3.78,3.78 v 0 z"
+         id="path25"
+         style="fill:url(#New_Gradient_Swatch_1)"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
