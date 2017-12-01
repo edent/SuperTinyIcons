@@ -125,9 +125,12 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="125" title="Badoo" /><br>373 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>943 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>879 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="125" title="Twilio" /><br>395 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>612 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>745 Bytes</td>
 </tr>
+<tr>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="125" title="Twilio" /><br>395 Bytes</td>
+<tr>
 </table>
 
 ## Why so smallious?
@@ -213,6 +216,8 @@ The majority of these vector logos are based on someone else's work.
 * [intel](https://commons.wikimedia.org/wiki/File:Intel-logo.svg)
 * [Badoo](https://team.badoo.com/new/)
 * [YouTube](https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors)
+* [Google Play](https://commons.wikimedia.org/wiki/File:Google_Play_symbol_2016.svg)
+* [Gmail](https://commons.wikimedia.org/wiki/File:Gmail_Icon.svg)
 * [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0

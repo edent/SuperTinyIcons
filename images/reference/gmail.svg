@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 64 64" overflow="scroll" xml:space="preserve">
+<path fill="#EAEAEA" d="M53,50H11c-1.657,0-3-1.343-3-3V17c0-1.657,1.343-3,3-3h42c1.657,0,3,1.343,3,3v30
+	C56,48.657,54.657,50,53,50z"/>
+<path fill="#D54C3F" d="M14,50h-3c-1.657,0-3-1.343-3-3V17c0-1.657,1.343-3,3-3h0c1.657,0,3,1.343,3,3V50z"/>
+<path fill="#B63524" d="M50,50h3c1.657,0,3-1.343,3-3V17c0-1.657-1.343-3-3-3h0c-1.657,0-3,1.343-3,3V50z"/>
+<path fill="#DE5145" d="M54.718,19.46C55.493,18.917,56,18.018,56,17c0-1.657-1.343-3-3-3c-0.639,0-1.232,0.2-1.718,0.54
+	c0,0-19.28,14.037-19.28,14.037L32,28.578l-0.002-0.001L12.718,14.54C12.232,14.2,11.639,14,11,14c-1.657,0-3,1.343-3,3
+	c0,1.018,0.507,1.917,1.282,2.46l-0.08-0.059L32,36"/>
+<line fill="#DE5145" x1="54.799" y1="19.401" x2="32" y2="36"/>
+<path fill="#EFEFEF" d="M53,14c-0.639,0-1.232,0.2-1.718,0.54c0,0-19.28,14.037-19.28,14.037L32,28.578l-0.002-0.001L12.718,14.54
+	C12.232,14.2,11.639,14,11,14L53,14z"/>
+<path fill="#C64132" d="M14.001,24.188L8.945,19.18l-0.002,0.004c0.106,0.1,0.219,0.192,0.339,0.276l-0.08-0.059l4.8,3.495
+	l-0.001,1.328"/>
+<polyline fill="#E3E3E3" points="28.668,38.591 14,50 14.001,24.063 28.665,38.587 "/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0005" y1="30.7436" x2="32" y2="30.7436">
+	<stop  offset="0" style="stop-color:#C8C8C8"/>
+	<stop  offset="1" style="stop-color:#CDCDCD"/>
+</linearGradient>
+<polygon fill="url(#SVGID_1_)" points="28.668,38.591 32,36 14.001,22.896 14.001,24.063 28.665,38.587 "/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="28.6645" y1="36.4474" x2="50" y2="36.4474">
+	<stop  offset="0" style="stop-color:#D9D9D9"/>
+	<stop  offset="1" style="stop-color:#E2E2E2"/>
+</linearGradient>
+<polygon fill="url(#SVGID_2_)" points="40.061,50 50,50 50,22.895 32,36 28.665,38.587 "/>
+</svg>
