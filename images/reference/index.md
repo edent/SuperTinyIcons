@@ -82,6 +82,6 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
 | <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
-| <img src="/images/svg/.svg" width="256" />	| <img src="/images/reference/" width="256" />	| https	|
+| <img src="/images/svg/laravel.svg" width="256" />	| <img src="/images/reference/laravel.svg" width="256" />	| https://github.com/laravel/art/blob/master/Laravel-l-slant.svg	|
 
 
