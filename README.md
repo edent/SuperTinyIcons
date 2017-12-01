@@ -81,7 +81,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>658 Bytes</td>
 </tr>
 <tr>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="125" title="Apple" /><br>502 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="125" title="Apple" /><br>503 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="125" title="NPM" /><br>375 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="125" title="Docker" /><br>526 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.svg" width="125" title="Symantec" /><br>966 Bytes</td>
@@ -93,14 +93,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="125" title="Evernote" /><br>799 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>308 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>575 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="125" title="BitCoin" /><br>525 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="125" title="BitCoin" /><br>529 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="125" title="bluetooth" /><br>255 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ibm.svg" width="125" title="IBM" /><br>937 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="125" title="Yammer" /><br>946 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" width="125" title="Android" /><br>809 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="125" title="Authy" /><br>650 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" width="125" title="Android" /><br>557 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="125" title="Authy" /><br>402 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/blogger.svg" width="125" title="Blogger" /><br>507 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="125" title="CloudFlare" /><br>569 Bytes</td>
 </tr>
@@ -109,7 +109,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>267 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="125" title="Discord" /><br>691 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/airbnb.svg" width="125" title="AirBnB" /><br>996 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/airbnb.svg" width="125" title="AirBnB" /><br>572 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>648 Bytes</td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/intel.svg" width="125" title="intel" /><br>983 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="125" title="Badoo" /><br>373 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="125" title="Badoo" /><br>286 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>943 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>879 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>509 Bytes</td>
