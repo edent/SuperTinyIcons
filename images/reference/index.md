@@ -82,7 +82,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/intel.svg" width="256" />	| <img src="/images/reference/intel.png" width="256" />	| https://newsroom.intel.com/news/intel-accelerates-ai-innovation-3-new-intel-capital-investments/intel-logo-default/	|
 | <img src="/images/svg/badoo.svg" width="256" />	| <img src="/images/reference/badoo.svg" width="256" />	| https://team.badoo.com/new/	|
 | <img src="/images/svg/samsunginternet.svg" width="256" />	| <img src="/images/reference/samsunginternet.png" width="256" />	| http://www.samsung.com/global/galaxy/apps/samsung-internet/	|
-| <img src="/images/svg/twillio.svg" width="256" />	| <img src="/images/reference/twillio.svg" width="256" />	| https://www.twilio.com/marketing/bundles/company-brand/resources/Twilio-Logos.zip	|
+| <img src="/images/svg/twilio.svg" width="256" />	| <img src="/images/reference/twilio.svg" width="256" />	| https://www.twilio.com/marketing/bundles/company-brand/resources/Twilio-Logos.zip	|
 | <img src="/images/svg/laravel.svg" width="256" />	| <img src="/images/reference/laravel.svg" width="256" />	| https://github.com/laravel/art/blob/master/Laravel-l-slant.svg	|
 
 
