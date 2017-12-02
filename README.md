@@ -3,8 +3,6 @@ Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourit
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
-You can [play around with the corner radius size using our interactive tool](https://edent.github.io/SuperTinyIcons/radius.html)
-
 Originally created for my contact page - [https://edent.tel/](https://edent.tel/)
 
 ## How Small?
@@ -181,6 +179,8 @@ This is the standard guideline. Use this to help with sizing your icons and they
 * **Green** is the safe zone, where the main body of the icon should be.
 * **Yellow** is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.
 * **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
+
+To see how the logos look, you can [play around with the corner radius size using our interactive tool](https://edent.github.io/SuperTinyIcons/radius.html)
 
 ## Licenses
 
