@@ -139,7 +139,7 @@ Bytes cost money.  They cost money to store, transport, and process.  Simplicity
 
 ## Scream if you want to go smaller
 
-These files edited by hand in Inkscape, then were minified using [svgo](https://github.com/svg/svgo) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible. Try it!
+These files were edited by hand in Inkscape, then were minified using [svgo](https://github.com/svg/svgo) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible. Try it!
 
 * Each of these has an `xmlns="http://www.w3.org/2000/svg"` in the `<svg>` tag. This isn't strictly necessary - but some web browsers won't display them as an image without it.
 * Rounded corners can be dropped - `rx="80"` - the effect can be done in CSS if you want.
@@ -174,7 +174,7 @@ I'd *love* you to submit something 😸 The rules are simple, your icon must:
 
 ### Guidelines
 
-This is the standard guideline. Use this to help with sizing yout icons and they will look good no matter what border radius is chosen.
+This is the standard guideline. Use this to help with sizing your icons and they will look good no matter what border radius is chosen.
 
 <img src="https://edent.github.io/SuperTinyIcons/images/guidelines/guideline.svg" width="256" alt="A template for logos" />
 
