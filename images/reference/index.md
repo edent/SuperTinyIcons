@@ -42,7 +42,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/tox.svg" width="256" />	| <img src="/images/reference/tox.svg" width="256" />	| https://github.com/Tox/tox.chat/blob/master/themes/website/static/img/icon.svg	|
 | <img src="/images/svg/gitlab.svg" width="256" />	| <img src="/images/reference/gitlab.svg" width="256" />	| https://about.gitlab.com/press/	|
 | <img src="/images/svg/html5.svg" width="256" />	| <img src="/images/reference/html5.svg" width="256" />	| https://www.w3.org/html/logo/	|
-| <img src="/images/svg/meetup.svg" width="256" />	| <img src="/images/reference/meetup.jpeg" width="256" />	| https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg	|
+| <img src="/images/svg/meetup.svg" width="256" />	| <img src="/images/reference/meetup.png" width="256" />	| https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg	|
 | <img src="/images/svg/line.svg" width="256" />	| <img src="/images/reference/line.svg" width="256" />	| https://line.me/en/logo	|
 | <img src="/images/svg/lastpass.svg" width="256" />	| <img src="/images/reference/lastpass.svg" width="256" />	| https://lastpass.com/press-room/	|
 | <img src="/images/svg/windows.svg" width="256" />	| <img src="/images/reference/windows.png" width="256" />	| https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1voQq	|
@@ -77,7 +77,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/disqus.svg" width="256" />	| <img src="/images/reference/disqus.svg" width="256" />	| https://disqus.com/brand/	|
 | <img src="/images/svg/ghost.svg" width="256" />	| <img src="/images/reference/ghost.svg" width="256" />	| https://ghost.org/design/	|
 | <img src="/images/svg/opensource.svg" width="256" />	| <img src="/images/reference/opensource.png" width="256" />	| https://opensource.org/logo-usage-guidelines	|
-| <img src="/images/svg/patreon.svg" width="256" />	| <img src="/images/reference/patreon.svg" width="256" />	| https://www.patreon.com/brand/guidelines	|
+| <img src="/images/svg/patreon.svg" width="256" />	| <img src="/images/reference/patreon.png" width="256" />	| https://www.patreon.com/brand/guidelines	|
 | <img src="/images/svg/trello.svg" width="256" />	| <img src="/images/reference/trello.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/intel.svg" width="256" />	| <img src="/images/reference/intel.png" width="256" />	| https://newsroom.intel.com/news/intel-accelerates-ai-innovation-3-new-intel-capital-investments/intel-logo-default/	|
 | <img src="/images/svg/badoo.svg" width="256" />	| <img src="/images/reference/badoo.svg" width="256" />	| https://team.badoo.com/new/	|
