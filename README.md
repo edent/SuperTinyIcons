@@ -23,7 +23,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>630 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/dropbox.svg" width="125" title="Dropbox" /><br>326 Bytes</td>
+<td><img src="images/svg/dropbox.svg" width="125" title="Dropbox" /><br>290 Bytes</td>
 <td><img src="images/svg/telegram.svg" width="125" title="Telegram" /><br>354 Bytes</td>
 <td><img src="images/svg/linkedin.svg" width="125" title="LinkedIn" /><br>372 Bytes</td>
 <td><img src="images/svg/stackoverflow.svg" width="125" title="StackOverflow" /><br>370 Bytes</td>
@@ -81,13 +81,13 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="images/svg/apple.svg" width="125" title="Apple" /><br>503 Bytes</td>
 <td><img src="images/svg/npm.svg" width="125" title="NPM" /><br>375 Bytes</td>
-<td><img src="images/svg/docker.svg" width="125" title="Docker" /><br>526 Bytes</td>
+<td><img src="images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
 <td><img src="images/svg/symantec.svg" width="125" title="Symantec" /><br>966 Bytes</td>
 <td><img src="images/svg/yubico.svg" width="125" title="Yubico" /><br>313 Bytes</td>
 <td><img src="images/svg/keybase.svg" width="125" title="Keybase" /><br>1010 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/ebay.svg" width="125" title="eBay" /><br>830 Bytes</td>
+<td><img src="images/svg/ebay.svg" width="125" title="eBay" /><br>819 Bytes</td>
 <td><img src="images/svg/evernote.svg" width="125" title="Evernote" /><br>799 Bytes</td>
 <td><img src="images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>308 Bytes</td>
 <td><img src="images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>575 Bytes</td>
@@ -105,14 +105,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="images/svg/codepen.svg" width="125" title="CodePen" /><br>638 Bytes</td>
 <td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>323 Bytes</td>
-<td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>691 Bytes</td>
+<td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>506 Bytes</td>
 <td><img src="images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
 <td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>572 Bytes</td>
 <td><img src="images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>648 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/delicious.svg" width="125" title="delicious" /><br>270 Bytes</td>
-<td><img src="images/svg/disqus.svg" width="125" title="Disqus" /><br>398 Bytes</td>
+<td><img src="images/svg/disqus.svg" width="125" title="Disqus" /><br>376 Bytes</td>
 <td><img src="images/svg/ghost.svg" width="125" title="Ghost" /><br>273 Bytes</td>
 <td><img src="images/svg/opensource.svg" width="125" title="Open Source" /><br>256 Bytes</td>
 <td><img src="images/svg/patreon.svg" width="125" title="Patreon" /><br>251 Bytes</td>
