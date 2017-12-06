@@ -107,7 +107,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>323 Bytes</td>
 <td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>506 Bytes</td>
 <td><img src="images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
-<td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>572 Bytes</td>
+<td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>583 Bytes</td>
 <td><img src="images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>648 Bytes</td>
 </tr>
 <tr>
