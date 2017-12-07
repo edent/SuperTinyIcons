@@ -58,7 +58,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/vk.svg" width="125" title="VK" /><br>597 Bytes</td>
 <td><img src="images/svg/rss.svg" width="125" title="RSS" /><br>305 Bytes</td>
 <td><img src="images/svg/mail.svg" width="125" title="mail" /><br>573 Bytes</td>
-<td><img src="images/svg/email.svg" width="125" title="email" /><br>379 Bytes</td>
+<td><img src="images/svg/email.svg" width="125" title="email" /><br>350 Bytes</td>
 <td><img src="images/svg/mastodon.svg" width="125" title="Mastodon" /><br>664 Bytes</td>
 <td><img src="images/svg/wire.svg" width="125" title="Wire" /><br>286 Bytes</td>
 </tr>
@@ -79,7 +79,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>680 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/apple.svg" width="125" title="Apple" /><br>503 Bytes</td>
+<td><img src="images/svg/apple.svg" width="125" title="Apple" /><br>417 Bytes</td>
 <td><img src="images/svg/npm.svg" width="125" title="NPM" /><br>375 Bytes</td>
 <td><img src="images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
 <td><img src="images/svg/symantec.svg" width="125" title="Symantec" /><br>966 Bytes</td>
@@ -88,14 +88,14 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="images/svg/ebay.svg" width="125" title="eBay" /><br>819 Bytes</td>
-<td><img src="images/svg/evernote.svg" width="125" title="Evernote" /><br>799 Bytes</td>
+<td><img src="images/svg/evernote.svg" width="125" title="Evernote" /><br>704 Bytes</td>
 <td><img src="images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>308 Bytes</td>
 <td><img src="images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>575 Bytes</td>
 <td><img src="images/svg/bitcoin.svg" width="125" title="BitCoin" /><br>529 Bytes</td>
 <td><img src="images/svg/bluetooth.svg" width="125" title="bluetooth" /><br>253 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/ibm.svg" width="125" title="IBM" /><br>937 Bytes</td>
+<td><img src="images/svg/ibm.svg" width="125" title="IBM" /><br>569 Bytes</td>
 <td><img src="images/svg/yammer.svg" width="125" title="Yammer" /><br>946 Bytes</td>
 <td><img src="images/svg/android.svg" width="125" title="Android" /><br>558 Bytes</td>
 <td><img src="images/svg/authy.svg" width="125" title="Authy" /><br>402 Bytes</td>
@@ -107,7 +107,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>323 Bytes</td>
 <td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>506 Bytes</td>
 <td><img src="images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
-<td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>572 Bytes</td>
+<td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>583 Bytes</td>
 <td><img src="images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>648 Bytes</td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="images/svg/intel.svg" width="125" title="intel" /><br>983 Bytes</td>
 <td><img src="images/svg/badoo.svg" width="125" title="Badoo" /><br>286 Bytes</td>
-<td><img src="images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>943 Bytes</td>
+<td><img src="images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>347 Bytes</td>
 <td><img src="images/svg/laravel.svg" width="125" title="Laravel" /><br>879 Bytes</td>
 <td><img src="images/svg/google_play.svg" width="125" title="Google Play" /><br>509 Bytes</td>
 <td><img src="images/svg/gmail.svg" width="125" title="Gmail" /><br>745 Bytes</td>
