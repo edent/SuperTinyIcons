@@ -128,6 +128,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="images/svg/twilio.svg" width="125" title="Twilio" /><br>395 Bytes</td>
+<td><img src="images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
 <tr>
 </table>
 
@@ -219,6 +220,7 @@ The majority of these vector logos are based on someone else's work.
 * [Google Play](https://commons.wikimedia.org/wiki/File:Google_Play_symbol_2016.svg)
 * [Gmail](https://commons.wikimedia.org/wiki/File:Gmail_Icon.svg)
 * [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
+* [Plex](https://github.com/plexinc/plex-media-player/blob/master/resources/images/icon.svg) -  GPLv2
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
