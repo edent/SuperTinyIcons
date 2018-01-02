@@ -1,1 +1,1 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" aria-label="Ghost" role="img"><rect fill="#e8e9eb" height="512" rx="15%" width="512"/><path d="m101 134h187zm246 0h61zm-246 123h310zm0 121h123zm187 0h123z" stroke="#3d515b" stroke-width="61"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Ghost" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#e8e9eb" rx="15%"/><path stroke="#3d515b" stroke-width="61" d="M101 134h187zm246 0h61zM101 257h310zm0 121h123zm187 0h123z"/></svg>
