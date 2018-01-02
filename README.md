@@ -24,7 +24,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="images/svg/dropbox.svg" width="125" title="Dropbox" /><br>290 Bytes</td>
-<td><img src="images/svg/telegram.svg" width="125" title="Telegram" /><br>414 Bytes</td>
+<td><img src="images/svg/telegram.svg" width="125" title="Telegram" /><br>419 Bytes</td>
 <td><img src="images/svg/linkedin.svg" width="125" title="LinkedIn" /><br>370 Bytes</td>
 <td><img src="images/svg/stackoverflow.svg" width="125" title="StackOverflow" /><br>336 Bytes</td>
 <td><img src="images/svg/instagram.svg" width="125" title="Instagram" /><br>345 Bytes</td>
