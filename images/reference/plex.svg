@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="250" viewBox="0 0 250 250">
+  <defs>
+    <linearGradient id="plex-icon-app-a" x1="0%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#1F1F1F"/>
+      <stop offset="100%" stop-color="#282828"/>
+    </linearGradient>
+    <radialGradient id="plex-icon-app-b" cx="89.267%" cy="49.76%" r="92.5%" fx="89.267%" fy="49.76%" gradientTransform="matrix(1 0 0 .60416 0 .197)">
+      <stop offset="0%" stop-color="#F9BE03"/>
+      <stop offset="100%" stop-color="#CC7C19"/>
+    </radialGradient>
+  </defs>
+  <g fill="none">
+    <rect width="250" height="250" fill="url(#plex-icon-app-a)" rx="12"/>
+    <polyline fill="url(#plex-icon-app-b)" points="74.75 42.5 122.648 42.5 175.5 125 122.648 207.5 74.75 207.5 127.602 125 74.75 42.5"/>
+  </g>
+</svg>
