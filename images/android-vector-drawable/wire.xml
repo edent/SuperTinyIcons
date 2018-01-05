@@ -10,6 +10,6 @@
         android:pathData="M 15 0 L 497 0 Q 512 0 512 15 L 512 497 Q 512 512 497 512 L 15 512 Q 0 512 0 497 L 0 15 Q 0 0 15 0 Z" />
     <path
         android:strokeColor="#000"
-        android:strokeWidth="23"
-        android:pathData="M69 103v193c0 149 222 149 222 0V138c-2-46-68-46-70 0v158c0 149 222 149 222 0V103" />
+        android:strokeWidth="19"
+        android:pathData="M99 127v163c0 125 186 125 186 0V157c-1-39-57-39-58 0v133c0 125 186 125 186 0V127" />
 </vector>
