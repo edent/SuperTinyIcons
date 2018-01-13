@@ -85,5 +85,6 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/twilio.svg" width="256" />	| <img src="/images/reference/twilio.svg" width="256" />	| https://www.twilio.com/marketing/bundles/company-brand/resources/Twilio-Logos.zip	|
 | <img src="/images/svg/laravel.svg" width="256" />	| <img src="/images/reference/laravel.svg" width="256" />	| https://github.com/laravel/art/blob/master/Laravel-l-slant.svg	|
 | <img src="/images/svg/plex.svg" width="256" />	| <img src="/images/reference/plex.svg" width="256" />	| http://brand.plex.tv/d/qxmJ3odkK0fj/plex-style-guide	|
+| <img src="/images/svg/xing.svg" width="256" />	| <img src="/images/reference/xing.png" width="256" />	| https://dev.xing.com/logo_rules |
 
 
