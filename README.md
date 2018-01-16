@@ -130,7 +130,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/twilio.svg" width="125" title="Twilio" /><br>385 Bytes</td>
 <td><img src="images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
 <td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>859 Bytes</td>
-<td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>749 Bytes</td>
+<td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>748 Bytes</td>
 <tr>
 </table>
 
