@@ -157,14 +157,6 @@ Think the icons look wrong?  [Compare them against the official logos](https://g
 
 **New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://inloop.github.io/svg2android/ - not guaranteed to be under 1KB.
 
-## Icon accessibility
-
-The super tiny icons are accessible by default. Each icon has:
-* `role="img"`, to expose the ```<svg>``` elements as images in the browser's accessibility tree
-* `aria-label="XYZ"` (where XYZ is the icon's brand name), to give the icon an accessible name
-
-`Note:` if using the ```<svg>``` as the `src` for an ```<img>``` element, the `alt` attribute should still be used on the ```<img>``` element because the ARIA is not recognised in this context.
-
 ## Submitting Icons
 
 I'd *love* you to submit something 😸 The rules are simple, your icon must:
@@ -173,6 +165,24 @@ I'd *love* you to submit something 😸 The rules are simple, your icon must:
 * fit inside a circle with radius 256 pixels. Set `rx="50%"` to check.
 * have solid colours. No gradients or fades.
 * represent a popular service's current logo.
+
+### Template
+
+At a minimum, your icon needs these components:
+
+```
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="IconName" role="img" viewBox="0 0 512 512">
+<rect height="512" width="512" rx="15%" fill="#123"/>
+</svg>
+```
+
+### Icon accessibility
+
+The super tiny icons are accessible by default. Each icon has:
+* `role="img"`, to expose the ```<svg>``` elements as images in the browser's accessibility tree
+* `aria-label="XYZ"` (where XYZ is the icon's brand name), to give the icon an accessible name
+
+`Note:` if using the ```<svg>``` as the `src` for an ```<img>``` element, the `alt` attribute should still be used on the ```<img>``` element because the ARIA is not recognised in this context.
 
 ### Guidelines
 
