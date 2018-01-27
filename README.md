@@ -171,8 +171,15 @@ I'd *love* you to submit something 😸 The rules are simple, your icon must:
 At a minimum, your icon needs these components:
 
 ```
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="IconName" role="img" viewBox="0 0 512 512">
-<rect height="512" width="512" rx="15%" fill="#123"/>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   aria-label="..." role="img"
+   viewBox="0 0 512 512">
+   <rect
+      width="512" height="512"
+      rx="15%"
+      fill="#fff"/>
+   ...
 </svg>
 ```
 
