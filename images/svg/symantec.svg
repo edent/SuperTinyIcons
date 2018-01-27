@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="Symantec" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><path fill="#fdb511" d="M415 93v10h10V93m-10 21v10h10v-10m-41 10v10h10v-10"/><circle cx="251" cy="275" r="144" fill="#fdb511"/><circle cx="251" cy="275" r="96" fill="#fff"/><path d="M293 205c-27 33-33 47-44 74-12-24-26-41-51-52-4-1-7-2-10 3-3 4-1 8 3 13 10 12 21 24 28 38 10 16 21 43 25 50 3 5 10 8 13 8 15-2 15-10 17-23 5-21 11-44 39-71v-40"/><path d="M415 103h-10v11h10m-10 0h-21v10h21zm-21 30v-20h-10v20zm0 0v10h10v-10m0 0h11v-10h-11zm-30 10h-20v10h-10v10h10v11h-10v-11h-11v11h-10v10h-10v40h20v-10h10v-10h11v-10h-11v-10h11v10h10v-10h10v-11h10v-10h10v-20h-10v10h-10m0-10h10v-10h-10m0 0v-10h-10v10m6-5v10"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Symantec" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><g fill="#fdb511"><path d="M415 93v10h10V93m-10 21v10h10v-10m-41 10v10h10v-10"/><circle cx="251" cy="275" r="144"/></g><circle cx="251" cy="275" r="96" fill="#fff"/><path d="M293 205c-27 33-33 47-44 74-12-24-26-41-51-52-4-1-7-2-10 3-3 4-1 8 3 13 10 12 21 24 28 38 10 16 21 43 25 50 3 5 10 8 13 8 15-2 15-10 17-23 5-21 11-44 39-71v-40"/><path d="M415 103h-10v11h10m-10 0h-21v10h21zm-21 30v-20h-10v20zm0 0v10h10v-10m0 0h11v-10h-11zm-30 10h-20v10h-10v10h10v11h-10v-11h-11v11h-10v10h-10v40h20v-10h10v-10h11v-10h-11v-10h11v10h10v-10h10v-11h10v-10h10v-20h-10v10h-10m0-10h10v-10h-10m0 0v-10h-10v10m6-5v10"/></svg>

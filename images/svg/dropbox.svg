@@ -1,1 +1,7 @@
-<svg fill="#0061ff" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" aria-label="Dropbox" role="img"><rect fill="#fff" height="512" rx="15%" width="512"/><path d="m158 372 98 63 98-63-98-62z"/><path d="m158 101-99 63 295 188 99-63-197-125 98-63 99 63-295 188-99-63 197-125"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Dropbox" role="img"
+viewBox="0 0 512 512"
+fill="#0061ff"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><path d="m158 372 98 63 98-63-98-62z"/><path d="m158 101-99 63 295 188 99-63-197-125 98-63 99 63-295 188-99-63 197-125"/></svg>
