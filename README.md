@@ -1,5 +1,5 @@
 # Super Tiny Social Icons
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is *under* 550 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is *under* 465 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -132,6 +132,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>853 Bytes</td>
 <td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>362 Bytes</td>
 <td><img src="images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
+<td><img src="images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
 <tr>
 </table>
 
