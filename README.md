@@ -138,6 +138,8 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
 <td><img src="images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
 <td><img src="images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
+<td><img src="images/svg/pocket.svg" width="125" title="Pocket" /><br>753 Bytes</td>
+<td><img src="images/svg/stumbleupon.svg" width="125" title="StumbleUpon" /><br>777 Bytes</td>
 <tr>
 </table>
 
