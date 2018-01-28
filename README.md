@@ -197,6 +197,8 @@ The super tiny icons are accessible by default. Each icon has:
 
 `Note:` if using the ```<svg>``` as the `src` for an ```<img>``` element, the `alt` attribute should still be used on the ```<img>``` element because the ARIA is not recognised in this context.
 
+CSS-Tricks has also an [article about accessible SVG icons](https://css-tricks.com/accessible-svgs/).
+
 ### Guidelines
 
 This is the standard guideline. Use this to help with sizing your icons and they will look good no matter what border radius is chosen.
