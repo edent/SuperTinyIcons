@@ -88,5 +88,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/xing.svg" width="256" />	| <img src="/images/reference/xing.png" width="256" />	| https://dev.xing.com/logo_rules |
 | <img src="/images/svg/pinboard.svg" width="256" />	| <img src="/images/reference/pinboard.png" width="256" />	| https://twitter.com/pinboard |
 | <img src="/images/svg/internet_archive.svg" width="256" />	| <img src="/images/reference/internet_archive.svg" width="256" />	| https://commons.wikimedia.org/wiki/File:Internet_Archive_logo_and_wordmark.svg |
-
+| <img src="/images/svg/baidu.svg" width="256" />	| <img src="/images/reference/baidu.svg" width="256" />	| http://www.baidu.com/img/bd_logo1.png |
 
