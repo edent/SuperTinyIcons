@@ -7,7 +7,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 
 ## How Small?
 
-| 527 Bytes SVG	| 2,956 Bytes PNG	|   422 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
+| 542 Bytes SVG	| 2,956 Bytes PNG	|   422 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" />       	|
 
@@ -35,8 +35,8 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/reddit.svg" width="125" title="Reddit" /><br>607 Bytes</td>
 <td><img src="images/svg/pinterest.svg" width="125" title="Pinterest" /><br>526 Bytes</td>
 <td><img src="images/svg/paypal.svg" width="125" title="PayPal" /><br>548 Bytes</td>
-<td><img src="images/svg/github.svg" width="125" title="GitHub" /><br>527 Bytes</td>
-<td><img src="images/svg/wikipedia.svg" width="125" title="Wikipedia" /><br>601 Bytes</td>
+<td><img src="images/svg/github.svg" width="125" title="GitHub" /><br>542 Bytes</td>
+<td><img src="images/svg/wikipedia.svg" width="125" title="Wikipedia" /><br>595 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/vimeo.svg" width="125" title="Vimeo" /><br>376 Bytes</td>
