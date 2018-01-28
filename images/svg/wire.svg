@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="Wire" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><path fill="none" stroke="#000" stroke-width="19" d="M99 127v163c0 125 186 125 186 0V157c-1-39-57-39-58 0v133c0 125 186 125 186 0V127"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Wire" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><path fill="none" stroke="#000" stroke-width="19" d="M99 127v163c0 125 186 125 186 0V157c-1-39-57-39-58 0v133c0 125 186 125 186 0V127"/></svg>

@@ -1,5 +1,5 @@
 # Super Tiny Social Icons
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is *under* 550 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is *under* 465 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -7,7 +7,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 
 ## How Small?
 
-| 616 Bytes SVG	| 2,956 Bytes PNG	|   422 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
+| 527 Bytes SVG	| 2,956 Bytes PNG	|   422 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" />       	|
 
@@ -20,27 +20,27 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/facebook.svg" width="125" title="Facebook" /><br>283 Bytes</td>
 <td><img src="images/svg/tumblr.svg" width="125" title="tumblr" /><br>422 Bytes</td>
 <td><img src="images/svg/twitter.svg" width="125" title="Twitter" /><br>422 Bytes</td>
-<td><img src="images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>539 Bytes</td>
+<td><img src="images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>589 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/dropbox.svg" width="125" title="Dropbox" /><br>290 Bytes</td>
+<td><img src="images/svg/dropbox.svg" width="125" title="Dropbox" /><br>289 Bytes</td>
 <td><img src="images/svg/telegram.svg" width="125" title="Telegram" /><br>419 Bytes</td>
 <td><img src="images/svg/linkedin.svg" width="125" title="LinkedIn" /><br>370 Bytes</td>
-<td><img src="images/svg/stackoverflow.svg" width="125" title="StackOverflow" /><br>336 Bytes</td>
+<td><img src="images/svg/stackoverflow.svg" width="125" title="StackOverflow" /><br>329 Bytes</td>
 <td><img src="images/svg/instagram.svg" width="125" title="Instagram" /><br>345 Bytes</td>
 <td><img src="images/svg/wordpress.svg" width="125" title="WordPress" /><br>513 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/skype.svg" width="125" title="Skype" /><br>487 Bytes</td>
-<td><img src="images/svg/reddit.svg" width="125" title="Reddit" /><br>650 Bytes</td>
+<td><img src="images/svg/reddit.svg" width="125" title="Reddit" /><br>607 Bytes</td>
 <td><img src="images/svg/pinterest.svg" width="125" title="Pinterest" /><br>526 Bytes</td>
 <td><img src="images/svg/paypal.svg" width="125" title="PayPal" /><br>548 Bytes</td>
-<td><img src="images/svg/github.svg" width="125" title="GitHub" /><br>616 Bytes</td>
+<td><img src="images/svg/github.svg" width="125" title="GitHub" /><br>527 Bytes</td>
 <td><img src="images/svg/wikipedia.svg" width="125" title="Wikipedia" /><br>601 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/vimeo.svg" width="125" title="Vimeo" /><br>376 Bytes</td>
-<td><img src="images/svg/slideshare.svg" width="125" title="SlideShare" /><br>668 Bytes</td>
+<td><img src="images/svg/slideshare.svg" width="125" title="SlideShare" /><br>672 Bytes</td>
 <td><img src="images/svg/soundcloud.svg" width="125" title="SoundCloud" /><br>959 Bytes</td>
 <td><img src="images/svg/spotify.svg" width="125" title="Spotify" /><br>436 Bytes</td>
 <td><img src="images/svg/snapchat.svg" width="125" title="SnapChat" /><br>649 Bytes</td>
@@ -58,7 +58,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/vk.svg" width="125" title="VK" /><br>534 Bytes</td>
 <td><img src="images/svg/rss.svg" width="125" title="RSS" /><br>309 Bytes</td>
 <td><img src="images/svg/mail.svg" width="125" title="mail" /><br>572 Bytes</td>
-<td><img src="images/svg/email.svg" width="125" title="email" /><br>350 Bytes</td>
+<td><img src="images/svg/email.svg" width="125" title="email" /><br>343 Bytes</td>
 <td><img src="images/svg/mastodon.svg" width="125" title="Mastodon" /><br>550 Bytes</td>
 <td><img src="images/svg/wire.svg" width="125" title="Wire" /><br>286 Bytes</td>
 </tr>
@@ -66,25 +66,25 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/tox.svg" width="125" title="Tox" /><br>494 Bytes</td>
 <td><img src="images/svg/gitlab.svg" width="125" title="GitLab" /><br>423 Bytes</td>
 <td><img src="images/svg/phone.svg" width="125" title="Phone" /><br>591 Bytes</td>
-<td><img src="images/svg/lock.svg" width="125" title="Lock" /><br>420 Bytes</td>
+<td><img src="images/svg/lock.svg" width="125" title="Lock" /><br>393 Bytes</td>
 <td><img src="images/svg/html5.svg" width="125" title="HTML5" /><br>399 Bytes</td>
 <td><img src="images/svg/meetup.svg" width="125" title="Meetup" /><br>524 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/line.svg" width="125" title="Line" /><br>478 Bytes</td>
-<td><img src="images/svg/lastpass.svg" width="125" title="LastPass" /><br>326 Bytes</td>
+<td><img src="images/svg/lastpass.svg" width="125" title="LastPass" /><br>320 Bytes</td>
 <td><img src="images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>270 Bytes</td>
-<td><img src="images/svg/digidentity.svg" width="125" title="Digidentity" /><br>393 Bytes</td>
-<td><img src="images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>541 Bytes</td>
-<td><img src="images/svg/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>699 Bytes</td>
+<td><img src="images/svg/digidentity.svg" width="125" title="Digidentity" /><br>389 Bytes</td>
+<td><img src="images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>492 Bytes</td>
+<td><img src="images/svg/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>684 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/apple.svg" width="125" title="Apple" /><br>417 Bytes</td>
 <td><img src="images/svg/npm.svg" width="125" title="NPM" /><br>329 Bytes</td>
 <td><img src="images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
-<td><img src="images/svg/symantec.svg" width="125" title="Symantec" /><br>762 Bytes</td>
+<td><img src="images/svg/symantec.svg" width="125" title="Symantec" /><br>754 Bytes</td>
 <td><img src="images/svg/yubico.svg" width="125" title="Yubico" /><br>309 Bytes</td>
-<td><img src="images/svg/keybase.svg" width="125" title="Keybase" /><br>662 Bytes</td>
+<td><img src="images/svg/keybase.svg" width="125" title="Keybase" /><br>647 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/ebay.svg" width="125" title="eBay" /><br>819 Bytes</td>
@@ -95,17 +95,17 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/bluetooth.svg" width="125" title="bluetooth" /><br>253 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/ibm.svg" width="125" title="IBM" /><br>550 Bytes</td>
+<td><img src="images/svg/ibm.svg" width="125" title="IBM" /><br>570 Bytes</td>
 <td><img src="images/svg/yammer.svg" width="125" title="Yammer" /><br>479 Bytes</td>
 <td><img src="images/svg/android.svg" width="125" title="Android" /><br>551 Bytes</td>
 <td><img src="images/svg/authy.svg" width="125" title="Authy" /><br>365 Bytes</td>
-<td><img src="images/svg/blogger.svg" width="125" title="Blogger" /><br>389 Bytes</td>
+<td><img src="images/svg/blogger.svg" width="125" title="Blogger" /><br>354 Bytes</td>
 <td><img src="images/svg/cloudflare.svg" width="125" title="CloudFlare" /><br>500 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
 <td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>323 Bytes</td>
-<td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>506 Bytes</td>
+<td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
 <td><img src="images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
 <td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>583 Bytes</td>
 <td><img src="images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>683 Bytes</td>
@@ -119,7 +119,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/trello.svg" width="125" title="Trello" /><br>276 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/intel.svg" width="125" title="intel" /><br>956 Bytes</td>
+<td><img src="images/svg/intel.svg" width="125" title="intel" /><br>948 Bytes</td>
 <td><img src="images/svg/badoo.svg" width="125" title="Badoo" /><br>297 Bytes</td>
 <td><img src="images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
 <td><img src="images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
@@ -127,11 +127,17 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/twilio.svg" width="125" title="Twilio" /><br>385 Bytes</td>
+<td><img src="images/svg/twilio.svg" width="125" title="Twilio" /><br>377 Bytes</td>
 <td><img src="images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
-<td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>859 Bytes</td>
+<td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>853 Bytes</td>
 <td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>362 Bytes</td>
 <td><img src="images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
+<td><img src="images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
+<tr>
+<tr>
+<td><img src="images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
+<td><img src="images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
+<td><img src="images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
 <tr>
 </table>
 
@@ -171,8 +177,15 @@ I'd *love* you to submit something 😸 The rules are simple, your icon must:
 At a minimum, your icon needs these components:
 
 ```
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="IconName" role="img" viewBox="0 0 512 512">
-<rect height="512" width="512" rx="15%" fill="#123"/>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   aria-label="..." role="img"
+   viewBox="0 0 512 512">
+   <rect
+      width="512" height="512"
+      rx="15%"
+      fill="#fff"/>
+   ...
 </svg>
 ```
 
