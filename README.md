@@ -137,6 +137,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <tr>
 <td><img src="images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
 <td><img src="images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
+<td><img src="images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
 <tr>
 </table>
 
