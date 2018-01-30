@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="#fff" aria-label="Trello" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#7000E3" rx="15%"/><path fill="#FF671B" d="M256 169.63A90.33 90.33 0 0 0 183.4 133c-49.84 0-90.4 40.77-90.4 90.83C93 306 202.08 409 256 409s163-103.06 163-185.17c0-50.06-40.56-90.83-90.4-90.83a90.42 90.42 0 0 0-72.6 36.63z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Badoo" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#7000e3"/><path fill="#ff671b" d="M256 160a102 105 0 0 0-183 61c0 92 122 208 183 208s183-116 183-208c0-56-45-102-101-102-33 0-63 15-82 41z"/></svg>

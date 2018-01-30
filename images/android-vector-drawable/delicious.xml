@@ -5,16 +5,18 @@
     android:viewportWidth="512"
     android:viewportHeight="512">
 
-    <path
-        android:fillColor="#FFF"
-        android:pathData="M0 0h256v256H0z" />
-    <path
-        android:fillColor="#333"
-        android:pathData="M0 256h256v256H0z" />
-    <path
-        android:fillColor="#EEE"
-        android:pathData="M256 256h256v256H256z" />
-    <path
-        android:fillColor="#39F"
-        android:pathData="M256 0h256v256H256z" />
+    <group>
+        <path
+            android:fillColor="#FFF"
+            android:pathData="M0 0h256v256H0z" />
+        <path
+            android:fillColor="#333"
+            android:pathData="M0 256h256v256H0z" />
+        <path
+            android:fillColor="#EEE"
+            android:pathData="M256 256h256v256H256z" />
+        <path
+            android:fillColor="#39F"
+            android:pathData="M256 0h256v256H256z" />
+    </group>
 </vector>

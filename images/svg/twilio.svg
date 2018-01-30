@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Twilio" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><g fill="#f22f46"><circle cx="256" cy="256" r="256"/><circle cx="256" cy="256" fill="#fff" r="188"/><circle cx="193" cy="193" r="53" id="c"/><use href="#c" x="126"/><use href="#c" y="126"/><use href="#c" x="126" y="126"/></g></svg>

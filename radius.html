@@ -27,12 +27,30 @@
 		}
 		svg {
 			display: block;
+			position: absolute;
+		}
+		.overlay {
+			position: absolute;
+			opacity: 0.25;
+		}
+		.underlay {
+			position: relative;
+			height:150px;
 		}
 	 </style>
 	</head>
 	<body>
 	 <h1>Super Tiny Icons</h1>
 	 <a href="https://github.com/edent/SuperTinyIcons">Download the SuperTinyIcons SVGs on GitHub</a>
+	 <p>This is the standard guideline. Use this to help with sizing your icons and they will look good no matter what border radius is chosen.</p>
+
+	 <img src="https://edent.github.io/SuperTinyIcons/images/guidelines/guideline.svg" width="128" alt="A template for logos" />
+
+	<ul>
+		<li><strong>Green</strong> is the safe zone, where the main body of the icon should be.</li>
+		<li><strong>Yellow</strong> is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.</li>
+		<li><strong>Red</strong> is off limits. It should not be touched by the icons. Red is also how a circular icon would look.</li>
+	</ul>
 	 <section class="flex two four-800">
 		<h2>Radius %</h2>
 		<label>
@@ -47,8 +65,9 @@
 
 	 <script>
 		var items = [
-			'amazon',     'github',      'html5',      'mastodon',   'reddit',       'soundcloud', 
-			'tox',        'wechat',      'youtube',    'dropbox',    'gitlab',       'instagram', 
+			'../guidelines/guideline',
+			'amazon',     'github',      'html5',      'mastodon',   'reddit',       'soundcloud',
+			'tox',        'wechat',      'youtube',    'dropbox',    'gitlab',       'instagram',
 			'paypal',     'rss',         'spotify',    'tumblr',     'whatsapp',     'email',
 			'google_plus','linkedin',    'pdf',        'skype',      'stackoverflow','twitter',
 			'wikipedia',  'facebook',    'google',     'lock',       'phone',        'slideshare',
@@ -60,7 +79,9 @@
 			'ibm',        'yammer',      'android',    'authy',      'blogger',      'cloudflare',
 			'codepen',    'digitalocean','discord',    'medium',     'airbnb',       'wifi',
 			'delicious',  'disqus',      'ghost',      'opensource', 'patreon',      'trello',
-			'intel',      'badoo',       'samsunginternet'
+			'intel',      'badoo',       'laravel',    'twilio',     'google_play',  'gmail',
+			'plex',       'slack',       'xing',       'pinboard',   'internet_archive', 'samsunginternet',
+			'baidu',      'twitch',      'ok',         'pocket',     'stumbleupon',
 		 ];
 
 		var container = document.querySelector('.icons');
@@ -79,7 +100,10 @@
 		var urls = items.map(item => 'images/svg/' + item + '.svg');
 		var icons;
 		Promise.all(urls.map(url => fetch(url).then(res => res.text()))).then(all => {
-			icons = all;
+			icons = all.map(icon => {
+				return icon;
+			});
+
 			render(range.value);
 		});
 
@@ -87,9 +111,9 @@
 			console.log('Rendering!', icons);
 
 			icons = icons.map(icon => {
-			 return icon.replace(/rx\=\"\d{0,2}\%/, 'rx="' + radius + '%"');
+				return icon.replace(/rx\=\"\d{0,2}\%/, 'rx="' + radius + '%"');
 			});
-			container.innerHTML = '<div>' + icons.join('</div><div>') + '</div>';
+			container.innerHTML = '<div class="underlay">' + icons.join('<img class="overlay" src="images/guidelines/guideline.svg"/></div><div  class="underlay">') + '<img class="overlay" src="images/guidelines/guideline.svg"/></div>';
 		}
 	</script>
 </body>

@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#2b90d9" aria-label="Mastodon" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><circle cx="256" cy="256" r="200"/><g id="b"><path fill="#fff" d="M411 215v84c0 24-21 41-42 41h-60c12-10 18-22 19-37v-88c2-55 81-55 83 0"/><circle id="a" cx="369" cy="220" r="11"/><use y="36" xlink:href="#a"/><use y="72" xlink:href="#a"/></g><use transform="rotate(180 312 246.5)" xlink:href="#b"/><use transform="matrix(-1 0 0 1 510 0)" xlink:href="#b"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Mastodon" role="img"
+viewBox="0 0 512 512"
+fill="#fff"><rect
+width="512" height="512"
+rx="15%"/><path d="m409 290c-5 24-43 50-85 56-86 11-137-6-137-6 3 13-4 54 70 52 31 0 58-7 58-7l2 27c-51 24-107 15-140 6-67-17-79-90-81-162v-59c0-74 49-96 49-96 50-24 180-22 222 0 0 0 49 22 49 96 0 0 1 55-7 93" fill="#3088d4"/><path d="m358 202v91h-35v-88c0-18-8-27-23-27-18 0-27 11-27 33v47h-34v-47c0-22-9-33-27-33-15 0-23 9-23 27v88h-35v-91c0-18 5-60 52-60 39 0 50 37 50 37s10-37 50-37c45 0 52 42 52 60"/></svg>

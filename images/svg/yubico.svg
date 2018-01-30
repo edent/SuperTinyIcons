@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="#98c93c" aria-label="Yubico" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><circle cx="256" cy="256" r="256"/><circle cx="256" cy="256" r="220" fill="#fff"/><path d="M256 268l57-160.8h82l-138 340h-87l39.6-93-97-247h84z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Yubico" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><circle cx="256" cy="256" fill="none" r="233" stroke="#98c93c" stroke-width="45"/><path d="m256 260 46-132h68l-114 279h-71l33-77-80-202h69z" fill="#98c93c"/></svg>

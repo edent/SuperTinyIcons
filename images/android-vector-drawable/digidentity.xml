@@ -12,11 +12,11 @@
         android:fillColor="#000000"
         android:strokeColor="#000"
         android:strokeWidth="1"
-        android:pathData="M256 42v150m0 128v150M42 256h150m128 0h150M104 104l106 106m92 92l106
-106m0-304L302 210" />
+        android:pathData="M256 63v135m0 116v135M63 256h135m116 0h135M119 119l96 96m82 82l96 96m0-274l-96
+96" />
     <path
         android:fillColor="#000000"
         android:strokeColor="#00e864"
         android:strokeWidth="1"
-        android:pathData="M208 300L102 406m149-150a5 5 0 0 0 10 0 5 5 0 0 0-10 0" />
+        android:pathData="M213 296l-96 95m134-135c0 2 3 5 5 5s5-3 5-5-3-5-5-5-5 3-5 5" />
 </vector>

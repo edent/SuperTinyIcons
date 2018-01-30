@@ -1,1 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="Open Source" role="img" version="1" viewBox="0 0 512 512"><path fill="#3da639" stroke="#1d531d" stroke-linejoin="round" stroke-width="18" d="M170 480a240 240 0 1 1 170 0l-53-146a84 84 0 1 0-63 0z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Open Source" role="img"
+viewBox="0 0 512 512"><path fill="#3da639" stroke="#1d531d" stroke-width="14" stroke-linejoin="round" d="M192 430a180 180 0 1 1 128 0l-40-109a63 63 0 1 0-87-58c0 26 16 49 39 58z"/></svg>

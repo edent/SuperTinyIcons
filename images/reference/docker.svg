@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="203.29333"
+   height="141.21333"
+   viewBox="0 0 203.29333 141.21333"
+   sodipodi:docname="docker.svg"
+   inkscape:version="0.92.1 r15371"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.6712303"
+     inkscape:cx="101.64667"
+     inkscape:cy="70.606667"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g10" /><g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="ink_ext_XXXXXX"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,141.21333)"><g
+       id="g12"
+       transform="scale(0.1)"><path
+         d="M 862.336,572.461 H 1019.77 V 715.574 H 862.336 Z m -186.047,0 H 833.715 V 715.574 H 676.289 Z m -186.047,0 H 647.668 V 715.574 H 490.242 Z m -186.051,0 H 461.617 V 715.574 H 304.191 Z m -186.05,0 H 275.566 V 715.574 H 118.141 Z m 186.05,171.738 h 157.426 v 143.11 H 304.191 Z m 186.051,0 h 157.426 v 143.11 H 490.242 Z m 186.047,0 h 157.426 v 143.11 H 676.289 Z m 0,171.735 H 833.715 V 1059.05 H 676.289 Z M 1492.87,655.906 c -34.38,23 -113.38,31.434 -174.17,19.969 -7.83,57.262 -39.74,106.906 -97.79,151.785 l -33.37,22.258 -22.27,-33.402 c -28.51,-42.996 -42.75,-102.559 -38.08,-159.676 2.1,-20.09 8.7,-56.027 29.37,-87.629 -20.66,-11.106 -61.5,-26.402 -115.33,-25.371 L 5.87891,543.84 3.84766,531.914 C -5.88281,474.512 -5.66797,295.387 110.629,157.711 199.031,53.0703 331.57,0 504.555,0 c 375,0 652.435,172.621 782.365,486.406 51.09,-1.019 161.09,-0.301 217.6,107.66 1.47,2.481 4.86,8.961 14.73,29.414 l 5.41,11.223 -31.79,21.203"
+         style="fill:#066da5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path14"
+         inkscape:connector-curvature="0" /></g></g></svg>

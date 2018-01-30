@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="#ff4500" aria-label="Reddit" role="img" viewBox="0 0 512 512"><rect width="512" height="512" rx="15%"/><ellipse cx="256" cy="305" fill="#fff" rx="177" ry="123"/><path d="M199 347c35 29 79 29 114 0l12 11c-42 35-96 35-138 0z"/><circle cx="315" cy="285" r="28"/><circle cx="197" cy="285" r="28"/><g fill="none" stroke="#fff"><circle cx="390" cy="125" r="28" stroke-width="25"/><path stroke-width="22" d="M87 282c-45-22-5-92 40-50m298 50c45-22 5-92-40-50m-127-45l24-83 80 16"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Reddit" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#f40"/><g fill="#fff"><ellipse cx="256" cy="307" rx="166" ry="117"/><circle cx="106" cy="256" r="42"/><circle cx="407" cy="256" r="42"/><circle cx="375" cy="114" r="32"/></g><g stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="m256 196 23-101 73 15" stroke="#fff" stroke-width="16"/><path d="m191 359c33 25 97 26 130 0" stroke="#f40" stroke-width="13"/></g><g fill="#f40"><circle cx="191" cy="287" r="31"/><circle cx="321" cy="287" r="31"/></g></svg>

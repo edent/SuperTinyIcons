@@ -1,1 +1,6 @@
-<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" aria-label="Windows" role="img"><rect fill="#00adef" height="512" rx="15%" width="512"/><path d="M65 121l154-21v149H65M237 97l204-29v179H237M65 264h154v149L65 392m172-126h204v178l-204-29" fill="#fff"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Windows" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#00adef"/><path fill="#fff" d="M98 145l127-18v123H98m142-125l168-24v148H240M98 263h127v123L98 368m142-104h168v147l-168-24"/></svg>

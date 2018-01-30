@@ -9,7 +9,7 @@
         android:fillColor="#00adef"
         android:pathData="M 15 0 L 497 0 Q 512 0 512 15 L 512 497 Q 512 512 497 512 L 15 512 Q 0 512 0 497 L 0 15 Q 0 0 15 0 Z" />
     <path
-        android:fillColor="#000000"
-        android:fillType="evenOdd"
-        android:pathData="M210 441l270 39V28L24 92v323l209 29V243H24v21h209V63l-23 3v198h270v-21H210" />
+        android:fillColor="#fff"
+        android:pathData="M98 145l127-18v123H98m142-125l168-24v148H240M98 263h127v123L98
+368m142-104h168v147l-168-24" />
 </vector>
