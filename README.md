@@ -7,7 +7,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 
 ## How Small?
 
-| 542 Bytes SVG	| 2,956 Bytes PNG	|   422 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
+| 542 Bytes SVG	| 2,956 Bytes PNG	|   433 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" />       	|
 
@@ -19,7 +19,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/flickr.svg" width="125" title="flickr" /><br>250 Bytes</td>
 <td><img src="images/svg/facebook.svg" width="125" title="Facebook" /><br>283 Bytes</td>
 <td><img src="images/svg/tumblr.svg" width="125" title="tumblr" /><br>422 Bytes</td>
-<td><img src="images/svg/twitter.svg" width="125" title="Twitter" /><br>422 Bytes</td>
+<td><img src="images/svg/twitter.svg" width="125" title="Twitter" /><br>433 Bytes</td>
 <td><img src="images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>589 Bytes</td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
-<td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>323 Bytes</td>
+<td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>263 Bytes</td>
 <td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
 <td><img src="images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
 <td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>583 Bytes</td>
@@ -112,7 +112,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="images/svg/delicious.svg" width="125" title="delicious" /><br>270 Bytes</td>
-<td><img src="images/svg/disqus.svg" width="125" title="Disqus" /><br>376 Bytes</td>
+<td><img src="images/svg/disqus.svg" width="125" title="Disqus" /><br>281 Bytes</td>
 <td><img src="images/svg/ghost.svg" width="125" title="Ghost" /><br>259 Bytes</td>
 <td><img src="images/svg/opensource.svg" width="125" title="Open Source" /><br>262 Bytes</td>
 <td><img src="images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
