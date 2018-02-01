@@ -140,6 +140,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
 <td><img src="images/svg/pocket.svg" width="125" title="Pocket" /><br>518 Bytes</td>
 <td><img src="images/svg/stumbleupon.svg" width="125" title="StumbleUpon" /><br>599 Bytes</td>
+<td><img src="images/svg/viber.svg" width="125" title="viber" /><br>746 Bytes</td>
 <tr>
 </table>
 
