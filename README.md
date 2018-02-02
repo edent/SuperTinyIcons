@@ -3,7 +3,11 @@ Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourit
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
-Originally created for my contact page - [https://edent.tel/](https://edent.tel/)
+Say thanks!
+
+* <a href="https://amzn.to/2o95rA8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="40" /> Gift me something from my Amazon Wishlist
+* <a href="https://paypal.me/edent/gbp5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="40" /> Send me a tip
+* <a href="https://edent.tel/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" /> Leave me a message
 
 ## How Small?
 
