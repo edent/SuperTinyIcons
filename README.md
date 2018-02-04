@@ -137,7 +137,7 @@ Say thanks!
 <td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>362 Bytes</td>
 <td><img src="images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
 <td><img src="images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
-<tr>
+</tr>
 <tr>
 <td><img src="images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
 <td><img src="images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
