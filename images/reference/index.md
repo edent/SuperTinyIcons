@@ -91,6 +91,8 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/baidu.svg" width="256" />	| <img src="/images/reference/baidu.svg" width="256" />	| http://www.baidu.com/img/bd_logo1.png |
 | <img src="/images/svg/twitch.svg" width="256" />	| <img src="/images/reference/twitch.svg" width="256" />	| https://www.twitch.tv/p/brand/ |
 | <img src="/images/svg/ok.svg" width="256" />	| <img src="/images/reference/ok.png" width="256" />	| https://insideok.ru/brandbook |
+| <img src="/images/svg/stumbleupon.svg" width="256" />	| <img src="/images/reference/stumbleupon.png" width="256" />	| https://en.wikipedia.org/wiki/StumbleUpon#/media/File:StumbleUpon_Logo.svg |
+| <img src="/images/svg/pocket.svg" width="256" />	| <img src="/images/reference/pocket.png" width="256" />	| https://getpocket.com/blog/press/ |
 
 
 

@@ -3,11 +3,15 @@ Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourit
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
-Originally created for my contact page - [https://edent.tel/](https://edent.tel/)
+Say thanks!
+
+* <a href="https://amzn.to/2o95rA8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="40" /> Gift me something from my Amazon Wishlist
+* <a href="https://paypal.me/edent/gbp5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="40" /> Send me a tip
+* <a href="https://edent.tel/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" /> Leave me a message
 
 ## How Small?
 
-| 527 Bytes SVG	| 2,956 Bytes PNG	|   422 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
+| 542 Bytes SVG	| 2,956 Bytes PNG	|   433 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" />       	|
 
@@ -19,7 +23,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/flickr.svg" width="125" title="flickr" /><br>250 Bytes</td>
 <td><img src="images/svg/facebook.svg" width="125" title="Facebook" /><br>283 Bytes</td>
 <td><img src="images/svg/tumblr.svg" width="125" title="tumblr" /><br>422 Bytes</td>
-<td><img src="images/svg/twitter.svg" width="125" title="Twitter" /><br>422 Bytes</td>
+<td><img src="images/svg/twitter.svg" width="125" title="Twitter" /><br>433 Bytes</td>
 <td><img src="images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>589 Bytes</td>
 </tr>
 <tr>
@@ -35,8 +39,8 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/reddit.svg" width="125" title="Reddit" /><br>607 Bytes</td>
 <td><img src="images/svg/pinterest.svg" width="125" title="Pinterest" /><br>526 Bytes</td>
 <td><img src="images/svg/paypal.svg" width="125" title="PayPal" /><br>548 Bytes</td>
-<td><img src="images/svg/github.svg" width="125" title="GitHub" /><br>527 Bytes</td>
-<td><img src="images/svg/wikipedia.svg" width="125" title="Wikipedia" /><br>601 Bytes</td>
+<td><img src="images/svg/github.svg" width="125" title="GitHub" /><br>542 Bytes</td>
+<td><img src="images/svg/wikipedia.svg" width="125" title="Wikipedia" /><br>595 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/vimeo.svg" width="125" title="Vimeo" /><br>376 Bytes</td>
@@ -104,7 +108,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
-<td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>323 Bytes</td>
+<td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>263 Bytes</td>
 <td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
 <td><img src="images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
 <td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>583 Bytes</td>
@@ -112,7 +116,7 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 </tr>
 <tr>
 <td><img src="images/svg/delicious.svg" width="125" title="delicious" /><br>270 Bytes</td>
-<td><img src="images/svg/disqus.svg" width="125" title="Disqus" /><br>376 Bytes</td>
+<td><img src="images/svg/disqus.svg" width="125" title="Disqus" /><br>281 Bytes</td>
 <td><img src="images/svg/ghost.svg" width="125" title="Ghost" /><br>259 Bytes</td>
 <td><img src="images/svg/opensource.svg" width="125" title="Open Source" /><br>262 Bytes</td>
 <td><img src="images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
@@ -138,6 +142,9 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
 <td><img src="images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
 <td><img src="images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
+<td><img src="images/svg/pocket.svg" width="125" title="Pocket" /><br>518 Bytes</td>
+<td><img src="images/svg/stumbleupon.svg" width="125" title="StumbleUpon" /><br>599 Bytes</td>
+<td><img src="images/svg/viber.svg" width="125" title="viber" /><br>746 Bytes</td>
 <tr>
 </table>
 
@@ -196,6 +203,8 @@ The super tiny icons are accessible by default. Each icon has:
 * `aria-label="XYZ"` (where XYZ is the icon's brand name), to give the icon an accessible name
 
 `Note:` if using the ```<svg>``` as the `src` for an ```<img>``` element, the `alt` attribute should still be used on the ```<img>``` element because the ARIA is not recognised in this context.
+
+CSS-Tricks has also an [article about accessible SVG icons](https://css-tricks.com/accessible-svgs/).
 
 ### Guidelines
 
