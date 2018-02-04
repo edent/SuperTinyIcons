@@ -145,7 +145,10 @@ Say thanks!
 <td><img src="images/svg/pocket.svg" width="125" title="Pocket" /><br>518 Bytes</td>
 <td><img src="images/svg/stumbleupon.svg" width="125" title="StumbleUpon" /><br>599 Bytes</td>
 <td><img src="images/svg/viber.svg" width="125" title="viber" /><br>746 Bytes</td>
+</tr>
 <tr>
+<td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>557 Bytes</td>
+</tr>
 </table>
 
 ## Why so smallious?
