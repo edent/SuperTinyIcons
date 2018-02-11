@@ -3,7 +3,11 @@ Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourit
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
-Originally created for my contact page - [https://edent.tel/](https://edent.tel/)
+Say thanks!
+
+* <a href="https://amzn.to/2o95rA8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="40" /> Gift me something from my Amazon Wishlist
+* <a href="https://paypal.me/edent/gbp5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="40" /> Send me a tip
+* <a href="https://edent.tel/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" /> Leave me a message
 
 ## How Small?
 
@@ -133,14 +137,18 @@ Originally created for my contact page - [https://edent.tel/](https://edent.tel/
 <td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>362 Bytes</td>
 <td><img src="images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
 <td><img src="images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
-<tr>
+</tr>
 <tr>
 <td><img src="images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
 <td><img src="images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
 <td><img src="images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
 <td><img src="images/svg/pocket.svg" width="125" title="Pocket" /><br>518 Bytes</td>
 <td><img src="images/svg/stumbleupon.svg" width="125" title="StumbleUpon" /><br>599 Bytes</td>
+<td><img src="images/svg/viber.svg" width="125" title="viber" /><br>746 Bytes</td>
+</tr>
 <tr>
+<td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>557 Bytes</td>
+</tr>
 </table>
 
 ## Why so smallious?
