@@ -147,7 +147,7 @@ Say thanks!
 <td><img src="images/svg/viber.svg" width="125" title="viber" /><br>746 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>557 Bytes</td>
+<td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>490 Bytes</td>
 </tr>
 </table>
 
