@@ -148,6 +148,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>490 Bytes</td>
+<td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>490 Bytes</td>
 </tr>
 </table>
 
