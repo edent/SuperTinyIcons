@@ -148,6 +148,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>490 Bytes</td>
+<td><img src="images/svg/dribbble.svg" width="125" title="dribbble" /><br>390 Bytes</td>
 </tr>
 </table>
 

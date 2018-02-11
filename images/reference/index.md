@@ -1,6 +1,6 @@
 # Reference Images
 
-A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo. 
+A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo.
 Where possible this links to the organisation's brand guidelines page.
 
 | Super Tiny SVG	| Official Logo | Source	|
@@ -94,6 +94,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/stumbleupon.svg" width="256" />	| <img src="/images/reference/stumbleupon.png" width="256" />	| https://en.wikipedia.org/wiki/StumbleUpon#/media/File:StumbleUpon_Logo.svg |
 | <img src="/images/svg/pocket.svg" width="256" />	| <img src="/images/reference/pocket.png" width="256" />	| https://getpocket.com/blog/press/ |
 | <img src="/images/svg/buffer.svg" width="256" />	| <img src="/images/reference/buffer.jpg" width="256" />	| https://buffer.com/press |
-
-
-
+| <img src="/images/svg/dribbble.svg" width="256" />	| <img src="/images/reference/dribble.png" width="256" />	| https://dribbble.com/branding |
