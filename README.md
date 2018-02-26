@@ -149,6 +149,8 @@ Say thanks!
 <tr>
 <td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>490 Bytes</td>
 <td><img src="images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
+<td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>671 Bytes</td>
+<td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>1019 Bytes</td>
 </tr>
 </table>
 
@@ -263,6 +265,6 @@ The majority of these vector logos are based on someone else's work.
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
-IBM, Yammer, Android, Authy, ClourFlare, CodePen, DigitalOcean, Discord, AirBnB, WiFi, delicious, opensource, Patreon
+IBM, Yammer, Android, Authy, CloudFlare, CodePen, DigitalOcean, Discord, AirBnB, WiFi, delicious, opensource, Patreon
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
