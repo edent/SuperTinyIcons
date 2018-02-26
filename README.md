@@ -62,7 +62,7 @@ Say thanks!
 <td><img src="images/svg/vk.svg" width="125" title="VK" /><br>534 Bytes</td>
 <td><img src="images/svg/rss.svg" width="125" title="RSS" /><br>309 Bytes</td>
 <td><img src="images/svg/mail.svg" width="125" title="mail" /><br>572 Bytes</td>
-<td><img src="images/svg/email.svg" width="125" title="email" /><br>343 Bytes</td>
+<td><img src="images/svg/email.svg" width="125" title="email" /><br>342 Bytes</td>
 <td><img src="images/svg/mastodon.svg" width="125" title="Mastodon" /><br>550 Bytes</td>
 <td><img src="images/svg/wire.svg" width="125" title="Wire" /><br>286 Bytes</td>
 </tr>
@@ -83,7 +83,7 @@ Say thanks!
 <td><img src="images/svg/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>684 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/apple.svg" width="125" title="Apple" /><br>417 Bytes</td>
+<td><img src="images/svg/apple.svg" width="125" title="Apple" /><br>286 Bytes</td>
 <td><img src="images/svg/npm.svg" width="125" title="NPM" /><br>329 Bytes</td>
 <td><img src="images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
 <td><img src="images/svg/symantec.svg" width="125" title="Symantec" /><br>754 Bytes</td>
@@ -99,7 +99,7 @@ Say thanks!
 <td><img src="images/svg/bluetooth.svg" width="125" title="bluetooth" /><br>253 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/ibm.svg" width="125" title="IBM" /><br>570 Bytes</td>
+<td><img src="images/svg/ibm.svg" width="125" title="IBM" /><br>569 Bytes</td>
 <td><img src="images/svg/yammer.svg" width="125" title="Yammer" /><br>479 Bytes</td>
 <td><img src="images/svg/android.svg" width="125" title="Android" /><br>551 Bytes</td>
 <td><img src="images/svg/authy.svg" width="125" title="Authy" /><br>365 Bytes</td>
@@ -133,7 +133,7 @@ Say thanks!
 <tr>
 <td><img src="images/svg/twilio.svg" width="125" title="Twilio" /><br>377 Bytes</td>
 <td><img src="images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
-<td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>853 Bytes</td>
+<td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>852 Bytes</td>
 <td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>362 Bytes</td>
 <td><img src="images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
 <td><img src="images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
@@ -142,14 +142,14 @@ Say thanks!
 <td><img src="images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
 <td><img src="images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
 <td><img src="images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
-<td><img src="images/svg/pocket.svg" width="125" title="Pocket" /><br>518 Bytes</td>
+<td><img src="images/svg/pocket.svg" width="125" title="Pocket" /><br>517 Bytes</td>
 <td><img src="images/svg/stumbleupon.svg" width="125" title="StumbleUpon" /><br>599 Bytes</td>
-<td><img src="images/svg/viber.svg" width="125" title="viber" /><br>746 Bytes</td>
+<td><img src="images/svg/viber.svg" width="125" title="viber" /><br>744 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>490 Bytes</td>
+<td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>489 Bytes</td>
 <td><img src="images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
-<td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>671 Bytes</td>
+<td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>670 Bytes</td>
 <td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>1019 Bytes</td>
 </tr>
 </table>
