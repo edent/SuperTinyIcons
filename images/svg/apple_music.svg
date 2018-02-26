@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="Apple Music" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><path id="c" d="M199 359V199q0-9 10-11l138-28q11-2 12 10v122q0 15-45 20c-57 9-48 105 30 79 30-11 35-40 35-69V88s0-20-17-15l-170 35s-13 2-13 18v203q0 15-45 20c-57 9-48 105 30 79 30-11 35-40 35-69"/><filter id="f"><feGaussianBlur stdDeviation="3"/><feComposite operator="out"/></filter><linearGradient id="d" x1=".78" x2=".29" y1=".92" y2=".6"><stop stop-color="#3ea7fc"/><stop offset="1" stop-color="#fff0"/></linearGradient><linearGradient id="e" x1=".75" x2=".93" y1=".16" y2=".59"><stop stop-color="#fd5b70"/><stop offset="1" stop-color="#fff0"/></linearGradient><use fill="#915fff" xlink:href="#c"/><use fill="url(#d)" xlink:href="#c"/><use fill="url(#e)" xlink:href="#c"/><clipPath id="b"><use xlink:href="#c"/></clipPath><use filter="url(#f)" fill="#777" xlink:href="#c" clip-path="url(#b)"/></svg>

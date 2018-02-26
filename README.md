@@ -148,6 +148,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>490 Bytes</td>
+<td><img src="images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
 </tr>
 </table>
 
