@@ -1,10 +1,10 @@
-Thanks for sumbitting or fixing an icon! Here is a helpful guide to what you need to include.
+Thanks for submitting or fixing an icon! Here is a helpful guide to what you need to include.
 
 - [ ] New file
 - [ ] Edit Readme
 - [ ] Edit radius page
 - [ ] Add reference image
-- [ ] Edit refernce page
+- [ ] Edit reference page
 - [ ] (optional) Android Image
 
 ## New File

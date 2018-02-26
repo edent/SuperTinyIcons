@@ -263,6 +263,6 @@ The majority of these vector logos are based on someone else's work.
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
-IBM, Yammer, Android, Authy, ClourFlare, CodePen, DigitalOcean, Discord, AirBnB, WiFi, delicious, opensource, Patreon
+IBM, Yammer, Android, Authy, CloudFlare, CodePen, DigitalOcean, Discord, AirBnB, WiFi, delicious, opensource, Patreon
 
 Where possible, they retain their original licenses.  Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
