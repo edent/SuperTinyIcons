@@ -150,7 +150,7 @@ Say thanks!
 <td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>489 Bytes</td>
 <td><img src="images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
 <td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>670 Bytes</td>
-<td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>1019 Bytes</td>
+<td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>903 Bytes</td>
 </tr>
 </table>
 
