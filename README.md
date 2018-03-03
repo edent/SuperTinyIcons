@@ -151,7 +151,7 @@ Say thanks!
 <td><img src="images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
 <td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>670 Bytes</td>
 <td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>903 Bytes</td>
-<td><img src="images/svg/workato.svg" width="125" title="workato" /><br>618 Bytes</td>
+<td><img src="images/svg/workato.svg" width="125" title="workato" /><br>495 Bytes</td>
 </tr>
 </table>
 
