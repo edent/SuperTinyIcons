@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="workato" role="img"
+viewBox="0 0 512 512"
+fill="#fff"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/>
+<polygon fill="#ec6c00" points="457 205 257 437 57 205"></polygon>
+<polygon fill="#ffae00" points="370 88 457 205 376 205 257 437 138 205 57 205 144 88"></polygon>
+<polygon fill="#ffefB4" points="257 76 376 205 138 205"></polygon>
+<polygon fill="#fed305" points="257 76 370 88 376 205 257 76 138 205 144 88"></polygon></svg>

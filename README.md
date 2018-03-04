@@ -152,6 +152,7 @@ Say thanks!
 <td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>670 Bytes</td>
 <td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>903 Bytes</td>
 <td><img src="images/svg/workato.svg" width="125" title="workato" /><br>495 Bytes</td>
+<td><img src="images/svg/sketch.svg" width="125" title="Sketch" /><br>528 Bytes</td>
 </tr>
 </table>
 
