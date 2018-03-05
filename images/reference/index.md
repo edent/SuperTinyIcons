@@ -96,3 +96,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/buffer.svg" width="256" />	| <img src="/images/reference/buffer.jpg" width="256" />	| https://buffer.com/press |
 | <img src="/images/svg/workato.svg" width="256" />	| <img src="/images/reference/workato.svg" width="256" />	| https://workato.com |
 | <img src="/images/svg/sketch.svg" width="256" />	| <img src="/images/reference/sketch.svg" width="256" />	| https://www.sketchapp.com/ |
+| <img src="/images/svg/vlc.svg" width="256" />	| <img src="/images/reference/vlc.png" width="256" />	| https://www.videolan.org/|

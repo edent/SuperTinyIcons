@@ -154,6 +154,9 @@ Say thanks!
 <td><img src="images/svg/workato.svg" width="125" title="workato" /><br>495 Bytes</td>
 <td><img src="images/svg/sketch.svg" width="125" title="Sketch" /><br>528 Bytes</td>
 </tr>
+<tr>
+<td><img src="images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
+</tr>
 </table>
 
 ## Why so smallious?
