@@ -156,7 +156,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
-<td><img src="images/svg/google_maps.svg" width="125" title="Google Maps" /><br>1004 Bytes</td>
+<td><img src="images/svg/google_maps.svg" width="125" title="Google Maps" /><br>1003 Bytes</td>
 </tr>
 </table>
 
