@@ -97,3 +97,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/workato.svg" width="256" />	| <img src="/images/reference/workato.svg" width="256" />	| https://workato.com |
 | <img src="/images/svg/sketch.svg" width="256" />	| <img src="/images/reference/sketch.svg" width="256" />	| https://www.sketchapp.com/ |
 | <img src="/images/svg/vlc.svg" width="256" />	| <img src="/images/reference/vlc.png" width="256" />	| https://www.videolan.org/|
+| <img src="/images/svg/access.svg" width="256" />	| <img src="/images/reference/access.png" width="256" />	| https://en.wikipedia.org/wiki/International_Symbol_of_Access|
