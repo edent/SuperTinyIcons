@@ -158,7 +158,7 @@ Say thanks!
 <td><img src="images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
 <td><img src="images/svg/google_maps.svg" width="125" title="Google Maps" /><br>1003 Bytes</td>
 <td><img src="images/svg/access.svg" width="125" title="Access" /><br>399 Bytes</td>
-<td><img src="images/svg/ethereum.svg" width="125" title="ethereum" /><br>639 Bytes</td>
+<td><img src="images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
 </tr>
 </table>
 
