@@ -150,12 +150,15 @@ Say thanks!
 <td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>489 Bytes</td>
 <td><img src="images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
 <td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>670 Bytes</td>
-<td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>903 Bytes</td>
+<td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>956 Bytes</td>
 <td><img src="images/svg/workato.svg" width="125" title="workato" /><br>495 Bytes</td>
 <td><img src="images/svg/sketch.svg" width="125" title="Sketch" /><br>528 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/ethereum.svg" width="125" title="ethereum" /><br>638 Bytes</td>
+<td><img src="images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
+<td><img src="images/svg/google_maps.svg" width="125" title="Google Maps" /><br>1003 Bytes</td>
+<td><img src="images/svg/access.svg" width="125" title="Access" /><br>399 Bytes</td>
+<td><img src="images/svg/ethereum.svg" width="125" title="ethereum" /><br>639 Bytes</td>
 </tr>
 </table>
 
