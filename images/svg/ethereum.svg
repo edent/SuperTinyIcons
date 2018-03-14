@@ -1,14 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-xmlns:xlink="http://www.w3.org/1999/xlink"
-aria-label="ethereum" role="img"
-viewBox="0 0 512 512"
-fill="#fff"><rect
+aria-label="Ethereum" role="img"
+viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/>
-<polygon fill="#3C3C3B" points="256.077043 362 235 407 256 469 387 284"></polygon>
-<polygon fill="#8C8C8C" points="256 469 256 362 124 284"></polygon>
-<polygon fill="#343434" points="256 41 124 259 256 337 387 259"></polygon>
-<polygon fill="#8C8C8C" points="256 41 124 259 256 199"></polygon>
-<polygon fill="#141414" points="256 337 387 259 256 199"></polygon>
-<polygon fill="#393939" points="124 259 256 337 256 199"></polygon></svg>
+fill="#fff"/><path fill="#3C3C3B" d="M256 362l-21 45 21 62 131-185z"/><path fill="#8C8C8C" d="M256 469V362l-132-78z"/><path fill="#343434" d="M256 41L124 259l132 78 131-78z"/><path fill="#8C8C8C" d="M256 41L124 259l132-60z"/><path fill="#141414" d="M256 337l131-78-131-60z"/><path fill="#393939" d="M124 259l132 78V199z"/></svg>
