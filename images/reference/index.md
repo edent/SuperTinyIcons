@@ -99,3 +99,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/vlc.svg" width="256" />	| <img src="/images/reference/vlc.png" width="256" />	| https://www.videolan.org/|
 | <img src="/images/svg/access.svg" width="256" />	| <img src="/images/reference/access.png" width="256" />	| https://en.wikipedia.org/wiki/International_Symbol_of_Access|
 | <img src="/images/svg/ethereum.svg" width="256" />	| <img src="/images/reference/ethereum.svg" width="256" />	| https://www.ethereum.org/ |
+| <img src="/images/svg/opencast.svg" width="256" />	| <img src="/images/reference/opencast.svg" width="256" />	| http://www.opencast.org/ |
