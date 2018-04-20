@@ -68,7 +68,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="images/svg/tox.svg" width="125" title="Tox" /><br>494 Bytes</td>
-<td><img src="images/svg/gitlab.svg" width="125" title="GitLab" /><br>423 Bytes</td>
+<td><img src="images/svg/gitlab.svg" width="125" title="GitLab" /><br>426 Bytes</td>
 <td><img src="images/svg/phone.svg" width="125" title="Phone" /><br>591 Bytes</td>
 <td><img src="images/svg/lock.svg" width="125" title="Lock" /><br>393 Bytes</td>
 <td><img src="images/svg/html5.svg" width="125" title="HTML5" /><br>399 Bytes</td>
