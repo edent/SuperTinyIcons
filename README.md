@@ -160,6 +160,7 @@ Say thanks!
 <td><img src="images/svg/access.svg" width="125" title="Access" /><br>399 Bytes</td>
 <td><img src="images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
 <td><img src="images/svg/opencast.svg" width="125" title="Opencast" /><br>313 Bytes</td>
+<td><img src="images/svg/stackexchange.svg" width="125" title="Stack Exchange" /><br>476 Bytes</td>
 </tr>
 </table>
 
