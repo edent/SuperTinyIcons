@@ -1,0 +1,6 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+aria-label="Stack Exchange" role="img"
+viewBox="0 0 512 512"><rect width="512" height="512"
+fill="#242729"
+rx="15%"/><path fill="#376db6" d="M106 232.3h298v61.4H106z"/><path fill="#4ca2da" d="M106 153h298v61.4H106z"/><path fill="#91d8f4" d="M357.4 71H153.8a48.5 48.5 0 0 0-47.8 49v15.9h298v-16c0-27-20.7-49-46.6-49z"/><path fill="#1e5397" d="M106 311.2v16c0 27 21.5 49 47.8 49h127.5V441l63-65h13.9a48.5 48.5 0 0 0 47.8-49v-16z"/></svg>
