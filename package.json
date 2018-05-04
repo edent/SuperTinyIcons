@@ -1,0 +1,14 @@
+{
+  "name": "super-tiny-icons",
+  "version": "1.0.0",
+  "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+  "files": [
+    "images"
+  ],
+  "author": "Terence Eden",
+  "keywords": [
+    "icons",
+    "svg",
+    "iconset"
+  ]
+}
