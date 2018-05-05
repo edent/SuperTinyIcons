@@ -1,14 +1,24 @@
 {
-  "name": "super-tiny-icons",
-  "version": "1.0.0",
-  "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
-  "files": [
-    "images"
-  ],
-  "author": "Terence Eden",
-  "keywords": [
-    "icons",
-    "svg",
-    "iconset"
-  ]
+	"name": "super-tiny-icons",
+	"version": "0.1.0",
+	"description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+	"homepage": "https://github.com/edent/SuperTinyIcons/",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/edent/SuperTinyIcons/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/edent/SuperTinyIcons.git"
+	},
+	"files": [
+		"images/svg/"
+	],
+	"author": {
+		"name": "Terence Eden",
+		"url": "https://shkspr.mobi/blog/"
+	},
+	"keywords": [
+		"icons", "svg", "iconset", "logo", "logos"
+	]
 }
