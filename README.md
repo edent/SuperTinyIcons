@@ -162,6 +162,14 @@ Say thanks!
 <td><img src="images/svg/opencast.svg" width="125" title="Opencast" /><br>313 Bytes</td>
 <td><img src="images/svg/stackexchange.svg" width="125" title="Stack Exchange" /><br>476 Bytes</td>
 </tr>
+<tr>
+<td><img src="images/svg/qq.svg" width="125" title="QQ" /><br>994 Bytes</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 ## Why so smallious?

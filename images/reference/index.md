@@ -101,3 +101,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/ethereum.svg" width="256" />	| <img src="/images/reference/ethereum.svg" width="256" />	| https://www.ethereum.org/ |
 | <img src="/images/svg/opencast.svg" width="256" />	| <img src="/images/reference/opencast.svg" width="256" />	| http://www.opencast.org/ |
 | <img src="/images/svg/stackexchange.svg" width="256" />	| <img src="/images/reference/stackexchange.svg" width="256" />	| https://stackoverflow.com/company/logos |
+| <img src="/images/svg/qq.svg" width="256" />	| <img src="/images/reference/qq.png" width="256" />	| http://www.imqq.com/English1033.html |
