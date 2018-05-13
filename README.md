@@ -164,7 +164,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="images/svg/qq.svg" width="125" title="QQ" /><br>994 Bytes</td>
-<td></td>
+<td><img src="images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>262 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
