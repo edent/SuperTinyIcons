@@ -1,0 +1,17 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="GOG.com" role="img"
+viewBox="0 0 512 512"
+fill="#333">
+<rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/>
+<path id="g" d="M84 265h82q17-1 18-18V139q-1-17-18-18h-64q-17 1-18 18v64q1 17 18 18h43v-24h-29q-8 0-8-8v-36q0-8 8-8h36q8 0 8 8v80q0 8-8 8H84z"/>
+<path id="o" d="M256 221h32q17-1 18-18v-64q-1-17-18-18h-64q-17 1-18 18v64q1 17 18 18h32v-24h18q8 0 8-8v-36q0-8-8-8h-36q-8 0-8 8v36q0 8 8 8h18z" fill-rule="evenodd"/>
+<use transform="translate(244)" xlink:href="#g"/>
+<path d="M167 291h-65q-17 1-18 18v64q1 17 18 18h65v-24h-51q-8 0-8-8v-36q0-8 8-8h51z"/>
+<use transform="translate(-19 170)" xlink:href="#o"/>
+<path d="M307 391h24v-67q0-8 8-8h16v75h24v-67q0-8 8-8h16v75h24V291H325q-17-1-18 18z"/>
+</svg>
