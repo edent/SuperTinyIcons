@@ -133,7 +133,7 @@ Say thanks!
 <tr>
 <td><img src="images/svg/twilio.svg" width="125" title="Twilio" /><br>377 Bytes</td>
 <td><img src="images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
-<td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>852 Bytes</td>
+<td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>804 Bytes</td>
 <td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>362 Bytes</td>
 <td><img src="images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
 <td><img src="images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
@@ -151,8 +151,8 @@ Say thanks!
 <td><img src="images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
 <td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>670 Bytes</td>
 <td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>956 Bytes</td>
-<td><img src="images/svg/workato.svg" width="125" title="workato" /><br>495 Bytes</td>
-<td><img src="images/svg/sketch.svg" width="125" title="Sketch" /><br>528 Bytes</td>
+<td><img src="images/svg/workato.svg" width="125" title="workato" /><br>489 Bytes</td>
+<td><img src="images/svg/sketch.svg" width="125" title="Sketch" /><br>492 Bytes</td>
 </tr>
 <tr>
 <td><img src="images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
