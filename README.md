@@ -19,153 +19,153 @@ Say thanks!
 
 <table>
 <tr>
-<td><img src="images/svg/hackernews.svg" width="125" title="Hacker News" /><br>229 Bytes</td>
-<td><img src="images/svg/flickr.svg" width="125" title="flickr" /><br>250 Bytes</td>
-<td><img src="images/svg/facebook.svg" width="125" title="Facebook" /><br>283 Bytes</td>
-<td><img src="images/svg/tumblr.svg" width="125" title="tumblr" /><br>422 Bytes</td>
-<td><img src="images/svg/twitter.svg" width="125" title="Twitter" /><br>433 Bytes</td>
-<td><img src="images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>589 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg" width="125" title="Hacker News" /><br>229 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="125" title="flickr" /><br>250 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" /><br>283 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/tumblr.svg" width="125" title="tumblr" /><br>422 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" /><br>433 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>589 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/dropbox.svg" width="125" title="Dropbox" /><br>289 Bytes</td>
-<td><img src="images/svg/telegram.svg" width="125" title="Telegram" /><br>419 Bytes</td>
-<td><img src="images/svg/linkedin.svg" width="125" title="LinkedIn" /><br>370 Bytes</td>
-<td><img src="images/svg/stackoverflow.svg" width="125" title="StackOverflow" /><br>329 Bytes</td>
-<td><img src="images/svg/instagram.svg" width="125" title="Instagram" /><br>345 Bytes</td>
-<td><img src="images/svg/wordpress.svg" width="125" title="WordPress" /><br>513 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/dropbox.svg" width="125" title="Dropbox" /><br>289 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="125" title="Telegram" /><br>419 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" /><br>370 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="125" title="StackOverflow" /><br>329 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="125" title="Instagram" /><br>345 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wordpress.svg" width="125" title="WordPress" /><br>513 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/skype.svg" width="125" title="Skype" /><br>487 Bytes</td>
-<td><img src="images/svg/reddit.svg" width="125" title="Reddit" /><br>607 Bytes</td>
-<td><img src="images/svg/pinterest.svg" width="125" title="Pinterest" /><br>526 Bytes</td>
-<td><img src="images/svg/paypal.svg" width="125" title="PayPal" /><br>548 Bytes</td>
-<td><img src="images/svg/github.svg" width="125" title="GitHub" /><br>542 Bytes</td>
-<td><img src="images/svg/wikipedia.svg" width="125" title="Wikipedia" /><br>595 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="125" title="Skype" /><br>487 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="125" title="Reddit" /><br>607 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="125" title="Pinterest" /><br>526 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="125" title="PayPal" /><br>548 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="125" title="GitHub" /><br>542 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wikipedia.svg" width="125" title="Wikipedia" /><br>595 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/vimeo.svg" width="125" title="Vimeo" /><br>376 Bytes</td>
-<td><img src="images/svg/slideshare.svg" width="125" title="SlideShare" /><br>672 Bytes</td>
-<td><img src="images/svg/soundcloud.svg" width="125" title="SoundCloud" /><br>959 Bytes</td>
-<td><img src="images/svg/spotify.svg" width="125" title="Spotify" /><br>436 Bytes</td>
-<td><img src="images/svg/snapchat.svg" width="125" title="SnapChat" /><br>649 Bytes</td>
-<td><img src="images/svg/amazon.svg" width="125" title="Amazon" /><br>673 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vimeo.svg" width="125" title="Vimeo" /><br>376 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/slideshare.svg" width="125" title="SlideShare" /><br>672 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="125" title="SoundCloud" /><br>959 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /><br>436 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="125" title="SnapChat" /><br>649 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="125" title="Amazon" /><br>673 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/steam.svg" width="125" title="Steam" /><br>455 Bytes</td>
-<td><img src="images/svg/google.svg" width="125" title="Google" /><br>484 Bytes</td>
-<td><img src="images/svg/google_plus.svg" width="125" title="Google Plus" /><br>397 Bytes</td>
-<td><img src="images/svg/wechat.svg" width="125" title="WeChat" /><br>639 Bytes</td>
-<td><img src="images/svg/youtube.svg" width="125" title="YouTube" /><br>359 Bytes</td>
-<td><img src="images/svg/pdf.svg" width="125" title="PDF" /><br>674 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/steam.svg" width="125" title="Steam" /><br>455 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="125" title="Google" /><br>484 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="125" title="Google Plus" /><br>397 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wechat.svg" width="125" title="WeChat" /><br>639 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="125" title="YouTube" /><br>359 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg" width="125" title="PDF" /><br>674 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/vk.svg" width="125" title="VK" /><br>534 Bytes</td>
-<td><img src="images/svg/rss.svg" width="125" title="RSS" /><br>309 Bytes</td>
-<td><img src="images/svg/mail.svg" width="125" title="mail" /><br>572 Bytes</td>
-<td><img src="images/svg/email.svg" width="125" title="email" /><br>342 Bytes</td>
-<td><img src="images/svg/mastodon.svg" width="125" title="Mastodon" /><br>550 Bytes</td>
-<td><img src="images/svg/wire.svg" width="125" title="Wire" /><br>286 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vk.svg" width="125" title="VK" /><br>534 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="125" title="RSS" /><br>309 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="125" title="mail" /><br>572 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="email" /><br>342 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="125" title="Mastodon" /><br>550 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="125" title="Wire" /><br>286 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/tox.svg" width="125" title="Tox" /><br>494 Bytes</td>
-<td><img src="images/svg/gitlab.svg" width="125" title="GitLab" /><br>426 Bytes</td>
-<td><img src="images/svg/phone.svg" width="125" title="Phone" /><br>591 Bytes</td>
-<td><img src="images/svg/lock.svg" width="125" title="Lock" /><br>393 Bytes</td>
-<td><img src="images/svg/html5.svg" width="125" title="HTML5" /><br>399 Bytes</td>
-<td><img src="images/svg/meetup.svg" width="125" title="Meetup" /><br>524 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/tox.svg" width="125" title="Tox" /><br>494 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitlab.svg" width="125" title="GitLab" /><br>426 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="125" title="Phone" /><br>591 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/lock.svg" width="125" title="Lock" /><br>393 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="125" title="HTML5" /><br>399 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/meetup.svg" width="125" title="Meetup" /><br>524 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/line.svg" width="125" title="Line" /><br>478 Bytes</td>
-<td><img src="images/svg/lastpass.svg" width="125" title="LastPass" /><br>320 Bytes</td>
-<td><img src="images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>270 Bytes</td>
-<td><img src="images/svg/digidentity.svg" width="125" title="Digidentity" /><br>389 Bytes</td>
-<td><img src="images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>492 Bytes</td>
-<td><img src="images/svg/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>684 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/line.svg" width="125" title="Line" /><br>478 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/lastpass.svg" width="125" title="LastPass" /><br>320 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>270 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/digidentity.svg" width="125" title="Digidentity" /><br>389 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>492 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="125" title="Atlassian BitBucket" /><br>684 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/apple.svg" width="125" title="Apple" /><br>286 Bytes</td>
-<td><img src="images/svg/npm.svg" width="125" title="NPM" /><br>329 Bytes</td>
-<td><img src="images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
-<td><img src="images/svg/symantec.svg" width="125" title="Symantec" /><br>754 Bytes</td>
-<td><img src="images/svg/yubico.svg" width="125" title="Yubico" /><br>309 Bytes</td>
-<td><img src="images/svg/keybase.svg" width="125" title="Keybase" /><br>647 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="125" title="Apple" /><br>286 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="125" title="NPM" /><br>329 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.svg" width="125" title="Symantec" /><br>754 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="125" title="Yubico" /><br>309 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/keybase.svg" width="125" title="Keybase" /><br>647 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/ebay.svg" width="125" title="eBay" /><br>819 Bytes</td>
-<td><img src="images/svg/evernote.svg" width="125" title="Evernote" /><br>704 Bytes</td>
-<td><img src="images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>288 Bytes</td>
-<td><img src="images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>379 Bytes</td>
-<td><img src="images/svg/bitcoin.svg" width="125" title="BitCoin" /><br>529 Bytes</td>
-<td><img src="images/svg/bluetooth.svg" width="125" title="bluetooth" /><br>253 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ebay.svg" width="125" title="eBay" /><br>819 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="125" title="Evernote" /><br>704 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>288 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>379 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="125" title="BitCoin" /><br>529 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="125" title="bluetooth" /><br>253 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/ibm.svg" width="125" title="IBM" /><br>569 Bytes</td>
-<td><img src="images/svg/yammer.svg" width="125" title="Yammer" /><br>479 Bytes</td>
-<td><img src="images/svg/android.svg" width="125" title="Android" /><br>551 Bytes</td>
-<td><img src="images/svg/authy.svg" width="125" title="Authy" /><br>365 Bytes</td>
-<td><img src="images/svg/blogger.svg" width="125" title="Blogger" /><br>354 Bytes</td>
-<td><img src="images/svg/cloudflare.svg" width="125" title="CloudFlare" /><br>500 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ibm.svg" width="125" title="IBM" /><br>569 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="125" title="Yammer" /><br>479 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" width="125" title="Android" /><br>551 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="125" title="Authy" /><br>365 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/blogger.svg" width="125" title="Blogger" /><br>354 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="125" title="CloudFlare" /><br>500 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
-<td><img src="images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>263 Bytes</td>
-<td><img src="images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
-<td><img src="images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
-<td><img src="images/svg/airbnb.svg" width="125" title="AirBnB" /><br>583 Bytes</td>
-<td><img src="images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>683 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/digitalocean.svg" width="125" title="Digital Ocean" /><br>263 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/airbnb.svg" width="125" title="AirBnB" /><br>583 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>683 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/delicious.svg" width="125" title="delicious" /><br>270 Bytes</td>
-<td><img src="images/svg/disqus.svg" width="125" title="Disqus" /><br>281 Bytes</td>
-<td><img src="images/svg/ghost.svg" width="125" title="Ghost" /><br>259 Bytes</td>
-<td><img src="images/svg/opensource.svg" width="125" title="Open Source" /><br>262 Bytes</td>
-<td><img src="images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
-<td><img src="images/svg/trello.svg" width="125" title="Trello" /><br>276 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/delicious.svg" width="125" title="delicious" /><br>270 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="125" title="Disqus" /><br>281 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="125" title="Ghost" /><br>259 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/opensource.svg" width="125" title="Open Source" /><br>262 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/trello.svg" width="125" title="Trello" /><br>276 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/intel.svg" width="125" title="intel" /><br>948 Bytes</td>
-<td><img src="images/svg/badoo.svg" width="125" title="Badoo" /><br>297 Bytes</td>
-<td><img src="images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
-<td><img src="images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
-<td><img src="images/svg/google_play.svg" width="125" title="Google Play" /><br>438 Bytes</td>
-<td><img src="images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/intel.svg" width="125" title="intel" /><br>948 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="125" title="Badoo" /><br>297 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>438 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/twilio.svg" width="125" title="Twilio" /><br>377 Bytes</td>
-<td><img src="images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
-<td><img src="images/svg/slack.svg" width="125" title="Slack" /><br>804 Bytes</td>
-<td><img src="images/svg/xing.svg" width="125" title="Xing" /><br>362 Bytes</td>
-<td><img src="images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
-<td><img src="images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="125" title="Twilio" /><br>377 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="125" title="Slack" /><br>804 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/xing.svg" width="125" title="Xing" /><br>362 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
-<td><img src="images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
-<td><img src="images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
-<td><img src="images/svg/pocket.svg" width="125" title="Pocket" /><br>517 Bytes</td>
-<td><img src="images/svg/stumbleupon.svg" width="125" title="StumbleUpon" /><br>599 Bytes</td>
-<td><img src="images/svg/viber.svg" width="125" title="viber" /><br>744 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/baidu.svg" width="125" title="baidu" /><br>799 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitch.svg" width="125" title="Twitch" /><br>308 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ok.svg" width="125" title="OK.ru" /><br>652 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocket.svg" width="125" title="Pocket" /><br>517 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/stumbleupon.svg" width="125" title="StumbleUpon" /><br>599 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="125" title="viber" /><br>744 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/buffer.svg" width="125" title="buffer" /><br>489 Bytes</td>
-<td><img src="images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
-<td><img src="images/svg/upwork.svg" width="125" title="UpWork" /><br>670 Bytes</td>
-<td><img src="images/svg/calendar.svg" width="125" title="Calendar" /><br>956 Bytes</td>
-<td><img src="images/svg/workato.svg" width="125" title="workato" /><br>489 Bytes</td>
-<td><img src="images/svg/sketch.svg" width="125" title="Sketch" /><br>492 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/buffer.svg" width="125" title="buffer" /><br>489 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>998 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="125" title="UpWork" /><br>670 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="125" title="Calendar" /><br>956 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="125" title="workato" /><br>489 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="125" title="Sketch" /><br>492 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
-<td><img src="images/svg/google_maps.svg" width="125" title="Google Maps" /><br>1003 Bytes</td>
-<td><img src="images/svg/access.svg" width="125" title="Access" /><br>399 Bytes</td>
-<td><img src="images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
-<td><img src="images/svg/opencast.svg" width="125" title="Opencast" /><br>313 Bytes</td>
-<td><img src="images/svg/stackexchange.svg" width="125" title="Stack Exchange" /><br>476 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>1003 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/access.svg" width="125" title="Access" /><br>399 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencast.svg" width="125" title="Opencast" /><br>313 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackexchange.svg" width="125" title="Stack Exchange" /><br>476 Bytes</td>
 </tr>
 <tr>
-<td><img src="images/svg/qq.svg" width="125" title="QQ" /><br>994 Bytes</td>
-<td><img src="images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>311 Bytes</td>
-<td><img src="images/svg/gogcom.svg" width="125" title="GOG.com" /><br>800 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/qq.svg" width="125" title="QQ" /><br>994 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>311 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="125" title="GOG.com" /><br>800 Bytes</td>
 <td></td>
 <td></td>
 <td></td>
