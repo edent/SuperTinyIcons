@@ -5,9 +5,33 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 
 Say thanks!
 
-* <a href="https://amzn.to/2o95rA8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="40" /> Gift me something from my Amazon Wishlist
-* <a href="https://paypal.me/edent/gbp5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="40" /> Send me a tip
-* <a href="https://edent.tel/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" /> Leave me a message
+* <a href="https://amzn.to/2o95rA8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="40" /> Gift me something from my Amazon Wishlist</a>
+* <a href="https://paypal.me/edent/gbp5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="40" /> Send me a tip</a>
+* <a href="https://edent.tel/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" /> Leave me a message</a>
+
+## Installation
+
+```sh
+npm install --save super-tiny-icons
+```
+
+## Usage
+
+The old-school way:
+
+```html
+<img src="./node_modules/super-tiny-icons/images/svg/github.svg">
+```
+
+The modern way, the React (JSX) example:
+
+```jsx
+import logo from 'super-tiny-icons/images/svg/github.svg';
+
+<img src={logo} />
+```
+
+The demo repository bootstrapped with `create-react-app`: [create-react-app-super-tiny-icons](https://github.com/limonte/create-react-app-super-tiny-icons)
 
 ## How Small?
 
