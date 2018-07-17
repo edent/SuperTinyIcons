@@ -9,30 +9,6 @@ Say thanks!
 * <a href="https://paypal.me/edent/gbp5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="40" /> Send me a tip</a>
 * <a href="https://edent.tel/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" /> Leave me a message</a>
 
-## Installation
-
-```sh
-npm install --save super-tiny-icons
-```
-
-## Usage
-
-The old-school way:
-
-```html
-<img src="./node_modules/super-tiny-icons/images/svg/github.svg">
-```
-
-The modern way, the React (JSX) example:
-
-```jsx
-import logo from 'super-tiny-icons/images/svg/github.svg';
-
-<img src={logo} />
-```
-
-The demo repository bootstrapped with `create-react-app`: [create-react-app-super-tiny-icons](https://github.com/limonte/create-react-app-super-tiny-icons)
-
 ## How Small?
 
 | 542 Bytes SVG	| 2,956 Bytes PNG	|   433 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
@@ -265,6 +241,31 @@ This is the standard guideline. Use this to help with sizing your icons and they
 * **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
 
 To see how the logos look, you can [play around with the corner radius size using our interactive tool](https://edent.github.io/SuperTinyIcons/radius.html)
+
+## Installation
+
+```sh
+npm install --save super-tiny-icons
+```
+
+## Usage
+
+The old-school way:
+
+```html
+<img src="./node_modules/super-tiny-icons/images/svg/github.svg">
+```
+
+The modern way, the React (JSX) example:
+
+```jsx
+import logo from 'super-tiny-icons/images/svg/github.svg';
+
+<img src={logo} />
+```
+
+The demo repository bootstrapped with `create-react-app`: [create-react-app-super-tiny-icons](https://github.com/limonte/create-react-app-super-tiny-icons)
+
 
 ## Licenses
 
