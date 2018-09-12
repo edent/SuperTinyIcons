@@ -5,9 +5,7 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 
 Say thanks!
 
-* <a href="https://amzn.to/2o95rA8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="40" /> Gift me something from my Amazon Wishlist</a>
-* <a href="https://paypal.me/edent/gbp5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="40" /> Send me a tip</a>
-* <a href="https://edent.tel/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="40" /> Leave me a message</a>
+[![Buy me a coffee](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/edent)
 
 ## How Small?
 
