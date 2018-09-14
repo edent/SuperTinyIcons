@@ -165,7 +165,7 @@ Say thanks!
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>311 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="125" title="GOG.com" /><br>800 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/strava.svg" width="125" title="Strava" /><br>290 Bytes</td>
-<td></td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ko-fi.svg" width="125" title="Ko-Fi" /><br>500 Bytes</td>
 <td></td>
 </tr>
 </table>
