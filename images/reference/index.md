@@ -105,3 +105,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/gogcom.svg" width="256" />	| <img src="/images/reference/gogcom.png" width="256" />	| https://www.cdprojekt.com/en/media/logotypes/ |
 | <img src="/images/svg/strava.svg" width="256" />	| <img src="/images/reference/strava.png" width="256" />	| https://www.strava.com/settings/badges |
 | <img src="/images/svg/ko-fi.svg" width="256" />	| <img src="/images/reference/ko-fi.jpg" width="256" />	| https://ko-fi.com/ |
+| <img src="/images/svg/untappd.svg" width="256" />	| <img src="/images/reference/untappd.svg" width="256" />	| https://commons.wikimedia.org/wiki/File:Untappd.svg |
+| <img src="/images/svg/vivino.svg" width="256" />	| <img src="/images/reference/vivino.svg" width="256" />	| https://www.vivino.com/press |
