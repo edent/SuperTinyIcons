@@ -62,7 +62,7 @@ Say thanks!
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="125" title="mail" /><br>572 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="email" /><br>342 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="125" title="Mastodon" /><br>550 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="125" title="Wire" /><br>286 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="125" title="Wire" /><br>277 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/tox.svg" width="125" title="Tox" /><br>494 Bytes</td>
