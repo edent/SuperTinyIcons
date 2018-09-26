@@ -154,7 +154,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>1003 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>665 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/access.svg" width="125" title="Access" /><br>399 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencast.svg" width="125" title="Opencast" /><br>313 Bytes</td>
