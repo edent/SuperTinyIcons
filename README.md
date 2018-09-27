@@ -28,7 +28,7 @@ Say thanks!
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/dropbox.svg" width="125" title="Dropbox" /><br>289 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="125" title="Telegram" /><br>419 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" /><br>370 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="125" title="Stack Overflow" /><br>329 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="125" title="Stack Overflow" /><br>310 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="125" title="Instagram" /><br>345 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/wordpress.svg" width="125" title="WordPress" /><br>513 Bytes</td>
 </tr>
