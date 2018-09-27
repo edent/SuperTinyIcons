@@ -131,7 +131,7 @@ Say thanks!
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="125" title="Twilio" /><br>377 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="125" title="Slack" /><br>804 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="125" title="Slack" /><br>432 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/xing.svg" width="125" title="XING" /><br>362 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinboard.svg" width="125" title="Pinboard" /><br>258 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/internet_archive.svg" width="125" title="Internet Archive" /><br>846 Bytes</td>
