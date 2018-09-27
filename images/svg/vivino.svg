@@ -5,4 +5,4 @@ viewBox="0 0 512 512">
 <rect
 width="512" height="512"
 rx="15%"
-fill="#a91b2a"/><g fill="#fff"><circle cx="298" cy="79" r="35"/><circle cx="256" cy="149" r="35"/><circle cx="299" cy="219" r="35"/><circle cx="213" cy="219" r="35"/><circle cx="256" cy="291" r="35"/><circle cx="256" cy="433" r="35"/><circle cx="299" cy="360" r="35"/><circle cx="213" cy="360" r="35"/><circle cx="341" cy="291" r="35"/><circle cx="171" cy="291" r="35"/></g></svg>
+fill="#a91b2a"/><path fill="#fff" d="M298 44a35 35 0 1 0 1 0m-42 70a35 35 0 1 0 1 0m-43 70a35 35 0 1 0 1 0m86 0a35 35 0 1 0 1 0m-128 72a35 35 0 1 0 1 0m85 0a35 35 0 1 0 1 0m85 0a35 35 0 1 0 1 0m-128 69a35 35 0 1 0 1 0m86 0a35 35 0 1 0 1 0m-43 73a35 35 0 1 0 1 0"/></svg>
