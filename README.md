@@ -158,7 +158,7 @@ Say thanks!
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/access.svg" width="125" title="Access" /><br>399 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencast.svg" width="125" title="Opencast" /><br>313 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackexchange.svg" width="125" title="Stack Exchange" /><br>476 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackexchange.svg" width="125" title="Stack Exchange" /><br>445 Bytes</td>
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/qq.svg" width="125" title="QQ" /><br>994 Bytes</td>
