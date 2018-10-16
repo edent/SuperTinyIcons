@@ -3,4 +3,4 @@ aria-label="npm" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><path fill="none" stroke="#cb3837" stroke-width="22" d="M166 333h90m146-101v68m-45-68v68m-112-68v79h202V199H65v112h113V210m-45 22v68m157-90v90"/></svg>
+fill="#fff"/><path fill="#cb3837" d="M458 187v135H256v23h-90v-23H54V187m112 23H76v90h45v-68h23v68h22m112-90h-89v112h45v-22h44m-44-68h22v45h-22v-45zm202-22H301v90h45v-68h22v68h23v-68h22v68h23"/></svg>

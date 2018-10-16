@@ -82,7 +82,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="125" title="Apple" /><br>286 Bytes</td>
-<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="125" title="npm" /><br>295 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="125" title="npm" /><br>329 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.svg" width="125" title="Symantec" /><br>576 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="125" title="Yubico" /><br>309 Bytes</td>
