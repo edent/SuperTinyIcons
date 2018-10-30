@@ -107,3 +107,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/ko-fi.svg" width="256" />	| <img src="/images/reference/ko-fi.jpg" width="256" />	| https://ko-fi.com/ |
 | <img src="/images/svg/untappd.svg" width="256" />	| <img src="/images/reference/untappd.svg" width="256" />	| https://commons.wikimedia.org/wiki/File:Untappd.svg |
 | <img src="/images/svg/vivino.svg" width="256" />	| <img src="/images/reference/vivino.svg" width="256" />	| https://www.vivino.com/press |
+| <img src="/images/svg/apereo.svg" width="256" />	| <img src="/images/reference/apereo.png" width="256" />	| https://www.apereo.org |

@@ -170,6 +170,7 @@ Say thanks!
 </tr>
 <tr>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vivino.svg" width="125" title="Vivino" /><br>405 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/apereo.svg" width="125" title="Apereo" /><br>474 Bytes</td>
 </tr>
 </table>
 
