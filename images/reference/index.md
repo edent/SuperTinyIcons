@@ -110,3 +110,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/apereo.svg" width="256" />	| <img src="/images/reference/apereo.png" width="256" />	| https://www.apereo.org |
 | <img src="/images/svg/hackerone.svg" width="256" />	| <img src="/images/reference/hackerone.png" width="256" />	| https://www.hackerone.com/branding |
 | <img src="/images/svg/imgur.svg" width="256" />	| <img src="/images/reference/imgur.png" width="256" />	| https://imgurinc.com/press |
+| <img src="/images/svg/bitwarden.svg" width="256" />	| <img src="/images/reference/bitwarden.png" width="256" />	| https://github.com/bitwarden/brand |
