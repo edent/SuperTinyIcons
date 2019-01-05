@@ -172,6 +172,7 @@ Say thanks!
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/vivino.svg" width="125" title="Vivino" /><br>405 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/apereo.svg" width="125" title="Apereo" /><br>474 Bytes</td>
 <td><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackerone.svg" width="125" title="HackerOne" /><br>446 Bytes</td>
+<td><img src="https://edent.github.io/SuperTinyIcons/images/svg/imgur.svg" width="125" title="imgur" /><br>356 Bytes</td>
 </tr>
 </table>
 
