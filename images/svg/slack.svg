@@ -1,10 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Slack" role="img"
-viewBox="0 0 512 512"><rect
+viewBox="0 0 512 512">
+<rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><g
-fill="#e01e5a"><path d="M149 305a39 39 0 0 1-78 0c0-22 17-39 39-39h39z"/><path d="M168 305a39 39 0 0 1 78 0v97a39 39 0 0 1-78 0z"/></g><g
-fill="#36c5f0"><path d="M207 149a39 39 0 0 1 0-78c22 0 39 17 39 39v39z"/><path d="M207 168a39 39 0 0 1 0 78h-97a39 39 0 0 1 0-78z"/></g><g
-fill="#2eb67d"><path d="M363 207a39 39 0 0 1 78 0c0 22-17 39-39 39h-39z"/><path d="M344 207a39 39 0 0 1-78 0v-97a39 39 0 0 1 78 0z"/></g><g
-fill="#ecb22e"><path d="M305 363a39 39 0 0 1 0 78c-22 0-39-17-39-39v-39z"/><path d="M305 344a39 39 0 0 1 0-78h97a39 39 0 0 1 0 78z"/></g></svg>
+fill="#fff"/>
+<g fill="#e01e5a"><path id="a" d="M149 305a39 39 0 0 1-78 0c0-22 17-39 39-39h39zM168 305a39 39 0 0 1 78 0v97a39 39 0 0 1-78 0z"/></g>
+<use href="#a" fill="#36c5f0" transform="rotate(90,256,256)"/> 
+<use href="#a" fill="#2eb67d" transform="rotate(180,256,256)"/>
+<use href="#a" fill="#ecb22e" transform="rotate(270,256,256)"/></svg>
