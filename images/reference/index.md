@@ -115,3 +115,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/bandcamp.svg" width="256" />	| <img src="/images/reference/bandcamp.png" width="256" />	| https://bandcamp.com/buttons |
 | <img src="/images/svg/dribbble.svg" width="256" />  | <img src="/images/reference/dribbble-ball-icon.png" width="256" /> | https://dribbble.com/branding |
 | <img src="/images/svg/w3c.svg" width="256" /> | <img src="/images/reference/w3c.png" width="256" />  | https://www.w3.org/Consortium/Legal/logo-usage-20000308 |
+| <img src="/images/svg/google_scholar.svg" width="256" /> | <img src="/images/reference/google_scholar.ico" width="32" />  | https://scholar.google.com/ |
