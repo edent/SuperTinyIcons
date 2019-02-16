@@ -55,6 +55,7 @@ Say thanks!
 <td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>403 Bytes</td>
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>665 Bytes</td>
+<td>Google Scholar<br><img src="images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>525 Bytes</td>
 </tr>
 </table>
 
