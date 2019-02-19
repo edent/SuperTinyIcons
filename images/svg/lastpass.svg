@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="LastPass" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#d32d27"/><g fill="#fff"><circle cx="108" cy="256" r="44" id="c"/><use href="#c" x="119"/><use href="#c" x="239"/><rect height="192" rx="2%" width="20" x="428" y="160"/></g></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#d32d27" height="512" rx="15%" width="512"/><g fill="#fff"><circle cx="108" cy="256" r="44"/><rect height="192" rx="2%" width="20" x="428" y="160"/></g></svg>

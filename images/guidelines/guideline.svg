@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Guidelines" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#222"/><rect fill="#ff3f32" height="512" rx="50%" width="512"/><rect fill="#ffd900" height="435" rx="50%" width="435" x="39" y="39"/><rect fill="#4cd966" height="384" rx="50%" width="384" x="64" y="64"/></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#222" height="512" rx="15%" width="512"/><rect fill="#ff3f32" height="512" rx="50%" width="512"/><rect fill="#ffd900" height="435" rx="50%" width="435" x="39" y="39"/><rect fill="#4cd966" height="384" rx="50%" width="384" x="64" y="64"/></svg>

@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Flickr" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><circle cx="157" cy="256" fill="#006add" r="93"/><circle cx="355" cy="256" fill="#ff1981" r="93"/></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#fff" height="512" rx="15%" width="512"/><circle cx="157" cy="256" fill="#006add" r="93"/><circle cx="355" cy="256" fill="#ff1981" r="93"/></svg>

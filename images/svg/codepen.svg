@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="CodePen" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#111"/><g
-fill="none"
-stroke="#e6e6e6"
-stroke-width="33"
-stroke-linejoin="round"><path d="M81 198v116l175 117 175-117V198L256 81z"/><path d="M81 198l175 116 175-116M256 81v117"/><path d="M81 314l175-116 175 116M256 431V314"/></g></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#111" height="512" rx="15%" width="512"/><g fill="none" stroke="#e6e6e6" stroke-linejoin="round" stroke-width="33"><path d="m81 198v116l175 117 175-117v-116l-175-117z"/><path d="m81 198 175 116 175-116m-175-117v117"/><path d="m81 314 175-116 175 116m-175 117v-117"/></g></svg>

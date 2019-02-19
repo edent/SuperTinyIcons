@@ -1,8 +1,1 @@
-<svg
-xmlns="http://www.w3.org/2000/svg"
-aria-label="Vivino" role="img"
-viewBox="0 0 512 512">
-<rect
-width="512" height="512"
-rx="15%"
-fill="#a91b2a"/><path fill="#fff" d="M298 44a35 35 0 1 0 1 0m-42 70a35 35 0 1 0 1 0m-43 70a35 35 0 1 0 1 0m86 0a35 35 0 1 0 1 0m-128 72a35 35 0 1 0 1 0m85 0a35 35 0 1 0 1 0m85 0a35 35 0 1 0 1 0m-128 69a35 35 0 1 0 1 0m86 0a35 35 0 1 0 1 0m-43 73a35 35 0 1 0 1 0"/></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#a91b2a" height="512" rx="15%" width="512"/><path d="m298 44a35 35 0 1 0 1 0m-42 70a35 35 0 1 0 1 0m-43 70a35 35 0 1 0 1 0m86 0a35 35 0 1 0 1 0m-128 72a35 35 0 1 0 1 0m85 0a35 35 0 1 0 1 0m85 0a35 35 0 1 0 1 0m-128 69a35 35 0 1 0 1 0m86 0a35 35 0 1 0 1 0m-43 73a35 35 0 1 0 1 0" fill="#fff"/></svg>

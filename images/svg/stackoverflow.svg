@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Stack Overflow" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#f58025"/><path stroke="#fff" stroke-width="30" fill="none" d="M293 89l90 120zm-53 50l115 97zm-41 65l136 64zm-23 69l148 31zm-6 68h150zm-45-44v105h241V297"/></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#f58025" height="512" rx="15%" width="512"/><path d="m293 89 90 120zm-53 50 115 97zm-41 65 136 64zm-23 69 148 31zm-6 68h150zm-45-44v105h241v-105" fill="none" stroke="#fff" stroke-width="30"/></svg>

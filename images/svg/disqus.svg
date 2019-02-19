@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Disqus" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><path fill="#2e9fff" d="M83 387l26-65a159 159 0 1 1 42 56zm168-52q90-6 90-81t-89-80h-61v161zm2-39h-18v-82h18q43 2 43 40t-43 42"/></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#fff" height="512" rx="15%" width="512"/><path d="m83 387 26-65a159 159 0 1 1 42 56zm168-52q90-6 90-81t-89-80h-61v161zm2-39h-18v-82h18q43 2 43 40t-43 42" fill="#2e9fff"/></svg>

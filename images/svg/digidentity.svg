@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Digidentity" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><g stroke-linecap="round" stroke-width="25" stroke="#00e864"><path d="m213,296 -96,95"/><circle cx="256" cy="256" r="5"/><path stroke="#000" d="M256 63v135m0 116v135M63 256h135m116 0h135M119 119l96 96m82 82l96 96m0-274l-96 96"/></g></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#fff" height="512" rx="15%" width="512"/><g stroke="#00e864" stroke-linecap="round" stroke-width="25"><path d="m213 296-96 95"/><circle cx="256" cy="256" r="5"/><path d="m256 63v135m0 116v135m-193-193h135m116 0h135m-330-137 96 96m82 82 96 96m0-274-96 96" stroke="#000"/></g></svg>

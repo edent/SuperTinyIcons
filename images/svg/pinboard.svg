@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Pinboard" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#182ef5"/><path fill="#fff" d="M182 56L56 185l57-3 102 126-12 68 75-77L456 456 300 281l78-83L303 216 182 105"/></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#182ef5" height="512" rx="15%" width="512"/><path d="m182 56-126 129 57-3 102 126-12 68 75-77 178 157-156-175 78-83-75 18-121-111" fill="#fff"/></svg>

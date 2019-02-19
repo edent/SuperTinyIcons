@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="IBM" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><path fill="#1f70c1" d="M54 174h404v12H54zm0 22h404v11H54zm0 109h404v11H54zm0 21h404v12H54zm23-43h124v11H77zm157 0h202v11H234zM77 240h359v11H77zm0-22h124v11H77zm157 0h202v11H234zM77 261h359v11H77z"/><g fill="#fff"><path d="M402 245l-34 94h34z"/><path d="M335 245v94h34zm6-72l28 76 26-76zm-230 42h56v81h-56z"/><path d="M133 173v166h11V173zm97 1c34 0 62 49 17 82 44 32 18 82-17 82v3h49v-36l22-10v-77l-22-10v-36h-49z"/></g></svg>
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#fff" height="512" rx="15%" width="512"/><path d="m54 174h404v12h-404zm0 22h404v11h-404zm0 109h404v11h-404zm0 21h404v12h-404zm23-43h124v11h-124zm157 0h202v11h-202zm-157-43h359v11h-359zm0-22h124v11h-124zm157 0h202v11h-202zm-157 43h359v11h-359z" fill="#1f70c1"/><g fill="#fff"><path d="m402 245-34 94h34z"/><path d="m335 245v94h34zm6-72 28 76 26-76zm-230 42h56v81h-56z"/><path d="m133 173v166h11v-166zm97 1c34 0 62 49 17 82 44 32 18 82-17 82v3h49v-36l22-10v-77l-22-10v-36h-49z"/></g></svg>

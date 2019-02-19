@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-xmlns:xlink="http://www.w3.org/1999/xlink"
-aria-label="Sketch" role="img"
-viewBox="0 0 512 512"
-fill="#fff"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/>
-<polygon fill="#ec6c00" points="457 205 257 437 57 205"/>
-<polygon fill="#ffae00" points="370 88 457 205 376 205 257 437 138 205 57 205 144 88"/>
-<polygon fill="#ffefB4" points="257 76 376 205 138 205"/>
-<polygon fill="#fed305" points="257 76 370 88 376 205 257 76 138 205 144 88"/></svg>
+<svg fill="#fff" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><rect fill="#fff" height="512" rx="15%" width="512"/><path d="m457 205-200 232-200-232z" fill="#ec6c00"/><path d="m370 88 87 117h-81l-119 232-119-232h-81l87-117z" fill="#ffae00"/><path d="m257 76 119 129h-238z" fill="#ffefb4"/><path d="m257 76 113 12 6 117-119-129-119 129 6-117z" fill="#fed305"/></svg>
