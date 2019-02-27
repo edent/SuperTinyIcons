@@ -117,7 +117,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/w3c.svg" width="256" /> | <img src="/images/reference/w3c.png" width="256" />  | https://www.w3.org/Consortium/Legal/logo-usage-20000308 |
 | <img src="/images/svg/google_scholar.svg" width="256" /> | <img src="/images/reference/google_scholar.ico" width="32" />  | https://scholar.google.com/ |
 | <img src="/images/svg/flattr.svg" width="256" /> | <img src="/images/reference/flattr.svg" width="32" />  | https://commons.wikimedia.org/wiki/File:Flattrlogo250.svg |
-| <img src="/images/svg/itunes_podcasts.svg" width="256" /> | <img src="/images/reference/itunes_podcast.svg" width="32" />  | https://www.apple.com/itunes/marketing-on-podcasts/identity-guidelines.html |
+| <img src="/images/svg/itunes_podcasts.svg" width="256" /> | <img src="/images/reference/itune_podcast.svg" width="32" />  | https://www.apple.com/itunes/marketing-on-podcasts/identity-guidelines.html |
 | <img src="/images/svg/google_podcasts.svg" width="256" /> | <img src="/images/reference/google_podcasts.png" width="32" />  | https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=en_GB |
 | <img src="/images/svg/pocketcasts.svg" width="256" /> | <img src="/images/reference/pocketcasts.png" width="32" />  | https://static2.pocketcasts.com/assets/pc_press_kit.zip |
 | <img src="/images/svg/stitcher.svg" width="256" /> | <img src="/images/reference/stitcher.png" width="32" />  | https://itunes.apple.com/us/app/stitcher-for-podcasts/id288087905 |
