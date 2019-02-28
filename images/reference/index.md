@@ -121,5 +121,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/google_podcasts.svg" width="256" /> | <img src="/images/reference/google_podcasts.png" width="32" />  | https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=en_GB |
 | <img src="/images/svg/pocketcasts.svg" width="256" /> | <img src="/images/reference/pocketcasts.png" width="32" />  | https://static2.pocketcasts.com/assets/pc_press_kit.zip |
 | <img src="/images/svg/stitcher.svg" width="256" /> | <img src="/images/reference/stitcher.png" width="32" />  | https://itunes.apple.com/us/app/stitcher-for-podcasts/id288087905 |
-| <img src="/images/svg/tunein.svg" width="256" /> | <img src="/images/reference/tunein.svg" width="32" />  | https://cms.tunein.com/wp-content/uploads/2018/08/TuneIn-Media-Kit-Q3-2018-.pdf |
+| <img src="/images/svg/tunein.svg" width="256" /> | <img src="/images/reference/tunein.png" width="32" />  | https://cms.tunein.com/wp-content/uploads/2018/08/TuneIn-Media-Kit-Q3-2018-.pdf |
 
