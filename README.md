@@ -227,6 +227,7 @@ Say thanks!
 <td>Ethereum<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
 <td>Bluetooth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="125" title="Bluetooth" /><br>253 Bytes</td>
 <td>Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="125" title="Calendar" /><br>956 Bytes</td>
+<td>Liberapay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/liberapay.svg" width="125" title="Liberapay" /><br>565 Bytes</td>
 </tr>
 </table>
 
