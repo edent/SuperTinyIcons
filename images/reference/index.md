@@ -126,4 +126,6 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/liberapay.svg" width="256" /> | <img src="/images/reference/liberapay.svg" width="256" />  | https://github.com/liberapay/liberapay.com/blob/master/www/assets/liberapay/icon-v2_yellow-r.svg |
 | <img src="/images/svg/epub.svg" width="256" /> | <img src="/images/reference/epub.svg" width="256" />  | http://idpf.org/sites/default/files/epub-logo.gif |
 | <img src="/images/svg/nextcloud.svg" width="256" /> | <img src="/images/reference/nextcloud.svg" width="256" />  | https://nextcloud.com/press/ |
+| <img src="/images/svg/python.svg" width="256" /> | <img src="/images/reference/python.svg" width="256" />  | https://www.python.org/community/logos/ |
+| <img src="/images/svg/php.svg" width="256" /> | <img src="/images/reference/php.svg" width="256" />  | https://secure.php.net/download-logos.php |
 
