@@ -129,4 +129,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/python.svg" width="256" /> | <img src="/images/reference/python.svg" width="256" />  | https://www.python.org/community/logos/ |
 | <img src="/images/svg/php.svg" width="256" /> | <img src="/images/reference/php.svg" width="256" />  | https://secure.php.net/download-logos.php |
 | <img src="/images/svg/drupal.svg" width="256" /> | <img src="/images/reference/drupal.svg" width="256" />  | https://www.drupal.org/about/media-kit/logos |
+| <img src="/images/svg/react.svg" width="256" /> | <img src="/images/reference/react.svg" width="256" />  | https://github.com/facebook/react/blob/master/fixtures/dom/public/react-logo.svg |
 
