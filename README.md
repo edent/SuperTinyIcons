@@ -100,7 +100,7 @@ Say thanks!
 <td>Cloudflare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="125" title="Cloudflare" /><br>500 Bytes</td>
 <td>Amazon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="125" title="Amazon" /><br>673 Bytes</td>
 <td>Strava<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/strava.svg" width="125" title="Strava" /><br>290 Bytes</td>
-<td>Dribbble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="125" title="Dribbble" /><br>967 Bytes</td>
+<td>Dribbble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="125" title="Dribbble" /><br>641 Bytes</td>
 </tr>
 <tr>
 <td>CodePen<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
@@ -113,7 +113,7 @@ Say thanks!
 <tr>
 <td>Disqus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="125" title="Disqus" /><br>281 Bytes</td>
 <td>Ghost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="125" title="Ghost" /><br>259 Bytes</td>
-<td>Sketch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="125" title="Sketch" /><br>491 Bytes</td>
+<td>Sketch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="125" title="Sketch" /><br>451 Bytes</td>
 <td>Trello<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/trello.svg" width="125" title="Trello" /><br>276 Bytes</td>
 <td>QQ<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/qq.svg" width="125" title="QQ" /><br>994 Bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="125" title="GOG.com" /><br>800 Bytes</td>
@@ -175,7 +175,7 @@ Say thanks!
 ### Logos
 <table>
 <tr>
-<td>Apple<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="125" title="Apple" /><br>286 Bytes</td>
+<td>Apple<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="125" title="Apple" /><br>417 Bytes</td>
 <td>npm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="125" title="npm" /><br>301 Bytes</td>
 <td>Docker<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
 <td>Ubuntu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>492 Bytes</td>
@@ -225,11 +225,11 @@ Say thanks!
 ### Programming
 <table>
 <tr>
-<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>696 Bytes</td>
+<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>510 Bytes</td>
 <td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>842 Bytes</td>
 <td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>1002 Bytes</td>
-<td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>436 Bytes</td>
+<td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>401 Bytes</td>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
 </tr>
 <tr>
