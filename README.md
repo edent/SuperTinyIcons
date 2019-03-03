@@ -100,7 +100,7 @@ Say thanks!
 <td>Cloudflare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="125" title="Cloudflare" /><br>500 Bytes</td>
 <td>Amazon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="125" title="Amazon" /><br>673 Bytes</td>
 <td>Strava<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/strava.svg" width="125" title="Strava" /><br>290 Bytes</td>
-<td>Dribbble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="125" title="Dribbble" /><br>967 Bytes</td>
+<td>Dribbble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="125" title="Dribbble" /><br>641 Bytes</td>
 </tr>
 <tr>
 <td>CodePen<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
