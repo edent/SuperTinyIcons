@@ -113,7 +113,7 @@ Say thanks!
 <tr>
 <td>Disqus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="125" title="Disqus" /><br>281 Bytes</td>
 <td>Ghost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="125" title="Ghost" /><br>259 Bytes</td>
-<td>Sketch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="125" title="Sketch" /><br>491 Bytes</td>
+<td>Sketch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="125" title="Sketch" /><br>451 Bytes</td>
 <td>Trello<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/trello.svg" width="125" title="Trello" /><br>276 Bytes</td>
 <td>QQ<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/qq.svg" width="125" title="QQ" /><br>994 Bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="125" title="GOG.com" /><br>800 Bytes</td>
