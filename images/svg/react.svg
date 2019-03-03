@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="React" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><circle cx="256" cy="256" fill="#61dafb" r="36"/><g fill="none" stroke="#61dafb" stroke-width="18"><ellipse cx="256" cy="256" rx="183" ry="71"/><ellipse cx="-93" cy="350" rx="183" ry="71" transform="rotate(-60)"/><ellipse cx="350" cy="-93" rx="183" ry="71" transform="rotate(60)"/></g></svg>

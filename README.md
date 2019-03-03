@@ -55,6 +55,7 @@ Say thanks!
 <td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>403 Bytes</td>
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>665 Bytes</td>
+<td>Google Scholar<br><img src="images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>525 Bytes</td>
 </tr>
 </table>
 
@@ -80,7 +81,7 @@ Say thanks!
 <tr>
 <td>Hacker News<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg" width="125" title="Hacker News" /><br>229 Bytes</td>
 <td>StackOverflow<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackoverflow.svg" width="125" title="StackOverflow" /><br>310 Bytes</td>
-<td>StackExchange<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackexchange.svg" width="125" title="Stack Exchange" /><br>445 Bytes</td>
+<td>StackExchange<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackexchange.svg" width="125" title="Stack Exchange" /><br>407 Bytes</td>
 <td>WordPress<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wordpress.svg" width="125" title="WordPress" /><br>513 Bytes</td>
 <td>GitHub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="125" title="GitHub" /><br>542 Bytes</td>
 <td>Wikipedia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wikipedia.svg" width="125" title="Wikipedia" /><br>595 Bytes</td>
@@ -99,7 +100,7 @@ Say thanks!
 <td>Cloudflare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="125" title="Cloudflare" /><br>500 Bytes</td>
 <td>Amazon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="125" title="Amazon" /><br>673 Bytes</td>
 <td>Strava<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/strava.svg" width="125" title="Strava" /><br>290 Bytes</td>
-<td>Ko-Fi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ko-fi.svg" width="125" title="Ko-Fi" /><br>500 Bytes</td>
+<td>Dribbble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="125" title="Dribbble" /><br>967 Bytes</td>
 </tr>
 <tr>
 <td>CodePen<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
@@ -112,7 +113,7 @@ Say thanks!
 <tr>
 <td>Disqus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="125" title="Disqus" /><br>281 Bytes</td>
 <td>Ghost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="125" title="Ghost" /><br>259 Bytes</td>
-<td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
+<td>Sketch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="125" title="Sketch" /><br>491 Bytes</td>
 <td>Trello<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/trello.svg" width="125" title="Trello" /><br>276 Bytes</td>
 <td>QQ<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/qq.svg" width="125" title="QQ" /><br>994 Bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="125" title="GOG.com" /><br>800 Bytes</td>
@@ -120,7 +121,7 @@ Say thanks!
 <tr>
 <td>Badoo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="125" title="Badoo" /><br>297 Bytes</td>
 <td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
-<td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
+<td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="125" title="Workato" /><br>489 Bytes</td>
 <td>Untappd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="125" title="Untappd" /><br>411 Bytes</td>
 <td>Vivino<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vivino.svg" width="125" title="Vivino" /><br>405 Bytes</td>
 <td>Apereo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apereo.svg" width="125" title="Apereo" /><br>474 Bytes</td>
@@ -144,9 +145,6 @@ Say thanks!
 <tr>
 <td>Buffer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/buffer.svg" width="125" title="buffer" /><br>489 Bytes</td>
 <td>Upwork<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="125" title="Upwork" /><br>670 Bytes</td>
-<td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="125" title="Workato" /><br>489 Bytes</td>
-<td>Sketch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="125" title="Sketch" /><br>491 Bytes</td>
-<td>Dribbble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="125" title="Dribbble" /><br>967 Bytes</td>
 </tr>
 </table>
 
@@ -159,6 +157,18 @@ Say thanks!
 <td>HTML5<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="125" title="HTML5" /><br>399 Bytes</td>
 <td>WiFi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>683 Bytes</td>
 <td>W3C<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="125" title="World Wide Web Consortium (W3C)" /><br>637 Bytes</td>
+</tr>
+</table>
+
+### Podcasts
+<table>
+<tr>
+<td>iTunes<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/itunes_podcasts.svg" width="125" title="iTunes" /><br>786 Bytes</td>
+<td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_podcasts.svg" width="125" title="Google" /><br>524 Bytes</td>
+<td>Pocketcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocketcasts.svg" width="125" title="Pocketcasts" /><br>383 Bytes</td>
+<td>Stitcher<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/stitcher.svg" width="125" title="Stitcher" /><br>387 Bytes</td>
+<td>TuneIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tunein.svg" width="125" title="TuneIn" /><br>843 Bytes</td>
+<td>acast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/acast.svg" width="125" title="acast" /><br>528 Bytes</td>
 </tr>
 </table>
 
@@ -197,10 +207,40 @@ Say thanks!
 </tr>
 </table>
 
-### Misc
+### Payments
 <table>
 <tr>
 <td>PayPal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="125" title="PayPal" /><br>548 Bytes</td>
+<td>Bitcoin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="125" title="Bitcoin" /><br>529 Bytes</td>
+<td>Ethereum<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
+<td>Liberapay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/liberapay.svg" width="125" title="Liberapay" /><br>565 Bytes</td>
+<td>Ko-Fi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ko-fi.svg" width="125" title="Ko-Fi" /><br>500 Bytes</td>
+<td>Flattr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flattr.svg" width="125" title="Flattr" /><br>347 Bytes</td>
+</tr>
+<tr>
+<td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
+</tr>
+</table>
+
+### Programming
+<table>
+<tr>
+<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>696 Bytes</td>
+<td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>842 Bytes</td>
+<td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
+<td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>1002 Bytes</td>
+<td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>436 Bytes</td>
+<td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
+</tr>
+<tr>
+<td>Angular<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /><br>367 Bytes</td>
+</tr>
+</table>
+
+### Misc
+<table>
+<tr>
+<td>Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="125" title="Calendar" /><br>956 Bytes</td>
 <td>SlideShare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slideshare.svg" width="125" title="SlideShare" /><br>672 Bytes</td>
 <td>Dropbox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dropbox.svg" width="125" title="Dropbox" /><br>262 Bytes</td>
 <td>Steam<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/steam.svg" width="125" title="Steam" /><br>455 Bytes</td>
@@ -209,12 +249,13 @@ Say thanks!
 </tr>
 <tr>
 <td>Digidentity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/digidentity.svg" width="125" title="Digidentity" /><br>389 Bytes</td>
-<td>Bitcoin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="125" title="Bitcoin" /><br>529 Bytes</td>
-<td>Ethereum<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
 <td>Bluetooth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="125" title="Bluetooth" /><br>253 Bytes</td>
-<td>Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="125" title="Calendar" /><br>956 Bytes</td>
+<td>ePub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="125" title="ePub" /><br>323 Bytes</td>
+<td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="125" title="NextCloud" /><br>597 Bytes</td>
 </tr>
 </table>
+
+
 
 ## Why so smallious?
 
@@ -283,8 +324,6 @@ This is the standard guideline. Use this to help with sizing your icons and they
 * **Green** is the safe zone, where the main body of the icon should be.
 * **Yellow** is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.
 * **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
-
-To see how the logos look, you can [play around with the corner radius size using our interactive tool](https://edent.github.io/SuperTinyIcons/radius.html)
 
 ## Installation
 
