@@ -234,6 +234,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Angular<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /><br>367 Bytes</td>
+<td>Sass<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="125" title="Sass" /><br>531 Bytes</td>
 </tr>
 </table>
 
