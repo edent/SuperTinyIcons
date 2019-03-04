@@ -2,7 +2,6 @@ Thanks for submitting or fixing an icon! Here is a helpful guide to what you nee
 
 - [ ] New file
 - [ ] Edit Readme
-- [ ] Edit radius page
 - [ ] Add reference image
 - [ ] Edit reference page
 - [ ] (optional) Android Image
@@ -37,12 +36,6 @@ Add a table cell to README.md - it must be in this format:
 ```
 <td><img src="images/svg/nameofservice.svg" width="125" title="Name Of Service" /><br>229 Bytes</td>
 ```
-
-## Edit Radius Page
-
-* Edit the file `radius.html`
-* Add the name of your service to `var items`
-* For example `, 'nameofservice', `
 
 ## Reference Image
 
