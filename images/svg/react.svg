@@ -3,4 +3,4 @@ aria-label="React" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><g transform="translate(256,256)"><circle cx="0" cy="0" r="36" fill="#61dafb"/><g stroke="#61dafb" stroke-width="18" fill="none"><ellipse id="a" rx="183" ry="71"/><use href="#a" transform="rotate(60)"/><use href="#a" transform="rotate(120)"/></g></g></svg>
+fill="#fff"/><circle cx="256" cy="256" r="36" fill="#61dafb"/><path stroke="#61dafb" stroke-width="18" fill="none" d="M317.47 291.43a71 183 30 1 0-.05.09zm-122.89.09a183 71 60 1 0-.05-.09zm61.47 35.43a183 71 0 1 0-.1 0z"/></svg>
