@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="JSON" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><defs><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-color="#fff"/></linearGradient><linearGradient id="c" x2="-666" y1="526" y2="413" gradientUnits="userSpaceOnUse" xlink:href="#a" x1="-553" gradientTransform="matrix(2.4 0 0 2.4 1718 -869)"/><linearGradient id="b" x1="-666" x2="-553" y1="413" y2="526" xlink:href="#a" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.4 0 0 2.4 1718 -869)"/></defs><path fill="url(#b)" d="M256 350c85 116 168-32 168-122 0-105-107-164-168-164-99 0-192 81-192 192 0 124 107 192 192 192-20-3-83-16-84-163-1-99 32-139 83-122 2 1 57 23 57 94s-56 93-56 93z"/><path fill="url(#c)" d="M256 163c-57-19-125 27-125 120 0 151 112 165 125 165 99 0 192-81 192-192 0-123-107-192-192-192 24-3 126 26 126 166 0 91-76 141-126 120-1 0-57-22-57-93s57-94 57-94z"/></svg>
