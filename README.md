@@ -31,7 +31,7 @@ Say thanks!
 <td>VK<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vk.svg" width="125" title="VK" /><br>534 Bytes</td>
 <td>Mastodon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="125" title="Mastodon" /><br>550 Bytes</td>
 <td>imgur<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imgur.svg" width="125" title="imgur" /><br>356 Bytes</td>
-<td>Slack<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="125" title="Slack" /><br>488 Bytes</td>
+<td>Slack<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="125" title="Slack" /><br>472 Bytes</td>
 </tr>
 </table>
 
@@ -147,6 +147,7 @@ Say thanks!
 <td>Upwork<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="125" title="Upwork" /><br>670 Bytes</td>
 <td>Duck Duck Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/duckduckgo.svg" width="125" title="Duck Duck Go" /><br>1023 Bytes</td>
 <td>Bing<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bing.svg" width="125" title="Bing" /><br>241 Bytes</td>
+<td>IMDb<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imdb.svg" width="125" title="IMDb" /><br>526 Bytes</td>
 </tr>
 </table>
 
@@ -228,7 +229,7 @@ Say thanks!
 <table>
 <tr>
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>510 Bytes</td>
-<td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>842 Bytes</td>
+<td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>546 Bytes</td>
 <td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>1002 Bytes</td>
 <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>361 Bytes</td>
