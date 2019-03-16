@@ -238,7 +238,7 @@ Say thanks!
 <tr>
 <td>Angular<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /><br>381 Bytes</td>
 <td>Sass<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="125" title="Sass" /><br>531 Bytes</td>
-<td>Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /><br>1008 Bytes</td>
+<td>Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /><br>966 Bytes</td>
 <td>JSON<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="125" title="JSON" /><br>557 Bytes</td>
 </tr>
 </table>
