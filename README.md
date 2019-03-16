@@ -190,6 +190,7 @@ Say thanks!
 <td>Intel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intel.svg" width="125" title="Intel" /><br>948 Bytes</td>
 <td>VLC<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
 <td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>311 Bytes</td>
+<td>NHS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nhs.svg" width="125" title="NHS" /><br>795 Bytes</td>
 </tr>
 </table>
 
@@ -394,6 +395,7 @@ The majority of these vector logos are based on someone else's work.
 * [Gmail](https://commons.wikimedia.org/wiki/File:Gmail_Icon.svg)
 * [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
 * [Plex](https://github.com/plexinc/plex-media-player/blob/master/resources/images/icon.svg) -  GPLv2
+* [NHS](https://www.england.nhs.uk/nhsidentity/identity-guidelines/nhs-logo/)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
