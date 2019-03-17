@@ -145,7 +145,7 @@ Say thanks!
 <tr>
 <td>Buffer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/buffer.svg" width="125" title="buffer" /><br>482 Bytes</td>
 <td>Upwork<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="125" title="Upwork" /><br>670 Bytes</td>
-<td>Duck Duck Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/duckduckgo.svg" width="125" title="Duck Duck Go" /><br>1065 Bytes</td>
+<td>Duck Duck Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/duckduckgo.svg" width="125" title="Duck Duck Go" /><br>926 Bytes</td>
 <td>Bing<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bing.svg" width="125" title="Bing" /><br>241 Bytes</td>
 <td>IMDb<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imdb.svg" width="125" title="IMDb" /><br>526 Bytes</td>
 </tr>
@@ -173,7 +173,7 @@ Say thanks!
 <td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_podcasts.svg" width="125" title="Google" /><br>479 Bytes</td>
 <td>Pocketcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocketcasts.svg" width="125" title="Pocketcasts" /><br>312 Bytes</td>
 <td>Stitcher<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/stitcher.svg" width="125" title="Stitcher" /><br>387 Bytes</td>
-<td>TuneIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tunein.svg" width="125" title="TuneIn" /><br>843 Bytes</td>
+<td>TuneIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tunein.svg" width="125" title="TuneIn" /><br>609 Bytes</td>
 <td>acast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/acast.svg" width="125" title="acast" /><br>528 Bytes</td>
 </tr>
 </table>
@@ -185,7 +185,7 @@ Say thanks!
 <td>npm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="125" title="npm" /><br>301 Bytes</td>
 <td>Docker<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="125" title="Docker" /><br>465 Bytes</td>
 <td>Ubuntu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>492 Bytes</td>
-<td>IBM<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ibm.svg" width="125" title="IBM" /><br>569 Bytes</td>
+<td>IBM<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ibm.svg" width="125" title="IBM" /><br>504 Bytes</td>
 <td>Android<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" width="125" title="Android" /><br>551 Bytes</td>
 </tr>
 <tr>
@@ -193,6 +193,7 @@ Say thanks!
 <td>Intel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intel.svg" width="125" title="Intel" /><br>948 Bytes</td>
 <td>VLC<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
 <td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>311 Bytes</td>
+<td>NHS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nhs.svg" width="125" title="NHS" /><br>591 Bytes</td>
 </tr>
 </table>
 
@@ -234,13 +235,14 @@ Say thanks!
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>552 Bytes</td>
 <td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>588 Bytes</td>
 <td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
-<td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>1002 Bytes</td>
+<td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>977 Bytes</td>
 <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>361 Bytes</td>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
 </tr>
 <tr>
 <td>Angular<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="125" title="Angular" /><br>381 Bytes</td>
 <td>Sass<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="125" title="Sass" /><br>531 Bytes</td>
+<td>Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /><br>966 Bytes</td>
 <td>JSON<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="125" title="JSON" /><br>557 Bytes</td>
 </tr>
 </table>
@@ -396,6 +398,7 @@ The majority of these vector logos are based on someone else's work.
 * [Gmail](https://commons.wikimedia.org/wiki/File:Gmail_Icon.svg)
 * [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
 * [Plex](https://github.com/plexinc/plex-media-player/blob/master/resources/images/icon.svg) -  GPLv2
+* [NHS](https://www.england.nhs.uk/nhsidentity/identity-guidelines/nhs-logo/)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
