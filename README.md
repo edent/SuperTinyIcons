@@ -156,7 +156,7 @@ Say thanks!
 <tr>
 <td>RSS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="125" title="RSS" /><br>309 Bytes</td>
 <td>Mail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="125" title="mail" /><br>572 Bytes</td>
-<td>Email<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="email" /><br>342 Bytes</td>
+<td>Email<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="email" /><br>343 Bytes</td>
 <td>HTML5<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="125" title="HTML5" /><br>399 Bytes</td>
 <td>WiFi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>603 Bytes</td>
 <td>W3C<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="125" title="World Wide Web Consortium (W3C)" /><br>637 Bytes</td>
