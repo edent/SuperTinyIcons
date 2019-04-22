@@ -73,6 +73,7 @@ Say thanks!
 <td>Phone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="125" title="Phone" /><br>591 Bytes</td>
 <td>LINE<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/line.svg" width="125" title="LINE" /><br>478 Bytes</td>
 <td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="125" title="Viber" /><br>719 Bytes</td>
+<td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="125" title="Mailchimp" /><br>1010 Bytes</td>
 </tr>
 </table>
 
@@ -148,6 +149,7 @@ Say thanks!
 <td>Duck Duck Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/duckduckgo.svg" width="125" title="Duck Duck Go" /><br>926 Bytes</td>
 <td>Bing<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bing.svg" width="125" title="Bing" /><br>241 Bytes</td>
 <td>IMDb<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imdb.svg" width="125" title="IMDb" /><br>526 Bytes</td>
+<td>Heroku<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="125" title="Heroku" /><br>453 Bytes</td>
 </tr>
 </table>
 
@@ -245,6 +247,11 @@ Say thanks!
 <td>Sass<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="125" title="Sass" /><br>531 Bytes</td>
 <td>Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /><br>966 Bytes</td>
 <td>JSON<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="125" title="JSON" /><br>557 Bytes</td>
+<td>Yarn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="125" title="Yarn" /><br>514 Bytes</td>
+<td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="125" title="Backbone" /><br>463 Bytes</td>
+</tr>
+<tr>
+<td>Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="125" title="Go" /><br>582 Bytes</td>
 </tr>
 </table>
 
