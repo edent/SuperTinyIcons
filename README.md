@@ -151,6 +151,9 @@ Say thanks!
 <td>IMDb<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imdb.svg" width="125" title="IMDb" /><br>526 Bytes</td>
 <td>Heroku<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="125" title="Heroku" /><br>453 Bytes</td>
 </tr>
+<tr>
+<td>JS Bin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jsbin.svg" width="125" title="JS Bin" /><br>1022 Bytes</td>
+</tr>
 </table>
 
 ### Internet
