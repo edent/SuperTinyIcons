@@ -228,7 +228,7 @@ Say thanks!
 <td>Bitcoin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="125" title="Bitcoin" /><br>529 Bytes</td>
 <td>Ethereum<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="125" title="Ethereum" /><br>463 Bytes</td>
 <td>Liberapay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/liberapay.svg" width="125" title="Liberapay" /><br>565 Bytes</td>
-<td>Ko-Fi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ko-fi.svg" width="125" title="Ko-Fi" /><br>500 Bytes</td>
+<td>Ko-Fi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ko-fi.svg" width="125" title="Ko-Fi" /><br>423 Bytes</td>
 <td>Flattr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flattr.svg" width="125" title="Flattr" /><br>347 Bytes</td>
 </tr>
 <tr>
