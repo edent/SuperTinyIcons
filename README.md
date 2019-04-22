@@ -152,6 +152,7 @@ Say thanks!
 <td>Heroku<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="125" title="Heroku" /><br>453 Bytes</td>
 </tr>
 <tr>
+<td>Yelp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="125" title="Yelp" /><br>463 Bytes</td>
 <td>JS Bin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jsbin.svg" width="125" title="JS Bin" /><br>1022 Bytes</td>
 </tr>
 </table>
