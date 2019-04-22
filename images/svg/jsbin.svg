@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="JS Bin" role="img"
+viewBox="0 0 512 512" fill="none"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><g transform="scale(8)"><path fill="#8e979a" d="M14 14v3c2 9 34 9 36 0v-3M16 29h32v21c0 9-32 9-32 0"/><path d="M25 24a15.5 6 0 1 0 14 0" fill="#233" stroke="#8e979a"/><path fill="#9eaab2" d="M20 25v-6a18 7 0 1 1 24 0v6M20 34s5 5 24 0v20c-6 3-18 3-24 0"/><path fill="#244" d="M46 21c-7 4-20 4-28 0v8c2 6 26 6 28 0"/><path fill="#fd4" d="M39 52l8-4-1-9-9 4"/><g stroke-width=".6" stroke="#ddd"><path stroke="#433" d="M42 45l1 3s0 2-2 1m2.7-1h1q2-1 0-2t0-2h1"/><rect x="29" y="40" width="6" height="12" rx="1"/><path d="M14 14c3 8 32 9 36 0m-2 16c-3 8-29 8-32 0m0 18c3 8 29 8 32 0"/><g stroke-linecap="round"><path stroke="#5be" d="M25 28zm14 0z" stroke-width="4"/><path stroke="#fff" d="M25 27.6zm14 0z" stroke-width="1.5"/><path transform="scale(.5.2)" stroke-width="6" d="M48 61zm33 9zM54 54s12-9 27 1l1-1v5h-6l5-5m-5 25s-9 9-27-3l5-5h-8v8l5-5"/></g></g></g></svg>
