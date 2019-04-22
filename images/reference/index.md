@@ -140,4 +140,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/linux.svg" width="256" /> | <img src="/images/reference/Classic_flat_look_v1.1.svg" width="256" />  | https://www.linuxfoundation.org/trademark-usage/ |
 | <img src="/images/svg/imdb.svg" width="256" /> | <img src="/images/reference/imdb.svg" width="256" />  | https://imdb.com/ |
 | <img src="/images/svg/nhs.svg" width="256" /> | <img src="/images/reference/nhs-logo-digital-space.jpg" width="256" />  | https://www.england.nhs.uk/nhsidentity/identity-guidelines/nhs-logo/ |
+| <img src="/images/svg/backbone.svg" width="256" /> | <img src="/images/reference/Backbone_js_logo.svg" width="256" />  | https://backbonejs.org/ |
 | <img src="/images/svg/heroku.svg" width="256" /> | <img src="/images/reference/heroku-logo-stroke-white.png" width="256" />  | https://brand.heroku.com/ |
