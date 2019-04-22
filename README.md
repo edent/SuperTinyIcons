@@ -249,6 +249,9 @@ Say thanks!
 <td>Yarn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="125" title="Yarn" /><br>514 Bytes</td>
 <td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="125" title="Backbone" /><br>463 Bytes</td>
 </tr>
+<tr>
+<td>Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="125" title="Go" /><br>582 Bytes</td>
+</tr>
 </table>
 
 ### Misc
