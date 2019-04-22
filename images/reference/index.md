@@ -144,3 +144,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/backbone.svg" width="256" /> | <img src="/images/reference/Backbone_js_logo.svg" width="256" />  | https://backbonejs.org/ |
 | <img src="/images/svg/heroku.svg" width="256" /> | <img src="/images/reference/heroku-logo-stroke-white.png" width="256" />  | https://brand.heroku.com/ |
 | <img src="/images/svg/go.svg" width="256" /> | <img src="/images/reference/Go-Logo_Blue.svg" width="256" />  | https://blog.golang.org/go-brand |
+| <img src="/images/svg/mailchimp.svg" width="256" /> | <img src="/images/reference/Mailchimp_v1.svg" width="256" />  | https://mailchimp.com/about/brand-assets/ |
