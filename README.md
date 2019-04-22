@@ -148,6 +148,7 @@ Say thanks!
 <td>Duck Duck Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/duckduckgo.svg" width="125" title="Duck Duck Go" /><br>926 Bytes</td>
 <td>Bing<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bing.svg" width="125" title="Bing" /><br>241 Bytes</td>
 <td>IMDb<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imdb.svg" width="125" title="IMDb" /><br>526 Bytes</td>
+<td>Heroku<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="125" title="Heroku" /><br>453 Bytes</td>
 </tr>
 </table>
 
