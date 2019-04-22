@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="900"
+   height="161"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(129.47008,-1148.7329)"
+     id="layer1">
+    <g
+       transform="matrix(0.17893165,0,0,0.17893165,-129.37356,1149.0013)"
+       id="Page 1"
+       style="fill:#d8d8d8;fill-rule:evenodd">
+      <g
+         id="BackBone.JS">
+        <path
+           d="M 0,0 0,485 361,690.78502 361,550.90277 119.49609,413.23549 119.49609,197 361,334.66728 361,205.78502 0,0 z m 0,0"
+           id="Path"
+           style="fill:#002a41;stroke:#848484;stroke-width:1" />
+        <path
+           d="M 722,0 722,485 361,690.78502 361,550.90277 602.50391,413.23549 602.50391,197 361,334.66728 361,205.78502 722,0 z m 0,0"
+           id="path2996"
+           style="fill:#0071b5;stroke:#848484;stroke-width:1" />
+        <path
+           d="m 0,896.78502 0,-485 L 361,206 l 0,139.88225 -241.50391,137.66728 0,205.23549 L 361,551.11775 361,691 0,896.78502 z m 0,0"
+           id="path2998"
+           style="fill:#0071b5;stroke:#848484;stroke-width:1" />
+        <path
+           d="m 722,896.78502 0,-485 L 361,206 l 0,139.88225 241.50391,137.66728 0,205.23549 L 361,551.11775 361,691 722,896.78502 z m 0,0"
+           id="path3000"
+           style="fill:#002a41;stroke:#848484;stroke-width:1" />
+      </g>
+    </g>
+  </g>
+</svg>
