@@ -121,7 +121,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Badoo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="125" title="Badoo" /><br>297 Bytes</td>
-<td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
+<td>Yelp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="125" title="Yelp" /><br>463 Bytes</td>
 <td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="125" title="Workato" /><br>446 Bytes</td>
 <td>Untappd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="125" title="Untappd" /><br>411 Bytes</td>
 <td>Vivino<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vivino.svg" width="125" title="Vivino" /><br>296 Bytes</td>
@@ -152,7 +152,6 @@ Say thanks!
 <td>Heroku<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="125" title="Heroku" /><br>453 Bytes</td>
 </tr>
 <tr>
-<td>Yelp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="125" title="Yelp" /><br>463 Bytes</td>
 </tr>
 </table>
 
@@ -168,6 +167,14 @@ Say thanks!
 </tr>
 <tr>
 <td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="125" title="The Unicode Consortium" /><br>879 Bytes</td>
+</tr>
+</table>
+
+### Browsers
+<table>
+<tr>
+<td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="125" title="Chrome" /><br>463 Bytes</td>
+<td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
 </tr>
 </table>
 
