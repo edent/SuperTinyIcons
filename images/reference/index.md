@@ -147,3 +147,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/mailchimp.svg" width="256" /> | <img src="/images/reference/Mailchimp_v1.svg" width="256" />  | https://mailchimp.com/about/brand-assets/ |
 | <img src="/images/svg/yelp.svg" width="256" /> | <img src="/images/reference/Yelp_burst_positive_RGB.png" width="256" />  | https://www.yelp.co.uk/brand |
 | <img src="/images/svg/chrome.svg" width="256" /> | <img src="/images/reference/chrome.svg" width="256" />  | https://www.google.com/chrome/static/images/chrome-logo.svg |
+| <img src="/images/svg/edge.svg" width="256" /> | <img src="/images/reference/edge.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Microsoft_Edge_logo.svg |
