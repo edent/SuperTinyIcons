@@ -176,6 +176,7 @@ Say thanks!
 <td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="125" title="Chrome" /><br>463 Bytes</td>
 <td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
 <td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>646 Bytes</td>
+<td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="125" title="Opera" /><br>722 Bytes</td>
 </tr>
 </table>
 
