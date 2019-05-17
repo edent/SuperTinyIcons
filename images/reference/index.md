@@ -149,3 +149,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/chrome.svg" width="256" /> | <img src="/images/reference/chrome.svg" width="256" />  | https://www.google.com/chrome/static/images/chrome-logo.svg |
 | <img src="/images/svg/edge.svg" width="256" /> | <img src="/images/reference/edge.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Microsoft_Edge_logo.svg |
 | <img src="/images/svg/opera.svg" width="256" /> | <img src="/images/reference/opera.png" width="256" />  | https://brand.opera.com/ |
+| <img src="/images/svg/firefox.svg" width="256" /> | <img src="/images/reference/firefox.svg" width="256" />  | https://design.firefox.com/photon/visuals/product-identity-assets.html |
