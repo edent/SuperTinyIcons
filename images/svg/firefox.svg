@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Firefox" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%" fill="#fff"/><defs><linearGradient id="a" x1="90" x2="440" y1="418" y2="100" gradientUnits="userSpaceOnUse"><stop stop-color="#900"/><stop stop-color="#fc4" offset="1"/></linearGradient></defs><circle cx="256" cy="256" r="210" fill="#04e"/><path d="m480 218c-7-46-37-82-65-117-9-13-14-28-17-44-6 9-3 38-16 19-19-17-44-34-47-61-32 38-52 95-27 141 20 46 77 61 96 108 5 9-31-33-43-40 29 61-12 142-80 151-36 7-84-9-99-40 36 16 69-6 101-17 31 4 1-34-17-30-23-3-45 18-67 3 7 8-42-31-28-52 10-12 14-6 26 3 2-4-10-14 2-4 8-12-3-22 4-27 16-12 50-14 51-41-11-15-39-3-52-18-23-15 15-40 20-51 24-9-28-2-12-6-19 5-33 14-45 21-25-9-60 1-69-24-5-12-2-37-14-15-6 12-13 17-18 41-1 39-38 65-41 106 3-8 28-51 7-3-5 20-8 41-8 62 0-1 12-58 6-3-3 96 90 185 165 206 53 15 115 17 164-12 20-18 32-37 60-46 28-15 40-49 40-76 24-32 29-85 29-116-2-36-15 47-6-18z" fill="url(#a)"/></svg>
+viewBox="0 0 512 512">
+<rect width="512" height="512"
+rx="15%"
+fill="#fff"/>
+<defs><radialGradient id="a" cx=".8" cy=".3" r="1"><stop offset=".2" stop-color="#fe4"/><stop offset=".4" stop-color="#fb0"/><stop offset=".7" stop-color="#f23"/><stop offset=".9" stop-color="#a07"/></radialGradient><radialGradient id="b" cx=".6" cy=".2" r=".9"><stop offset="0" stop-color="#0cd"/><stop offset=".3" stop-color="#06d"/><stop offset=".6" stop-color="#517"/></radialGradient></defs><g transform="scale(4)"><circle cx="65" cy="65" r="45" fill="url(#b)"/><path d="M17 65c-3 41 50 62 73 43c-3 2-11 2-11 2s27-7 29-21c-3 4-9 7-9 7s19-17 14-38c0 0 2 3-3 15c5-35-15-39-15-52c0 0-2 4-2 5c-6-5-11-9-12-14c0 0-20 23 3 40c18 26-17 51-37 27c5 2 13 3 21-2c11 1 3-9-7-6c-19 5-19-19-9-10c2-3 1-7 1-7c4-4 7-1 11-8c2-6-8 2-12-7c1-3 3-6 8-9c-7-3-13 4-13 4s-6-3-13-1c-5-4-4-10-4-10s-6 3-7 17c-6 6-8 16-8 16l3-5c0 0-3 9-3 18" fill="url(#a)"/></g></svg>
