@@ -151,3 +151,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/opera.svg" width="256" /> | <img src="/images/reference/opera.png" width="256" />  | https://brand.opera.com/ |
 | <img src="/images/svg/firefox.svg" width="256" /> | <img src="/images/reference/firefox.svg" width="256" />  | https://design.firefox.com/photon/visuals/product-identity-assets.html |
 | <img src="/images/svg/raspberry_pi.svg" width="256" /> | <img src="/images/reference/RPi-Logo-SCREEN.png" width="256" />  | https://www.raspberrypi.org/trademark-rules/ |
+| <img src="/images/svg/venmo.svg" width="256" /> | <img src="/images/reference/venmo-icon.svg" width="256" />  | https://venmo.com/about/brand |
+| <img src="/images/svg/square-cash.svg" width="256" /> | <img src="/images/reference/square-cash-app-logo.jpg" width="256" />  | https://squareup.com/us/en/press |
