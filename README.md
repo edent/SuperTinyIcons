@@ -244,6 +244,7 @@ Say thanks!
 <td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
 <td>Venmo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/venmo.svg" width="125" title="Venmo" /><br>344 Bytes</td>
 <td>Square Cash App<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/square-cash.svg" width="125" title="Square Cash App" /><br>792 Bytes</td>
+<td>OpenCollective<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencollective.svg" width="125" title="OpenCollective" /><br>475 Bytes</td>
 </tr>
 </table>
 

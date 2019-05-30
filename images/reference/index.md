@@ -153,3 +153,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/raspberry_pi.svg" width="256" /> | <img src="/images/reference/RPi-Logo-SCREEN.png" width="256" />  | https://www.raspberrypi.org/trademark-rules/ |
 | <img src="/images/svg/venmo.svg" width="256" /> | <img src="/images/reference/venmo-icon.svg" width="256" />  | https://venmo.com/about/brand |
 | <img src="/images/svg/square-cash.svg" width="256" /> | <img src="/images/reference/square-cash-app-logo.jpg" width="256" />  | https://squareup.com/us/en/press |
+| <img src="/images/svg/opencollective.svg" width="256" /> | <img src="/images/reference/opencollective.svg" width="256" />  | https://opencollective.com/static/images/opencollective-icon.svg |
