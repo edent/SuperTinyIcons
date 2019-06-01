@@ -242,6 +242,9 @@ Say thanks!
 </tr>
 <tr>
 <td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
+<td>Venmo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/venmo.svg" width="125" title="Venmo" /><br>344 Bytes</td>
+<td>Square Cash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/square-cash.svg" width="125" title="Square Cash App" /><br>792 Bytes</td>
+<td>OpenCollective<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencollective.svg" width="125" title="OpenCollective" /><br>475 Bytes</td>
 </tr>
 </table>
 
@@ -283,6 +286,7 @@ Say thanks!
 <td>Bluetooth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="125" title="Bluetooth" /><br>253 Bytes</td>
 <td>ePub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="125" title="ePub" /><br>323 Bytes</td>
 <td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="125" title="NextCloud" /><br>312 Bytes</td>
+<td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="125" title="Raspberry Pi" /><br>1002 Bytes</td>
 </tr>
 </table>
 
