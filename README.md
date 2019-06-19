@@ -153,6 +153,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Research Gate<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="125" title="Research Gate" /><br>914 Bytes</td>
+<td>OpenCores<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencores.svg" width="125" title="OpenCores" /><br>339 Bytes</td>
 </tr>
 </table>
 
