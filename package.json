@@ -19,6 +19,24 @@
 		"url": "https://shkspr.mobi/blog/"
 	},
 	"keywords": [
-		"icons", "svg", "iconset", "logo", "logos", "twitter", "facebook", "svg", "flattr"
-	]
+		"icons",
+		"svg",
+		"iconset",
+		"logo",
+		"logos",
+		"twitter",
+		"facebook",
+		"svg",
+		"flattr"
+	],
+	"dependencies": {
+		"opencollective-postinstall": "^2.0.2"
+	},
+	"collective": {
+		"type": "opencollective",
+		"url": "https://opencollective.com/SuperTinyIcons"
+	},
+	"scripts": {
+		"postinstall": "opencollective-postinstall || true"
+	}
 }
