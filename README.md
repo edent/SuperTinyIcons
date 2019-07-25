@@ -323,7 +323,6 @@ I'd *love* you to submit something 😸 The rules are simple, your icon must:
 
 * be **under** 1024 bytes. That is, the maximum file size is 1023 bytes. No arguments.
 * fit inside a circle with radius 256 pixels. Set `rx="50%"` to check.
-* have solid colours. No gradients or fades.
 * represent a popular service's current logo.
 
 ### Template
