@@ -9,7 +9,7 @@ Say thanks!
 
 ## How Small?
 
-| 542 Bytes SVG	| 2,956 Bytes PNG	|   433 Bytes SVG	| 3,373 Bytes PNG	|  250 Bytes SVG	| 3,145 Bytes PNG	|
+| 542 Bytes SVG	| 1,309 Bytes PNG	|   433 Bytes SVG	| 1,246 Bytes PNG	|  250 Bytes SVG	| 1,243 Bytes PNG	|
 |------	        |-----------     	|------	            |----------	        |------	        |-----------	        |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" />  	| <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" />        	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" />       	| <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" />   	| <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" />       	|
 
@@ -19,7 +19,7 @@ Say thanks!
 <table>
 <tr>
 <td>flickr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="125" title="Flickr" /><br>250 Bytes</td>
-<td>Facebook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" /><br>283 Bytes</td>
+<td>Facebook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" /><br>312 Bytes</td>
 <td>Tumblr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tumblr.svg" width="125" title="Tumblr" /><br>422 Bytes</td>
 <td>Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" /><br>433 Bytes</td>
 <td>LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" /><br>370 Bytes</td>
@@ -152,6 +152,8 @@ Say thanks!
 <td>Heroku<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="125" title="Heroku" /><br>453 Bytes</td>
 </tr>
 <tr>
+<td>Research Gate<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="125" title="Research Gate" /><br>914 Bytes</td>
+<td>OpenCores<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencores.svg" width="125" title="OpenCores" /><br>310 Bytes</td>
 </tr>
 </table>
 
@@ -178,6 +180,7 @@ Say thanks!
 <td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
 <td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>646 Bytes</td>
 <td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="125" title="Opera" /><br>722 Bytes</td>
+<td>Safari<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="125" title="Safari" /><br>1019 Bytes</td>
 </tr>
 </table>
 
@@ -320,7 +323,6 @@ I'd *love* you to submit something 😸 The rules are simple, your icon must:
 
 * be **under** 1024 bytes. That is, the maximum file size is 1023 bytes. No arguments.
 * fit inside a circle with radius 256 pixels. Set `rx="50%"` to check.
-* have solid colours. No gradients or fades.
 * represent a popular service's current logo.
 
 ### Template
@@ -384,6 +386,36 @@ import logo from 'super-tiny-icons/images/svg/github.svg';
 
 The demo repository bootstrapped with `create-react-app`: [create-react-app-super-tiny-icons](https://github.com/limonte/create-react-app-super-tiny-icons)
 
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/edent/SuperTinyIcons/graphs/contributors"><img src="https://opencollective.com/SuperTinyIcons/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/SuperTinyIcons/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/SuperTinyIcons"><img src="https://opencollective.com/SuperTinyIcons/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/SuperTinyIcons/contribute)]
+
+<a href="https://opencollective.com/SuperTinyIcons/organization/0/website"><img src="https://opencollective.com/SuperTinyIcons/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/1/website"><img src="https://opencollective.com/SuperTinyIcons/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/2/website"><img src="https://opencollective.com/SuperTinyIcons/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/3/website"><img src="https://opencollective.com/SuperTinyIcons/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/4/website"><img src="https://opencollective.com/SuperTinyIcons/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/5/website"><img src="https://opencollective.com/SuperTinyIcons/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/6/website"><img src="https://opencollective.com/SuperTinyIcons/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/7/website"><img src="https://opencollective.com/SuperTinyIcons/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/8/website"><img src="https://opencollective.com/SuperTinyIcons/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/SuperTinyIcons/organization/9/website"><img src="https://opencollective.com/SuperTinyIcons/organization/9/avatar.svg"></a>
 
 ## Licenses
 
