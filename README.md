@@ -271,6 +271,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="125" title="Go" /><br>582 Bytes</td>
+<td>Rust<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="125" title="Rust" /><br>1021 Bytes</td>
 </tr>
 </table>
 
