@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="OpenBenches" role="img"
+viewBox="0 0 512 512" fill="none">
+<rect width="512" height="512" 
+rx="15%"/><circle cx="256" cy="256" r="250" fill="#11b0a3"/><path d="M9 319 a258 258 0 0 0 495 0" fill="#8c5015"/><g stroke-width="12" stroke="#000"><rect x="110" y="228" width="139" height="37" fill="#fb0" stroke="#fff" stroke-width="24"/><g fill="#007200"><path d="M503 318h-114c12-35 41-15 41-15 7-27 38-27 38-27 2-30 24-39 37-37"/><circle cx="365" cy="174" r="64"/></g><path d="M65 276H299m-187-2v44m135-43v42m20-41V215H91v61M365 170V318M330 170l36 35m37-33-39 39M133 108s33-3 39 16c-8-31 14-40 14-40m13 44s26 21 16 39c14-28 36-19 36-19M49 401l436-40M82 438l99-19m-63 48 189-53M158 488l302-86M9 319H502"/><circle cx="256" cy="256" r="250"/></g></svg>
