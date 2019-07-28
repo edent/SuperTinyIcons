@@ -157,4 +157,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/safari.svg" width="256" /> | <img src="/images/reference/Safari_browser_logo.svg" width="256" />  | https://www.apple.com/uk/safari/ |
 | <img src="/images/svg/researchgate.svg" width="256" /> | <img src="/images/reference/researchgate.png" width="256" />  | https://mobile.twitter.com/ResearchGate/photo |
 | <img src="/images/svg/opencores.svg" width="256" /> | <img src="/images/reference/opencores.png" width="256" />  | https://opencores.org |
+| <img src="/images/svg/openbenches.svg" width="256" /> | <img src="/images/reference/openbencheslogo.svg" width="256" />  | https://openbenches.org/ |
 | <img src="/images/svg/tripadvisor.svg" width="256" /> | <img src="/images/reference/TripAdvisor_logo.svg" width="256" />  | https://tripadvisor.mediaroom.com/download/TheNewTripAdvisor_StyleGuide.pdf |
