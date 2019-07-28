@@ -271,6 +271,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="125" title="Go" /><br>582 Bytes</td>
+<td>Java<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="125" title="Java" /><br>874 Bytes</td>
 </tr>
 </table>
 

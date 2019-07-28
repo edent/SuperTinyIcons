@@ -157,3 +157,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/safari.svg" width="256" /> | <img src="/images/reference/Safari_browser_logo.svg" width="256" />  | https://www.apple.com/uk/safari/ |
 | <img src="/images/svg/researchgate.svg" width="256" /> | <img src="/images/reference/researchgate.png" width="256" />  | https://mobile.twitter.com/ResearchGate/photo |
 | <img src="/images/svg/opencores.svg" width="256" /> | <img src="/images/reference/opencores.png" width="256" />  | https://opencores.org |
+| <img src="/images/svg/java.svg" width="256" /> | <img src="/images/reference/Java_programming_language_logo.svg" width="256" />  | http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf |
