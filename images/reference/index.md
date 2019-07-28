@@ -160,3 +160,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/openbenches.svg" width="256" /> | <img src="/images/reference/openbencheslogo.svg" width="256" />  | https://openbenches.org/ |
 | <img src="/images/svg/tripadvisor.svg" width="256" /> | <img src="/images/reference/TripAdvisor_logo.svg" width="256" />  | https://tripadvisor.mediaroom.com/download/TheNewTripAdvisor_StyleGuide.pdf |
 | <img src="/images/svg/java.svg" width="256" /> | <img src="/images/reference/Java_programming_language_logo.svg" width="256" />  | http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf |
+| <img src="/images/svg/rust.svg" width="256" /> | <img src="/images/reference/Rust_programming_language_black_logo.svg" width="256" />  | https://www.rust-lang.org/policies/media-guide |

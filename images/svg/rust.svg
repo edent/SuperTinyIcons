@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:x="http://www.w3.org/1999/xlink"
+aria-label="Rust" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><g id="d"><g id="c"><g id="b"><path id="a" d="M276 73 262 50c-3-5-9-5-12 0l-14 23m0 366 14 23c3 5 9 5 12 0l14-23"/><use x:href="#a" transform="rotate(11.3 256 256)"/></g><use x:href="#b" transform="rotate(22.5 256 256)"/></g><use x:href="#c" transform="rotate(45 256 256)"/></g><use x:href="#d" transform="rotate(90 256 256)"/><g id="f"><path id="e" d="M378 110a189 189 0 0 0-122-44c-46 0-88 16-121 43l26 25a154 154 0 0 1 67-30l20 20a10 10 0 0 0 16 0l21-18a154 154 0 0 1 76 37M256 84c17 0 16 25 0 25s-17-25 0-25"/><use x:href="#e" transform="rotate(72 256 256)"/></g><use x:href="#f" transform="rotate(144 256 256)"/><use x:href="#e" transform="rotate(-72 256 256)"/><path d="M391 266s4 32-18 32-6-24-43-51c0 0 31-13 31-47s-40-48-57-48H117v46h35v99h-52v49h160v-48h-39v-28h40c41 0 13 76 60 76h99v-80m-199-38v-30h54c22 0 23 30 0 30"/></svg>
