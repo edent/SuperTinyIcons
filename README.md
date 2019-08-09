@@ -257,7 +257,7 @@ Say thanks!
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>552 Bytes</td>
 <td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>588 Bytes</td>
 <td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
-<td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>977 Bytes</td>
+<td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>900 Bytes</td>
 <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>361 Bytes</td>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
 </tr>
