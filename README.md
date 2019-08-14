@@ -79,6 +79,7 @@ Say thanks!
 <td>LINE<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/line.svg" width="125" title="LINE" /><br>478 Bytes</td>
 <td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="125" title="Viber" /><br>719 Bytes</td>
 <td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="125" title="Mailchimp" /><br>1010 Bytes</td>
+<td><img src="images/svg/threema.svg" width="125" title="Threema" /><br>774 Bytes</td>
 </tr>
 </table>
 
