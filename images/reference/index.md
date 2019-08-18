@@ -158,3 +158,10 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/researchgate.svg" width="256" /> | <img src="/images/reference/researchgate.png" width="256" />  | https://mobile.twitter.com/ResearchGate/photo |
 | <img src="/images/svg/opencores.svg" width="256" /> | <img src="/images/reference/opencores.png" width="256" />  | https://opencores.org |
 | <img src="/images/svg/julia.svg" width="256" /> | <img src="/images/reference/julia.png" width="256" />  | https://julialang.org |
+| <img src="/images/svg/openbenches.svg" width="256" /> | <img src="/images/reference/openbencheslogo.svg" width="256" />  | https://openbenches.org/ |
+| <img src="/images/svg/tripadvisor.svg" width="256" /> | <img src="/images/reference/TripAdvisor_logo.svg" width="256" />  | https://tripadvisor.mediaroom.com/download/TheNewTripAdvisor_StyleGuide.pdf |
+| <img src="/images/svg/java.svg" width="256" /> | <img src="/images/reference/Java_programming_language_logo.svg" width="256" />  | http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf |
+| <img src="/images/svg/rust.svg" width="256" /> | <img src="/images/reference/Rust_programming_language_black_logo.svg" width="256" />  | https://www.rust-lang.org/policies/media-guide |
+| <img src="/images/svg/clojure.svg" width="256" /> | <img src="/images/reference/Clojure_logo.svg.png" width="256" />  | https://clojure.org/index |
+| <img src="/images/svg/coffeescript.svg" width="256" /> | <img src="/images/reference/coffeescript-logo.svg" width="256" />  | http://coffeescript.org/ |
+| <img src="/images/svg/threema.svg" width="256" /> | <img src="/images/reference/Threema_AppIcon_iOS.png" width="256" />  | https://threema.ch/press-files/5_graphics/1_icons_and_logos.zip |
