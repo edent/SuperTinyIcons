@@ -271,7 +271,7 @@ Say thanks!
 <table>
 <tr>
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>552 Bytes</td>
-<td>Julia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/julia.svg" width="125" title="Julia" /><br>302 Bytes</td>
+<td>Julia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/julia.svg" width="125" title="Julia" /><br>299 Bytes</td>
 <td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>588 Bytes</td>
 <td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>900 Bytes</td>
