@@ -476,6 +476,7 @@ The majority of these vector logos are based on someone else's work.
 - [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
 - [Plex](https://github.com/plexinc/plex-media-player/blob/master/resources/images/icon.svg) - GPLv2
 - [NHS](https://www.england.nhs.uk/nhsidentity/identity-guidelines/nhs-logo/)
+- [Threema.](https://threema.ch/de/press)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
