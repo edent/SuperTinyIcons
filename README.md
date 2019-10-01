@@ -313,6 +313,7 @@ Say thanks!
 <td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="125" title="NextCloud" /><br>312 Bytes</td>
 <td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="125" title="Raspberry Pi" /><br>1002 Bytes</td>
 </tr>
+<td>Printer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/printer.svg" width="125" title="Printer" /><br>751 Bytes</td>
 </table>
 
 ## Why so smallious?
