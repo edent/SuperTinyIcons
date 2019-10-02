@@ -6,7 +6,7 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 
 Say thanks!
 
-[![Buy me a coffee](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/edent)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/edent)
 
 ## How Small?
 
