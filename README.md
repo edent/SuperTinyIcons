@@ -338,7 +338,7 @@ Think the icons look wrong? [Compare them against the official logos](https://gi
 
 **New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://inloop.github.io/svg2android/ - not guaranteed to be under 1KB.
 
-## Submitting Icons
+## Submitting Icons :smile:
 
 I'd _love_ you to submit something 😸 The rules are simple, your icon must:
 
