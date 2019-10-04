@@ -222,7 +222,6 @@ Say thanks!
 <td>Android<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" width="125" title="Android" /><br>551 Bytes</td>
 </tr>
 <tr>
-<td>Open Source<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opensource.svg" width="125" title="Open Source" /><br>262 Bytes</td>
 <td>Intel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intel.svg" width="125" title="Intel" /><br>948 Bytes</td>
 <td>VLC<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
 <td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>311 Bytes</td>
@@ -294,6 +293,27 @@ Say thanks!
 <td>Rust<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="125" title="Rust" /><br>1021 Bytes</td>
 <td>Clojure<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/clojure.svg" width="125" title="Clojure" /><br>633 Bytes</td>
 <td>CoffeeScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coffeescript.svg" width="125" title="CoffeeScript" /><br>534 Bytes</td>
+</tr>
+</table>
+
+### Licences
+
+<table>
+<tr>
+<td>Open Source<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opensource.svg" width="125" title="Open Source" /><br>262 Bytes</td>
+<td>CC<br><img src="images/svg/cc.svg" width="125" title="CC"/><br>869 Bytes</td>
+<td>CC BY<br><img src="images/svg/cc-by.svg" width="125" title="CC BY"/><br>720 Bytes</td>
+<td>CC NC<br><img src="images/svg/cc-nc.svg" width="125" title="CC NC"/><br>694 Bytes</td>
+<td>CC-NC EU<br><img src="images/svg/cc-nc-eu.svg" width="125" title="CC NC EU"/><br>636 Bytes</td>
+<td>CC NC JP<br><img src="images/svg/cc-nc-jp.svg" width="125" title="CC NC JP"/><br>1519 Bytes</td>
+</tr>
+<tr>
+<td>CC ND<br><img src="images/svg/cc-nd.svg" width="125" title="CC ND"/><br> Bytes</td>
+<td>CC PD<br><img src="images/svg/cc-pd.svg" width="125" title="CC PD"/><br> Bytes</td>
+<td>CC remix<br><img src="images/svg/cc-remix.svg" width="125" title="CC remix"/><br> Bytes</td>
+<td>CC SA<br><img src="images/svg/cc-sa.svg" width="125" title="CC SA"/><br> Bytes</td>
+<td>CC share<br><img src="images/svg/cc-share.svg" width="125" title="CC share"/><br> Bytes</td>
+<td>CC zero<br><img src="images/svg/cc-0.svg" width="125" title="CC zero"/><br>533 Bytes</td>
 </tr>
 </table>
 
