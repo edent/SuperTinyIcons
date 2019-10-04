@@ -231,6 +231,7 @@ Say thanks!
 </tr>
 <tr>
 <td>HP<br><img src="images/svg/hp.svg" width="125" title="HP"/><br>500 Bytes</td>
+<td>RedHat<br><img src="images/svg/redhat.svg" width="125" title="RedHat"/><br>847 Bytes</td>
 </tr>
 </table>
 
