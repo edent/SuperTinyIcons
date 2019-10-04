@@ -222,6 +222,7 @@ Say thanks!
 <td>Android<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" width="125" title="Android" /><br>551 Bytes</td>
 </tr>
 <tr>
+<td>Git<br><img src="images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
 <td>Intel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intel.svg" width="125" title="Intel" /><br>948 Bytes</td>
 <td>VLC<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="125" title="VLC" /><br>670 Bytes</td>
 <td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>311 Bytes</td>
