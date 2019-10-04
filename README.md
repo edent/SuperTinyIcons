@@ -229,6 +229,9 @@ Say thanks!
 <td>Espressif<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/espressif.svg" width="125" title="Espressif" /><br>671 Bytes</td>
 <td>NHS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nhs.svg" width="125" title="NHS" /><br>591 Bytes</td>
 </tr>
+<tr>
+<td>HP<br><img src="images/svg/hp.svg" width="125" title="HP"/><br>500 Bytes</td>
+</tr>
 </table>
 
 ### Security
