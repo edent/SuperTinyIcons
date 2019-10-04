@@ -341,6 +341,9 @@ Say thanks!
 <td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="125" title="Raspberry Pi" /><br>1002 Bytes</td>
 <td>Printer<br><img src="images/svg/print.svg" width="125" title="Printer" /><br>583 Bytes</td>   
 </tr>
+<tr>
+<td>Ansible<br><img src="images/svg/ansible.svg" width="125" title="Ansible"/><br>381 Bytes</td>
+</tr>
 </table>
 
 ## Why so smallious?
