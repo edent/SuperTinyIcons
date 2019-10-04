@@ -231,6 +231,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Orcid<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="125" title="Orcid" /><br>615 Bytes</td>
+<td>RedHat<br><img src="images/svg/redhat.svg" width="125" title="RedHat"/><br>847 Bytes</td>
 </tr>
 </table>
 
