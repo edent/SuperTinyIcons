@@ -180,6 +180,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="125" title="The Unicode Consortium" /><br>879 Bytes</td>
+<td>Outlook<br><img src="images/svg/microsoft-owa.svg" width="125" title="Microsoft Outlook on the web" /><br>764 Bytes</td>
 </tr>
 </table>
 
