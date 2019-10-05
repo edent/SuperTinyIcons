@@ -295,6 +295,7 @@ Say thanks!
 <td>Clojure<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/clojure.svg" width="125" title="Clojure" /><br>633 Bytes</td>
 <td>CoffeeScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coffeescript.svg" width="125" title="CoffeeScript" /><br>534 Bytes</td>
 <td>JavaScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /><br>532 Bytes</td>
+<td>Flutter<br><img src="images/svg/flutter.svg" width="125" title="Flutter" /><br>892 Bytes</td>
 </tr>
 </table>
 

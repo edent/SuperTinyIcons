@@ -169,3 +169,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/reference/mattermost.png" width="256" />  | https://www.mattermost.org/brand-guidelines/ |
 | <img src="/images/svg/archlinux.svg" width="256" /> | <img src="/images/reference/archlinux_ref.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg |
 | <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
+| <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="403" /> | https://flutter.dev/brand |
