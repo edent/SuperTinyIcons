@@ -293,6 +293,7 @@ Say thanks!
 <td>Rust<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="125" title="Rust" /><br>1021 Bytes</td>
 <td>Clojure<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/clojure.svg" width="125" title="Clojure" /><br>633 Bytes</td>
 <td>CoffeeScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coffeescript.svg" width="125" title="CoffeeScript" /><br>534 Bytes</td>
+<td>JavaScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /><br>532 Bytes</td>
 </tr>
 </table>
 
