@@ -167,3 +167,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/threema.svg" width="256" /> | <img src="/images/reference/threema.png" width="256" />  | https://threema.ch/press-files/5_graphics/1_icons_and_logos.zip |
 | <img src="/images/svg/print.svg" width="256" /> | <img src="/images/reference/print.svg" width="256" />  | https://www.iconfinder.com/icons/326675/print_icon#size=512 |
 | <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/reference/mattermost.png" width="256" />  | https://www.mattermost.org/brand-guidelines/ |
+| <img src="/images/svg/archlinux.svg" width="256" /> | <img src="/images/reference/archlinux_ref.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg |
+| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
