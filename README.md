@@ -60,6 +60,7 @@ Say thanks!
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>706 Bytes</td>
 <td>Google Scholar<br><img src="images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>525 Bytes</td>
+<td>Google Drive<br><img src="images/svg/google_drive.svg" width="125" title="Google Drive" /><br>878 Bytes</td>
 </tr>
 </table>
 
