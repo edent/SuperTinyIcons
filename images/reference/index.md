@@ -123,6 +123,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/stitcher.svg" width="256" /> | <img src="/images/reference/stitcher.png" width="32" />  | https://itunes.apple.com/us/app/stitcher-for-podcasts/id288087905 |
 | <img src="/images/svg/tunein.svg" width="256" /> | <img src="/images/reference/tunein.png" width="32" />  | https://cms.tunein.com/wp-content/uploads/2018/08/TuneIn-Media-Kit-Q3-2018-.pdf |
 | <img src="/images/svg/acast.svg" width="256" /> | <img src="/images/reference/acast.svg" width="256" />  | https://acast.com |
+| <img src="/images/svg/overcast.svg" width="256" /> | <img src="/images/reference/overcast.svg" width="256" />  | https://overcast.fm |
 | <img src="/images/svg/liberapay.svg" width="256" /> | <img src="/images/reference/liberapay.svg" width="256" />  | https://github.com/liberapay/liberapay.com/blob/master/www/assets/liberapay/icon-v2_yellow-r.svg |
 | <img src="/images/svg/epub.svg" width="256" /> | <img src="/images/reference/epub.svg" width="256" />  | http://idpf.org/sites/default/files/epub-logo.gif |
 | <img src="/images/svg/nextcloud.svg" width="256" /> | <img src="/images/reference/nextcloud.svg" width="256" />  | https://nextcloud.com/press/ |
@@ -168,5 +169,6 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/print.svg" width="256" /> | <img src="/images/reference/print.svg" width="256" />  | https://www.iconfinder.com/icons/326675/print_icon#size=512 |
 | <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/reference/mattermost.png" width="256" />  | https://www.mattermost.org/brand-guidelines/ |
 | <img src="/images/svg/archlinux.svg" width="256" /> | <img src="/images/reference/archlinux_ref.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg |
-| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
 | <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="403" /> | https://flutter.dev/brand |
+| <img src="/images/svg/orcid.svg" width="256" /> | <img src="/images/reference/orcid.png" width="256" />  | https://orcid.org/ |
+| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |

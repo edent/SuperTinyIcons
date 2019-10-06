@@ -206,6 +206,7 @@ Say thanks!
 <td>Stitcher<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/stitcher.svg" width="125" title="Stitcher" /><br>387 Bytes</td>
 <td>TuneIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tunein.svg" width="125" title="TuneIn" /><br>609 Bytes</td>
 <td>acast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/acast.svg" width="125" title="acast" /><br>528 Bytes</td>
+<td>Overcast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overcast.svg" width="125" title="Overcast" /><br>790 Bytes</td>
 </tr>
 </table>
 
@@ -227,6 +228,9 @@ Say thanks!
 <td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="125" title="Vegetarian" /><br>311 Bytes</td>
 <td>Espressif<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/espressif.svg" width="125" title="Espressif" /><br>671 Bytes</td>
 <td>NHS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nhs.svg" width="125" title="NHS" /><br>591 Bytes</td>
+</tr>
+<tr>
+<td>Orcid<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="125" title="Orcid" /><br>615 Bytes</td>
 </tr>
 </table>
 
