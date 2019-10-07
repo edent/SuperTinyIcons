@@ -41,6 +41,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/mastodon.svg" width="256" />	| <img src="/images/reference/mastodon.svg" width="256" />	| https://github.com/tootsuite/joinmastodon/blob/master/public/press-kit.zip	|
 | <img src="/images/svg/wire.svg" width="256" />	| <img src="/images/reference/wire.svg" width="256" />	| https://brand.wire.com/symbol/|
 | <img src="/images/svg/tox.svg" width="256" />	| <img src="/images/reference/tox.svg" width="256" />	| https://github.com/Tox/tox.chat/blob/master/themes/website/static/img/icon.svg	|
+| <img src="/images/svg/git.svg" width="256"/>	| <img src="/images/reference/git.png" width="256"/>	| https://git-scm.com/downloads/logos	|
 | <img src="/images/svg/gitlab.svg" width="256" />	| <img src="/images/reference/gitlab.svg" width="256" />	| https://about.gitlab.com/press/	|
 | <img src="/images/svg/html5.svg" width="256" />	| <img src="/images/reference/html5.svg" width="256" />	| https://www.w3.org/html/logo/	|
 | <img src="/images/svg/meetup.svg" width="256" />	| <img src="/images/reference/meetup.png" width="256" />	| https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg	|
@@ -48,6 +49,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/lastpass.svg" width="256" />	| <img src="/images/reference/lastpass.svg" width="256" />	| https://lastpass.com/press-room/	|
 | <img src="/images/svg/windows.svg" width="256" />	| <img src="/images/reference/windows.png" width="256" />	| https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1voQq	|
 | <img src="/images/svg/digidentity.svg" width="256" />	| <img src="/images/reference/digidentity.jpg" width="256" />	| https://www.digidentity.eu/en/blog/	|
+| <img src="/images/svg/redhat.svg" width="256"/>	| <img src="/images/reference/redhat.svg" width="256"/>	| https://www.redhat.com/	|
 | <img src="/images/svg/ubuntu.svg" width="256" />	| <img src="/images/reference/ubuntu.svg" width="256" />	| https://design.ubuntu.com/brand/ubuntu-logo/	|
 | <img src="/images/svg/bitbucket.svg" width="256" />	| <img src="/images/reference/bitbucket.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/apple.svg" width="256" />	| <img src="/images/reference/apple.svg" width="256" />	| https://developer.apple.com/softwarelicensing/agreements/pdf/mac_logo_gdlns.pdf	|
@@ -80,6 +82,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/opensource.svg" width="256" />	| <img src="/images/reference/opensource.png" width="256" />	| https://opensource.org/logo-usage-guidelines	|
 | <img src="/images/svg/patreon.svg" width="256" />	| <img src="/images/reference/patreon.png" width="256" />	| https://www.patreon.com/brand/guidelines	|
 | <img src="/images/svg/trello.svg" width="256" />	| <img src="/images/reference/trello.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
+| <img src="/images/svg/hp.svg" width="256"/>	| <img src="/images/reference/hp.gif" width="256"/>	| https://www.hp.com/	|
 | <img src="/images/svg/intel.svg" width="256" />	| <img src="/images/reference/intel.png" width="256" />	| https://newsroom.intel.com/news/intel-accelerates-ai-innovation-3-new-intel-capital-investments/intel-logo-default/	|
 | <img src="/images/svg/badoo.svg" width="256" />	| <img src="/images/reference/badoo.svg" width="256" />	| https://team.badoo.com/new/	|
 | <img src="/images/svg/samsunginternet.svg" width="256" />	| <img src="/images/reference/samsunginternet.png" width="256" />	| http://www.samsung.com/global/galaxy/apps/samsung-internet/	|
@@ -171,6 +174,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/reference/mattermost.png" width="256" />  | https://www.mattermost.org/brand-guidelines/ |
 | <img src="/images/svg/archlinux.svg" width="256" /> | <img src="/images/reference/archlinux_ref.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg |
 | <img src="/images/svg/uber.svg" width="256" /> | <img src="/images/reference/uber.png" width="256" />  | https://brand.uber.com/guide#logo-clearspace |
-| <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="403" /> | https://flutter.dev/brand |
+| <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="256" /> | https://flutter.dev/brand |
 | <img src="/images/svg/orcid.svg" width="256" /> | <img src="/images/reference/orcid.png" width="256" />  | https://orcid.org/ |
 | <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
+| <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.jpg" width="256" /> | https://developers.google.com/drive/api/v2/branding |

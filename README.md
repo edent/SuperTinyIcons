@@ -60,6 +60,7 @@ Say thanks!
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>706 Bytes</td>
 <td>Google Scholar<br><img src="images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>525 Bytes</td>
+<td>Google Drive<br><img src="images/svg/google_drive.svg" width="125" title="Google Drive" /><br>878 Bytes</td>
 </tr>
 </table>
 
@@ -231,6 +232,9 @@ Say thanks!
 </tr>
 <tr>
 <td>Orcid<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="125" title="Orcid" /><br>615 Bytes</td>
+<td>HP<br><img src="images/svg/hp.svg" width="125" title="HP"/><br>500 Bytes</td>
+<td>RedHat<br><img src="images/svg/redhat.svg" width="125" title="RedHat"/><br>566 Bytes</td>
+<td>Git<br><img src="images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
 </tr>
 </table>
 
