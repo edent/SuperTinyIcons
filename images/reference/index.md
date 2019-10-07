@@ -40,6 +40,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/mastodon.svg" width="256" />	| <img src="/images/reference/mastodon.svg" width="256" />	| https://github.com/tootsuite/joinmastodon/blob/master/public/press-kit.zip	|
 | <img src="/images/svg/wire.svg" width="256" />	| <img src="/images/reference/wire.svg" width="256" />	| https://brand.wire.com/symbol/|
 | <img src="/images/svg/tox.svg" width="256" />	| <img src="/images/reference/tox.svg" width="256" />	| https://github.com/Tox/tox.chat/blob/master/themes/website/static/img/icon.svg	|
+| <img src="/images/svg/git.svg" width="256"/>	| <img src="/images/reference/git.png" width="256"/>	| https://git-scm.com/downloads/logos	|
 | <img src="/images/svg/gitlab.svg" width="256" />	| <img src="/images/reference/gitlab.svg" width="256" />	| https://about.gitlab.com/press/	|
 | <img src="/images/svg/html5.svg" width="256" />	| <img src="/images/reference/html5.svg" width="256" />	| https://www.w3.org/html/logo/	|
 | <img src="/images/svg/meetup.svg" width="256" />	| <img src="/images/reference/meetup.png" width="256" />	| https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg	|
@@ -171,6 +172,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/reference/mattermost.png" width="256" />  | https://www.mattermost.org/brand-guidelines/ |
 | <img src="/images/svg/archlinux.svg" width="256" /> | <img src="/images/reference/archlinux_ref.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg |
 | <img src="/images/svg/uber.svg" width="256" /> | <img src="/images/reference/uber.png" width="256" />  | https://brand.uber.com/guide#logo-clearspace |
-| <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="403" /> | https://flutter.dev/brand |
+| <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="256" /> | https://flutter.dev/brand |
 | <img src="/images/svg/orcid.svg" width="256" /> | <img src="/images/reference/orcid.png" width="256" />  | https://orcid.org/ |
 | <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
+| <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.jpg" width="256" /> | https://developers.google.com/drive/api/v2/branding |
