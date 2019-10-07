@@ -178,3 +178,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/orcid.svg" width="256" /> | <img src="/images/reference/orcid.png" width="256" />  | https://orcid.org/ |
 | <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
 | <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.jpg" width="256" /> | https://developers.google.com/drive/api/v2/branding |
+| <img src="/images/svg/protonmail.svg" width="256" /> | <img src="/images/reference/protonmail.jpg" width="256" /> | https://protonmail.com/media-kit#Logos |
