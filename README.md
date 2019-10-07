@@ -327,6 +327,9 @@ Say thanks!
 <td>Printer<br><img src="images/svg/print.svg" width="125" title="Printer" /><br>583 Bytes</td>   
 <td>Uber<br><img src="images/svg/uber.svg" width="125" title="Uber" /><br>880 Bytes</td>
 </tr>
+<tr>
+<td>Amazon <abbr title="Simple Storage Service">S3</abbr><br><img src="images/svg/amazon-s3.svg" width="125" title="Amazon S3"/><br>767 Bytes</td>
+</tr>
 </table>
 
 ## Why so smallious?
