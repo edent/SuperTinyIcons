@@ -48,6 +48,7 @@ Say thanks!
 <td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>781 Bytes</td>
 <td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>205 Bytes</td>
 </tr>
+<td><img src="images/svg/iHeartRadio.svg" width="125" title="iHeartRadio" /><br>229 Bytes</td>
 </table>
 
 ### Google
