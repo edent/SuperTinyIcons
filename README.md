@@ -308,6 +308,13 @@ Say thanks!
 </tr>
 </table>
 
+### Database
+<table>
+<tr>
+<td><img src="images/svg/sqlite.svg" width="125" title="SQLite" /><br>3.073 Bytes</td>
+</tr>
+</table>
+
 ### Misc
 
 <table>
