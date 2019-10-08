@@ -47,6 +47,7 @@ Say thanks!
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="125" title="YouTube" /><br>359 Bytes</td>
 <td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>781 Bytes</td>
 <td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>205 Bytes</td>
+<td>Name Of Service<img src="images/svg/nameofservice.svg" width="125" title="Name Of Service" /><br>229 Bytes</td>
 </tr>
 </table>
 
