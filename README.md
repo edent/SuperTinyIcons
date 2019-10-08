@@ -47,6 +47,7 @@ Say thanks!
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="125" title="YouTube" /><br>359 Bytes</td>
 <td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>781 Bytes</td>
 <td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>205 Bytes</td>
+<td><img src="images/svg/deezer.svg" width="125" title="Deezer" /><br>5897 Bytes</td>
 </tr>
 </table>
 
@@ -326,7 +327,7 @@ Say thanks!
 <td>ePub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="125" title="ePub" /><br>323 Bytes</td>
 <td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="125" title="NextCloud" /><br>312 Bytes</td>
 <td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="125" title="Raspberry Pi" /><br>1002 Bytes</td>
-<td>Printer<br><img src="images/svg/print.svg" width="125" title="Printer" /><br>583 Bytes</td>   
+<td>Printer<br><img src="images/svg/print.svg" width="125" title="Printer" /><br>583 Bytes</td>
 <td>Amazon <abbr title="Simple Storage Service">S3</abbr><br><img src="images/svg/amazon-s3.svg" width="125" title="Amazon S3"/><br>767 Bytes</td>
 <td>Ansible<br><img src="images/svg/ansible.svg" width="125" title="Ansible"/><br>381 Bytes</td>
 </tr>
