@@ -500,3 +500,5 @@ From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 IBM, Yammer, Android, Authy, Cloudflare, CodePen, DigitalOcean, Discord, Airbnb, WiFi, Delicious, Open Source, Patreon
 
 Where possible, they retain their original licenses. Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
+
+<td><img src="images/svg/nameofservice.svg" width="125" title="Name Of Service" /><br>229 Bytes</td>
