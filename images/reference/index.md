@@ -179,3 +179,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
 | <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.jpg" width="256" /> | https://developers.google.com/drive/api/v2/branding |
 | <img src="/images/svg/ansible.svg" width="256" /> | <img src="/images/reference/ansible.svg" width="256" />  | https://www.ansible.com/logos |
+| <img src="/images/svg/sentry.svg" width="256"/> | <img src="/images/reference/sentry.svg" width="256" /> | https://sentry.io/branding/ |
