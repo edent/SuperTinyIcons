@@ -236,6 +236,7 @@ Say thanks!
 <td>HP<br><img src="images/svg/hp.svg" width="125" title="HP"/><br>500 Bytes</td>
 <td>RedHat<br><img src="images/svg/redhat.svg" width="125" title="RedHat"/><br>566 Bytes</td>
 <td>Git<br><img src="images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
+<td>Microsoft<br><img src="images/svg/microsoft.svg" width="125" title="Microsoft"/><br>435 Bytes</td>
 </tr>
 </table>
 
