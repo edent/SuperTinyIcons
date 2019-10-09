@@ -181,3 +181,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/ansible.svg" width="256" /> | <img src="/images/reference/ansible.svg" width="256" />  | https://www.ansible.com/logos |
 | <img src="/images/svg/sentry.svg" width="256"/> | <img src="/images/reference/sentry.svg" width="256" /> | https://sentry.io/branding/ |
 | <img src="/images/svg/deezer.svg" width="256"/> | <img src="/images/reference/deezer.png" width="256" /> | https://deezerbrand.com/d/9wmMErzrRuiH/brand-elements |
+| <img src="/images/svg/microsoft.svg" width="256"/> | <img src="/images/svg/reference/microsoft.png" width="256" | https://news.microsoft.com/mssurfacehub_logo_stacked_c-white_rgb/ |
