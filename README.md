@@ -305,6 +305,9 @@ Say thanks!
 <td>JavaScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /><br>532 Bytes</td>
 <td>Flutter<br><img src="images/svg/flutter.svg" width="125" title="Flutter" /><br>892 Bytes</td>
 </tr>
+<tr>
+<td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="125" title="Gradle" /><br>743 Bytes</td>
+</tr>
 </table>
 
 ### Misc
