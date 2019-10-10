@@ -338,7 +338,7 @@ Say thanks!
 <td>ePub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="125" title="ePub" /><br>323 Bytes</td>
 <td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="125" title="NextCloud" /><br>312 Bytes</td>
 <td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="125" title="Raspberry Pi" /><br>1002 Bytes</td>
-<td>Elementary OS<br><img src="images/svg/elementary.svg" width="125" title="Elementary OS" /><br>768 Bytes</td>
+<td>Elementary OS<br><img src="images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>768 Bytes</td>
 </tr>
 <tr>
 <td>Printer<br><img src="images/svg/print.svg" width="125" title="Printer" /><br>583 Bytes</td>   
