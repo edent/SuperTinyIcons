@@ -1,3 +1,4 @@
+
 # Reference Images
 
 A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo.
@@ -29,6 +30,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/spotify.svg" width="256" />	| <img src="/images/reference/spotify.svg" width="256" />	| https://developer.spotify.com/design/	|
 | <img src="/images/svg/snapchat.svg" width="256" />	| <img src="/images/reference/snapchat.svg" width="256" />	| https://www.snap.com/en-US/brand-guidelines/	|
 | <img src="/images/svg/amazon.svg" width="256" />	| <img src="/images/reference/amazon.jpg" width="256" />	| http://www.turnerduckworth.com/work/amazon/	|
+| <img src="/images/svg/amazon-s3.svg" width="256"/>	| <img src="/images/reference/amazon-s3.jpg" width="256"/>	| https://aws.amazon.com/architecture/icons/	|
 | <img src="/images/svg/steam.svg" width="256" />	| <img src="/images/reference/steam.svg" width="256" />	| https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/Steam_Guidelines_20170524.pdf	|
 | <img src="/images/svg/google.svg" width="256" />	| <img src="/images/reference/google.svg" width="256" />	| https://developers.google.com/identity/branding-guidelines|
 | <img src="/images/svg/google_plus.svg" width="256" />	| <img src="/images/reference/google_plus.png" width="256" />	| https://plus.google.com/+googleplus	|
@@ -40,6 +42,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/mastodon.svg" width="256" />	| <img src="/images/reference/mastodon.svg" width="256" />	| https://github.com/tootsuite/joinmastodon/blob/master/public/press-kit.zip	|
 | <img src="/images/svg/wire.svg" width="256" />	| <img src="/images/reference/wire.svg" width="256" />	| https://brand.wire.com/symbol/|
 | <img src="/images/svg/tox.svg" width="256" />	| <img src="/images/reference/tox.svg" width="256" />	| https://github.com/Tox/tox.chat/blob/master/themes/website/static/img/icon.svg	|
+| <img src="/images/svg/git.svg" width="256"/>	| <img src="/images/reference/git.png" width="256"/>	| https://git-scm.com/downloads/logos	|
 | <img src="/images/svg/gitlab.svg" width="256" />	| <img src="/images/reference/gitlab.svg" width="256" />	| https://about.gitlab.com/press/	|
 | <img src="/images/svg/html5.svg" width="256" />	| <img src="/images/reference/html5.svg" width="256" />	| https://www.w3.org/html/logo/	|
 | <img src="/images/svg/meetup.svg" width="256" />	| <img src="/images/reference/meetup.png" width="256" />	| https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg	|
@@ -47,6 +50,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/lastpass.svg" width="256" />	| <img src="/images/reference/lastpass.svg" width="256" />	| https://lastpass.com/press-room/	|
 | <img src="/images/svg/windows.svg" width="256" />	| <img src="/images/reference/windows.png" width="256" />	| https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1voQq	|
 | <img src="/images/svg/digidentity.svg" width="256" />	| <img src="/images/reference/digidentity.jpg" width="256" />	| https://www.digidentity.eu/en/blog/	|
+| <img src="/images/svg/redhat.svg" width="256"/>	| <img src="/images/reference/redhat.svg" width="256"/>	| https://www.redhat.com/	|
 | <img src="/images/svg/ubuntu.svg" width="256" />	| <img src="/images/reference/ubuntu.svg" width="256" />	| https://design.ubuntu.com/brand/ubuntu-logo/	|
 | <img src="/images/svg/bitbucket.svg" width="256" />	| <img src="/images/reference/bitbucket.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/apple.svg" width="256" />	| <img src="/images/reference/apple.svg" width="256" />	| https://developer.apple.com/softwarelicensing/agreements/pdf/mac_logo_gdlns.pdf	|
@@ -79,6 +83,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/opensource.svg" width="256" />	| <img src="/images/reference/opensource.png" width="256" />	| https://opensource.org/logo-usage-guidelines	|
 | <img src="/images/svg/patreon.svg" width="256" />	| <img src="/images/reference/patreon.png" width="256" />	| https://www.patreon.com/brand/guidelines	|
 | <img src="/images/svg/trello.svg" width="256" />	| <img src="/images/reference/trello.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
+| <img src="/images/svg/hp.svg" width="256"/>	| <img src="/images/reference/hp.gif" width="256"/>	| https://www.hp.com/	|
 | <img src="/images/svg/intel.svg" width="256" />	| <img src="/images/reference/intel.png" width="256" />	| https://newsroom.intel.com/news/intel-accelerates-ai-innovation-3-new-intel-capital-investments/intel-logo-default/	|
 | <img src="/images/svg/badoo.svg" width="256" />	| <img src="/images/reference/badoo.svg" width="256" />	| https://team.badoo.com/new/	|
 | <img src="/images/svg/samsunginternet.svg" width="256" />	| <img src="/images/reference/samsunginternet.png" width="256" />	| http://www.samsung.com/global/galaxy/apps/samsung-internet/	|
@@ -123,6 +128,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/stitcher.svg" width="256" /> | <img src="/images/reference/stitcher.png" width="32" />  | https://itunes.apple.com/us/app/stitcher-for-podcasts/id288087905 |
 | <img src="/images/svg/tunein.svg" width="256" /> | <img src="/images/reference/tunein.png" width="32" />  | https://cms.tunein.com/wp-content/uploads/2018/08/TuneIn-Media-Kit-Q3-2018-.pdf |
 | <img src="/images/svg/acast.svg" width="256" /> | <img src="/images/reference/acast.svg" width="256" />  | https://acast.com |
+| <img src="/images/svg/overcast.svg" width="256" /> | <img src="/images/reference/overcast.svg" width="256" />  | https://overcast.fm |
 | <img src="/images/svg/liberapay.svg" width="256" /> | <img src="/images/reference/liberapay.svg" width="256" />  | https://github.com/liberapay/liberapay.com/blob/master/www/assets/liberapay/icon-v2_yellow-r.svg |
 | <img src="/images/svg/epub.svg" width="256" /> | <img src="/images/reference/epub.svg" width="256" />  | http://idpf.org/sites/default/files/epub-logo.gif |
 | <img src="/images/svg/nextcloud.svg" width="256" /> | <img src="/images/reference/nextcloud.svg" width="256" />  | https://nextcloud.com/press/ |
@@ -166,3 +172,15 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/coffeescript.svg" width="256" /> | <img src="/images/reference/coffeescript-logo.svg" width="256" />  | http://coffeescript.org/ |
 | <img src="/images/svg/threema.svg" width="256" /> | <img src="/images/reference/threema.png" width="256" />  | https://threema.ch/press-files/5_graphics/1_icons_and_logos.zip |
 | <img src="/images/svg/elementaryos.svg" width="256" /> | <img src="/images/reference/elementaryos.png" width="256" />  | https://elementary.io/images/brand/logomark.png |
+| <img src="/images/svg/print.svg" width="256" /> | <img src="/images/reference/print.svg" width="256" />  | https://www.iconfinder.com/icons/326675/print_icon#size=512 |
+| <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/reference/mattermost.png" width="256" />  | https://www.mattermost.org/brand-guidelines/ |
+| <img src="/images/svg/archlinux.svg" width="256" /> | <img src="/images/reference/archlinux_ref.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg |
+| <img src="/images/svg/uber.svg" width="256" /> | <img src="/images/reference/uber.png" width="256" />  | https://brand.uber.com/guide#logo-clearspace |
+| <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="256" /> | https://flutter.dev/brand |
+| <img src="/images/svg/orcid.svg" width="256" /> | <img src="/images/reference/orcid.png" width="256" />  | https://orcid.org/ |
+| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
+| <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.jpg" width="256" /> | https://developers.google.com/drive/api/v2/branding |
+| <img src="/images/svg/ansible.svg" width="256" /> | <img src="/images/reference/ansible.svg" width="256" />  | https://www.ansible.com/logos |
+| <img src="/images/svg/sentry.svg" width="256"/> | <img src="/images/reference/sentry.svg" width="256" /> | https://sentry.io/branding/ |
+| <img src="/images/svg/microsoft.svg" width="256"/> | <img src="/images/svg/reference/microsoft.png" width="256"/> | https://news.microsoft.com/mssurfacehub_logo_stacked_c-white_rgb/ |
+
