@@ -1,6 +1,6 @@
 Thanks for submitting or fixing an icon! Here is a helpful guide to what you need to include.
 
-- [ ] New file
+- [ ] New file which is *under* 1,024 bytes
 - [ ] Edit Readme
 - [ ] Add reference image
 - [ ] Edit reference page
@@ -18,13 +18,10 @@ At a minimum, your icon needs these components:
 <svg
 xmlns="http://www.w3.org/2000/svg"
 aria-label="..." role="img"
-viewBox="0 0 512 512">
-<rect
+viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/>
-...
-</svg>
+fill="#fff"/>...</svg>
 ```
 
 Please keep the whitespace as-is. This makes viewing diffs easier.
@@ -34,8 +31,10 @@ Please keep the whitespace as-is. This makes viewing diffs easier.
 Add a table cell to README.md - it must be in this format:
 
 ```
-<td><img src="images/svg/nameofservice.svg" width="125" title="Name Of Service" /><br>229 Bytes</td>
+<td>Name of Service<br><img src="images/svg/nameofservice.svg" width="125" title="Name Of Service" /><br>123 Bytes</td>
 ```
+
+Please add the correct file size.
 
 ## Reference Image
 
