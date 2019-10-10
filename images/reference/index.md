@@ -165,3 +165,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/clojure.svg" width="256" /> | <img src="/images/reference/Clojure_logo.svg.png" width="256" />  | https://clojure.org/index |
 | <img src="/images/svg/coffeescript.svg" width="256" /> | <img src="/images/reference/coffeescript-logo.svg" width="256" />  | http://coffeescript.org/ |
 | <img src="/images/svg/threema.svg" width="256" /> | <img src="/images/reference/threema.png" width="256" />  | https://threema.ch/press-files/5_graphics/1_icons_and_logos.zip |
+| <img src="/images/svg/elementaryos.svg" width="256" /> | <img src="/images/reference/elementaryos.png" width="256" />  | https://elementary.io/images/brand/logomark.png |
