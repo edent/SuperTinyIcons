@@ -168,6 +168,8 @@ Say thanks!
 <td>OpenBenches<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openbenches.svg" width="125" title="OpenBenches" /><br>797 Bytes</td>
 <td>TripAdvisor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tripadvisor.svg" width="125" title="TripAdvisor" /><br>704 Bytes</td>
 <td>Sentry<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sentry.svg" width="125" title="Sentry" /><br>507 Bytes</td>
+<td>Behance<br><img src="images/svg/behance.svg" width="125" title="Behance" /><br>916 Bytes</td>
+
 </tr>
 </table>
 
@@ -313,6 +315,7 @@ Say thanks!
 <td>Flutter<br><img src="images/svg/flutter.svg" width="125" title="Flutter" /><br>836 Bytes</td>
 <td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="125" title="Backbone" /><br>463 Bytes</td>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
+<td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="125" title="Gradle" /><br>743 Bytes</td>
 </tr>
 </table>
 
@@ -333,9 +336,10 @@ Say thanks!
 <td>ePub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="125" title="ePub" /><br>323 Bytes</td>
 <td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="125" title="NextCloud" /><br>312 Bytes</td>
 <td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="125" title="Raspberry Pi" /><br>1002 Bytes</td>
-<td>Printer<br><img src="images/svg/print.svg" width="125" title="Printer" /><br>583 Bytes</td>   
+<td>Elementary OS<br><img src="images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>768 Bytes</td>
 </tr>
 <tr>
+<td>Printer<br><img src="images/svg/print.svg" width="125" title="Printer" /><br>583 Bytes</td>   
 <td>Uber<br><img src="images/svg/uber.svg" width="125" title="Uber" /><br>880 Bytes</td>
 <td>Amazon <abbr title="Simple Storage Service">S3</abbr><br><img src="images/svg/amazon-s3.svg" width="125" title="Amazon S3"/><br>767 Bytes</td>
 <td>Ansible<br><img src="images/svg/ansible.svg" width="125" title="Ansible"/><br>381 Bytes</td>

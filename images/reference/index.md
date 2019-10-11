@@ -1,3 +1,4 @@
+
 # Reference Images
 
 A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo.
@@ -170,6 +171,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/clojure.svg" width="256" /> | <img src="/images/reference/Clojure_logo.svg.png" width="256" />  | https://clojure.org/index |
 | <img src="/images/svg/coffeescript.svg" width="256" /> | <img src="/images/reference/coffeescript-logo.svg" width="256" />  | http://coffeescript.org/ |
 | <img src="/images/svg/threema.svg" width="256" /> | <img src="/images/reference/threema.png" width="256" />  | https://threema.ch/press-files/5_graphics/1_icons_and_logos.zip |
+| <img src="/images/svg/elementaryos.svg" width="256" /> | <img src="/images/reference/elementaryos.png" width="256" />  | https://elementary.io/images/brand/logomark.png |
 | <img src="/images/svg/print.svg" width="256" /> | <img src="/images/reference/print.svg" width="256" />  | https://www.iconfinder.com/icons/326675/print_icon#size=512 |
 | <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/reference/mattermost.png" width="256" />  | https://www.mattermost.org/brand-guidelines/ |
 | <img src="/images/svg/archlinux.svg" width="256" /> | <img src="/images/reference/archlinux_ref.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg |
@@ -181,4 +183,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/ansible.svg" width="256" /> | <img src="/images/reference/ansible.svg" width="256" />  | https://www.ansible.com/logos |
 | <img src="/images/svg/sentry.svg" width="256"/> | <img src="/images/reference/sentry.svg" width="256" /> | https://sentry.io/branding/ |
 | <img src="/images/svg/microsoft.svg" width="256"/> | <img src="/images/reference/microsoft.png" width="256" /> | https://news.microsoft.com/mssurfacehub_logo_stacked_c-white_rgb/ |
+| <img src="/images/svg/behance.svg" width="256" />	| <img src="/images/reference/behance.png" width="256" />	| https://www.behance.net/ |
 | <img src="/images/svg/gojek.svg" width="256"/> | <img src="/images/reference/gojek.svg" width="256" /> | https://www.gojek.com/id/terms-of-service/ |
