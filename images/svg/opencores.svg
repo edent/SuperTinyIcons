@@ -1,6 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="OpenCores" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#27529d"/><g fill="none" stroke="#fff" stroke-width="48"><circle cy="192" cx="192" r="84"/><circle stroke-dasharray="0 67 396 999" cy="320" cx="320" r="84"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-label="OpenCores"
+   role="img"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="opencores.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1634"
+     inkscape:window-height="995"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.3037281"
+     inkscape:cx="233.7376"
+     inkscape:cy="257.705"
+     inkscape:window-x="46"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849" />
+  </sodipodi:namedview>
+  <rect
+     width="512"
+     height="512"
+     rx="15%"
+     fill="#27529d"
+     id="rect2" />
+  <g
+     id="g8"
+     stroke-width="48"
+     stroke="#fff"
+     fill="none">
+    <circle
+       cy="192"
+       cx="192"
+       r="84"
+       id="circle4" />
+    <path
+       id="circle6"
+       r="84"
+       cy="320"
+       cx="320" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 378.92641,381.91607 A 84.030777,83.996153 0 0 1 320.03433,405.99615 84.030777,83.996153 0 0 1 236.00355,322 a 84.030777,83.996153 0 0 1 84.03078,-83.99615 84.030777,83.996153 0 0 1 59.08946,24.27458"
+       style="fill:none;stroke-width:48.00769424"
+       id="circle823" />
+  </g>
+</svg>
