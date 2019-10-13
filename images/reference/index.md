@@ -26,6 +26,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/wikipedia.svg" width="256" />	| <img src="/images/reference/wikipedia.svg" width="256" />	| https://wikimediafoundation.org/wiki/Visual_identity_guidelines	|
 | <img src="/images/svg/vimeo.svg" width="256" />	| <img src="/images/reference/vimeo.svg" width="256" />	| https://press.vimeo.com/brand-guidelines	|
 | <img src="/images/svg/slideshare.svg" width="256" />	| <img src="/images/reference/slideshare.png" width="256" />	| https://www.slideshare.net/about/logos	|
+| <img src="/images/svg/deezer.svg" width="256" />	| <img src="/images/reference/deezer.png" width="256" />	| http://cdn-files.deezer.com/developers/Deezer\_BrandBook.pdf	|
 | <img src="/images/svg/soundcloud.svg" width="256" />	| <img src="/images/reference/soundcloud.png" width="256" />	| https://developers.soundcloud.com/docs/api/buttons-logos	|
 | <img src="/images/svg/spotify.svg" width="256" />	| <img src="/images/reference/spotify.svg" width="256" />	| https://developer.spotify.com/design/	|
 | <img src="/images/svg/snapchat.svg" width="256" />	| <img src="/images/reference/snapchat.svg" width="256" />	| https://www.snap.com/en-US/brand-guidelines/	|
