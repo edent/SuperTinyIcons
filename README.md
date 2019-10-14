@@ -323,7 +323,7 @@ Say thanks!
 <td>Drone.io<br><img src="images/svg/drone.svg" width="125" title="Drone.io" /><br>503 Bytes</td>
 
 </tr>
-<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>988 Bytes</td>
+<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>986 Bytes</td>
 </tr>
 
 </table>
