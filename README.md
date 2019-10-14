@@ -318,6 +318,7 @@ Say thanks!
 <tr>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="125" title="Gradle" /><br>743 Bytes</td>
+<td>Amber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amberframework.svg" width="125" title="Amber Framework" /><br>754 Bytes</td>
 </tr>
 </table>
 
