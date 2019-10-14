@@ -322,7 +322,7 @@ Say thanks!
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="125" title="Gradle" /><br>743 Bytes</td>
 <td>Amber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amberframework.svg" width="125" title="Amber Framework" /><br>754 Bytes</td>
 <td>Drone.io<br><img src="images/svg/drone.svg" width="125" title="Drone.io" /><br>503 Bytes</td>
-
+<td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="125" title="Ruby Gems" /><br>402 Bytes</td>
 </tr>
 <td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>986 Bytes</td>
 </tr>

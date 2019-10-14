@@ -191,4 +191,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/luckyframework.svg" width="256"/> | <img src="/images/reference/luckyframework.svg" width="256" /> | https://luckyframework.org/ |
 | <img src="/images/svg/grafana.svg" width="256"/> | <img src="/images/reference/grafana.svg" width="256"/> | https://github.com/grafana/grafana/blob/master/public/img/grafana\_icon.svg |
 | <img src="/images/svg/drone.svg" width="256"/> | <img src="/images/reference/drone.png" width="256"/> | https://github.com/drone/brand |
-
+| <img src="/images/svg/rubygems.svg" width="256"/> | <img src="/images/reference/rubygems.png" width="256"/> | https://rubygems.org |
