@@ -91,7 +91,7 @@ Say thanks!
 
 <tr>
 <td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail"/><br>438 Bytes</td>
-<td>Verizon<br><img src="images/svg/verizon.svg" width="125" title="Verizon"/><br>951 Bytes</td>
+<td>Verizon<br><img src="images/svg/verizon.svg" width="125" title="Verizon"/><br>425 Bytes</td>
 </tr>
 
 </table>
