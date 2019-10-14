@@ -187,3 +187,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/microsoft.svg" width="256"/> | <img src="/images/reference/microsoft.png" width="256" /> | https://news.microsoft.com/mssurfacehub_logo_stacked_c-white_rgb/ |
 | <img src="/images/svg/behance.svg" width="256" />	| <img src="/images/reference/behance.png" width="256" />	| https://www.behance.net/ |
 | <img src="/images/svg/gojek.svg" width="256"/> | <img src="/images/reference/gojek.svg" width="256" /> | https://www.gojek.com/id/terms-of-service/ |
+| <img src="/images/svg/iheartradio.svg" width="256"/> | <img src="/images/reference/iheartradio.svg" width="256" /> | https://www.iheart.com/ |
