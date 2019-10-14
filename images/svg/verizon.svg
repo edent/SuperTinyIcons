@@ -1,0 +1,4 @@
+<svg
+xmlns="http://www.w3.org/2000/svg" style="isolation:isolate" viewBox="0 0 512 512" width="512pt" height="512pt">
+<defs><clipPath id="_clipPath_92HC6pO0AWPxEhhP8DBtPoYPLikryirL"><rect width="512" height="512" rx="15%"/></clipPath></defs><g clip-path="url(#_clipPath_92HC6pO0AWPxEhhP8DBtPoYPLikryirL)"><clipPath id="_clipPath_4WEzc61VtNU4neRvSfNhJmEbDMGnilAH"><rect x="0" y="0" width="512" height="512" transform="matrix(1,0,0,1,0,0)" fill="rgb(255,255,255)"/></clipPath><g clip-path="url(#_clipPath_4WEzc61VtNU4neRvSfNhJmEbDMGnilAH)"><g><path d=" M 76.8 0 L 435.2 0 C 477.587 0 512 34.413 512 76.8 L 512 435.2 C 512 477.587 477.587 512 435.2 512 L 76.8 512 C 34.413 512 0 477.587 0 435.2 L 0 76.8 C 0 34.413 34.413 0 76.8 0 Z " fill="rgb(0,0,0)"/><path d=" M 122.623 256.078 L 172.225 256.078 L 217.408 365.567 L 340.955 94.172 L 389.377 94.172 L 238.24 417.825 L 196.674 417.828 L 122.623 256.078 Z " fill="rgb(211,46,40)"/></g></g></g>
+</svg>
