@@ -90,6 +90,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail" /><br>438 Bytes</td>
+<td>XMPP/Jabber<br><img src="images/svg/xmpp.svg" width="125" title="XMPP" /><br>1011 Bytes</td>
 </tr>
 </table>
 
