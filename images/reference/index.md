@@ -179,12 +179,15 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/uber.svg" width="256" /> | <img src="/images/reference/uber.jpg" width="256" />  | https://brand.uber.com/guide#logo-clearspace |
 | <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="256" /> | https://flutter.dev/brand |
 | <img src="/images/svg/orcid.svg" width="256" /> | <img src="/images/reference/orcid.png" width="256" />  | https://orcid.org/ |
-| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
-| <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.png" width="256" /> | https://developers.google.com/drive/api/v2/branding |
-| <img src="/images/svg/protonmail.svg" width="256" /> | <img src="/images/reference/protonmail.png" width="256" /> | https://protonmail.com/media-kit#Logos |
+| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
+| <img src="/images/svg/amberframework.svg" width="256"/> | <img src="/images/reference/amberframework.png" width="256"/>  | https://amberframework.org/media |
+| <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.jpg" width="256" /> | https://developers.google.com/drive/api/v2/branding |
+| <img src="/images/svg/protonmail.svg" width="256" /> | <img src="/images/reference/protonmail.jpg" width="256" /> | https://protonmail.com/media-kit#Logos |
 | <img src="/images/svg/ansible.svg" width="256" /> | <img src="/images/reference/ansible.svg" width="256" />  | https://www.ansible.com/logos |
 | <img src="/images/svg/sentry.svg" width="256"/> | <img src="/images/reference/sentry.svg" width="256" /> | https://sentry.io/branding/ |
 | <img src="/images/svg/microsoft.svg" width="256"/> | <img src="/images/reference/microsoft.png" width="256" /> | https://news.microsoft.com/mssurfacehub_logo_stacked_c-white_rgb/ |
 | <img src="/images/svg/behance.svg" width="256" />	| <img src="/images/reference/behance.png" width="256" />	| https://www.behance.net/ |
 | <img src="/images/svg/gojek.svg" width="256"/> | <img src="/images/reference/gojek.svg" width="256" /> | https://www.gojek.com/id/terms-of-service/ |
+| <img src="/images/svg/grafana.svg" width="256"/> | <img src="/images/reference/grafana.svg" width="256"/> | https://github.com/grafana/grafana/blob/master/public/img/grafana\_icon.svg |
+| <img src="/images/svg/drone.svg" width="256"/> | <img src="/images/reference/drone.png" width="256"/> | https://github.com/drone/brand |
 | <img src="/images/svg/iheartradio.svg" width="256"/> | <img src="/images/reference/iheartradio.svg" width="256" /> | https://www.iheart.com/ |
