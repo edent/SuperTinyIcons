@@ -247,6 +247,7 @@ Say thanks!
 <td>RedHat<br><img src="images/svg/redhat.svg" width="125" title="RedHat"/><br>566 Bytes</td>
 <td>Git<br><img src="images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
 <td>Microsoft<br><img src="images/svg/microsoft.svg" width="125" title="Microsoft"/><br>435 Bytes</td>
+<td>Grafana<br><img src="images/svg/grafana.svg" width="125" title="Grafana"/><br>962 Bytes</td>
 </tr>
 </table>
 
@@ -318,6 +319,9 @@ Say thanks!
 <tr>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="125" title="Gradle" /><br>743 Bytes</td>
+<td>Amber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amberframework.svg" width="125" title="Amber Framework" /><br>754 Bytes</td>
+<td>Drone.io<br><img src="images/svg/drone.svg" width="125" title="Drone.io" /><br>503 Bytes</td>
+
 </tr>
 <td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>988 Bytes</td>
 </tr>
