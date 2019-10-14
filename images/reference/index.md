@@ -190,3 +190,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/gojek.svg" width="256"/> | <img src="/images/reference/gojek.svg" width="256" /> | https://www.gojek.com/id/terms-of-service/ |
 | <img src="/images/svg/grafana.svg" width="256"/> | <img src="/images/reference/grafana.svg" width="256"/> | https://github.com/grafana/grafana/blob/master/public/img/grafana\_icon.svg |
 | <img src="/images/svg/drone.svg" width="256"/> | <img src="/images/reference/drone.png" width="256"/> | https://github.com/drone/brand |
+| <img src="/images/svg/crystal.svg" width="256" /> | <img src="/images/reference/crystal.svg" width="256" /> | https://crystal-lang.org/media/|
