@@ -1,4 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-label="XMPP" role="img" viewBox="0 0 512 512"><linearGradient id="a" x1="50%" y1="100%" x2="50%" y2="0%"><stop offset="0" stop-color="#1b3967"/><stop offset=".5" stop-color="#13b5ea"/><stop offset="1" stop-color="#002b5c"/></linearGradient>
+<rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/> 
 <path d="M386 131c.252 2.47-5 2-5 5 0 94-109 237-220 266.841v2.471c148.246-12 311-165 316-311l-89 34zm0 0" fill="url(#a)"/>
 <path d="M347 139c.252 3.212.252 6.429.252 9.883 0 96-76.593 222.368-187.777 252.017v2.47c145.774-9 262-156 262-269 0-5-.253-12-.996-17l-74 22zm0 0" fill="#e96d1f"/>
 <path d="M421 117l-20 7c0 2.471.495 5.436.495 7 0 101-91 242-215 264-7 2-17 5-27 7.412v4.942c168.011-19 274-178 262-289zm0 0" fill="#d9541e"/>
