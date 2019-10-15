@@ -88,7 +88,6 @@ Say thanks!
 <td>Threema<br><img src="images/svg/threema.svg" width="125" title="Threema" /><br>774 Bytes</td>
 <td>Mattermost<br><img src="images/svg/mattermost.svg" width="125" title="Mattermost"/><br>621 Bytes</td>
 </tr>
-
 <tr>
 <td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail"/><br>438 Bytes</td>
 <td>Verizon<br><img src="images/svg/verizon.svg" width="125" title="Verizon"/><br>425 Bytes</td>
@@ -324,9 +323,13 @@ Say thanks!
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="125" title="Gradle" /><br>743 Bytes</td>
 <td>Amber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amberframework.svg" width="125" title="Amber Framework" /><br>754 Bytes</td>
+<td>Gitea<br><img src="images/svg/gitea.svg" width="125" title="Gitea" /><br>930 Bytes</td>
 <td>Drone.io<br><img src="images/svg/drone.svg" width="125" title="Drone.io" /><br>503 Bytes</td>
-
+<td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="125" title="Ruby Gems" /><br>402 Bytes</td>
 </tr>
+<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>986 Bytes</td>
+</tr>
+
 </table>
 
 ### Operating Systems / Kernel
