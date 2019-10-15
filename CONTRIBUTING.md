@@ -26,6 +26,17 @@ fill="#fff"/>...</svg>
 
 Please keep the whitespace as-is. This makes viewing diffs easier.
 
+### Guidelines
+
+This is the standard guideline. Use this to help with sizing your icons and they will look good no matter what border radius is chosen.
+
+<img src="https://edent.github.io/SuperTinyIcons/images/guidelines/guideline.svg" width="256" alt="A template for logos" />
+
+- **Green** is the safe zone, where the main body of the icon should be.
+- **Yellow** is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.
+- **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
+
+
 ## Edit Readme
 
 Add a table cell to README.md - it must be in this format:
