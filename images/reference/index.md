@@ -188,5 +188,8 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/microsoft.svg" width="256"/> | <img src="/images/reference/microsoft.png" width="256" /> | https://news.microsoft.com/mssurfacehub_logo_stacked_c-white_rgb/ |
 | <img src="/images/svg/behance.svg" width="256" />	| <img src="/images/reference/behance.png" width="256" />	| https://www.behance.net/ |
 | <img src="/images/svg/gojek.svg" width="256"/> | <img src="/images/reference/gojek.svg" width="256" /> | https://www.gojek.com/id/terms-of-service/ |
+| <img src="/images/svg/luckyframework.svg" width="256"/> | <img src="/images/reference/luckyframework.svg" width="256" /> | https://luckyframework.org/ |
 | <img src="/images/svg/grafana.svg" width="256"/> | <img src="/images/reference/grafana.svg" width="256"/> | https://github.com/grafana/grafana/blob/master/public/img/grafana\_icon.svg |
 | <img src="/images/svg/gitea.svg" width="256"/> | <img src="/images/reference/gitea.png" width="256"/> | https://github.com/go-gitea/gitea/tree/master/assets |
+| <img src="/images/svg/drone.svg" width="256"/> | <img src="/images/reference/drone.png" width="256"/> | https://github.com/drone/brand |
+| <img src="/images/svg/rubygems.svg" width="256"/> | <img src="/images/reference/rubygems.png" width="256"/> | https://rubygems.org |
