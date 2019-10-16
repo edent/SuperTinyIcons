@@ -178,6 +178,7 @@ Say thanks!
 <td>Sentry<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sentry.svg" width="125" title="Sentry" /><br>507 Bytes</td>
 <td>Behance<br><img src="images/svg/behance.svg" width="125" title="Behance" /><br>916 Bytes</td>
 </tr>
+<tr>
 <td>Taiga.io<br><img src="images/svg/taiga.svg" width="125" title="Taiga.io" /><br>770 Bytes</td>
 </tr>
 </table>
