@@ -250,6 +250,7 @@ Say thanks!
 <td>Git<br><img src="images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
 <td>Microsoft<br><img src="images/svg/microsoft.svg" width="125" title="Microsoft"/><br>435 Bytes</td>
 <td>Grafana<br><img src="images/svg/grafana.svg" width="125" title="Grafana"/><br>962 Bytes</td>
+<td>Ubiquiti<br><img src="images/svg/ubiquiti.svg" width="125" title="Ubiquiti"/><br>831 Bytes</td>
 </tr>
 </table>
 
@@ -378,11 +379,11 @@ Bytes cost money. They cost money to store, transport, and process. Simplicity s
 
 These files were edited by hand in Inkscape, then were minified using [svgo](https://github.com/svg/svgo) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible. Try it!
 
-- Each of these has an `xmlns="http://www.w3.org/2000/svg"` in the `<svg>` tag. This isn't strictly necessary - but some web browsers won't display them as an image without it.
-- Rounded corners can be dropped - `rx="80"` - the effect can be done in CSS if you want.
-- The background colour can also be excluded if you're including it elsewhere.
-- Colours can be simplified. `#FF0000` becomes `red`.
-- The precision of the paths is _mostly_ 0 decimal places. A few logos have 1 or 2 dp to make them look more accurate. The precision can be reduced if necessary.
+-   Each of these has an `xmlns="http://www.w3.org/2000/svg"` in the `<svg>` tag. This isn't strictly necessary - but some web browsers won't display them as an image without it.
+-   Rounded corners can be dropped - `rx="80"` - the effect can be done in CSS if you want.
+-   The background colour can also be excluded if you're including it elsewhere.
+-   Colours can be simplified. `#FF0000` becomes `red`.
+-   The precision of the paths is _mostly_ 0 decimal places. A few logos have 1 or 2 dp to make them look more accurate. The precision can be reduced if necessary.
 
 Think you can make them smaller? Tell me by raising an issue!
 
@@ -396,9 +397,9 @@ Think the icons look wrong? [Compare them against the official logos](https://gi
 
 I'd _love_ you to submit something 😸 The rules are simple, your icon must:
 
-- be **under** 1024 bytes. That is, the maximum file size is 1023 bytes. No arguments.
-- fit inside a circle with radius 256 pixels. Set `rx="50%"` to check.
-- represent a popular service's current logo.
+-   be **under** 1024 bytes. That is, the maximum file size is 1023 bytes. No arguments.
+-   fit inside a circle with radius 256 pixels. Set `rx="50%"` to check.
+-   represent a popular service's current logo.
 
 ### Template
 
@@ -421,8 +422,8 @@ At a minimum, your icon needs these components:
 
 The super tiny icons are accessible by default. Each icon has:
 
-- `role="img"`, to expose the `<svg>` elements as images in the browser's accessibility tree
-- `aria-label="XYZ"` (where XYZ is the icon's brand name), to give the icon an accessible name
+-   `role="img"`, to expose the `<svg>` elements as images in the browser's accessibility tree
+-   `aria-label="XYZ"` (where XYZ is the icon's brand name), to give the icon an accessible name
 
 `Note:` if using the `<svg>` as the `src` for an `<img>` element, the `alt` attribute should still be used on the `<img>` element because the ARIA is not recognised in this context.
 
@@ -434,9 +435,9 @@ This is the standard guideline. Use this to help with sizing your icons and they
 
 <img src="https://edent.github.io/SuperTinyIcons/images/guidelines/guideline.svg" width="256" alt="A template for logos" />
 
-- **Green** is the safe zone, where the main body of the icon should be.
-- **Yellow** is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.
-- **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
+-   **Green** is the safe zone, where the main body of the icon should be.
+-   **Yellow** is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.
+-   **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
 
 ## Installation
 
@@ -455,7 +456,7 @@ The old-school way:
 The modern way, the React (JSX) example:
 
 ```jsx
-import logo from "super-tiny-icons/images/svg/github.svg";
+import logo from 'super-tiny-icons/images/svg/github.svg';
 
 <img src={logo} />;
 ```
@@ -496,42 +497,42 @@ Support this project with your organization. Your logo will show up here with a 
 
 The majority of these vector logos are based on someone else's work.
 
-- [Social Media Icons by Aha-Soft](https://www.iconfinder.com/iconsets/social-flat-rounded-rects) - CC-BY
-- [Phone Icon](https://www.iconfinder.com/icons/1807538/phone_icon#size=128) - Free
-- [Lock Icon](https://www.iconfinder.com/icons/1814107/lock_padlock_secure_icon#size=512) - MIT
-- [Wire Logo](https://commons.wikimedia.org/wiki/File:Wire_software_logo.svg) - Public Domain
-- [Signal Logo](https://github.com/WhisperSystems/Signal-iOS/blob/master/Signal/Images.xcassets/logoSignal.imageset/logoSignal.pdf) - GPLv3
-- [RSS Icon](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg) - MPL 1.1
-- [PDF Icon](https://www.iconfinder.com/iconsets/line-icons-set) - Free
-- [Google+](https://commons.wikimedia.org/wiki/File:Google_Plus_logo_2015.svg) - Public Domain
-- [Google](http://svgshare.com/s/q)
-- [Mastodon](https://github.com/tootsuite/mastodon/blob/0ad694f96b7f0e951950e7525bde52cd11454cb2/app/assets/images/logo.svg) - AGPLv3
-- [GitLab](https://about.gitlab.com/press/)
-- [HTML5 Shield](https://www.w3.org/html/logo/) - CC-BY
-- [npm Logo](https://commons.wikimedia.org/wiki/File:Npm-logo.svg) - CC-BY
-- [Docker Logo](https://github.com/docker/docker.github.io/blob/master/LICENSE) - Apache
-- [Steam](https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg)
-- [Symantec](https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg)
-- [Yubico](https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png) - BSD
-- [Keybase](https://github.com/keybase/client/blob/master/shared/images/iconfont/kb-iconfont-keybase-16.svg) - BSD
-- [eBay](https://commons.wikimedia.org/wiki/File:EBay_logo.svg)
-- [Kickstarter](https://www.kickstarter.com/help/brand_assets)
-- [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
-- [Bitcoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
-- [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
-- [Blogger](https://commons.wikimedia.org/wiki/File:Blogger_icon.svg)
-- [Medium](https://medium.design/logos-and-brand-guidelines-f1a01a733592)
-- [Ghost](https://commons.wikimedia.org/wiki/File:Ghost-Logo.svg)
-- [Tumblr](https://www.tumblr.com/logo)
-- [Intel](https://commons.wikimedia.org/wiki/File:Intel-logo.svg)
-- [Badoo](https://team.badoo.com/new/)
-- [YouTube](https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors)
-- [Google Play](https://commons.wikimedia.org/wiki/File:Google_Play_symbol_2016.svg)
-- [Gmail](https://commons.wikimedia.org/wiki/File:Gmail_Icon.svg)
-- [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
-- [Plex](https://github.com/plexinc/plex-media-player/blob/master/resources/images/icon.svg) - GPLv2
-- [NHS](https://www.england.nhs.uk/nhsidentity/identity-guidelines/nhs-logo/)
-- [Threema.](https://threema.ch/de/press)
+-   [Social Media Icons by Aha-Soft](https://www.iconfinder.com/iconsets/social-flat-rounded-rects) - CC-BY
+-   [Phone Icon](https://www.iconfinder.com/icons/1807538/phone_icon#size=128) - Free
+-   [Lock Icon](https://www.iconfinder.com/icons/1814107/lock_padlock_secure_icon#size=512) - MIT
+-   [Wire Logo](https://commons.wikimedia.org/wiki/File:Wire_software_logo.svg) - Public Domain
+-   [Signal Logo](https://github.com/WhisperSystems/Signal-iOS/blob/master/Signal/Images.xcassets/logoSignal.imageset/logoSignal.pdf) - GPLv3
+-   [RSS Icon](https://commons.wikimedia.org/wiki/File:Generic_Feed-icon.svg) - MPL 1.1
+-   [PDF Icon](https://www.iconfinder.com/iconsets/line-icons-set) - Free
+-   [Google+](https://commons.wikimedia.org/wiki/File:Google_Plus_logo_2015.svg) - Public Domain
+-   [Google](http://svgshare.com/s/q)
+-   [Mastodon](https://github.com/tootsuite/mastodon/blob/0ad694f96b7f0e951950e7525bde52cd11454cb2/app/assets/images/logo.svg) - AGPLv3
+-   [GitLab](https://about.gitlab.com/press/)
+-   [HTML5 Shield](https://www.w3.org/html/logo/) - CC-BY
+-   [npm Logo](https://commons.wikimedia.org/wiki/File:Npm-logo.svg) - CC-BY
+-   [Docker Logo](https://github.com/docker/docker.github.io/blob/master/LICENSE) - Apache
+-   [Steam](https://commons.wikimedia.org/wiki/File:Steam_icon_logo.svg)
+-   [Symantec](https://commons.wikimedia.org/wiki/File:Symantec_logo10.svg)
+-   [Yubico](https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png) - BSD
+-   [Keybase](https://github.com/keybase/client/blob/master/shared/images/iconfont/kb-iconfont-keybase-16.svg) - BSD
+-   [eBay](https://commons.wikimedia.org/wiki/File:EBay_logo.svg)
+-   [Kickstarter](https://www.kickstarter.com/help/brand_assets)
+-   [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
+-   [Bitcoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
+-   [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
+-   [Blogger](https://commons.wikimedia.org/wiki/File:Blogger_icon.svg)
+-   [Medium](https://medium.design/logos-and-brand-guidelines-f1a01a733592)
+-   [Ghost](https://commons.wikimedia.org/wiki/File:Ghost-Logo.svg)
+-   [Tumblr](https://www.tumblr.com/logo)
+-   [Intel](https://commons.wikimedia.org/wiki/File:Intel-logo.svg)
+-   [Badoo](https://team.badoo.com/new/)
+-   [YouTube](https://www.youtube.com/yt/about/brand-resources/#logos-icons-colors)
+-   [Google Play](https://commons.wikimedia.org/wiki/File:Google_Play_symbol_2016.svg)
+-   [Gmail](https://commons.wikimedia.org/wiki/File:Gmail_Icon.svg)
+-   [Samsung Internet](https://github.com/edent/SuperTinyIcons/pull/74/commits/8824bdaf1346a472ab425347f958e8e64c0948ee)
+-   [Plex](https://github.com/plexinc/plex-media-player/blob/master/resources/images/icon.svg) - GPLv2
+-   [NHS](https://www.england.nhs.uk/nhsidentity/identity-guidelines/nhs-logo/)
+-   [Threema.](https://threema.ch/de/press)
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
