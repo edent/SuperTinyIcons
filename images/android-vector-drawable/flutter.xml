@@ -1,29 +1,28 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
-    android:viewportWidth="512"
-    android:viewportHeight="512"
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
     android:width="512dp"
-    android:height="512dp">
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
     <path
-        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z"
-        android:fillColor="#FFFFFF" />
+        android:fillColor="#FFFFFF"
+        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
     <path
-        android:pathData="M191.45 342.89L249.11 401 407.75 241.12H292.4Z"
-        android:fillColor="#39CEFD" />
+        android:fillColor="#39CEFD"
+        android:pathData="M191.45 342.89L249.11 401 407.75 241.12H292.4Z" />
     <path
-        android:pathData="M292.4 66.69H407.75L162.61 313.82l-57.7 -58.13Z"
-        android:fillColor="#39CEFD" />
+        android:fillColor="#39CEFD"
+        android:pathData="M292.4 66.69H407.75L162.61 313.82l-57.7 -58.13Z" />
     <path
-        android:pathData="M249.11 401l43.29 43.59H407.75L306.8 342.89Z"
-        android:fillColor="#03569B" />
-    <path
-        android:pathData="M334.67 371.16L306.8 342.89 249.11 401Z">
-        <aapt:attr
-            name="android:fillColor">
+        android:fillColor="#03569B"
+        android:pathData="M249.11 401l43.29 43.59H407.75L306.8 342.89Z" />
+    <path android:pathData="M334.67 371.16L306.8 342.89 249.11 401Z">
+        <aapt:attr name="android:fillColor">
             <gradient
-                android:startX="262.11"
-                android:startY="415.62"
                 android:endX="304.11"
                 android:endY="373.62"
+                android:startX="262.11"
+                android:startY="415.62"
                 android:tileMode="clamp">
                 <item
                     android:color="#661A237E"
@@ -35,6 +34,6 @@
         </aapt:attr>
     </path>
     <path
-        android:pathData="M191.45 342.87l57.69 -58.18 57.7 58.15L249.14 401Z"
-        android:fillColor="#16B9FD" />
+        android:fillColor="#16B9FD"
+        android:pathData="M191.45 342.87l57.69 -58.18 57.7 58.15L249.14 401Z" />
 </vector>

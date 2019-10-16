@@ -1,21 +1,21 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
-    android:viewportWidth="512"
-    android:viewportHeight="512"
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="512dp"
-    android:height="512dp">
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
     <path
-        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z"
-        android:fillColor="#FFFFFF" />
+        android:fillColor="#FFFFFF"
+        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
     <path
-        android:pathData="M48 107a256 256 0 0 1 464 149c0 135 -142 116 -142 116a163 163 0 0 0 -179 -265c-79 -45 -143 0 -143 0"
-        android:fillColor="#466ACD" />
+        android:fillColor="#466ACD"
+        android:pathData="M48 107a256 256 0 0 1 464 149c0 135 -142 116 -142 116a163 163 0 0 0 -179 -265c-79 -45 -143 0 -143 0" />
     <path
-        android:pathData="M465 404a256 256 0 0 1 -464 -149c0 -135 142 -116 142 -116a163 163 0 0 0 179 265c79 45 143 0 143 0"
-        android:fillColor="#53A526" />
+        android:fillColor="#53A526"
+        android:pathData="M465 404a256 256 0 0 1 -464 -149c0 -135 142 -116 142 -116a163 163 0 0 0 179 265c79 45 143 0 143 0" />
     <path
-        android:pathData="M213 128a135 135 0 0 1 123 237c-37 3 -68 -108 -73 -125s-19 -79 -50 -112"
-        android:fillColor="#71AEFD" />
+        android:fillColor="#71AEFD"
+        android:pathData="M213 128a135 135 0 0 1 123 237c-37 3 -68 -108 -73 -125s-19 -79 -50 -112" />
     <path
-        android:pathData="M176 365a135 135 0 0 1 2 -220c36 19 59 90 59 90 0 0 -54 102 -61 130m33 18c0 0 38 18 89 2 -30 -25 -48 -111 -53 -123 -7 14 -43 87 -36 121"
-        android:fillColor="#81D837" />
+        android:fillColor="#81D837"
+        android:pathData="M176 365a135 135 0 0 1 2 -220c36 19 59 90 59 90 0 0 -54 102 -61 130m33 18c0 0 38 18 89 2 -30 -25 -48 -111 -53 -123 -7 14 -43 87 -36 121" />
 </vector>

@@ -1,37 +1,35 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
-    android:viewportWidth="512"
-    android:viewportHeight="512"
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="512dp"
-    android:height="512dp">
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
     <path
-        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z"
-        android:fillColor="#FFFFFF" />
+        android:fillColor="#FFFFFF"
+        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
     <path
-        android:pathData="M512 256A256 256 0 0 1 0 256A256 256 0 0 1 512 256Z"
-        android:fillColor="#F22F46" />
+        android:fillColor="#F22F46"
+        android:pathData="M512 256A256 256 0 0 1 0 256A256 256 0 0 1 512 256Z" />
     <path
-        android:pathData="M444 256A188 188 0 0 1 68 256A188 188 0 0 1 444 256Z"
-        android:fillColor="#FFFFFF" />
+        android:fillColor="#FFFFFF"
+        android:pathData="M444 256A188 188 0 0 1 68 256A188 188 0 0 1 444 256Z" />
     <path
-        android:pathData="M246 193A53 53 0 0 1 140 193A53 53 0 0 1 246 193Z"
-        android:fillColor="#F22F46" />
-    <group
-        android:translateX="126">
+        android:fillColor="#F22F46"
+        android:pathData="M246 193A53 53 0 0 1 140 193A53 53 0 0 1 246 193Z" />
+    <group android:translateX="126">
         <path
-            android:pathData="M246 193A53 53 0 0 1 140 193A53 53 0 0 1 246 193Z"
-            android:fillColor="#F22F46" />
+            android:fillColor="#F22F46"
+            android:pathData="M246 193A53 53 0 0 1 140 193A53 53 0 0 1 246 193Z" />
     </group>
-    <group
-        android:translateY="126">
+    <group android:translateY="126">
         <path
-            android:pathData="M246 193A53 53 0 0 1 140 193A53 53 0 0 1 246 193Z"
-            android:fillColor="#F22F46" />
+            android:fillColor="#F22F46"
+            android:pathData="M246 193A53 53 0 0 1 140 193A53 53 0 0 1 246 193Z" />
     </group>
     <group
         android:translateX="126"
         android:translateY="126">
         <path
-            android:pathData="M246 193A53 53 0 0 1 140 193A53 53 0 0 1 246 193Z"
-            android:fillColor="#F22F46" />
+            android:fillColor="#F22F46"
+            android:pathData="M246 193A53 53 0 0 1 140 193A53 53 0 0 1 246 193Z" />
     </group>
 </vector>
