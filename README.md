@@ -48,6 +48,9 @@ Say thanks!
 <td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>781 Bytes</td>
 <td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>205 Bytes</td>
 </tr>
+<tr>
+<td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="125" title="Deezer"/><br>921 Bytes</td>
+</tr>
 </table>
 
 ### Google
@@ -84,8 +87,10 @@ Say thanks!
 <td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="125" title="Mailchimp" /><br>1010 Bytes</td>
 <td>Threema<br><img src="images/svg/threema.svg" width="125" title="Threema" /><br>774 Bytes</td>
 <td>Mattermost<br><img src="images/svg/mattermost.svg" width="125" title="Mattermost"/><br>621 Bytes</td>
-<td>Protonmail<br><img src="images/svg/nameofservice.svg" width="125" title="Protonmail" /><br>438 Bytes</td>
-
+</tr>
+<tr>
+<td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail" /><br>438 Bytes</td>
+<td>XMPP/Jabber<br><img src="images/svg/xmpp.svg" width="125" title="XMPP" /><br>990 Bytes</td>
 </tr>
 </table>
 
@@ -244,6 +249,7 @@ Say thanks!
 <td>RedHat<br><img src="images/svg/redhat.svg" width="125" title="RedHat"/><br>566 Bytes</td>
 <td>Git<br><img src="images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
 <td>Microsoft<br><img src="images/svg/microsoft.svg" width="125" title="Microsoft"/><br>435 Bytes</td>
+<td>Grafana<br><img src="images/svg/grafana.svg" width="125" title="Grafana"/><br>962 Bytes</td>
 </tr>
 </table>
 
@@ -262,6 +268,7 @@ Say thanks!
 <td>Authy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="125" title="Authy" /><br>347 Bytes</td>
 <td>HackerOne<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackerone.svg" width="125" title="HackerOne" /><br>446 Bytes</td>
 <td>Bitwarden<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitwarden.svg" width="125" title="Bitwarden" /><br>298 Bytes</td>
+<td>Auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="125" title="Auth0" /><br>491 Bytes</td>
 </tr>
 </table>
 
@@ -314,7 +321,14 @@ Say thanks!
 <tr>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="125" title="Gradle" /><br>743 Bytes</td>
+<td>Amber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amberframework.svg" width="125" title="Amber Framework" /><br>754 Bytes</td>
+<td>Gitea<br><img src="images/svg/gitea.svg" width="125" title="Gitea" /><br>930 Bytes</td>
+<td>Drone.io<br><img src="images/svg/drone.svg" width="125" title="Drone.io" /><br>503 Bytes</td>
+<td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="125" title="Ruby Gems" /><br>402 Bytes</td>
 </tr>
+<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>986 Bytes</td>
+</tr>
+
 </table>
 
 ### Operating Systems / Kernel
