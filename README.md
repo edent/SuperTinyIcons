@@ -91,6 +91,7 @@ Say thanks!
 <tr>
 <td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail" /><br>438 Bytes</td>
 <td>XMPP/Jabber<br><img src="images/svg/xmpp.svg" width="125" title="XMPP" /><br>990 Bytes</td>
+<td>Tutanota<br><img src="images/svg/tutanota.svg" width="125" title="Tutanota" /><br>624 Bytes</td>
 </tr>
 </table>
 
