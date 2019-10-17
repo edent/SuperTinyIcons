@@ -193,3 +193,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/gitea.svg" width="256"/> | <img src="/images/reference/gitea.png" width="256"/> | https://github.com/go-gitea/gitea/tree/master/assets |
 | <img src="/images/svg/drone.svg" width="256"/> | <img src="/images/reference/drone.png" width="256"/> | https://github.com/drone/brand |
 | <img src="/images/svg/rubygems.svg" width="256"/> | <img src="/images/reference/rubygems.png" width="256"/> | https://rubygems.org |
+| <img src="/images/svg/ubiquiti.svg" width="256"/> | <img src="/images/reference/ubiquiti.png" width="256"/> | https://pbs.twimg.com/profile_images/862701781368713216/B7oW421__400x400.jpg |
