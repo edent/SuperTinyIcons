@@ -327,8 +327,8 @@ Say thanks!
 <td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="125" title="Ruby Gems" /><br>402 Bytes</td>
 </tr>
 <td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>986 Bytes</td>
+<td>Semaphore CI<br><img src="images/svg/semaphoreci.svg" width="125" title="Semaphore CI" /><br>646 Bytes</td>
 </tr>
-
 </table>
 
 ### Operating Systems / Kernel
