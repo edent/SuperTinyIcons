@@ -88,7 +88,7 @@ Say thanks!
 <td>Threema<br><img src="images/svg/threema.svg" width="125" title="Threema" /><br>774 Bytes</td>
 <td>Mattermost<br><img src="images/svg/mattermost.svg" width="125" title="Mattermost"/><br>621 Bytes</td>
 </tr>
-  
+
 <tr>
 <td>Verizon<br><img src="images/svg/verizon.svg" width="125" title="Verizon"/><br>425 Bytes</td>
 <td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail" /><br>438 Bytes</td>
@@ -330,6 +330,7 @@ Say thanks!
 <td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="125" title="Ruby Gems" /><br>402 Bytes</td>
 </tr>
 <td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>986 Bytes</td>
+<td>Kemal Framework<br><img src="images/svg/kemal.svg" width="125" title="Kemal Framework" /><br>346 Bytes</td>
 </tr>
 
 </table>
