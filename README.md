@@ -88,10 +88,13 @@ Say thanks!
 <td>Threema<br><img src="images/svg/threema.svg" width="125" title="Threema" /><br>774 Bytes</td>
 <td>Mattermost<br><img src="images/svg/mattermost.svg" width="125" title="Mattermost"/><br>621 Bytes</td>
 </tr>
+  
 <tr>
+<td>Verizon<br><img src="images/svg/verizon.svg" width="125" title="Verizon"/><br>425 Bytes</td>
 <td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail" /><br>438 Bytes</td>
 <td>XMPP/Jabber<br><img src="images/svg/xmpp.svg" width="125" title="XMPP" /><br>990 Bytes</td>
 </tr>
+
 </table>
 
 ### Websites
