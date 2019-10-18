@@ -250,7 +250,7 @@ Say thanks!
 <td>Git<br><img src="images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
 <td>Microsoft<br><img src="images/svg/microsoft.svg" width="125" title="Microsoft"/><br>435 Bytes</td>
 <td>Grafana<br><img src="images/svg/grafana.svg" width="125" title="Grafana"/><br>962 Bytes</td>
-<td>Ubiquiti<br><img src="images/svg/ubiquiti.svg" width="125" title="Ubiquiti"/><br>831 Bytes</td>
+<td>Ubiquiti<br><img src="images/svg/ubiquiti.svg" width="125" title="Ubiquiti"/><br>917 Bytes</td>
 </tr>
 </table>
 
