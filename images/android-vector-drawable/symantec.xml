@@ -1,30 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="512dp"
     android:height="512dp"
     android:viewportWidth="512"
     android:viewportHeight="512">
-
     <path
-        android:fillColor="#fff"
-        android:pathData="M 15 0 L 497 0 Q 512 0 512 15 L 512 497 Q 512 512 497 512 L 15 512 Q 0 512 0 497 L 0 15 Q 0 0 15 0 Z" />
+        android:fillColor="#FFFFFF"
+        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
     <path
-        android:fillColor="#fdb511"
-        android:pathData="M415 93v10h10V93m-10 21v10h10v-10m-41 10v10h10v-10" />
-    <path
-        android:fillColor="#fdb511"
-        android:pathData="M 251 131 C 330.529003976 131 395 195.470996024 395 275 C 395 354.529003976 330.529003976 419 251 419 C 171.470996024 419 107 354.529003976 107 275 C 107 195.470996024 171.470996024 131 251 131 Z" />
-    <path
-        android:fillColor="#fff"
-        android:pathData="M 251 179 C 304.019335984 179 347 221.980664016 347 275 C 347 328.019335984 304.019335984 371 251 371 C 197.980664016 371 155 328.019335984 155 275 C 155 221.980664016 197.980664016 179 251 179 Z" />
+        android:fillColor="#FDB511"
+        android:pathData="M384 124v10h10v-10zm-133 55a96 96 0 1 1 -1 0m1 -48a144 144 0 1 0 1 0zm164 -17v10h10v-10zm0 -20v10h10V94z" />
     <path
         android:fillColor="#000000"
-        android:pathData="M293 205c-27 33-33 47-44 74-12-24-26-41-51-52-4-1-7-2-10 3-3 4-1 8 3 13 10 12 21
-24 28 38 10 16 21 43 25 50 3 5 10 8 13 8 15-2 15-10 17-23 5-21 11-44 39-71v-40" />
-    <path
-        android:fillColor="#000000"
-        android:pathData="M415 103h-10v11h10m-10 0h-21v10h21zm-21 30v-20h-10v20zm0 0v10h10v-10m0
-0h11v-10h-11zm-30
-10h-20v10h-10v10h10v11h-10v-11h-11v11h-10v10h-10v40h20v-10h10v-10h11v-10h-11v-10h11v10h10v-10h10v-11h10v-10h10v-20h-10v10h-10m0-10h10v-10h-10m0
-0v-10h-10v10m6-5v10" />
+        android:fillType="evenOdd"
+        android:pathData="M313 235v10c-28 27 -34 50 -39 71 -2 13 -2 21 -17 23 -3 0 -10 -3 -13 -8 -4 -7 -15 -34 -25 -50 -7 -14 -18 -26 -28 -38 -4 -5 -6 -9 -3 -13 3 -5 6 -4 10 -3 25 11 39 28 51 52 11 -27 17 -41 44 -74h10v-10h10v-11h10v-10h20v10h-10v-20h10v-10h51v-20h10v10h-50v-10h10v30h10v-40h30v-20h11v10h-31v60h-10v10h-10v11h-10v10h-21v-10h10v20h-10v10h-10v10z" />
 </vector>
