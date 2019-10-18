@@ -327,7 +327,12 @@ Say thanks!
 <td>Drone.io<br><img src="images/svg/drone.svg" width="125" title="Drone.io" /><br>503 Bytes</td>
 <td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="125" title="Ruby Gems" /><br>402 Bytes</td>
 </tr>
-<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>986 Bytes</td>
+<tr>
+<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>686 Bytes</td>
+<td>Wekan<br><img src="images/svg/wekan.svg" width="125" title="Wekan" /><br>981 Bytes</td>
+<td>Kemal Framework<br><img src="images/svg/kemal.svg" width="125" title="Kemal Framework" /><br>346 Bytes</td>
+<td>Ruby On Rails<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubyonrails.svg" width="125" title="Ruby On Rails" /><br>480 Bytes</td>
+<td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="125" title="Kotlin" /><br>291 Bytes</td>
 </tr>
 
 </table>
