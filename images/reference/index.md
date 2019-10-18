@@ -199,3 +199,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/kemal.svg" width="256"/> | <img src="/images/reference/kemal.png" width="256"/> | https://raw.githubusercontent.com/kemalcr/kemalcr.com/master/img/kemal.png |
 | <img src="/images/svg/rubyonrails.svg" width="256"/> | <img src="/images/reference/rubyonrails_favicon.png" width="256"/> | https://rubyonrails.org/trademarks/
 | <img src="/images/svg/kotlin.svg" width="256"/> | <img src="/images/reference/kotlin.svg" width="256"/> | https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip |
+| <img src="/images/svg/iheartradio.svg" width="256"/> | <img src="/images/reference/iheartradio.svg width="256"/> | https://brand.iheart.com/ |
