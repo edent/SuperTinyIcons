@@ -287,7 +287,7 @@ Say thanks!
 <tr>
 <td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="125" title="Patreon" /><br>250 Bytes</td>
 <td>Venmo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/venmo.svg" width="125" title="Venmo" /><br>344 Bytes</td>
-<td>Square Cash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/square-cash.svg" width="125" title="Square Cash App" /><br>792 Bytes</td>
+<td>Square Cash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/square_cash.svg" width="125" title="Square Cash App" /><br>792 Bytes</td>
 <td>OpenCollective<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencollective.svg" width="125" title="OpenCollective" /><br>475 Bytes</td>
 </tr>
 </table>
@@ -370,7 +370,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Uber<br><img src="images/svg/uber.svg" width="125" title="Uber" /><br>880 Bytes</td>
-<td>Amazon <abbr title="Simple Storage Service">S3</abbr><br><img src="images/svg/amazon-s3.svg" width="125" title="Amazon S3"/><br>767 Bytes</td>
+<td>Amazon <abbr title="Simple Storage Service">S3</abbr><br><img src="images/svg/amazon_s3.svg" width="125" title="Amazon S3"/><br>767 Bytes</td>
 <td>Ansible<br><img src="images/svg/ansible.svg" width="125" title="Ansible"/><br>381 Bytes</td>
 <td>Gojek<br><img src="images/svg/gojek.svg" width="125" title="Gojek" /><br>383 Bytes</td>
 </tr>
