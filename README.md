@@ -326,7 +326,7 @@ Say thanks!
 <td>Drone.io<br><img src="images/svg/drone.svg" width="125" title="Drone.io" /><br>503 Bytes</td>
 <td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="125" title="Ruby Gems" /><br>402 Bytes</td>
 </tr>
-<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>685 Bytes</td>
+<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>686 Bytes</td>
 </tr>
 
 </table>
