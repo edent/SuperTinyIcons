@@ -250,6 +250,7 @@ Say thanks!
 <td>Git<br><img src="images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
 <td>Microsoft<br><img src="images/svg/microsoft.svg" width="125" title="Microsoft"/><br>435 Bytes</td>
 <td>Grafana<br><img src="images/svg/grafana.svg" width="125" title="Grafana"/><br>962 Bytes</td>
+<td>Ubiquiti<br><img src="images/svg/ubiquiti.svg" width="125" title="Ubiquiti"/><br>917 Bytes</td>
 </tr>
 </table>
 
@@ -322,11 +323,16 @@ Say thanks!
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="125" title="Vue" /><br>286 Bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="125" title="Gradle" /><br>743 Bytes</td>
 <td>Amber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amberframework.svg" width="125" title="Amber Framework" /><br>754 Bytes</td>
-<td>Gitea<br><img src="images/svg/gitea.svg" width="125" title="Gitea" /><br>930 Bytes</td>
+<td>Gitea<br><img src="images/svg/gitea.svg" width="125" title="Gitea" /><br>1007 Bytes</td>
 <td>Drone.io<br><img src="images/svg/drone.svg" width="125" title="Drone.io" /><br>503 Bytes</td>
 <td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="125" title="Ruby Gems" /><br>402 Bytes</td>
 </tr>
-<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>986 Bytes</td>
+<tr>
+<td>Lucky framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="125" title="Lucky framework" /><br>686 Bytes</td>
+<td>Wekan<br><img src="images/svg/wekan.svg" width="125" title="Wekan" /><br>981 Bytes</td>
+<td>Kemal Framework<br><img src="images/svg/kemal.svg" width="125" title="Kemal Framework" /><br>346 Bytes</td>
+<td>Ruby On Rails<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubyonrails.svg" width="125" title="Ruby On Rails" /><br>480 Bytes</td>
+<td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="125" title="Kotlin" /><br>291 Bytes</td>
 <td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>589 Bytes</td>
 </tr>
 
