@@ -374,6 +374,7 @@ Say thanks!
 <td>Ansible<br><img src="images/svg/ansible.svg" width="125" title="Ansible"/><br>381 Bytes</td>
 <td>Gojek<br><img src="images/svg/gojek.svg" width="125" title="Gojek" /><br>383 Bytes</td>
 <td>Ubisoft<br><img src="images/svg/ubisoft.svg" width="125" title="Ubisoft" /><br>923 Bytes</td>
+<td>Electronic Arts<br><img src="images/svg/ea.svg" width="125" title="Electronic Arts" /><br>463 Bytes</td>
 </tr>
 </table>
 
