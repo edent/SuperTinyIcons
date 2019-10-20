@@ -373,6 +373,7 @@ Say thanks!
 <td>Amazon <abbr title="Simple Storage Service">S3</abbr><br><img src="images/svg/amazon-s3.svg" width="125" title="Amazon S3"/><br>767 Bytes</td>
 <td>Ansible<br><img src="images/svg/ansible.svg" width="125" title="Ansible"/><br>381 Bytes</td>
 <td>Gojek<br><img src="images/svg/gojek.svg" width="125" title="Gojek" /><br>383 Bytes</td>
+<td>Ubisoft<br><img src="images/svg/ubisoft.svg" width="125" title="Ubisoft" /><br>923 Bytes</td>
 </tr>
 </table>
 
