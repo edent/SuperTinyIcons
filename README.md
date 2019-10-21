@@ -92,6 +92,8 @@ Say thanks!
 <td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail" /><br>438 Bytes</td>
 <td>XMPP/Jabber<br><img src="images/svg/xmpp.svg" width="125" title="XMPP" /><br>990 Bytes</td>
 <td>Tutanota<br><img src="images/svg/tutanota.svg" width="125" title="Tutanota" /><br>624 Bytes</td>
+<td>Messenger<br><img src="images/svg/messenger.svg" width="125" title="Messenger" /><br>834 Bytes</td> 
+<td>Discord<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
 </tr>
 </table>
 
