@@ -197,6 +197,8 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/verizon.svg" width="256"/> | <img src="/images/reference/verizon.png" width="256"/> | https://apps.apple.com/us/app/my-verizon/id416023011 |
 | <img src="/images/svg/wekan.svg" width="256"/> | <img src="/images/reference/wekan.svg" width="256"/> | https://github.com/wekan/wekan/blob/master/public/wekan-logo-150.svg |
 | <img src="/images/svg/kemal.svg" width="256"/> | <img src="/images/reference/kemal.png" width="256"/> | https://raw.githubusercontent.com/kemalcr/kemalcr.com/master/img/kemal.png |
-| <img src="/images/svg/rubyonrails.svg" width="256"/> | <img src="/images/reference/rubyonrails_favicon.png" width="256"/> | https://rubyonrails.org/trademarks/
+| <img src="/images/svg/rubyonrails.svg" width="256"/> | <img src="/images/reference/rubyonrails_favicon.png" width="256"/> | https://rubyonrails.org/trademarks/ |
 | <img src="/images/svg/kotlin.svg" width="256"/> | <img src="/images/reference/kotlin.svg" width="256"/> | https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip |
 | <img src="/images/svg/messenger.svg" width="256" />	| <img src="/images/reference/messenger.svg" width="256" />	| https://en.facebookbrand.com/assets/messenger/	|
+| <img src="/images/svg/ubisoft.svg" width="256"/> | <img src="/images/reference/ubisoft.png" width="256"/> | https://commons.wikimedia.org/wiki/File:Ubisoft_logo.svg |
+| <img src="/images/svg/ea.svg" width="256"/> | <img src="/images/reference/ea.png" width="256"/> | https://commons.wikimedia.org/wiki/File:EA-Logo.svg |
