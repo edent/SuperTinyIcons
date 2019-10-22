@@ -50,6 +50,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="125" title="Deezer"/><br>921 Bytes</td>
+<td>iHeartRadio<br><img src="images/svg/iheartradio.svg" width="125" title="iHeartRadio" /><br>912 Bytes</td>
 </tr>
 </table>
 

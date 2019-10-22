@@ -193,6 +193,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/gitea.svg" width="256"/> | <img src="/images/reference/gitea.png" width="256"/> | https://github.com/go-gitea/gitea/tree/master/assets |
 | <img src="/images/svg/drone.svg" width="256"/> | <img src="/images/reference/drone.png" width="256"/> | https://github.com/drone/brand |
 | <img src="/images/svg/rubygems.svg" width="256"/> | <img src="/images/reference/rubygems.png" width="256"/> | https://rubygems.org |
+| <img src="/images/svg/iheartradio.svg" width="256"/> | <img src="/images/reference/iheartradio.svg" width="256" /> | https://www.iheart.com/ |
 | <img src="/images/svg/semaphoreci.svg" width="256" /> | <img src="/images/reference/semaphoreci.png" width="256" /> | https://twitter.com/semaphoreci |
 | <img src="/images/svg/ubiquiti.svg" width="256"/> | <img src="/images/reference/ubiquiti.png" width="256"/> | https://pbs.twimg.com/profile_images/862701781368713216/B7oW421__400x400.jpg |
 | <img src="/images/svg/verizon.svg" width="256"/> | <img src="/images/reference/verizon.png" width="256"/> | https://apps.apple.com/us/app/my-verizon/id416023011 |
