@@ -336,7 +336,9 @@ Say thanks!
 <td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="125" title="Kotlin" /><br>291 Bytes</td>
 <td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>593 Bytes</td>
 </tr>
-
+<tr>
+<td>Semaphore CI<br><img src="images/svg/semaphoreci.svg" width="125" title="Semaphore CI" /><br>641 Bytes</td>
+</tr>
 </table>
 
 ### Operating Systems / Kernel
