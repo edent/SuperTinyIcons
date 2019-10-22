@@ -382,6 +382,7 @@ Say thanks!
 <tr>
 <td>Ansible<br><img src="images/svg/ansible.svg" width="125" title="Ansible"/><br>381 Bytes</td>
 <td>Gojek<br><img src="images/svg/gojek.svg" width="125" title="Gojek" /><br>383 Bytes</td>
+<td>Amazon Alexa<br><img src="images/svg/amazon_alexa.svg" width="125" title="Amazon Alexa" /><br>812 Bytes</td>
 </tr>
 </table>
 
