@@ -91,7 +91,8 @@ Say thanks!
 <tr>
 <td>Protonmail<br><img src="images/svg/protonmail.svg" width="125" title="Protonmail" /><br>438 Bytes</td>
 <td>XMPP/Jabber<br><img src="images/svg/xmpp.svg" width="125" title="XMPP" /><br>990 Bytes</td>
-<td>Messenger<br><img src="images/svg/messenger.svg" width="125" title="Messenger" /><br>834 Bytes</td>
+<td>Tutanota<br><img src="images/svg/tutanota.svg" width="125" title="Tutanota" /><br>628 Bytes</td>
+<td>Messenger<br><img src="images/svg/messenger.svg" width="125" title="Messenger" /><br>834 Bytes</td> 
 <td>Discord<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
 </tr>
 </table>
@@ -176,6 +177,7 @@ Say thanks!
 <td>TripAdvisor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tripadvisor.svg" width="125" title="TripAdvisor" /><br>704 Bytes</td>
 <td>Sentry<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sentry.svg" width="125" title="Sentry" /><br>507 Bytes</td>
 <td>Behance<br><img src="images/svg/behance.svg" width="125" title="Behance" /><br>916 Bytes</td>
+<td>Taiga.io<br><img src="images/svg/taiga.svg" width="125" title="Taiga.io" /><br>761 Bytes</td>
 </tr>
 </table>
 
