@@ -333,7 +333,7 @@ Say thanks!
 <td>Kemal Framework<br><img src="images/svg/kemal.svg" width="125" title="Kemal Framework" /><br>346 Bytes</td>
 <td>Ruby On Rails<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubyonrails.svg" width="125" title="Ruby On Rails" /><br>480 Bytes</td>
 <td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="125" title="Kotlin" /><br>291 Bytes</td>
-<td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>589 Bytes</td>
+<td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>593 Bytes</td>
 </tr>
 
 </table>
