@@ -339,6 +339,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Semaphore CI<br><img src="images/svg/semaphoreci.svg" width="125" title="Semaphore CI" /><br>641 Bytes</td>
+<td>Django Project<br><img src="images/svg/djangoproject.svg" width="125" title="Django Project" /><br>444 Bytes</td>
 </tr>
 </table>
 
