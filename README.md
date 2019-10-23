@@ -177,8 +177,7 @@ Say thanks!
 <td>OpenBenches<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openbenches.svg" width="125" title="OpenBenches" /><br>797 Bytes</td>
 <td>TripAdvisor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tripadvisor.svg" width="125" title="TripAdvisor" /><br>704 Bytes</td>
 <td>Sentry<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sentry.svg" width="125" title="Sentry" /><br>507 Bytes</td>
-<td>Behance<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/behance.svg" width="125" title="Behance" /><br>871 Bytes</td>
-<td>Behance<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/behance.svg" width="125" title="Behance" /><br>916 Bytes</td>
+<td>Behance<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/behance.svg" width="125" title="Behance" /><br>874 Bytes</td>
 <td>Taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="125" title="Taiga.io" /><br>761 Bytes</td>
 </tr>
 </table>
