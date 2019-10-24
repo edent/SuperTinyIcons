@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="CentOS" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><g id="g"><rect x="118" y="118" fill="#9ccd2a" width="124" height="124"/><rect x="270" y="118" fill="#932279" width="124" height="124"/><rect x="270" y="270" fill="#efa724" width="124" height="124"/><rect x="118" y="270" fill="#262577" width="124" height="124"/></g><use xlink:href="#g" transform="rotate(225 256 256)"/><path d="M118 270h124v124H118zm152 0h124v124H270zm0-152h124v124H270zm-152 0h124v124H118zm245 226l-87-88 87-88 88 88zM256 236l-88-87 88-88 88 88zM149 344l-88-88 88-88 87 88zm107 107l-88-88 88-87 88 87z" fill="none" stroke="#fff" stroke-width="9"/></svg>

@@ -249,6 +249,7 @@ Say thanks!
 </tr>
 <tr>
 <td>RedHat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redhat.svg" width="125" title="RedHat"/><br>566 Bytes</td>
+<td>CentOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="125" title="CentOS"/><br>762 Bytes</td>
 <td>Git<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="125" title="git"/><br>482 Bytes</td>
 <td>Microsoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microsoft.svg" width="125" title="Microsoft"/><br>435 Bytes</td>
 <td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="125" title="Grafana"/><br>962 Bytes</td>
