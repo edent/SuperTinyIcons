@@ -273,7 +273,7 @@ Say thanks!
 <td>HackerOne<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackerone.svg" width="125" title="HackerOne" /><br>446 Bytes</td>
 <td>Bitwarden<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitwarden.svg" width="125" title="Bitwarden" /><br>298 Bytes</td>
 <td>Auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="125" title="Auth0" /><br>491 Bytes</td>
-<td>andOPT<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/andopt.svg" width="125" title="andOPT" /><br>752 Bytes</td>
+<td>andOPT<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/andopt.svg" width="125" title="andOPT" /><br>743 Bytes</td>
 </tr>
 </table>
 
