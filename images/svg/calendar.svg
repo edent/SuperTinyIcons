@@ -1,4 +1,4 @@
-<svg onload="w()" xmlns="http://www.w3.org/2000/svg" xmlns:x="http://www.w3.org/1999/xlink"
+<svg onload="w()" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 aria-label="Calendar" role="img"
 viewBox="0 0 512 512"
 style="font-family:monospace;text-anchor:middle;fill:#667777"><script type="text/ecmascript"><![CDATA[w=()=>{c=0;for (i in e={weekday:"long",month:"short",day:'numeric'}) document.getElementsByTagName('text')[c++].textContent=(new Date).toLocaleString(undefined,{[i]:e[i]})}]]></script>
@@ -9,4 +9,4 @@ rx="15%"/></clipPath></defs>
 width="512" height="512"
 fill="#dee"/><rect
 width="512" height="180"
-fill="#d34"/></g><g id="b"><circle fill="#eab" cx="384" cy="100" r="14" id="a"/><use x="43" x:href="#a"/><use x="86" x:href="#a"/></g><use y="43" x:href="#b"/><text font-size="64" x="256" y="480" id="w">Sunday</text><text fill="#fff" font-size="140" x="140" y="164" id="m">FEB</text><text font-size="256" x="256" y="400" id="d">29</text></svg>
+fill="#d34"/></g><g id="b"><circle fill="#eab" cx="384" cy="100" r="14" id="a"/><use x="43" xlink:href="#a"/><use x="86" xlink:href="#a"/></g><use y="43" xlink:href="#b"/><text font-size="64" x="256" y="480" id="w">Sunday</text><text fill="#fff" font-size="140" x="140" y="164" id="m">FEB</text><text font-size="256" x="256" y="400" id="d">29</text></svg>
