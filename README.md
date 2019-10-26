@@ -196,7 +196,7 @@ Say thanks!
 <tr>
 <td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="125" title="The Unicode Consortium" /><br>879 Bytes</td>
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="125" title="markdown" /><br>459 Bytes</td>
-<td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="125" title="HAML"/><br>870 Bytes</td>
+<td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="125" title="HAML"/><br>930 Bytes</td>
 </tr>
 </table>
 
