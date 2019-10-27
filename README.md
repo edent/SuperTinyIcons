@@ -45,7 +45,7 @@ Say thanks!
 <td>Vimeo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vimeo.svg" width="125" title="Vimeo" /><br>376 Bytes</td>
 <td>Spotify<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /><br>436 Bytes</td>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="125" title="YouTube" /><br>359 Bytes</td>
-<td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>781 Bytes</td>
+<td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>780 Bytes</td>
 <td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>204 Bytes</td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ Say thanks!
 <tr>
 <td>Phone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="125" title="Phone" /><br>591 Bytes</td>
 <td>LINE<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/line.svg" width="125" title="LINE" /><br>478 Bytes</td>
-<td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="125" title="Viber" /><br>714 Bytes</td>
+<td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="125" title="Viber" /><br>713 Bytes</td>
 <td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="125" title="Mailchimp" /><br>1010 Bytes</td>
 <td>Threema<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threema.svg" width="125" title="Threema" /><br>768 Bytes</td>
 <td>Mattermost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mattermost.svg" width="125" title="Mattermost"/><br>617 Bytes</td>
@@ -274,7 +274,7 @@ Say thanks!
 <td>HackerOne<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackerone.svg" width="125" title="HackerOne" /><br>446 Bytes</td>
 <td>Bitwarden<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitwarden.svg" width="125" title="Bitwarden" /><br>297 Bytes</td>
 <td>Auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="125" title="Auth0" /><br>490 Bytes</td>
-<td>andOTP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/andotp.svg" width="125" title="andOTP"/><br>624 Bytes</td>
+<td>andOTP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/andotp.svg" width="125" title="andOTP"/><br>623 Bytes</td>
 </tr>
 </table>
 
