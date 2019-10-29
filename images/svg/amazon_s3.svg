@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="Amazon Simple Storage Service" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><path fill="#e05243" d="M259.7 348.2l-137 32.7V130.6l137 32v185.6"/><path fill="#8c3123" d="M256 348.6l133.3 32.3.1-.3V131l-.1-.3L256 163v185.7"/><g fill="#e05243"><path id="a" d="M256 64v96.8l58 14.4V93l-58-29zm133.3 66.6v250.3l25.6-12.8V143.4l-25.6-12.8zM256 207.7v97l58-7.5V215l-58-7.3zm58 129.1l-58 14.4V448l58-29v-82.2z"/></g><use xlink:href="#a" transform="rotate(180 256 256)" fill="#8c3123"/><path fill="#5e1f18" d="M314 175.2l-58 10.7-58-10.7 57.9-15.1 58.3 15.1"/><path fill="#f2b0a9" d="M314 336.8l-58-10.7-58 10.7 57.9 16.1 58.3-16.1"/></svg>

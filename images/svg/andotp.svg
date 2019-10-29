@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="andOTP" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><defs><filter id="b"><feGaussianBlur stdDeviation="3"/></filter></defs><use filter="url(#b)" fill="#666" href="#a" transform="translate(2,2)"/><g fill="#6abf69"><circle id="a" class="shadow" r="192" cy="256" cx="256"/></g><path fill="#fc0" d="M256 117a139 139 0 00-139 139 139 139 0 00139 139 139 139 0 00139-139 139 139 0 00-139-139zm0 38c45 0 85 30 97 73H159c12-43 52-73 97-73zm0 115a20 20 0 0120 20 20 20 0 01-12 18l16 36h-48l15-36a20 20 0 01-11-18 20 20 0 0120-20z"/></svg>

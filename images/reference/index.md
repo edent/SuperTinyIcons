@@ -31,7 +31,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/spotify.svg" width="256" />	| <img src="/images/reference/spotify.svg" width="256" />	| https://developer.spotify.com/design/	|
 | <img src="/images/svg/snapchat.svg" width="256" />	| <img src="/images/reference/snapchat.svg" width="256" />	| https://www.snap.com/en-US/brand-guidelines/	|
 | <img src="/images/svg/amazon.svg" width="256" />	| <img src="/images/reference/amazon.jpg" width="256" />	| http://www.turnerduckworth.com/work/amazon/	|
-| <img src="/images/svg/amazon-s3.svg" width="256"/>	| <img src="/images/reference/amazon-s3.svg" width="256"/>	| https://aws.amazon.com/architecture/icons/	|
+| <img src="/images/svg/amazon_s3.svg" width="256"/>	| <img src="/images/reference/amazon_s3.svg" width="256"/>	| https://aws.amazon.com/architecture/icons/	|
 | <img src="/images/svg/steam.svg" width="256" />	| <img src="/images/reference/steam.svg" width="256" />	| https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/Steam_Guidelines_20170524.pdf	|
 | <img src="/images/svg/google.svg" width="256" />	| <img src="/images/reference/google.svg" width="256" />	| https://developers.google.com/identity/branding-guidelines|
 | <img src="/images/svg/google_plus.svg" width="256" />	| <img src="/images/reference/google_plus.png" width="256" />	| https://plus.google.com/+googleplus	|
@@ -46,12 +46,14 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/git.svg" width="256"/>	| <img src="/images/reference/git.png" width="256"/>	| https://git-scm.com/downloads/logos	|
 | <img src="/images/svg/gitlab.svg" width="256" />	| <img src="/images/reference/gitlab.svg" width="256" />	| https://about.gitlab.com/press/	|
 | <img src="/images/svg/html5.svg" width="256" />	| <img src="/images/reference/html5.svg" width="256" />	| https://www.w3.org/html/logo/	|
+| <img src="/images/svg/haml.svg" width="256"/>	| <img src="/images/reference/haml.svg" width="256"/>	| https://github.com/haml/haml/issues/819	|
 | <img src="/images/svg/meetup.svg" width="256" />	| <img src="/images/reference/meetup.png" width="256" />	| https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/8/f/1/d/highres_454596637.jpeg	|
 | <img src="/images/svg/line.svg" width="256" />	| <img src="/images/reference/line.svg" width="256" />	| https://line.me/en/logo	|
 | <img src="/images/svg/lastpass.svg" width="256" />	| <img src="/images/reference/lastpass.svg" width="256" />	| https://lastpass.com/press-room/	|
 | <img src="/images/svg/windows.svg" width="256" />	| <img src="/images/reference/windows.png" width="256" />	| https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1voQq	|
 | <img src="/images/svg/digidentity.svg" width="256" />	| <img src="/images/reference/digidentity.jpg" width="256" />	| https://www.digidentity.eu/en/blog/	|
 | <img src="/images/svg/redhat.svg" width="256"/>	| <img src="/images/reference/redhat.svg" width="256"/>	| https://www.redhat.com/	|
+| <img src="/images/svg/centos.svg" width="256"/>	| <img src="/images/reference/centos.svg" width="256"/>	| https://wiki.centos.org/ArtWork/Brand/Logo	|
 | <img src="/images/svg/ubuntu.svg" width="256" />	| <img src="/images/reference/ubuntu.svg" width="256" />	| https://design.ubuntu.com/brand/ubuntu-logo/	|
 | <img src="/images/svg/bitbucket.svg" width="256" />	| <img src="/images/reference/bitbucket.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/apple.svg" width="256" />	| <img src="/images/reference/apple.svg" width="256" />	| https://developer.apple.com/softwarelicensing/agreements/pdf/mac_logo_gdlns.pdf	|
@@ -70,6 +72,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/yammer.svg" width="256" />	| <img src="/images/reference/yammer.svg" width="256" />	| https://yammerassets.blob.core.windows.net/assets/sites/12/2014/07/Yammer_BrandIdentityGuidelines-1.pdf	|
 | <img src="/images/svg/android.svg" width="256" />	| <img src="/images/reference/android.svg" width="256" />	| https://developer.android.com/distribute/marketing-tools/brand-guidelines.html	|
 | <img src="/images/svg/authy.svg" width="256" />	| <img src="/images/reference/authy.svg" width="256" />	| https://support.authy.com/hc/en-us#	|
+| <img src="/images/svg/andotp.svg" width="256"/>	| <img src="/images/reference/andotp.png" width="256"/>	| https://github.com/andOTP/andOTP	|
 | <img src="/images/svg/blogger.svg" width="256" />	| <img src="/images/reference/blogger.png" width="256" />	| https://www.blogger.com/img/blogger-logotype-color-black-2x.png	|
 | <img src="/images/svg/cloudflare.svg" width="256" />	| <img src="/images/reference/cloudflare.svg" width="256" />	| https://www.cloudflare.com/logo/	|
 | <img src="/images/svg/codepen.svg" width="256" />	| <img src="/images/reference/codepen.svg" width="256" />	| https://production-assets.codepen.io/assets/footer/codepen-logo-midgray-0711f75fbf09cc2e68d3836668e0eba8c28d76760d1e40386095ce503428bd03.svg	|
@@ -159,7 +162,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/firefox.svg" width="256" /> | <img src="/images/reference/firefox.svg" width="256" />  | https://design.firefox.com/photon/visuals/product-identity-assets.html |
 | <img src="/images/svg/raspberry_pi.svg" width="256" /> | <img src="/images/reference/RPi-Logo-SCREEN.png" width="256" />  | https://www.raspberrypi.org/trademark-rules/ |
 | <img src="/images/svg/venmo.svg" width="256" /> | <img src="/images/reference/venmo-icon.svg" width="256" />  | https://venmo.com/about/brand |
-| <img src="/images/svg/square-cash.svg" width="256" /> | <img src="/images/reference/square-cash-app-logo.jpg" width="256" />  | https://squareup.com/us/en/press |
+| <img src="/images/svg/square_cash.svg" width="256" /> | <img src="/images/reference/square-cash-app-logo.jpg" width="256" />  | https://squareup.com/us/en/press |
 | <img src="/images/svg/opencollective.svg" width="256" /> | <img src="/images/reference/opencollective.svg" width="256" />  | https://opencollective.com/static/images/opencollective-icon.svg |
 | <img src="/images/svg/safari.svg" width="256" /> | <img src="/images/reference/Safari_browser_logo.svg" width="256" />  | https://www.apple.com/uk/safari/ |
 | <img src="/images/svg/researchgate.svg" width="256" /> | <img src="/images/reference/researchgate.png" width="256" />  | https://mobile.twitter.com/ResearchGate/photo |
@@ -200,6 +203,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/wekan.svg" width="256"/> | <img src="/images/reference/wekan.svg" width="256"/> | https://github.com/wekan/wekan/blob/master/public/wekan-logo-150.svg |
 | <img src="/images/svg/kemal.svg" width="256"/> | <img src="/images/reference/kemal.png" width="256"/> | https://raw.githubusercontent.com/kemalcr/kemalcr.com/master/img/kemal.png |
 | <img src="/images/svg/rubyonrails.svg" width="256"/> | <img src="/images/reference/rubyonrails_favicon.png" width="256"/> | https://rubyonrails.org/trademarks/ |
+| <img src="/images/svg/djangoproject.svg" width="256"/> | <img src="/images/reference/djangoproject.png" width="256"/> | https://djangoproject.org/trademarks/ |
 | <img src="/images/svg/kotlin.svg" width="256"/> | <img src="/images/reference/kotlin.svg" width="256"/> | https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip |
 | <img src="/images/svg/crystal.svg" width="256" /> | <img src="/images/reference/crystal.svg" width="256" /> | https://crystal-lang.org/media/ |
 | <img src="/images/svg/messenger.svg" width="256" />	| <img src="/images/reference/messenger.svg" width="256" />	| https://en.facebookbrand.com/assets/messenger/	|

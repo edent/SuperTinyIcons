@@ -24,7 +24,7 @@ rx="15%"
 fill="#fff"/>...</svg>
 ```
 
-Please keep the whitespace as-is. This makes viewing diffs easier.
+Please keep the whitespace as-is. This makes viewing diffs easier. Please use UNIX line-endings `LF` rather than Windows-style `CRLF`.
 
 ### Guidelines
 
