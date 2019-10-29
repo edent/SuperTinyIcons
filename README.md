@@ -355,7 +355,7 @@ Say thanks!
 <td>Elementary OS<br><img src="images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>768 Bytes</td>
 </tr>
 <tr>
-<td>Debian<br><img src="images/svg/debian.svg" width="125" title="Debian"/><br>626 Bytes</td>
+<td>Debian<br><img src="images/svg/debian.svg" width="125" title="Debian"/><br>938 Bytes</td>
 </tr>
 </table>
 
