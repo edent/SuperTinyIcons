@@ -343,6 +343,7 @@ Say thanks!
 <tr>
 <td>Semaphore CI<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/semaphoreci.svg" width="125" title="Semaphore CI" /><br>640 Bytes</td>
 <td>Django Project<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/djangoproject.svg" width="125" title="Django Project" /><br>443 Bytes</td>
+<td>Ruby<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="125" title="Ruby" /><br>984 Bytes</td>
 </tr>
 </table>
 
