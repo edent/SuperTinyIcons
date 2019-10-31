@@ -20,6 +20,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/wordpress.svg" width="256" />	| <img src="/images/reference/wordpress.svg" width="256" />	| https://wordpress.org/about/logos/	|
 | <img src="/images/svg/skype.svg" width="256" />	| <img src="/images/reference/skype.svg" width="256" />	| https://www.skype.com/en/legal/brand-guidelines/	|
 | <img src="/images/svg/reddit.svg" width="256" />	| <img src="/images/reference/reddit.svg" width="256" />	| https://web.archive.org/web/20160306165444/https://www.reddit.com/about/alien/	|
+| <img src="/images/svg/dev_to.svg" width="256"/>	| <img src="/images/reference/dev_to.svg" width="256"/>	| https://dev.to/p/badges	|
 | <img src="/images/svg/pinterest.svg" width="256" />	| <img src="/images/reference/pinterest.svg" width="256" />	| https://business.pinterest.com/en-gb/brand-guidelines	|
 | <img src="/images/svg/paypal.svg" width="256" />	| <img src="/images/reference/paypal.png" width="256" />	| https://www.paypal-marketing.com/html/partner/na/pdf/PayPal_Cobranding_guidelines_dec_2013.pdf	|
 | <img src="/images/svg/github.svg" width="256" />	| <img src="/images/reference/github.svg" width="256" />	| https://github.com/logos	|
