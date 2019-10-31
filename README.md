@@ -358,7 +358,7 @@ Say thanks!
 <td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>767 Bytes</td>
 </tr>
 <tr>
-<td>Debian<br><img src="images/svg/debian.svg" width="125" title="Debian"/><br>938 Bytes</td>
+<td>Debian<br><img src="images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
 </tr>
 </table>
 

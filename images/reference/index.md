@@ -210,3 +210,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/ubisoft.svg" width="256"/> | <img src="/images/reference/ubisoft.png" width="256"/> | https://commons.wikimedia.org/wiki/File:Ubisoft_logo.svg |
 | <img src="/images/svg/ea.svg" width="256"/> | <img src="/images/reference/ea.png" width="256"/> | https://commons.wikimedia.org/wiki/File:EA-Logo.svg |
 | <img src="/images/svg/amazon_alexa.svg" width="256"/> | <img src="/images/reference/amazon_alexa.png" width="256"/> | https://developer.amazon.com/docs/alexa-voice-service/logo-and-brand.html |
+| <img src="/images/svg/debian.svg" width="256"/> | <img src="/images/reference/debian.svg" width="256"/> | https://www.debian.org/logos/ |
