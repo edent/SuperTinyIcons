@@ -211,4 +211,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/ea.svg" width="256"/> | <img src="/images/reference/ea.svg" width="256"/> | https://commons.wikimedia.org/wiki/File:EA-Logo.svg |
 | <img src="/images/svg/amazon_alexa.svg" width="256"/> | <img src="/images/reference/amazon_alexa.png" width="256"/> | https://developer.amazon.com/docs/alexa-voice-service/logo-and-brand.html |
 | <img src="/images/svg/debian.svg" width="256"/> | <img src="/images/reference/debian.svg" width="256"/> | https://www.debian.org/logos/ | 
-| <img src="/images/svg/ruby.svg" width="256"/> | <img src="/images/reference/ruby.svg" width="256"/> | 
+| <img src="/images/svg/ruby.svg" width="256"/> | <img src="/images/reference/ruby.svg" width="256"/> | https://www.ruby-lang.org/en/about/logo/ |
