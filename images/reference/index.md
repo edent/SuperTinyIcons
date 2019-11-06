@@ -32,7 +32,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/spotify.svg" width="256" />	| <img src="/images/reference/spotify.svg" width="256" />	| https://developer.spotify.com/design/	|
 | <img src="/images/svg/snapchat.svg" width="256" />	| <img src="/images/reference/snapchat.svg" width="256" />	| https://www.snap.com/en-US/brand-guidelines/	|
 | <img src="/images/svg/amazon.svg" width="256" />	| <img src="/images/reference/amazon.jpg" width="256" />	| http://www.turnerduckworth.com/work/amazon/	|
-| <img src="/images/svg/amazon_s3.svg" width="256"/>	| <img src="/images/reference/amazon_s3.svg" width="256"/>	| https://aws.amazon.com/architecture/icons/	|
+| <img src="/images/svg/amazon_s3.svg" width="256"/>	| <img src="/images/reference/amazon-s3.svg" width="256"/>	| https://aws.amazon.com/architecture/icons/	|
 | <img src="/images/svg/steam.svg" width="256" />	| <img src="/images/reference/steam.svg" width="256" />	| https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/Steam_Guidelines_20170524.pdf	|
 | <img src="/images/svg/google.svg" width="256" />	| <img src="/images/reference/google.svg" width="256" />	| https://developers.google.com/identity/branding-guidelines|
 | <img src="/images/svg/google_plus.svg" width="256" />	| <img src="/images/reference/google_plus.png" width="256" />	| https://plus.google.com/+googleplus	|
