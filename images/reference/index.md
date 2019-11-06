@@ -183,7 +183,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/uber.svg" width="256" /> | <img src="/images/reference/uber.jpg" width="256" />  | https://brand.uber.com/guide#logo-clearspace |
 | <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="256" /> | https://flutter.dev/brand |
 | <img src="/images/svg/orcid.svg" width="256" /> | <img src="/images/reference/orcid.png" width="256" />  | https://orcid.org/ |
-| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
+| <img src="/images/svg/javascript.svg" width="256"/> | <img src="/images/reference/javascript.svg" width="256"/>  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
 | <img src="/images/svg/amberframework.svg" width="256"/> | <img src="/images/reference/amberframework.png" width="256"/>  | https://amberframework.org/media |
 | <img src="/images/svg/google_drive.svg" width="256"/> | <img src="/images/reference/google_drive.png" width="256"/> | https://developers.google.com/drive/api/v2/branding |
 | <img src="/images/svg/protonmail.svg" width="256"/> | <img src="/images/reference/protonmail.png" width="256"/> | https://protonmail.com/media-kit#Logos |
