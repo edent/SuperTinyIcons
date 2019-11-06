@@ -207,7 +207,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/kotlin.svg" width="256"/> | <img src="/images/reference/kotlin.svg" width="256"/> | https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip |
 | <img src="/images/svg/crystal.svg" width="256" /> | <img src="/images/reference/crystal.svg" width="256" /> | https://crystal-lang.org/media/ |
 | <img src="/images/svg/messenger.svg" width="256" />	| <img src="/images/reference/messenger.svg" width="256" />	| https://en.facebookbrand.com/assets/messenger/	|
-| <img src="/images/svg/ubisoft.svg" width="256"/> | <img src="/images/reference/ubisoft.png" width="256"/> | https://commons.wikimedia.org/wiki/File:Ubisoft_logo.svg |
+| <img src="/images/svg/ubisoft.svg" width="256"/> | <img src="/images/reference/ubisoft.svg" width="256"/> | https://commons.wikimedia.org/wiki/File:Ubisoft_logo.svg |
 | <img src="/images/svg/ea.svg" width="256"/> | <img src="/images/reference/ea.png" width="256"/> | https://commons.wikimedia.org/wiki/File:EA-Logo.svg |
 | <img src="/images/svg/amazon_alexa.svg" width="256"/> | <img src="/images/reference/amazon_alexa.png" width="256"/> | https://developer.amazon.com/docs/alexa-voice-service/logo-and-brand.html |
 | <img src="/images/svg/debian.svg" width="256"/> | <img src="/images/reference/debian.svg" width="256"/> | https://www.debian.org/logos/ | 
