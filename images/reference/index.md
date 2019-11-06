@@ -200,7 +200,6 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/iheartradio.svg" width="256"/> | <img src="/images/reference/iheartradio.png" width="256" /> | https://www.iheart.com/ |
 | <img src="/images/svg/semaphoreci.svg" width="256" /> | <img src="/images/reference/semaphoreci.png" width="256" /> | https://twitter.com/semaphoreci |
 | <img src="/images/svg/ubiquiti.svg" width="256"/> | <img src="/images/reference/ubiquiti.jpg" width="256"/> | https://pbs.twimg.com/profile_images/862701781368713216/B7oW421__400x400.jpg |
-| <img src="/images/svg/verizon.svg" width="256"/> | <img src="/images/reference/verizon.png" width="256"/> | https://apps.apple.com/us/app/my-verizon/id416023011 |
 | <img src="/images/svg/wekan.svg" width="256"/> | <img src="/images/reference/wekan.svg" width="256"/> | https://github.com/wekan/wekan/blob/master/public/wekan-logo-150.svg |
 | <img src="/images/svg/kemal.svg" width="256"/> | <img src="/images/reference/kemal.png" width="256"/> | https://raw.githubusercontent.com/kemalcr/kemalcr.com/master/img/kemal.png |
 | <img src="/images/svg/rubyonrails.svg" width="256"/> | <img src="/images/reference/rubyonrails_favicon.png" width="256"/> | https://rubyonrails.org/trademarks/ |
