@@ -257,7 +257,7 @@ Say thanks!
 <td>Git<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="125" title="git"/><br>480 Bytes</td>
 <td>Microsoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microsoft.svg" width="125" title="Microsoft"/><br>407 Bytes</td>
 <td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="125" title="Grafana"/><br>961 Bytes</td>
-<td>Ubiquiti<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubiquiti.svg" width="125" title="Ubiquiti"/><br>916 Bytes</td>
+<td>Ubiquiti<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubiquiti.svg" width="125" title="Ubiquiti"/><br>558 Bytes</td>
 </tr>
 </table>
 
