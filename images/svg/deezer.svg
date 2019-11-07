@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Deezer" role="img"
+fill="none" stroke-width="20"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#231f20"/><path fill="#ec2529" d="M80 335h64v20H80zM80 309h64v20H80zM80 283h64v20H80z"/><path fill="#f1796e" d="M80 257h64v20H80zM80 231h64v20H80z"/><path fill="#f6dd05" d="M151 335h64v20h-64zM151 309h64v20h-64zM151 283h64v20h-64z"/><path fill="#d81996" d="M224 335h64v20h-64zM224 309h64v20h-64zM224 283h64v20h-64z"/><path fill="#e78dcc" d="M224 257h64v20h-64zM224 231h64v20h-64zM224 205h64v20h-64zM224 179h64v20h-64z"/><path fill="#adda1a" d="M296 335h64v20h-64zM296 309h64v20h-64zM296 283h64v20h-64z"/><path fill="#d6e465" d="M296 257h64v20h-64zM296 231h64v20h-64z"/><path fill="#56bbe9" d="M368 335h64v20h-64zM368 309h64v20h-64zM368 283h64v20h-64z"/><path fill="#b0d8e6" d="M368 257h64v20h-64zM368 231h64v20h-64zM368 205h64v20h-64zM368 179h64v20h-64zM368 153h64v20h-64z"/></svg>
+fill="#231f20"/><path stroke="#f1796e" d="M78 241h64m-64 26h64"/><path stroke="#ec2529" d="M78 293h64m-64 26h64m-64 26h64"/><path stroke="#f6dd05" d="M148 293h64m-64 26h64m-64 26h64"/><path stroke="#e78dcc" d="M218 241h64m-64 26h64m-64-52h64m-64-26h64"/><path stroke="#d81996" d="M218 293h64m-64 26h64m-64 26h64"/><path stroke="#d6e465" d="M288 241h64m-64 26h64"/><path stroke="#adda1a" d="M288 293h64m-64 26h64m-64 26h64"/><path stroke="#b0d8e6" d="M358 241h64m-64 26h64m-64-52h64m-64-26h64m-64-26h64"/><path stroke="#56bbe9" d="M358 293h64m-64 26h64m-64 26h64"/></svg>
