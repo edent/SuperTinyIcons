@@ -363,6 +363,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Debian<br><img src="images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
+<td>Linux Mint<br><img src="images/svg/linux_mint.svg" width="125" title="Linux Mint"/><br>1017 Bytes</td>
 </tr>
 </table>
 
