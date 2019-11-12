@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="GateHub" role="img"
+viewBox="0 0 512 512" fill="#232323"><rect
+width="512" height="512"
+rx="15%"/><g id="g"><circle cx="83" cy="256" r="36" stroke="#f7f6f2" stroke-width="15" fill="none"/><rect x="169" y="250" width="88" height="13" fill="#9d9fa7"/></g><use xlink:href="#g" transform="rotate(120 256 256)"/><use xlink:href="#g" transform="rotate(240 256 256)"/></svg>
