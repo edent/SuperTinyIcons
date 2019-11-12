@@ -182,6 +182,7 @@ Say thanks!
 <td>Sentry<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sentry.svg" width="125" title="Sentry" /><br>506 Bytes</td>
 <td>Behance<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/behance.svg" width="125" title="Behance" /><br>873 Bytes</td>
 <td>Taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="125" title="Taiga.io" /><br>759 Bytes</td>
+<td>Coil.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coil.svg" width="125" title="Coil.com" /><br>515 Bytes</td>
 </tr>
 </table>
 
