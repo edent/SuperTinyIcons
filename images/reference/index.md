@@ -214,4 +214,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/debian.svg" width="256"/> | <img src="/images/reference/debian.svg" width="256"/> | https://www.debian.org/logos/ |
 | <img src="/images/svg/ruby.svg" width="256"/> | <img src="/images/reference/ruby.svg" width="256"/> |
 | <img src="/images/svg/coil.svg" width="256"/> | <img src="/images/reference/coil.svg" width="256"/> | https://coil.com/ |
-| <img src="/images/svg/gathub.svg" width="256"/> | <img src="/images/reference/gathube.png" width="256"/> | https://gatehub.net/ |
+| <img src="/images/svg/gatehub.svg" width="256"/> | <img src="/images/reference/gatehub.png" width="256"/> | https://gatehub.net/ |
+| <img src="/images/svg/goodreads.svg" width="256"/> | <img src="/images/reference/goodreads.png" width="256"/> | https://www.goodreads.com/about/press |
