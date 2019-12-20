@@ -1,4 +1,4 @@
-# Super Tiny Social Icons
+# Super Tiny Icons
 
 Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is _under_ 465 bytes!
 
