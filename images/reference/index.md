@@ -56,6 +56,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/redhat.svg" width="256"/>	| <img src="/images/reference/redhat.svg" width="256"/>	| https://www.redhat.com/	|
 | <img src="/images/svg/centos.svg" width="256"/>	| <img src="/images/reference/centos.svg" width="256"/>	| https://wiki.centos.org/ArtWork/Brand/Logo	|
 | <img src="/images/svg/ubuntu.svg" width="256" />	| <img src="/images/reference/ubuntu.svg" width="256" />	| https://design.ubuntu.com/brand/ubuntu-logo/	|
+| <img src="/images/svg/linux_mint.svg" width="256"/>	| <img src="/images/reference/Linux_Mint_logo_without_wordmark.svg" width="256"/>	| https://commons.wikimedia.org/wiki/File:Linux_Mint_logo_without_wordmark.svg	|
 | <img src="/images/svg/bitbucket.svg" width="256" />	| <img src="/images/reference/bitbucket.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/apple.svg" width="256" />	| <img src="/images/reference/apple.svg" width="256" />	| https://developer.apple.com/softwarelicensing/agreements/pdf/mac_logo_gdlns.pdf	|
 | <img src="/images/svg/npm.svg" width="256" />	| <img src="/images/reference/npm.svg" width="256" />	| https://github.com/npm/logos	|
