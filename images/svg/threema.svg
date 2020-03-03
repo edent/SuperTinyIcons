@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Threema" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="url(#a)"/><defs><linearGradient id="a" x1="0%" y1="0%" x2="0%" y2="50%"><stop offset="0%" stop-color="#505050"/><stop offset="100%" stop-color="#323232"/></linearGradient></defs><path d="M184.412 327l-81 20 17-69c-17-22-27-50-27-79 0-79 73-143 163-143s163 64 163 143-73 143-163 143c-25 0-50-5-71-14zm25-141h-2c-4 0-7 3-6 7v65c0 4 3 7 7 7h96c4 0 7-3 7-7v-65c0-4-3-7-7-7h-2v-18c0-25-21-46-46-46s-46 21-46 46v18zm74 0h-55v-18c0-15 12-28 28-28 15 0 28 12 28 28v18z" fill="#fff"/><circle cx="156" cy="406" r="28" fill="#3FE669"/><circle cx="256" cy="406" r="28" fill="#3FE669"/><circle cx="356" cy="406" r="28" fill="#3FE669"/></svg>

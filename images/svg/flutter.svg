@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Flutter" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#e8e9eb"/><defs><linearGradient id="a" x1="37409" y1="-20285" x2="38109" y2="-19585" gradientTransform="matrix(0.06, 0, 0, -0.06, -1982.43, -801.48)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1a237e" stop-opacity="0.4"/><stop offset="1" stop-color="#1a237e" stop-opacity="0"/></linearGradient></defs><path d="M191.45,342.89,249.11,401,407.75,241.12H292.4Z" fill="#39cefd"/><path d="M292.4,66.69H407.75L162.61,313.82l-57.7-58.13Z" fill="#39cefd"/><path d="M249.11,401l43.29,43.59H407.75L306.8,342.89Z" fill="#03569b"/><path d="M334.67,371.16,306.8,342.89,249.11,401Z" fill="url(#a)"/><path d="M191.45,342.87l57.69-58.18,57.7,58.15L249.14,401Z" fill="#16b9fd"/></svg>

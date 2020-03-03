@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Amber Framework" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><path d="M87 161l169-95-125 206-44 79z" fill="#f3c095"/><path d="M256 446L87 351l44-79L256 66l169 95v190z" fill="#fffefc"/><path d="M87 351l44-79 125 174zM316 358l-185-86 240-69z" fill="#e67e25"/><g fill-opacity=".9"><path d="M256 446L131 272l185 86z" fill="#e57d25"/><path d="M316 358l55-155 54 148z" fill="#e67e26"/></g><g fill-opacity=".8"><path d="M131 272L256 66l115 137z" fill="#e68025"/><path d="M87 351V161l44 111z" fill="#e47e27"/><path d="M256 446l60-88 109-7z" fill="#e68025"/></g><path d="M425 351l-54-148 54-42z" fill="#e67e25"/><path d="M371 203L256 66l169 95z" fill="#e67e24"/></svg>

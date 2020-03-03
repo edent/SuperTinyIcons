@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Messenger" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><linearGradient id="a" x1="256" x2="256" y1="78.2" y2="441.2" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#00B2FF"/><stop offset="1" stop-color="#006AFF"/></linearGradient><path fill="url(#a)" d="M256 78.2c-102.4 0-181.8 75-181.8 176.4 0 53 21.7 98.8 57 130.4a14.7 14.7 0 0 1 5 10.4l1 32.3a14.6 14.6 0 0 0 20.4 12.9l36-16a14.5 14.5 0 0 1 9.8-.7 197.8 197.8 0 0 0 52.6 7c102.4 0 181.8-75 181.8-176.3S358.4 78.2 256 78.2z"/><path fill="#fff" d="M146.8 306.1l53.4-84.7a27.3 27.3 0 0 1 39.5-7.3l42.5 31.9a11 11 0 0 0 13 0l57.5-43.6c7.6-5.8 17.6 3.4 12.5 11.5l-53.4 84.7a27.3 27.3 0 0 1-39.4 7.3L229.9 274a11 11 0 0 0-13.2 0l-57.4 43.6c-7.6 5.8-17.6-3.4-12.5-11.5z"/></svg>

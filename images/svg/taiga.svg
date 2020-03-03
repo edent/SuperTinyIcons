@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="taiga.io" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><path d="M393 119l-17 119L256 256l17-120z" opacity=".8" fill="#a295ae"/><path d="M120 393l17-119 119-17-17 120z" opacity=".8" fill="#5d6f6d"/><path d="M120 119l119 17 17 120-120-17z" opacity=".8" fill="#8cd592"/><path d="M393 392l-119-17-17-120 120 17z" opacity=".8" fill="#665e74"/><path d="M256 449l-72-96 72-96 72 96z" opacity=".8" fill="#3c3647"/><path d="M450 255l-96 72-96-72 96-72z" opacity=".8" fill="#837193"/><path d="M256 62l72 96-72 96-72-96z" opacity=".8" fill="#a2f4ac"/><path d="M63 256l96-72 96 72-96 72z" opacity=".8" fill="#7ea685"/><path d="M256 210l46 46-46 46-46-46z" fill="#3c3647"/></svg>

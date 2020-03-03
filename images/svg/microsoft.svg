@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Microsoft" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><rect
+x="75" y ="75" width="171" height="171"
+fill="#f25022"/><rect
+x="266" y ="75" width="171" height="171"
+fill="#7fba00"/><rect
+x="75" y ="266" width="171" height="171"
+fill="#00a4ef"/><rect
+x="266" y ="266" width="171" height="171"
+fill="#ffb900"/></svg>
