@@ -38,6 +38,7 @@ Say thanks!
 <tr>
 <td>dev.to<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="125" title="dev.to"/><br>735 Bytes</td>
 <td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="125" title="Goodreads"/><br>684 Bytes</td>
+<td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="125" title="TikTok"/><br>1007 Bytes</td>
 </tr>
 </table>
 
@@ -210,9 +211,9 @@ Say thanks!
 <table>
 <tr>
 <td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="125" title="Chrome" /><br>378 Bytes</td>
-<td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="125" title="Firefox" /><br>993 Bytes</td>
+<td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="125" title="Firefox" /><br>1023 Bytes</td>
 <td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
-<td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>645 Bytes</td>
+<td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>964 Bytes</td>
 <td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="125" title="Opera" /><br>721 Bytes</td>
 <td>Safari<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="125" title="Safari" /><br>698 Bytes</td>
 </tr>
