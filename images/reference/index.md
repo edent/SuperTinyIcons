@@ -222,3 +222,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/zoom.svg" width="256"/> | <img src="/images/reference/zoom.png" width="256"/> | https://www.zoom.us/ |
 | <img src="/images/svg/svg.svg" width="256"/> | <img src="/images/reference/svg.svg" width="256"/> | https://www.w3.org/Graphics/SVG/ |
 | <img src="/images/svg/macos.svg" width="256"/> | <img src="/images/reference/macos.svg" width="256"/> | https://www.apple.com/mac/ |
+| <img src="/images/svg/chromium.svg" width="256"/> | <img src="/images/reference/chromium.png" width="256"/> | https://www.chromium.org/ |
+| <img src="/images/svg/finder.svg" width="256"/> | <img src="/images/reference/finder.png" width="256"/> | https://support.apple.com/en-us/HT201732/ |
