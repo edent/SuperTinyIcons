@@ -67,7 +67,7 @@ Say thanks!
 <td>Google+<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="125" title="Google+" /><br>397 Bytes</td>
 <td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>402 Bytes</td>
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
-<td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>816 Bytes</td>
+<td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>779 Bytes</td>
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>533 Bytes</td>
 </tr>
 <tr>
