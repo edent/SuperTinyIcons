@@ -220,4 +220,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/openbugbounty.svg" width="256"/> | <img src="/images/reference/openbugbounty.svg" width="256"/> | https://www.openbugbounty.org |
 | <img src="/images/svg/tiktok.svg" width="256"/> | <img src="/images/reference/tiktok.svg" width="256"/> | https://www.tiktok.com |
 | <img src="/images/svg/zoom.svg" width="256"/> | <img src="/images/reference/zoom.png" width="256"/> | https://www.zoom.us/ |
- <img src="/images/svg/svg.svg" width="256"/> | <img src="/images/reference/svg.svg" width="256"/> | https://www.w3.org/Graphics/SVG/ |
+| <img src="/images/svg/svg.svg" width="256"/> | <img src="/images/reference/svg.svg" width="256"/> | https://www.w3.org/Graphics/SVG/ |
+| <img src="/images/svg/macos.svg" width="256"/> | <img src="/images/reference/macos.svg" width="256"/> | https://www.apple.com/mac/ |
