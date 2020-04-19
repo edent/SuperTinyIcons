@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Pocketcasts" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><path fill="#f43e37" d="M256 368a112 112 0 1 1 112-112h37a149 149 0 1 0-149 149zm0-55a57 57 0 1 1 57-57h32a89 89 0 1 0-89 89zM64 256a192 192 0 1 1 0 1z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="pocketcasts" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#f43e37" rx="15%"/><path fill="#fff" d="M256 400a144 144 0 11144-144h48a192 192 0 10-192 192v-48zm0-71a73 73 0 1173-73h42a115 115 0 10-115 115v-42z"/></svg>
