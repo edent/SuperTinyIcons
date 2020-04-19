@@ -384,6 +384,7 @@ Say thanks!
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="125" title="GOG.com" /><br>718 Bytes</td>
 <td>Ubisoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubisoft.svg" width="125" title="Ubisoft" /><br>922 Bytes</td>
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="125" title="Electronic Arts" /><br>462 Bytes</td>
+<td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>1011 Bytes</td>
 </tr>
 </table>
 
