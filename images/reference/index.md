@@ -27,7 +27,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/wikipedia.svg" width="256" />	| <img src="/images/reference/wikipedia.svg" width="256" />	| https://wikimediafoundation.org/wiki/Visual_identity_guidelines	|
 | <img src="/images/svg/vimeo.svg" width="256" />	| <img src="/images/reference/vimeo.svg" width="256" />	| https://press.vimeo.com/brand-guidelines	|
 | <img src="/images/svg/slideshare.svg" width="256" />	| <img src="/images/reference/slideshare.png" width="256" />	| https://www.slideshare.net/about/logos	|
-| <img src="/images/svg/deezer.svg" width="256" />	| <img src="/images/reference/deezer.png" width="256" />	| http://cdn-files.deezer.com/developers/Deezer\_BrandBook.pdf	|
+| <img src="/images/svg/deezer.svg" width="256" />	| <img src="/images/reference/deezer.svg" width="256" />	| https://deezerbrand.com/	|
 | <img src="/images/svg/soundcloud.svg" width="256" />	| <img src="/images/reference/soundcloud.png" width="256" />	| https://developers.soundcloud.com/docs/api/buttons-logos	|
 | <img src="/images/svg/spotify.svg" width="256" />	| <img src="/images/reference/spotify.svg" width="256" />	| https://developer.spotify.com/design/	|
 | <img src="/images/svg/snapchat.svg" width="256" />	| <img src="/images/reference/snapchat.svg" width="256" />	| https://www.snap.com/en-US/brand-guidelines/	|
@@ -220,4 +220,9 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/openbugbounty.svg" width="256"/> | <img src="/images/reference/openbugbounty.svg" width="256"/> | https://www.openbugbounty.org |
 | <img src="/images/svg/tiktok.svg" width="256"/> | <img src="/images/reference/tiktok.svg" width="256"/> | https://www.tiktok.com |
 | <img src="/images/svg/zoom.svg" width="256"/> | <img src="/images/reference/zoom.png" width="256"/> | https://www.zoom.us/ |
- <img src="/images/svg/svg.svg" width="256"/> | <img src="/images/reference/svg.svg" width="256"/> | https://www.w3.org/Graphics/SVG/ |
+| <img src="/images/svg/svg.svg" width="256"/> | <img src="/images/reference/svg.svg" width="256"/> | https://www.w3.org/Graphics/SVG/ |
+| <img src="/images/svg/macos.svg" width="256"/> | <img src="/images/reference/macos.svg" width="256"/> | https://www.apple.com/mac/ |
+| <img src="/images/svg/chromium.svg" width="256"/> | <img src="/images/reference/chromium.png" width="256"/> | https://www.chromium.org/ |
+| <img src="/images/svg/finder.svg" width="256"/> | <img src="/images/reference/finder.png" width="256"/> | https://support.apple.com/en-us/HT201732/ |
+| <img src="/images/svg/google_maps.svg" width="256"/> | <img src="/images/reference/google_maps.svg" width="256"/> | https://www.google.com/maps/about/ |
+| <img src="/images/svg/minecraft.svg" width="256"/> | <img src="/images/reference/minecraft.png" width="256"/> | https://account.mojang.com/terms |
