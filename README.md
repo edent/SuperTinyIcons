@@ -54,7 +54,7 @@ Say thanks!
 <td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>204 Bytes</td>
 </tr>
 <tr>
-<td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="125" title="Deezer"/><br>920 Bytes</td>
+<td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="125" title="Deezer"/><br>960 Bytes</td>
 <td>iHeartRadio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/iheartradio.svg" width="125" title="iHeartRadio" /><br>911 Bytes</td>
 </tr>
 </table>
