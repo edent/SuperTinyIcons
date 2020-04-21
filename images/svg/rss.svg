@@ -3,4 +3,4 @@ aria-label="RSS" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#f80"/><circle cx="145" cy="367" r="35" fill="#fff"/><path fill="none" stroke="#fff" stroke-width="60" d="M109 241c89 0 162 73 162 162M109 127c152 0 276 124 276 276"/></svg>
+fill="#f80"/><g fill="none" stroke="#fff" stroke-width="60"><circle cx="145" cy="367" r="5"/><path d="M109 241c89 0 162 73 162 162m114 0c0-152-124-276-276-276"/></g></svg>
