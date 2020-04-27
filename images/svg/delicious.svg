@@ -2,4 +2,4 @@
 aria-label="Delicious" role="img"
 viewBox="0 0 512 512"><clipPath id="a"><rect
 width="512" height="512"
-rx="15%"/></clipPath><g clip-path="url(#a)"><path fill="#FFF" d="M0 0h256v256H0z"/><path fill="#333" d="M0 256h256v256H0z"/><path fill="#EEE" d="M256 256h256v256H256z"/><path fill="#39F" d="M256 0h256v256H256z"/></g></svg>
+rx="15%"/></clipPath><g clip-path="url(#a)"><path fill="#333" d="M512 512H0V0"/><path fill="#39F" d="M512 512V0H0"/><path fill="#fff" d="M0 0h256v256H0"/><path fill="#eee" d="M256 256h256v256H256z"/></g></svg>
