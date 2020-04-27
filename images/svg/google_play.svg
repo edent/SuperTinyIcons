@@ -2,4 +2,4 @@
 aria-label="Google Play" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
-rx="15%"/><path fill="#2fcfff" d="M120 87q-5 8-6 19v301q1 11 6 19l169-170"/><path fill="#fdcc00" d="M289 256l58 58 66-38q35-19 0-39l-66-38"/><path fill="#f0304b" d="M120 426q16 7 29 0l199-112-58-58"/><path fill="#43e475" d="M120 87l169 169 58-57L149 87q-16-7-29 0z"/></svg>
+rx="15%" fill="#fff"/><clipPath id="a"><path d="M465 239L169 69c-15-9-35 2-35 20v334c0 18 20 29 35 20l296-171c13-7 13-25 0-33z"/></clipPath><g clip-path="url(#a)" transform="translate(-10 17) scale(.93324)"><path fill="#0e7" d="M20 53h400v355"/><path fill="#0df" d="M512 444H98V30"/><path fill="#f34" d="M399 181v322H76"/><path fill="#fd0" d="M324 256l180 180V76"/></g></svg>
