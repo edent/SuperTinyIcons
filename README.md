@@ -10,7 +10,7 @@ Say thanks!
 
 ## How Small?
 
-| 542 Bytes SVG                                                                          | 1,309 Bytes PNG                                                                        | 433 Bytes SVG                                                                           | 1,246 Bytes PNG                                                                         | 250 Bytes SVG                                                                          | 1,243 Bytes PNG                                                                        |
+| 542 Bytes SVG                                                                          | 1,309 Bytes PNG                                                                        | 433 Bytes SVG                                                                           | 1,246 Bytes PNG                                                                         | 251 Bytes SVG                                                                          | 1,243 Bytes PNG                                                                        |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" /> |
 
@@ -20,19 +20,19 @@ Say thanks!
 
 <table>
 <tr>
-<td>flickr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="125" title="Flickr" /><br>250 Bytes</td>
+<td>flickr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="125" title="Flickr" /><br>251 Bytes</td>
 <td>Facebook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="125" title="Facebook" /><br>311 Bytes</td>
 <td>Tumblr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tumblr.svg" width="125" title="Tumblr" /><br>422 Bytes</td>
 <td>Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="125" title="Twitter" /><br>433 Bytes</td>
 <td>LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="125" title="LinkedIn" /><br>370 Bytes</td>
-<td>Instagram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="125" title="Instagram" /><br>345 Bytes</td>
+<td>Instagram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="125" title="Instagram" /><br>768 Bytes</td>
 </tr>
 <tr>
 <td>Reddit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="125" title="Reddit" /><br>607 Bytes</td>
 <td>Pinterest<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="125" title="Pinterest" /><br>526 Bytes</td>
 <td>VK<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vk.svg" width="125" title="VK" /><br>534 Bytes</td>
 <td>Mastodon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="125" title="Mastodon" /><br>550 Bytes</td>
-<td>imgur<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imgur.svg" width="125" title="imgur" /><br>356 Bytes</td>
+<td>imgur<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imgur.svg" width="125" title="imgur" /><br>279 Bytes</td>
 <td>Slack<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="125" title="Slack" /><br>533 Bytes</td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ Say thanks!
 <td>Spotify<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /><br>436 Bytes</td>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="125" title="YouTube" /><br>359 Bytes</td>
 <td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>780 Bytes</td>
-<td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>204 Bytes</td>
+<td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>201 Bytes</td>
 </tr>
 <tr>
 <td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="125" title="Deezer"/><br>959 Bytes</td>
@@ -65,13 +65,13 @@ Say thanks!
 <tr>
 <td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="125" title="Google" /><br>484 Bytes</td>
 <td>Google+<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="125" title="Google+" /><br>397 Bytes</td>
-<td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>402 Bytes</td>
+<td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>505 Bytes</td>
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>778 Bytes</td>
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>533 Bytes</td>
 </tr>
 <tr>
-<td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="125" title="Google Drive" /><br>467 Bytes</td>
+<td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="125" title="Google Drive" /><br>314 Bytes</td>
 <td>Google Maps (old)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="125" title="Google Maps (old)" /><br>713 Bytes</td>
 </tr>
 </table>
@@ -126,7 +126,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="125" title="Yammer" /><br>479 Bytes</td>
-<td>Blogger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/blogger.svg" width="125" title="Blogger" /><br>354 Bytes</td>
+<td>Blogger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/blogger.svg" width="125" title="Blogger" /><br>355 Bytes</td>
 <td>Cloudflare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="125" title="Cloudflare" /><br>500 Bytes</td>
 <td>Amazon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="125" title="Amazon" /><br>673 Bytes</td>
 <td>Strava<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/strava.svg" width="125" title="Strava" /><br>286 Bytes</td>
@@ -137,7 +137,7 @@ Say thanks!
 <td>DigitalOcean<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/digitalocean.svg" width="125" title="DigitalOcean" /><br>263 Bytes</td>
 <td>Medium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
 <td>AirBnB<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/airbnb.svg" width="125" title="Airbnb" /><br>427 Bytes</td>
-<td>Delicious<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/delicious.svg" width="125" title="Delicious" /><br>270 Bytes</td>
+<td>Delicious<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/delicious.svg" width="125" title="Delicious" /><br>354 Bytes</td>
 <td>Disqus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="125" title="Disqus" /><br>281 Bytes</td>
 </tr>
 <tr>
@@ -349,7 +349,7 @@ Say thanks!
 <td>Kemal Framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kemal.svg" width="125" title="Kemal Framework" /><br>340 Bytes</td>
 <td>Ruby On Rails<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubyonrails.svg" width="125" title="Ruby On Rails" /><br>480 Bytes</td>
 <td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="125" title="Kotlin" /><br>291 Bytes</td>
-<td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>592 Bytes</td>
+<td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>245 Bytes</td>
 </tr>
 <tr>
 <td>Semaphore CI<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/semaphoreci.svg" width="125" title="Semaphore CI" /><br>640 Bytes</td>
