@@ -85,7 +85,7 @@ Say thanks!
 <td>Skype<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="125" title="Skype" /><br>487 Bytes</td>
 <td>Snapchat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="125" title="Snapchat" /><br>649 Bytes</td>
 <td>WeChat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wechat.svg" width="125" title="WeChat" /><br>639 Bytes</td>
-<td>Wire<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="125" title="Wire" /><br>276 Bytes</td>
+<td>Signal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/signal.svg" width="125" title="Signal" /><br>440 Bytes</td>
 </tr>
 <tr>
 <td>Phone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="125" title="Phone" /><br>591 Bytes</td>
@@ -102,6 +102,9 @@ Say thanks!
 <td>Messenger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="125" title="Messenger" /><br>833 Bytes</td> 
 <td>Discord<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
 <td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="125" title="Zoom" /><br>530 Bytes</td>
+</tr>
+<tr>
+<td>Wire<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="125" title="Wire" /><br>276 Bytes</td>
 </tr>
 </table>
 
@@ -194,15 +197,15 @@ Say thanks!
 
 <table>
 <tr>
-<td>RSS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="125" title="RSS" /><br>309 Bytes</td>
+<td>RSS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="125" title="RSS" /><br>308 Bytes</td>
 <td>Mail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="125" title="Mail" /><br>572 Bytes</td>
 <td>Email<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="125" title="E-mail" /><br>342 Bytes</td>
 <td>HTML5<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="125" title="HTML5" /><br>399 Bytes</td>
 <td>WiFi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wifi.svg" width="125" title="Wi-Fi" /><br>602 Bytes</td>
-<td>W3C<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="125" title="World Wide Web Consortium (W3C)" /><br>634 Bytes</td>
+<td>W3C<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="125" title="World Wide Web Consortium (W3C)" /><br>539 Bytes</td>
 </tr>
 <tr>
-<td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="125" title="The Unicode Consortium" /><br>878 Bytes</td>
+<td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="125" title="The Unicode Consortium" /><br>613 Bytes</td>
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="125" title="markdown" /><br>458 Bytes</td>
 <td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="125" title="HAML"/><br>937 Bytes</td>
 </tr>
@@ -214,7 +217,7 @@ Say thanks!
 <tr>
 <td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="125" title="Chrome" /><br>378 Bytes</td>
 <td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="125" title="Firefox" /><br>1023 Bytes</td>
-<td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>384 Bytes</td>
+<td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsunginternet.svg" width="125" title="Samsung Internet" /><br>347 Bytes</td>
 <td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>964 Bytes</td>
 <td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="125" title="Opera" /><br>721 Bytes</td>
 <td>Safari<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="125" title="Safari" /><br>698 Bytes</td>
@@ -348,7 +351,7 @@ Say thanks!
 <td>Wekan<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wekan.svg" width="125" title="Wekan" /><br>981 Bytes</td>
 <td>Kemal Framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kemal.svg" width="125" title="Kemal Framework" /><br>340 Bytes</td>
 <td>Ruby On Rails<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubyonrails.svg" width="125" title="Ruby On Rails" /><br>480 Bytes</td>
-<td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="125" title="Kotlin" /><br>291 Bytes</td>
+<td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="125" title="Kotlin" /><br>252 Bytes</td>
 <td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>245 Bytes</td>
 </tr>
 <tr>
@@ -383,9 +386,9 @@ Say thanks!
 <tr>
 <td>Steam<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/steam.svg" width="125" title="Steam" /><br>455 Bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="125" title="GOG.com" /><br>718 Bytes</td>
-<td>Ubisoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubisoft.svg" width="125" title="Ubisoft" /><br>922 Bytes</td>
+<td>Ubisoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubisoft.svg" width="125" title="Ubisoft" /><br>530 Bytes</td>
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="125" title="Electronic Arts" /><br>462 Bytes</td>
-<td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>1011 Bytes</td>
+<td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>891 Bytes</td>
 </tr>
 </table>
 
