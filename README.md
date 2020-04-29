@@ -425,7 +425,7 @@ Bytes cost money. They cost money to store, transport, and process. Simplicity s
 
 ## Scream if you want to go smaller
 
-These files were edited by hand in Inkscape, then were minified using [svgo](https://github.com/svg/svgo) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible. Try it!
+These files were edited by hand in Inkscape, Illustrator, or a text editor, then were minified using [svgo](https://github.com/svg/svgo) and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible. Try it!
 
 - Each of these has an `xmlns="http://www.w3.org/2000/svg"` in the `<svg>` tag. This isn't strictly necessary - but some web browsers won't display them as an image without it.
 - Rounded corners can be dropped - `rx="80"` - the effect can be done in CSS if you want.
