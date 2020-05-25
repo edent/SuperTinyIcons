@@ -66,7 +66,7 @@ Say thanks!
 <td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="125" title="Google" /><br>484 Bytes</td>
 <td>Google+<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="125" title="Google+" /><br>397 Bytes</td>
 <td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>505 Bytes</td>
-<td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>641 Bytes</td>
+<td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>585 Bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>778 Bytes</td>
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>533 Bytes</td>
 </tr>
@@ -124,7 +124,7 @@ Say thanks!
 <td>Meetup<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/meetup.svg" width="125" title="Meetup" /><br>524 Bytes</td>
 <td>eBay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ebay.svg" width="125" title="eBay" /><br>819 Bytes</td>
 <td>Kickstarter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>288 Bytes</td>
-<td>Yahoo!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>379 Bytes</td>
+<td>Yahoo!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>296 Bytes</td>
 <td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="125" title="Evernote" /><br>704 Bytes</td>
 </tr>
 <tr>
@@ -268,6 +268,10 @@ Say thanks!
 <td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="125" title="Grafana"/><br>961 Bytes</td>
 <td>Ubiquiti<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubiquiti.svg" width="125" title="Ubiquiti"/><br>916 Bytes</td>
 </tr>
+<td>Adobe<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/adobe.svg" width="125" title="Adobe"/><br>261 Bytes</td>
+<td>Homekit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/homekit.svg" width="125" title="Homekit"/><br>822 Bytes</td>
+<td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="125" title="Pixelfed"/><br>990 Bytes</td>
+</tr>
 </table>
 
 ### Security
@@ -387,6 +391,7 @@ Say thanks!
 <td>Steam<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/steam.svg" width="125" title="Steam" /><br>455 Bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="125" title="GOG.com" /><br>718 Bytes</td>
 <td>Ubisoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubisoft.svg" width="125" title="Ubisoft" /><br>530 Bytes</td>
+<td>Uplay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="125" title="Uplay" /><br>543 Bytes</td>
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="125" title="Electronic Arts" /><br>462 Bytes</td>
 <td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>891 Bytes</td>
 </tr>
@@ -565,7 +570,6 @@ The majority of these vector logos are based on someone else's work.
 - [Keybase](https://github.com/keybase/client/blob/master/shared/images/iconfont/kb-iconfont-keybase-16.svg) - BSD
 - [eBay](https://commons.wikimedia.org/wiki/File:EBay_logo.svg)
 - [Kickstarter](https://www.kickstarter.com/help/brand_assets)
-- [Yahoo!](https://commons.wikimedia.org/wiki/File:Yahoo!_logo.svg)
 - [Bitcoin](https://commons.wikimedia.org/wiki/File:Bitcoin_logo.svg) - CC0
 - [Bluetooth](https://commons.wikimedia.org/wiki/File:Bluetooth.svg)
 - [Blogger](https://commons.wikimedia.org/wiki/File:Blogger_icon.svg)
