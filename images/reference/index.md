@@ -226,3 +226,6 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/finder.svg" width="256"/> | <img src="/images/reference/finder.png" width="256"/> | https://support.apple.com/en-us/HT201732/ |
 | <img src="/images/svg/google_maps.svg" width="256"/> | <img src="/images/reference/google_maps.svg" width="256"/> | https://www.google.com/maps/about/ |
 | <img src="/images/svg/minecraft.svg" width="256"/> | <img src="/images/reference/minecraft.png" width="256"/> | https://account.mojang.com/terms |
+| <img src="/images/svg/adobe.svg" width="256"/> | <img src="/images/reference/adobe.jpg" width="256"/> | https://partners.adobe.com/content/dam/tep_assets/public/public_1/documents/Adobe-Creative-Cloud-Developer-Brand-Guide-062218.pdf |
+| <img src="/images/svg/pixelfed.svg" width="256"/> | <img src="/images/reference/pixelfed.svg" width="256"/> | https://pixelfed.org/ |
+| <img src="/images/svg/homekit.svg" width="256"/> | <img src="/images/reference/homekit.svg" width="256"/> | https://developer.apple.com/design/human-interface-guidelines/homekit/overview/icons/ |
