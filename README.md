@@ -294,6 +294,9 @@ Say thanks!
 <td>andOTP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/andotp.svg" width="125" title="andOTP"/><br>623 Bytes</td>
 <td>OpenBugBounty<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openbugbounty.svg" width="125" title="OpenBugBounty"/><br>507 Bytes</td>
 </tr>
+<tr>
+<td>OpenVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openvpn.svg" width="125" title="OpenVPN"/><br>555 Bytes</td>
+</tr>
 </table>
 
 ### Payments
