@@ -56,6 +56,7 @@ Say thanks!
 <tr>
 <td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="125" title="Deezer"/><br>959 Bytes</td>
 <td>iHeartRadio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/iheartradio.svg" width="125" title="iHeartRadio" /><br>911 Bytes</td>
+<td>Kodi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kodi.svg" width="125" title="Kodi" /><br>771 Bytes</td>
 </tr>
 </table>
 
