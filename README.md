@@ -192,6 +192,9 @@ Say thanks!
 <td>Taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="125" title="Taiga.io" /><br>759 Bytes</td>
 <td>Coil.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coil.svg" width="125" title="Coil.com" /><br>515 Bytes</td>
 </tr>
+<tr>
+<td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="125" title="Glitch" /><br>1012 Bytes</td>
+</tr>
 </table>
 
 ### Internet

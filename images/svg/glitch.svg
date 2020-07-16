@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="Glitch" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><linearGradient id="a"><stop offset=".2" stop-color="#e9f"/><stop offset="1" stop-color="#f66"/></linearGradient><g fill="#a6f"><g id="b"><path d="M78 189q20 25-15 30 50 40 97 32 14 35 76 25l-2-16s72 2 138-26c12-3 79 35 64 9s6-22-5-54" fill="url(#a)"/><path d="M139 131q-68 15-78 68q9 2 22 11h95c-4 9 8 9 8 0h12l-5 16c-3 6 5 9 8 3l6-19h33v-11h194c-9-31 9-19 3-60-40 3-40 45-143-3"/><circle cx="125" cy="179" r="18" fill="#fff"/><path d="M110 189a14 14 0 111 1 5 5 0 10-1-1" fill="#000"/><path d="M184 206h3-3s9-21-7-48m27 48h3-3s9-24-4-53m0 0c74 0 130 16 182 41" stroke="#e9f" stroke-width="8" stroke-linecap="round"/></g><path d="M294 136l-10-10c-8-8-77-21-77-21s-13 1-30 25c-34-3-53 5-53 5zm-56 62v12h53v-12" fill="#a6f"/></g><g fill="#33f"><use xlink:href="#b" y="120"/><path d="M293 257l52-13v-3H209v10h-70"/></g></svg>
