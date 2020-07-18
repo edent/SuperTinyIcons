@@ -400,7 +400,7 @@ Say thanks!
 <td>Ubisoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubisoft.svg" width="125" title="Ubisoft" /><br>530 Bytes</td>
 <td>Uplay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="125" title="Uplay" /><br>543 Bytes</td>
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="125" title="Electronic Arts" /><br>462 Bytes</td>
-<td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>891 Bytes</td>
+<td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>1023 Bytes</td>
 </tr>
 </table>
 

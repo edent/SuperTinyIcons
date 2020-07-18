@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg"
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 aria-label="Minecraft" role="img"
-viewBox="0 0 512 512"><rect
+viewBox="0 0 512 512" stroke-linecap="square" fill="none"><rect
 width="512" height="512"
 rx="15%"
-fill="#111"/><style>*{image-rendering:pixelated;image-rendering:crisp-edges}</style><image id="a" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJBAMAAAASvxsjAAAAJ1BMVEV4VT1YPSuVbE5tqUlin0i3hF+SvmV1s0+BvltnpEmbx25sbGxWk0aMvdNmAAAAPklEQVQI12OwKJ7sY8DgklZiacAg3rbQRYBBWFhAkIGBUXCDIgODIIMAQwBDKGuAggIDk5ACkwKDgBIDIwM" transform="matrix(20.89 12 0 24.11 68 148)"/><use href="#a" opacity=".45" transform="matrix(-1 0 0 1 512 0)"/><image width="9" height="9" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJBAMAAAASvxsjAAAAKlBMVEWmz2+Nxl+XyWS21Xicy2m6132hzWu/2YKw03WLxVyEwlbD24OfzGuQxl8Mj1elAAAAPklEQVQI12No9NqoUMDA5WkgqMBwyVNRIYBB0cFAUIBBQcgwzYBBQUA4yYCBIcjQoICBMUiBiYGBgbFBRgA" transform="scale(29.54 17) rotate(-45 11.7 1.6)"/></svg>
+fill="#111"/><g id="a" transform="matrix(19 11 0 22 76 142)"><path fill="#432" d="M.5.5h9v9h-9"/><path stroke="#864" d="M2 8v1h2V8h5V7 H7V5"/><path stroke="#643" d="M1 5zM2 9zM1 8V7h2V6h1M5 9h2V8H6V4M7 6h1v1M9 9zM9 4v1"/><path stroke="#a75" d="M1 7h1M4 7h1M9 6z"/><path stroke="#555" d="M5 5z"/><path stroke="#593" d="M4 4V1h4v2H7V2H4v1H2v1"/><path stroke="#6a4" d="M2 1h1M6 1zM7 2zM9 1v1"/><path stroke="#7c5" d="M5 3zM3 2h1"/><path stroke="#9c6" d="M1 1v1h1M8 1z"/></g><use xlink:href="#a" transform="matrix(-1 0 0 1 513 0)" opacity=".5"/><g transform="matrix(-19 11-19-11 447 159)"><path fill="#7b4" d="M.5.5h9v9h-9"/><path stroke="#8c5" d="M1 1zM3 1zM4 7zM3 4v2H1v2h3v1h2V7M2 3h4V1H5v1h3M7 4v1H4M9 4v2H8v3"/><path stroke="#ad7" d="M1 3v2M1 7zM1 9zM3 3zM4 4zM5 1zM5 3zM5 5v1M5 8v1M7 2v1M8 7h1"/></g></svg>
