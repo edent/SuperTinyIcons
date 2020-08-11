@@ -28,7 +28,7 @@ Say thanks!
 <td>Instagram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="125" title="Instagram" /><br>768 Bytes</td>
 </tr>
 <tr>
-<td>Reddit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="125" title="Reddit" /><br>607 Bytes</td>
+<td>reddit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="125" title="reddit" /><br>607 Bytes</td>
 <td>Pinterest<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="125" title="Pinterest" /><br>526 Bytes</td>
 <td>VK<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vk.svg" width="125" title="VK" /><br>534 Bytes</td>
 <td>Mastodon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="125" title="Mastodon" /><br>550 Bytes</td>
