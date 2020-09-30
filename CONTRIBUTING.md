@@ -1,10 +1,13 @@
 Thanks for submitting or fixing an icon! Here is a helpful guide to what you need to include.
 
 - [ ] New file which is *under* 1,024 bytes
+
+
+Additionally, you can do these helpful things if you have time:
 - [ ] Edit Readme
 - [ ] Add reference image
 - [ ] Edit reference page
-- [ ] (optional) Android Image
+- [ ] Android Image
 
 ## New File
 
