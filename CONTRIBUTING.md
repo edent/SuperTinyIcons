@@ -9,11 +9,11 @@ Thanks for submitting or fixing an icon! Here is a helpful guide to what you nee
 ## New File
 
 Filename should be `nameofservice.svg` - all in lower-case.
-If a special character must be used, please replace it with an underscore (no dot nor a dash).
+If a special character must be used, please replace it with an underscore (not a dot nor a dash).
 
 Place the file in `/images/svg/`
 
-At a minimum, your icon needs these components:
+At a minimum, your icon needs these components, in this layout:
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg"
