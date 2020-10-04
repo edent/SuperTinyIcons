@@ -232,3 +232,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/kodi.svg" width="256"/> | <img src="/images/reference/kodi.svg" width="256"/> | https://kodi.tv/ |
 | <img src="/images/svg/openvpn.svg" width="256"/> | <img src="/images/reference/openvpn.svg" width="256"/> | https://openvpn.net/ |
 | <img src="/images/svg/glitch.svg" width="256"/> | <img src="/images/reference/glitch-fish-big.png" width="256"/> | https://glitch.com/about/press/ |
+| <img src="/images/svg/roundcube.svg" width="256" /> | <img src="/images/reference/roundcube.svg" width="256" /> | https://roundcube.net/images/roundcube_logo_icon.svg |
