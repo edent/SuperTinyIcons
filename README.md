@@ -10,8 +10,8 @@ Say thanks!
 
 ## How Small?
 
-| 542 Bytes SVG | 7,225 Bytes PNG | 433 Bytes SVG | 5,568 Bytes PNG | 251 Bytes SVG | 5,031 Bytes PNG |
-| ------------- | --------------- | ------------- | --------------- | ------------- | --------------- |
+| 542 Bytes SVG                                                                          | 7,225 Bytes PNG                                                                        | 433 Bytes SVG                                                                           | 5,568 Bytes PNG                                                                         | 251 Bytes SVG                                                                          | 5,031 Bytes PNG                                                                        |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" /> |
 
 ## What's Available so far?
@@ -194,9 +194,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="125" title="Glitch" /><br>1012 Bytes</td>
-</tr>
-<tr>
-<td>Jellyfin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jellyfin.svg" width="125" title="Jellyfin"/><br>988 Bytes</td>
+<td>Jellyfin<br><img src="/images/svg/jellyfin.svg" width="125" title="Jellyfin"/><br>988 Bytes</td>
 </tr>
 </table>
 
@@ -519,7 +517,7 @@ The old-school way:
 The modern way, the React (JSX) example:
 
 ```jsx
-import logo from "super-tiny-icons/images/svg/github.svg";
+import logo from 'super-tiny-icons/images/svg/github.svg';
 
 <img src={logo} />;
 ```
