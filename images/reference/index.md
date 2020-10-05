@@ -236,3 +236,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/preact.svg" width="256" /> | <img src="/images/reference/preact.svg" width="256" /> | https://preactjs.com |
 | <img src="/images/svg/itch_io.svg" width="256" /> | <img src="/images/reference/itch_io.svg" width="256" /> | https://itch.io/press-kit |
 | <img src="/images/svg/angellist.svg" width="256" /> | <img src="/images/reference/angellist.svg" width="256" /> | https://angel.co/logo |
+| <img src="/images/svg/jellyfin.svg" width="256"/> | <img src="/images/reference/jellyfin-banner.png" width="256"/> | https://raw.githubusercontent.com/jellyfin/jellyfin-web/master/src/assets/img/banner-dark.png |
