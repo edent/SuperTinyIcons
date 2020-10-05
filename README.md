@@ -403,6 +403,9 @@ Say thanks!
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="125" title="Electronic Arts" /><br>462 Bytes</td>
 <td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>1023 Bytes</td>
 </tr>
+<tr>
+<td>itch.io<br><img src="/images/svg/itch_io.svg" width="125" title="itch.io"/><br>870 Bytes</td>
+</tr>
 </table>
 
 ### Misc
