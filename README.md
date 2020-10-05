@@ -194,6 +194,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="125" title="Glitch" /><br>1012 Bytes</td>
+<td>AngelList<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angellist.svg" width="125" title="AngelList" /><br>995 Bytes</td>
 </tr>
 </table>
 
@@ -370,6 +371,7 @@ Say thanks!
 <td>Django Project<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/djangoproject.svg" width="125" title="Django Project" /><br>443 Bytes</td>
 <td>Ruby<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="125" title="Ruby" /><br>984 Bytes</td>
 <td>SVG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svg.svg" width="125" title="SVG"/><br>979 Bytes</td>
+<td>Preact<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/preact.svg" width="125" title="SVG"/><br>602 Bytes</td>
 </tr>
 </table>
 
@@ -402,6 +404,9 @@ Say thanks!
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="125" title="Electronic Arts" /><br>462 Bytes</td>
 <td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>1023 Bytes</td>
 </tr>
+<tr>
+<td>itch.io<br><img src="/images/svg/itch_io.svg" width="125" title="itch.io"/><br>870 Bytes</td>
+</tr>
 </table>
 
 ### Misc
@@ -428,6 +433,7 @@ Say thanks!
 <td>Gojek<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gojek.svg" width="125" title="Gojek" /><br>376 Bytes</td>
 <td>Amazon Alexa<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_alexa.svg" width="125" title="Amazon Alexa" /><br>393 Bytes</td>
 <td>Finder<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/finder.svg" width="125" title="Finder" /><br>780 Bytes</td>
+<td>Roundcube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/roundcube.svg" width="125" title="Roundcube"/><br>838 Bytes</td>
 </tr>
 </table>
 
