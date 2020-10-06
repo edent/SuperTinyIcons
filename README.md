@@ -196,6 +196,7 @@ Say thanks!
 <td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="125" title="Glitch" /><br>1012 Bytes</td>
 <td>AngelList<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angellist.svg" width="125" title="AngelList" /><br>995 Bytes</td>
 <td>Jellyfin<br><img src="/images/svg/jellyfin.svg" width="125" title="Jellyfin"/><br>988 Bytes</td>
+<td>Gandi<br><img src="/images/svg/gandi.svg" width="125" title="Gandi"/><br>788 Bytes</td>
 </tr>
 </table>
 
