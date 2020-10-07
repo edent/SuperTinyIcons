@@ -216,6 +216,7 @@ Say thanks!
 <td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="125" title="The Unicode Consortium" /><br>613 Bytes</td>
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="125" title="markdown" /><br>458 Bytes</td>
 <td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="125" title="HAML"/><br>937 Bytes</td>
+<td>microformats<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microformats.svg" width="125" title="microformats"/><br>798 Bytes</td>
 </tr>
 </table>
 
