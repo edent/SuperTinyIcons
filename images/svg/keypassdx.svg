@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="KeePassDX" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#43A047"/><defs><filter id="a" x="-12%" y="-10%" width="124%" height="130%"><feDropShadow dx="1" dy="10" stdDeviation="10" flood-opacity=".45"/></filter></defs><path fill="#eaeaea" filter="url(#a)" d="M282.79 195.24l-173.43 173.6-.53 34.98 34.97-.53 36.32-36.28h39.14V330.2h36.8v-39.06l57.25-57.18-30.52-38.72z"/><path fill="#c6c6c6" filter="url(#a)" d="M108.83 109.36l.53 34.97 258.96 258.96 34.97.53-.53-34.97-258.95-258.97-34.98-.52z"/><path fill="#eaeaea" filter="url(#a)" d="M346.22 84.82a82.83 82.83 0 1057.35 24.26 82.85 82.85 0 00-57.35-24.26zm32.53 61.34a24.54 24.54 0 11-24.53 24.54 24.54 24.54 0 0124.53-24.54z"/></svg>

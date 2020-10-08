@@ -305,6 +305,7 @@ Say thanks!
 </tr>
 <tr>
 <td>OpenVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openvpn.svg" width="125" title="OpenVPN"/><br>555 Bytes</td>
+<td>KeyPassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keypassdx.svg" width="125" title="KeyPassDX"/><br>772 Bytes</td>
 </tr>
 </table>
 
