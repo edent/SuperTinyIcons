@@ -236,3 +236,9 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/preact.svg" width="256" /> | <img src="/images/reference/preact.svg" width="256" /> | https://preactjs.com |
 | <img src="/images/svg/itch_io.svg" width="256" /> | <img src="/images/reference/itch_io.svg" width="256" /> | https://itch.io/press-kit |
 | <img src="/images/svg/angellist.svg" width="256" /> | <img src="/images/reference/angellist.svg" width="256" /> | https://angel.co/logo |
+| <img src="/images/svg/jellyfin.svg" width="256"/> | <img src="/images/reference/jellyfin-banner.png" width="256"/> | https://raw.githubusercontent.com/jellyfin/jellyfin-web/master/src/assets/img/banner-dark.png |
+| <img src="/images/svg/gandi.svg" width="256"/> | <img src="/images/reference/gandi.png" width="256"/> | https://v4.gandi.net/static/images/illustrations/press/Gandi_LogoGuidelines_EN.pdf |
+| <img src="/images/svg/kaggle.svg" width="256" /> | <img src="/images/reference/kaggle.png" width="256" /> | https://www.kaggle.com/ |
+| <img src="/images/svg/uphold.svg" width="256" /> | <img src="/images/reference/uphold.jpg" width="256" /> | https://uphold.com/en/press-media |
+| <img src="/images/svg/microformats.svg" width="256" /> | <img src="/images/reference/microformats.png" width="256" /> |  |
+| <img src="/images/svg/keepassdx.svg" width="256" /> | <img src="/images/reference/keepassdx.png" width="256" /> | https://github.com/Kunzisoft/KeePassDX |

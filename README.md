@@ -195,6 +195,9 @@ Say thanks!
 <tr>
 <td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="125" title="Glitch" /><br>1012 Bytes</td>
 <td>AngelList<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angellist.svg" width="125" title="AngelList" /><br>995 Bytes</td>
+<td>Jellyfin<br><img src="/images/svg/jellyfin.svg" width="125" title="Jellyfin"/><br>988 Bytes</td>
+<td>Gandi<br><img src="/images/svg/gandi.svg" width="125" title="Gandi"/><br>788 Bytes</td>
+<td>Kaggle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="125" title="Kaggle"/><br>576 Bytes</td>
 </tr>
 </table>
 
@@ -213,6 +216,7 @@ Say thanks!
 <td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="125" title="The Unicode Consortium" /><br>613 Bytes</td>
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="125" title="markdown" /><br>458 Bytes</td>
 <td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="125" title="HAML"/><br>937 Bytes</td>
+<td>microformats<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microformats.svg" width="125" title="microformats"/><br>798 Bytes</td>
 </tr>
 </table>
 
@@ -276,6 +280,7 @@ Say thanks!
 <td>Adobe<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/adobe.svg" width="125" title="Adobe"/><br>261 Bytes</td>
 <td>Homekit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/homekit.svg" width="125" title="Homekit"/><br>822 Bytes</td>
 <td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="125" title="Pixelfed"/><br>990 Bytes</td>
+<td>Uphold<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="125" title="Uphold"/><br>819 Bytes</td>
 </tr>
 </table>
 
@@ -300,6 +305,7 @@ Say thanks!
 </tr>
 <tr>
 <td>OpenVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openvpn.svg" width="125" title="OpenVPN"/><br>555 Bytes</td>
+<td>KeyPassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keypassdx.svg" width="125" title="KeyPassDX"/><br>772 Bytes</td>
 </tr>
 </table>
 
@@ -371,7 +377,7 @@ Say thanks!
 <td>Django Project<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/djangoproject.svg" width="125" title="Django Project" /><br>443 Bytes</td>
 <td>Ruby<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="125" title="Ruby" /><br>984 Bytes</td>
 <td>SVG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svg.svg" width="125" title="SVG"/><br>979 Bytes</td>
-<td>Preact<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/preact.svg" width="125" title="SVG"/><br>602 Bytes</td>
+<td>Preact<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/preact.svg" width="125" title="SVG"/><br>543 Bytes</td>
 </tr>
 </table>
 
