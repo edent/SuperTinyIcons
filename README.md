@@ -36,7 +36,7 @@ Say thanks!
 <td>Slack<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="125" title="Slack" /><br>533 Bytes</td>
 </tr>
 <tr>
-<td>dev.to<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="125" title="dev.to"/><br>735 Bytes</td>
+<td>dev.to<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="125" title="dev.to"/><br>624 Bytes</td>
 <td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="125" title="Goodreads"/><br>684 Bytes</td>
 <td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="125" title="TikTok"/><br>447 Bytes</td>
 </tr>
@@ -306,7 +306,7 @@ Say thanks!
 </tr>
 <tr>
 <td>OpenVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openvpn.svg" width="125" title="OpenVPN"/><br>555 Bytes</td>
-<td>KeyPassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keypassdx.svg" width="125" title="KeyPassDX"/><br>772 Bytes</td>
+<td>KeePassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keepassdx.svg" width="125" title="KeePassDX"/><br>772 Bytes</td>
 </tr>
 </table>
 
