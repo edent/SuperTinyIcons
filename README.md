@@ -198,7 +198,7 @@ Say thanks!
 <td>Jellyfin<br><img src="/images/svg/jellyfin.svg" width="125" title="Jellyfin"/><br>988 Bytes</td>
 <td>Gandi<br><img src="/images/svg/gandi.svg" width="125" title="Gandi"/><br>788 Bytes</td>
 <td>Kaggle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="125" title="Kaggle"/><br>576 Bytes</td>
-<td>Humble Bundle<br><img src="/images/svg/humble-bundle.svg" width="125" title="Humble bundle"/><br>988 Bytes</td>
+<td>Humble Bundle<br><img src="/images/svg/humblebundle.svg" width="125" title="Humble bundle"/><br>983 Bytes</td>
 </tr>
 </table>
 
