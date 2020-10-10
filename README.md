@@ -81,7 +81,7 @@ Say thanks!
 
 <table>
 <tr>
-<td>WhatsApp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>589 Bytes</td>
+<td>WhatsApp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="125" title="WhatsApp" /><br>484 Bytes</td>
 <td>Telegram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="125" title="Telegram" /><br>419 Bytes</td>
 <td>Skype<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="125" title="Skype" /><br>487 Bytes</td>
 <td>Snapchat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="125" title="Snapchat" /><br>649 Bytes</td>
