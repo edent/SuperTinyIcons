@@ -106,6 +106,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Wire<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="125" title="Wire" /><br>276 Bytes</td>
+<td>Teamspeak<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="125" title="Teamspeak" /><br>937 Bytes</td>
 </tr>
 </table>
 
