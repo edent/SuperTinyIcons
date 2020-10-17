@@ -201,6 +201,9 @@ Say thanks!
 <td>Kaggle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="125" title="Kaggle"/><br>576 Bytes</td>
 <td>Humble Bundle<br><img src="/images/svg/humblebundle.svg" width="125" title="Humble bundle"/><br>978 Bytes</td>
 </tr>
+<tr>
+<td>freeCodeCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freecodecamp.svg" width="125" title="freeCodeCamp"/><br>1016 Bytes</td>
+</tr>
 </table>
 
 ### Internet
