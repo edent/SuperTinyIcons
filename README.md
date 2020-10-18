@@ -196,10 +196,10 @@ Say thanks!
 <tr>
 <td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="125" title="Glitch" /><br>1012 Bytes</td>
 <td>AngelList<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angellist.svg" width="125" title="AngelList" /><br>995 Bytes</td>
-<td>Jellyfin<br><img src="/images/svg/jellyfin.svg" width="125" title="Jellyfin"/><br>988 Bytes</td>
-<td>Gandi<br><img src="/images/svg/gandi.svg" width="125" title="Gandi"/><br>788 Bytes</td>
+<td>Jellyfin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jellyfin.svg" width="125" title="Jellyfin"/><br>988 Bytes</td>
+<td>Gandi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gandi.svg" width="125" title="Gandi"/><br>788 Bytes</td>
 <td>Kaggle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="125" title="Kaggle"/><br>576 Bytes</td>
-<td>Humble Bundle<br><img src="/images/svg/humblebundle.svg" width="125" title="Humble bundle"/><br>978 Bytes</td>
+<td>Humble Bundle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/humblebundle.svg" width="125" title="Humble bundle"/><br>978 Bytes</td>
 </tr>
 </table>
 
@@ -395,9 +395,9 @@ Say thanks!
 <td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>767 Bytes</td>
 </tr>
 <tr>
-<td>Debian<br><img src="images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
-<td>Linux Mint<br><img src="images/svg/linux_mint.svg" width="125" title="Linux Mint"/><br>1017 Bytes</td>
-<td>macOS<br><img src="images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
+<td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
+<td>Linux Mint<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux_mint.svg" width="125" title="Linux Mint"/><br>1017 Bytes</td>
+<td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
 </tr>
 </table>
 
@@ -413,7 +413,7 @@ Say thanks!
 <td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>1023 Bytes</td>
 </tr>
 <tr>
-<td>itch.io<br><img src="/images/svg/itch_io.svg" width="125" title="itch.io"/><br>870 Bytes</td>
+<td>itch.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/itch_io.svg" width="125" title="itch.io"/><br>870 Bytes</td>
 </tr>
 </table>
 
