@@ -247,3 +247,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/friendica.svg" width="256" /> | <img src="/images/reference/friendica.png" width="256" /> | https://github.com/friendica/friendica/tree/develop/images |
 | <img src="/images/svg/wireguard.svg" width="256" /> | <img src="/images/reference/wireguard.svg" width="256" /> | https://www.wireguard.com/img/emblem-circle.svg |
 | <img src="/images/svg/freecodecamp.svg" width="256" /> | <img src="/images/reference/freecodecamp.svg" width="256" /> | https://design-style-guide.freecodecamp.org |
+| <img src="/images/svg/samsung.svg" width="256" /> | <img src="/images/reference/samsung.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Samsung_Logo.svg |
+| <img src="/images/svg/samsung_s.svg" width="256" /> | <img src="/images/reference/samsung.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Samsung_Logo.svg |
