@@ -243,3 +243,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/microformats.svg" width="256" /> | <img src="/images/reference/microformats.png" width="256" /> |  |
 | <img src="/images/svg/keepassdx.svg" width="256" /> | <img src="/images/reference/keepassdx.png" width="256" /> | https://github.com/Kunzisoft/KeePassDX |
 | <img src="/images/svg/humblebundle.svg" width="256" /> | <img src="/images/reference/humblebundle.png" width="256" /> | https://cdn.worldvectorlogo.com/logos/humblebundle.svg |
+| <img src="/images/svg/fritz.svg" width="256" /> | <img src="/images/reference/Fritz!.svg" width="256" /> | https://en.wikipedia.org/wiki/Fritz!Box#/media/File:Fritz!.svg |
