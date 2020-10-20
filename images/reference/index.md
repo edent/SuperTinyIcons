@@ -249,3 +249,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/freecodecamp.svg" width="256" /> | <img src="/images/reference/freecodecamp.svg" width="256" /> | https://design-style-guide.freecodecamp.org |
 | <img src="/images/svg/samsung.svg" width="256" /> | <img src="/images/reference/samsung.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Samsung_Logo.svg |
 | <img src="/images/svg/samsung_s.svg" width="256" /> | <img src="/images/reference/samsung.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Samsung_Logo.svg |
+| <img src="/images/svg/samsung_swoop.svg" width="256" /> | <img src="/images/reference/samsung.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Samsung_Logo.svg |
