@@ -308,7 +308,7 @@ Say thanks!
 <tr>
 <td>OpenVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openvpn.svg" width="125" title="OpenVPN"/><br>555 Bytes</td>
 <td>KeePassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keepassdx.svg" width="125" title="KeePassDX"/><br>772 Bytes</td>
-<td>WireGuard VPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wireguard.svg" width="125" title="WireGuard"/><br>965 Bytes</td>
+<td>WireGuard VPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wireguard.svg" width="125" title="WireGuard"/><br>970 Bytes</td>
 </tr>
 </table>
 
