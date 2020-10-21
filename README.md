@@ -391,6 +391,7 @@ Say thanks!
 <td>Ruby<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="125" title="Ruby" /><br>984 Bytes</td>
 <td>SVG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svg.svg" width="125" title="SVG"/><br>979 Bytes</td>
 <td>Preact<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/preact.svg" width="125" title="SVG"/><br>543 Bytes</td>
+<td>Svelte<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svelte.svg" width="125" title="Svelte"/><br>997 Bytes</td>
 </tr>
 </table>
 
