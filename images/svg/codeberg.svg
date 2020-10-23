@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Codeberg" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><defs><linearGradient id="a" x1="42519.3" x2="42575.3" y1="-7078.8" y2="-6966.9" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#71c2ff"/><stop offset="1" stop-color="#39aaff"/></linearGradient></defs><path fill="url(#a)" d="M42519.3-7078.8c-.2 0-.5 0-.6.2l-.2.5 33.6 125.9a87.2 87.2 0 0039.4-33.8l-71.6-92.5a.8.8 0 00-.6-.3z" opacity=".5" paint-order="stroke markers fill" transform="matrix(2.20228 0 0 2.20228 -93379.6 15750.9)"/><path fill="#2185d0" d="M255.3 71.8A192 192 0 0064 263.8a192 192 0 0029.3 102l160.1-207c.5-.6 1.5-1 2.6-1s2 .4 2.6 1l160 207a192 192 0 0029.4-102c0-106-86-192-192-192a192 192 0 00-.7 0z" paint-order="stroke markers fill"/></svg>
