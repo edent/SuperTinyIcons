@@ -204,6 +204,7 @@ Say thanks!
 </tr>
 <tr>
 <td>freeCodeCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freecodecamp.svg" width="125" title="freeCodeCamp"/><br>1016 Bytes</td>
+<td>Codeberg<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codeberg.svg" width="125" title="Codeberg"/><br>875 Bytes</td>
 </tr>
 </table>
 
