@@ -35,13 +35,11 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/amazon_s3.svg" width="256"/>	| <img src="/images/reference/amazon_s3.svg" width="256"/>	| https://aws.amazon.com/architecture/icons/	|
 | <img src="/images/svg/steam.svg" width="256" />	| <img src="/images/reference/steam.svg" width="256" />	| https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/Steam_Guidelines_20170524.pdf	|
 | <img src="/images/svg/google.svg" width="256" />	| <img src="/images/reference/google.svg" width="256" />	| https://developers.google.com/identity/branding-guidelines|
-
 | <img src="/images/svg/gmail.svg" width="256" />	| <img src="/images/reference/gmail.png" width="256" />	| https://www.blog.google/press/|
 | <img src="/images/svg/google_calendar.svg" width="256" />	| <img src="/images/reference/google_calendar.png" width="256" />	| https://www.blog.google/press/|
 | <img src="/images/svg/google_meet.svg" width="256" />	| <img src="/images/reference/google_meet.png" width="256" />	| https://www.blog.google/press/|
 | <img src="/images/svg/google_drive.svg" width="256" />	| <img src="/images/reference/google_drive.png" width="256" />	| https://www.blog.google/press/|
 | <img src="/images/svg/google_collaborative_content_tools.svg" width="256" />	| <img src="/images/reference/google_collaborative_content_tools.png" width="256" />	| https://www.blog.google/press/|
-
 | <img src="/images/svg/google_plus.svg" width="256" />	| <img src="/images/reference/google_plus.png" width="256" />	| https://plus.google.com/+googleplus	|
 | <img src="/images/svg/wechat.svg" width="256" />	| <img src="/images/reference/wechat.svg" width="256" />	| https://wechat.design/?locale=en_US	|
 | <img src="/images/svg/youtube.svg" width="256" />	| <img src="/images/reference/youtube.svg" width="256" />	| https://www.youtube.com/intl/en/yt/about/brand-resources/#logos-icons-colors	|
