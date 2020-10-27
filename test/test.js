@@ -22,7 +22,7 @@ files.forEach((filename, i) => {
             await fetch("https://validator.w3.org/nu/?out=gnu", {
                     method: "POST",
                     body: fs.readFileSync(filepath, "utf8").replace(/aria-label="[^"]+"/g, ""),
-                    headers: new fetch.Headers([["Content-Type", "application/octet-stream"]])
+                    headers: new fetch.Headers([["Content-Type", "application/xml"]])
                 })
                 .then(res => (console.log(i + 1, "/", files.length), res))
                 .then(res => res.text())
