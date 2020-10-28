@@ -294,6 +294,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Uphold<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="125" title="Uphold"/><br>819 Bytes</td>
+<td>CoinPot<br><img src="./images/svg/coinpot.svg" width="125" title="CoinPot"/><br>740 Bytes</td>
 </tr>
 </table>
 
