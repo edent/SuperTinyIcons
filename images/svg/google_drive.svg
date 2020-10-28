@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-aria-label="google drive" role="img"
+aria-label="Google Drive" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="white"/><g transform="translate(256,256)"><g fill="#2684fc"><path id="b" d="M79 45l55 96q-6 3 -10 2 h-247.6 q-6 0 -10-2 l55-95"/></g><g fill="#ea4335"><path id="c" d="M79 45l55 96q6-3 10-10 l43-76 q2-6 2-10"/></g></g><g transform="translate(256,256) rotate(120)"><use href="#b" fill="#00ac47"/><use href="#c" fill="#0066da"/></g><g transform="translate(256,256) rotate(240)"><use href="#b" fill="#ffba00"/><use href="#c" fill="#00832d"/></g></svg>
+fill="#fff"/><g transform="translate(256,256)"><g fill="#2684fc"><path id="b" d="M79 45l55 96q-6 3 -10 2 h-247.6 q-6 0 -10-2 l55-95"/></g><g fill="#ea4335"><path id="c" d="M79 45l55 96q6-3 10-10 l43-76 q2-6 2-10"/></g></g><g transform="translate(256,256) rotate(120)"><use href="#b" fill="#00ac47"/><use href="#c" fill="#0066da"/></g><g transform="translate(256,256) rotate(240)"><use href="#b" fill="#ffba00"/><use href="#c" fill="#00832d"/></g></svg>
