@@ -70,7 +70,7 @@ Say thanks!
 <td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>505 Bytes</td>
 <td>Gmail<br><img src="./images/svg/gmail.svg" width="125" title="Gmail" /><br>487 Bytes</td>
 <td>Google calendar<br><img src="./images/svg/google_calendar.svg" width="125" title="Google calendar" /><br>640 Bytes</td>
-<td>Google collaborative content tools<br><img src="./images/svg/google_collaborative_content_tools.svg" width="125" title="Google collaborative content tools" /><br>504 Bytes</td>
+<td>Google collaborative content tools<br><img src="./images/svg/google_collaborative_content_tools.svg" width="125" title="Google collaborative content tools" /><br>503 Bytes</td>
 <td>Google drive<br><img src="./images/svg/google_drive.svg" width="125" title="Google drive" /><br>592 Bytes</td>
 <td>Google meet<br><img src="./images/svg/google_meet.svg" width="125" title="Google meet" /><br>626 Bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>778 Bytes</td>
