@@ -251,4 +251,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/samsung_s.svg" width="256" /> | <img src="/images/reference/samsung.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Samsung_Logo.svg |
 | <img src="/images/svg/samsung_swoop.svg" width="256" /> | <img src="/images/reference/samsung.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Samsung_Logo.svg |
 | <img src="/images/svg/svelte.svg" width="256" /> | <img src="/images/reference/svelte.png" width="256" /> | https://github.com/sveltejs/branding |
+| <img src="/images/svg/codeberg.svg" width="256" /> | <img src="/images/reference/codeberg.svg" width="256" /> | https://codeberg.org/img/logo.svg |
 | <img src="/images/svg/coinpot.svg" width="256" /> | <img src="/images/reference/coinpot.png" width="256" /> |
