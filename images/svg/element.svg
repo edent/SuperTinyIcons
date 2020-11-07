@@ -3,4 +3,4 @@ aria-label="Element" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><circle cx="256" cy="256" fill="#0dbd8b" r="192"/><g fill="none" stroke="#ffffff" stroke-width="28.155" stroke-linecap="round"><path d="m234.8462,153.2455c46.3544,0.4725 81.6,37.7899 81.6,81.6"/><path d="m358.7545,234.8455c-0.4725,46.3544 -37.7899,81.6 -81.6,81.6"/><path d="m277.1538,358.7545c-46.3544,-0.4725 -81.6,-37.78993 -81.6,-81.6"/><path d="m153.2455,277.1538c0.4725,-46.3544 37.7899,-81.6 81.6,-81.6"/></g></svg>
+fill="#fff"/><circle cx="256" cy="256" fill="#0dbd8b" r="192"/><path d="m234.85,153.25c46.35,0.47 81.6,37.79 81.6,81.6" fill="none" stroke="#ffffff" stroke-width="28.155" stroke-linecap="round" id="a"/><use href="#a" transform="rotate(90 256 256)"/><use href="#a" transform="rotate(180 256 256)"/><use href="#a" transform="rotate(270 256 256)"/></svg>
