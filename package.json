@@ -37,6 +37,12 @@
 		"url": "https://opencollective.com/SuperTinyIcons"
 	},
 	"scripts": {
+		"test": "./node_modules/mocha/bin/mocha --timeout 5000",
 		"postinstall": "opencollective-postinstall || true"
+	},
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^8.2.0",
+		"node-fetch": "^2.6.1"
 	}
 }
