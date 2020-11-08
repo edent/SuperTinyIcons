@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Element" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><circle cx="256" cy="256" fill="#0dbd8b" r="192"/><path d="m234.85,153.25c46.35,0.47 81.6,37.79 81.6,81.6" fill="none" stroke="#ffffff" stroke-width="28.155" stroke-linecap="round" id="a"/><use href="#a" transform="rotate(90 256 256)"/><use href="#a" transform="rotate(180 256 256)"/><use href="#a" transform="rotate(270 256 256)"/></svg>
