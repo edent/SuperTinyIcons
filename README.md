@@ -67,14 +67,14 @@ Say thanks!
 <tr>
 <td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="125" title="Google" /><br>484 Bytes</td>
 <td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="125" title="Google Play" /><br>505 Bytes</td>
-<td>Gmail<br><img https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>483 Bytes</td>
-<td>Google calendar<br><img https://edent.github.io/SuperTinyIcons/images/svg/google_calendar.svg" width="125" title="Google calendar" /><br>633 Bytes</td>
-<td>Google collaborative content tools<br><img https://edent.github.io/SuperTinyIcons/images/svg/google_collaborative_content_tools.svg" width="125" title="Google collaborative content tools" /><br>503 Bytes</td>
-<td>Google docs editors<br><img https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="125" title="Google Docs Editors" /><br>488 Bytes</td>
+<td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="125" title="Gmail" /><br>483 Bytes</td>
+<td>Google calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_calendar.svg" width="125" title="Google calendar" /><br>633 Bytes</td>
+<td>Google collaborative content tools<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_collaborative_content_tools.svg" width="125" title="Google collaborative content tools" /><br>503 Bytes</td>
+<td>Google docs editors<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="125" title="Google Docs Editors" /><br>488 Bytes</td>
 </tr>
 <tr>
-<td>Google drive<br><img https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="125" title="Google drive" /><br>530 Bytes</td>
-<td>Google meet<br><img https://edent.github.io/SuperTinyIcons/images/svg/google_meet.svg" width="125" title="Google meet" /><br>559 Bytes</td>
+<td>Google drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="125" title="Google drive" /><br>530 Bytes</td>
+<td>Google meet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_meet.svg" width="125" title="Google meet" /><br>559 Bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>778 Bytes</td>
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>533 Bytes</td>
 <td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="125" title="Google Drive" /><br>314 Bytes</td>
@@ -306,7 +306,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Uphold<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="125" title="Uphold"/><br>819 Bytes</td>
-<td>CoinPot<br><img https://edent.github.io/SuperTinyIcons/images/svg/coinpot.svg" width="125" title="CoinPot"/><br>740 Bytes</td>
+<td>CoinPot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coinpot.svg" width="125" title="CoinPot"/><br>740 Bytes</td>
 </tr>
 </table>
 
