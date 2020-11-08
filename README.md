@@ -85,6 +85,8 @@ Say thanks!
 <table>
 <tr>
 <td>Google Maps (old)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="125" title="Google Maps (old)" /><br>713 Bytes</td>
+<td>Gmail (Old)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="125" title="Google Mail (old)" /><br>584 Bytes</td>
+<td>Google Drive (Old)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="125" title="Google Drive (old)" /><br>313 Bytes</td>
 <td>Google+<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="125" title="Google+" /><br>397 Bytes</td>
 </tr>
 </table>
