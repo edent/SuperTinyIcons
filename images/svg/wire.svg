@@ -3,4 +3,4 @@ aria-label="Wire" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><path fill="none" stroke="#000" stroke-width="19" d="M99 127v163a1 1 0 0 0 186 0V157a1 1 0 0 0-58 0v133a1 1 0 0 0 186 0V127"/></svg>
+fill="#fff"/><path fill="none" stroke="#000" stroke-width="19" d="M99 127v163a1 1 0 00186 0V157a1 1 0 00-58 0v133a1 1 0 00186 0V127"/></svg>
