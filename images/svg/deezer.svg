@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Deezer" role="img"
+fill="none" stroke-width="20"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#111"/><defs><linearGradient id="a" x2="1"><stop offset="0" stop-color="#fa0"/><stop offset=".3" stop-color="#c26"/><stop offset=".7" stop-color="#33a"/><stop offset="1" stop-color="#18a"/></linearGradient><linearGradient id="b" x2="1" y2="1"><stop offset="0" stop-color="#0a7"/><stop offset="1" stop-color="#289"/></linearGradient><linearGradient id="c" x2="1" y2="1"><stop offset="0" stop-color="#fc0"/><stop offset="1" stop-color="#e72"/></linearGradient></defs><path fill="url(#a)" d="M163 267h285v114H163z"/><path fill="url(#b)" d="M448 135h-83v114h83z"/><path fill="#e90" d="M145 333H62v48h83z"/><path fill="url(#c)" d="M247 201h-83v48h83z"/><path stroke="#111" stroke-dasharray="18, 83" stroke-width="130" d="M247 323h120"/><path stroke="#111" stroke-dasharray="18, 114" stroke-width="300" d="M306 333V99"/></svg>
+fill="#231f20"/><path stroke="#f1796e" d="M78 241h64m-64 26h64"/><path stroke="#ec2529" d="M78 293h64m-64 26h64m-64 26h64"/><path stroke="#f6dd05" d="M148 293h64m-64 26h64m-64 26h64"/><path stroke="#e78dcc" d="M218 241h64m-64 26h64m-64-52h64m-64-26h64"/><path stroke="#d81996" d="M218 293h64m-64 26h64m-64 26h64"/><path stroke="#d6e465" d="M288 241h64m-64 26h64"/><path stroke="#adda1a" d="M288 293h64m-64 26h64m-64 26h64"/><path stroke="#b0d8e6" d="M358 241h64m-64 26h64m-64-52h64m-64-26h64m-64-26h64"/><path stroke="#56bbe9" d="M358 293h64m-64 26h64m-64 26h64"/></svg>
