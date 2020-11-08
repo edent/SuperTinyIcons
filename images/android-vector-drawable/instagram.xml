@@ -1,20 +1,53 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
     android:width="512dp"
     android:height="512dp"
     android:viewportWidth="512"
     android:viewportHeight="512">
-    <path
-        android:fillColor="#D43377"
-        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
-    <path
-        android:pathData="M186 108H326A78 78 0 0 1 404 186V326A78 78 0 0 1 326 404H186A78 78 0 0 1 108 326V186A78 78 0 0 1 186 108Z"
-        android:strokeWidth="29"
-        android:strokeColor="#FFFFFF" />
-    <path
-        android:pathData="M325 256A69 69 0 0 1 187 256A69 69 0 0 1 325 256Z"
-        android:strokeWidth="29"
-        android:strokeColor="#FFFFFF" />
-    <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M362 169A19 19 0 0 1 324 169A19 19 0 0 1 362 169Z" />
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="M0,0h512v512h-512z"/>
+  <path
+      android:pathData="M0,0h512v512h-512z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:gradientRadius="512"
+          android:centerX="204.8"
+          android:centerY="512"
+          android:type="radial">
+        <item android:offset="0.1" android:color="#FFFFDD55"/>
+        <item android:offset="0.5" android:color="#FFFF543E"/>
+        <item android:offset="1" android:color="#FFC837AB"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M0,0h512v512h-512z">
+    <aapt:attr name="android:fillColor">
+      <gradient 
+          android:startY="0"
+          android:endY="512"
+          android:startX="0"
+          android:endX="102.4"
+          android:type="linear">
+        <item android:offset="0.1" android:color="#FF3771C8"/>
+        <item android:offset="0.5" android:color="#006600FF"/>
+      </gradient>
+    </aapt:attr>
+  </path>
+  <path
+      android:pathData="M183,102L329,102A81,81 0,0 1,410 183L410,329A81,81 0,0 1,329 410L183,410A81,81 0,0 1,102 329L102,183A81,81 0,0 1,183 102z"
+      android:strokeWidth="30"
+      android:fillColor="#00000000"
+      android:strokeColor="#fff"/>
+  <path
+      android:pathData="M256,256m-72,0a72,72 0,1 1,144 0a72,72 0,1 1,-144 0"
+      android:strokeWidth="30"
+      android:fillColor="#00000000"
+      android:strokeColor="#fff"/>
+  <path
+      android:pathData="M347,165m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0"
+      android:strokeWidth="30"
+      android:fillColor="#00000000"
+      android:strokeColor="#fff"/>
 </vector>

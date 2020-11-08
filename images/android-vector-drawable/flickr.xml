@@ -3,13 +3,13 @@
     android:height="512dp"
     android:viewportWidth="512"
     android:viewportHeight="512">
-    <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
-    <path
-        android:fillColor="#006ADD"
-        android:pathData="M250 256A93 93 0 0 1 64 256A93 93 0 0 1 250 256Z" />
-    <path
-        android:fillColor="#FF1981"
-        android:pathData="M448 256A93 93 0 0 1 262 256A93 93 0 0 1 448 256Z" />
+  <path
+      android:pathData="M0,0h512v512h-512z"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M157,256m-79,0a79,79 0,1 1,158 0a79,79 0,1 1,-158 0"
+      android:fillColor="#0063dc"/>
+  <path
+      android:pathData="M355,256m-79,0a79,79 0,1 1,158 0a79,79 0,1 1,-158 0"
+      android:fillColor="#ff0084"/>
 </vector>

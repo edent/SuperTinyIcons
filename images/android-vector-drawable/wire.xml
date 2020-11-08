@@ -3,11 +3,12 @@
     android:height="512dp"
     android:viewportWidth="512"
     android:viewportHeight="512">
-    <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
-    <path
-        android:pathData="M99 127v163a1 1 0 0 0 186 0V157a1 1 0 0 0 -58 0v133a1 1 0 0 0 186 0V127"
-        android:strokeWidth="19"
-        android:strokeColor="#000000" />
+  <path
+      android:pathData="M0,0h512v512h-512z"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M99,127v163a1,1 0,0 0,186 0V157a1,1 0,0 0,-58 0v133a1,1 0,0 0,186 0V127"
+      android:strokeWidth="19"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
 </vector>

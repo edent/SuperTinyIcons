@@ -3,56 +3,48 @@
     android:height="512dp"
     android:viewportWidth="512"
     android:viewportHeight="512">
-    <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
-    <path
-        android:fillColor="#FCC40F"
-        android:pathData="M93 202a195 151 0 0 1 326 0v56h-326"
-        android:strokeWidth="17"
-        android:strokeColor="#000A12" />
-    <group
-        android:translateX="256"
-        android:translateY="257">
-        <path
-            android:fillColor="#000A12"
-            android:pathData="M2 0h-33v45l31 47M-173 -49c3 -12 -19 -46 -19 -48h77" />
-        <path
-            android:fillColor="#000A12"
-            android:pathData="M0 0A97 97 0 0 1 -194 0A97 97 0 0 1 0 0Z" />
-        <path
-            android:fillColor="#FFFFFF"
-            android:pathData="M-19 0A78 78 0 0 1 -175 0A78 78 0 0 1 -19 0Z" />
-        <path
-            android:fillColor="#000A12"
-            android:pathData="M-47 0A50 50 0 0 1 -147 0A50 50 0 0 1 -47 0Z" />
-        <path
-            android:fillColor="#FFFFFF"
-            android:pathData="M-64 0A33 33 0 0 1 -130 0A33 33 0 0 1 -64 0Z" />
-        <group
-            android:rotation="-0"
-            android:scaleX="-1">
-            <path
-                android:fillColor="#000A12"
-                android:pathData="M2 0h-33v45l31 47M-173 -49c3 -12 -19 -46 -19 -48h77" />
-            <path
-                android:fillColor="#000A12"
-                android:pathData="M0 0A97 97 0 0 1 -194 0A97 97 0 0 1 0 0Z" />
-            <path
-                android:fillColor="#FFFFFF"
-                android:pathData="M-19 0A78 78 0 0 1 -175 0A78 78 0 0 1 -19 0Z" />
-            <path
-                android:fillColor="#000A12"
-                android:pathData="M-47 0A50 50 0 0 1 -147 0A50 50 0 0 1 -47 0Z" />
-            <path
-                android:fillColor="#FFFFFF"
-                android:pathData="M-64 0A33 33 0 0 1 -130 0A33 33 0 0 1 -64 0Z" />
-        </group>
-        <path
-            android:fillColor="#EF6A45"
-            android:pathData="M-80 0A17 17 0 0 1 -114 0A17 17 0 0 1 -80 0Z" />
-        <path
-            android:fillColor="#00B087"
-            android:pathData="M114 0A17 17 0 0 1 80 0A17 17 0 0 1 114 0Z" />
-    </group>
+  <path
+      android:pathData="M0,0h512v512h-512z"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M93,202a195,151 0,0 1,326 0v56h-326"
+      android:strokeWidth="17"
+      android:fillColor="#fcc40f"
+      android:strokeColor="#000a12"/>
+  <path
+      android:pathData="M258,257h-33v45l31,47M83,208c3,-12 -19,-46 -19,-48h77"
+      android:fillColor="#000a12"/>
+  <path
+      android:pathData="M159,257m-97,0a97,97 0,1 1,194 0a97,97 0,1 1,-194 0"
+      android:fillColor="#000a12"/>
+  <path
+      android:pathData="M159,257m-78,0a78,78 0,1 1,156 0a78,78 0,1 1,-156 0"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M159,257m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"
+      android:fillColor="#000a12"/>
+  <path
+      android:pathData="M159,257m-33,0a33,33 0,1 1,66 0a33,33 0,1 1,-66 0"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M254,257l33,0l-0,45l-31,47M429,208c-3,-12 19,-46 19,-48l-77,0"
+      android:fillColor="#000a12"/>
+  <path
+      android:pathData="M353,257m97,0a97,97 0,1 0,-194 0a97,97 0,1 0,194 0"
+      android:fillColor="#000a12"/>
+  <path
+      android:pathData="M353,257m78,0a78,78 0,1 0,-156 0a78,78 0,1 0,156 0"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M353,257m50,0a50,50 0,1 0,-100 0a50,50 0,1 0,100 0"
+      android:fillColor="#000a12"/>
+  <path
+      android:pathData="M353,257m33,0a33,33 0,1 0,-66 0a33,33 0,1 0,66 0"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M159,257m-17,0a17,17 0,1 1,34 0a17,17 0,1 1,-34 0"
+      android:fillColor="#ef6a45"/>
+  <path
+      android:pathData="M353,257m-17,0a17,17 0,1 1,34 0a17,17 0,1 1,-34 0"
+      android:fillColor="#00b087"/>
 </vector>
