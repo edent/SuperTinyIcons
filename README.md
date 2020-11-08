@@ -497,7 +497,14 @@ Want more icons? Tell me by raising an issue!
 
 Think the icons look wrong? [Compare them against the official logos](https://github.com/edent/SuperTinyIcons/blob/master/images/reference/index.md). If they still look wrong, tell me by raising an issue!
 
-**New!** Icons also available in [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html) so you can easily use them in Android apps. Converted using https://inloop.github.io/svg2android/ - not guaranteed to be under 1KB.
+## Android Vector Drawables
+Icons also available as [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html), so you can easily use them in Android apps.
+
+They are converted using Android Studio and are **not** guaranteed to be under 1KB.
+
+To convert in Android Studio, go to Tools ➡ Resource Manager ➡ Drawable ➡ + ➡ Import Drawables ➡ then select the SVGs.
+
+*Note* Android Studio doesn't like rounded corners. Before importing, run `sed -i '/rx\=\"15\%\"/d' ./*.svg`
 
 ## Submitting Icons
 
