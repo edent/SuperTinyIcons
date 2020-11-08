@@ -464,6 +464,9 @@ Say thanks!
 <td>Roundcube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/roundcube.svg" width="125" title="Roundcube"/><br>838 Bytes</td>
 <td>Fritz!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fritz.svg" width="125" title="Fritz!"/><br>756 Bytes</td>
 </tr>
+<tr>
+<td>Keskonfai.fr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keskonfai.svg" width="125" title="Keskonfai"/><br>701 Bytes</td>
+</tr>
 </table>
 
 ## Why so smallious?
