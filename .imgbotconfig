@@ -1,0 +1,7 @@
+{
+    "compressWiki": "true"
+    "minKBReduced": null
+    "ignoredFiles": [
+        "images/reference/*"
+    ]
+}
