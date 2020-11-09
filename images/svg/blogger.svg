@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Blogger" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#FF5722"/><path fill="#fff"
-d="M95 184c0-51 41-93 93-93h86c64 0 103 61 85 126 0 0 61-3 66 58v53c0 46-34 93-93 93H183c-49 0-88-39-88-88z"/><path
-stroke="#FF5722" stroke-width="55"
-d="M199 188h68m-74 129h133"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Blogger" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#FF5722" rx="15%"/><path fill="#fff" d="M95 184c0-51 41-93 93-93h86c64 0 103 61 85 126 0 0 61-3 66 58v53c0 46-34 93-93 93H183c-49 0-88-39-88-88z"/><path stroke="#FF5722" stroke-width="55" d="M199 188h68m-74 129h133"/></svg>

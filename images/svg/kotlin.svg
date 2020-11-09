@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Kotlin" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#27282c"/><path fill="#09d" d="M410 410H102V102h154v154"/><path fill="#f80" d="M410 102H256L102 267v143"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Kotlin" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#27282c" rx="15%"/><path fill="#09d" d="M410 410H102V102h154v154"/><path fill="#f80" d="M410 102H256L102 267v143"/></svg>

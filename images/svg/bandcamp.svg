@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Bandcamp" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><path fill="#1ad"
-d="M99 349h215l99-186H198"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Bandcamp" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><path fill="#1ad" d="M99 349h215l99-186H198"/></svg>

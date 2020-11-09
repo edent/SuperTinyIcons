@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Vegetarian" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><circle cx="256" cy="256" r="220" stroke="#0f0" fill="#fff" stroke-width="25" /><path fill="#0f0" d="m 140,120 44,0 72,225 72,-225 44,0 -90,265 -52,0 z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Vegetarian" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><circle cx="256" cy="256" r="220" fill="#fff" stroke="#0f0" stroke-width="25"/><path fill="#0f0" d="m 140,120 44,0 72,225 72,-225 44,0 -90,265 -52,0 z"/></svg>
