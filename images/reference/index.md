@@ -260,3 +260,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/coinpot.svg" width="256" /> | <img src="/images/reference/coinpot.png" width="256" /> |
 | <img src="/images/svg/element.svg" width="256" /> | <img src="/images/reference/element.svg" width="256" /> | https://element.io/images/logo-mark-primary.svg |
 | <img src="/images/svg/keskonfai.svg" width="256" /> | <img src="/images/reference/keskonfai.svg" width="256" /> | https://www.keskonfai.fr/ |
+| <img src="/images/svg/jacobin.svg" width="256" /> | <img src="/images/reference/jacobin.svg" width="256" /> | https://www.jacobinmag.com/contact |
