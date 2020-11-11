@@ -34,6 +34,10 @@ If you can, remove the end of line at the end of the file:
 * perl: `perl -pi -e 'chomp if eof' $filename`
 * shell: `printf %s "$(cat $filename)" > filename-without-nl.svg`
 
+Please remove any trailing newlines from the file with:
+
+`sed -i -z s/\\n$// filename.svg`
+
 ### Guidelines
 
 This is the standard guideline. Use this to help with sizing your icons and they will look good no matter what border radius is chosen.
