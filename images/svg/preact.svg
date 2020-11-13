@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Preact" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><g transform="translate(256,256)"><path d="M0,-256 222,-128 222,128 0,256 -222,128 -222,-128z" fill="#673ab8"/><ellipse cx="0" cy="0" stroke-width="16px" rx="75px" ry="196px" fill="none" stroke="#fff" transform="rotate(52.5)"/><ellipse cx="0" cy="0" stroke-width="16px" rx="75px" ry="196px" fill="none" stroke="#fff" transform="rotate(-52.5)"/><circle cx="0" cy="0" r="34" fill="#fff"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Preact" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><g transform="translate(256,256)"><path fill="#673ab8" d="M0,-256 222,-128 222,128 0,256 -222,128 -222,-128z"/><ellipse cx="0" cy="0" fill="none" stroke="#fff" stroke-width="16" rx="75" ry="196" transform="rotate(52.5)"/><ellipse cx="0" cy="0" fill="none" stroke="#fff" stroke-width="16" rx="75" ry="196" transform="rotate(-52.5)"/><circle cx="0" cy="0" r="34" fill="#fff"/></g></svg>

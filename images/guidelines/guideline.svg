@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Guidelines" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#222"/><circle fill="#f43" r="256" cx="256" cy="256"/><circle fill="#fd0" r="217.5" cx="256" cy="256"/><circle fill="#5d6" r="192" cx="256" cy="256"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Guidelines" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#222" rx="15%"/><circle cx="256" cy="256" r="256" fill="#f43"/><circle cx="256" cy="256" r="217.5" fill="#fd0"/><circle cx="256" cy="256" r="192" fill="#5d6"/></svg>

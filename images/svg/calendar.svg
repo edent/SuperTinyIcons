@@ -1,12 +1,1 @@
-<svg onload="w()" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-aria-label="Calendar" role="img"
-viewBox="0 0 512 512"
-style="font-family:monospace;text-anchor:middle;fill:#667777"><script type="text/ecmascript"><![CDATA[w=()=>{c=0;for (i in e={weekday:"long",month:"short",day:'numeric'}) document.getElementsByTagName('text')[c++].textContent=(new Date).toLocaleString(undefined,{[i]:e[i]})}]]></script>
-<defs><clipPath id="c"><rect
-width="512" height="512"
-rx="15%"/></clipPath></defs>
-<g clip-path="url(#c)"><rect
-width="512" height="512"
-fill="#dee"/><rect
-width="512" height="180"
-fill="#d34"/></g><g id="b"><circle fill="#eab" cx="384" cy="100" r="14" id="a"/><use x="43" xlink:href="#a"/><use x="86" xlink:href="#a"/></g><use y="43" xlink:href="#b"/><text font-size="64" x="256" y="480" id="w">Sunday</text><text fill="#fff" font-size="140" x="140" y="164" id="m">FEB</text><text font-size="256" x="256" y="400" id="d">29</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Calendar" onload="w()" role="img" viewBox="0 0 512 512" style="font-family:monospace;text-anchor:middle;fill:#677"><script type="text/ecmascript"><![CDATA[w=()=>{c=0;for (i in e={weekday:"long",month:"short",day:'numeric'}) document.getElementsByTagName('text')[c++].textContent=(new Date).toLocaleString(undefined,{[i]:e[i]})}]]></script><defs><clipPath id="c"><rect width="512" height="512" rx="15%"/></clipPath></defs><g clip-path="url(#c)"><rect width="512" height="512" fill="#dee"/><rect width="512" height="180" fill="#d34"/></g><g id="b"><circle id="a" cx="384" cy="100" r="14" fill="#eab"/><use x="43" xlink:href="#a"/><use x="86" xlink:href="#a"/></g><use y="43" xlink:href="#b"/><text id="w" x="256" y="480" font-size="64">Sunday</text><text id="m" x="140" y="164" fill="#fff" font-size="140">FEB</text><text id="d" x="256" y="400" font-size="256">29</text></svg>
