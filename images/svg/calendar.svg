@@ -1,11 +1,9 @@
 <svg onload="w()" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 aria-label="Calendar" role="img"
 viewBox="0 0 512 512"
-style="font-family:monospace;text-anchor:middle;fill:#667777"><script type="text/ecmascript"><![CDATA[w=()=>{c=0;for (i in e={weekday:"long",month:"short",day:'numeric'}) document.getElementsByTagName('text')[c++].textContent=(new Date).toLocaleString(undefined,{[i]:e[i]})}]]></script>
-<defs><clipPath id="c"><rect
+style="font-family:monospace;text-anchor:middle;fill:#677"><script type="text/ecmascript"><![CDATA[w=()=>{c=0;for(i in e={weekday:"long",month:"short",day:'numeric'})document.getElementsByTagName('text')[c++].textContent=(new Date).toLocaleString(undefined,{[i]:e[i]})}]]></script><defs><clipPath id="c"><rect
 width="512" height="512"
-rx="15%"/></clipPath></defs>
-<g clip-path="url(#c)"><rect
+rx="15%"/></clipPath></defs><g clip-path="url(#c)"><rect
 width="512" height="512"
 fill="#dee"/><rect
 width="512" height="180"
