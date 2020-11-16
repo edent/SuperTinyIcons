@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="WHATWG" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><path d="M215,215c0,-41.28,82.56,-51.6,79.12,-6.88c0,30.96,-55.04,44.72,-55.04,79.12v24.08h34.4v-13.76c0,-30.96,58.48,-41.28,58.48,-92.88c-6.88,-75.68,-154.8,-75.68,-154.8,10.32zm24.08,110.08h34.4v34.4h-34.4" fill="#3c790a"/><circle cx="256" cy="256" r="154.5" fill="none" stroke="#3c790a" stroke-width="37.5"/></svg>
