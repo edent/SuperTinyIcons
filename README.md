@@ -411,7 +411,7 @@ Say thanks!
 <td>Svelte<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svelte.svg" width="125" title="Svelte"/><br>997 Bytes</td>
 </tr>
 <tr>
-<td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="125" title="C++"/><br>1034 Bytes</td>
+<td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="125" title="C++"/><br>847 Bytes</td>
 </tr>
 </table>
 
