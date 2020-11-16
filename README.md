@@ -410,6 +410,9 @@ Say thanks!
 <td>Preact<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/preact.svg" width="125" title="SVG"/><br>530 Bytes</td>
 <td>Svelte<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svelte.svg" width="125" title="Svelte"/><br>997 Bytes</td>
 </tr>
+<tr>
+<td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="125" title="C++"/><br>1034 Bytes</td>
+</tr>
 </table>
 
 ### Operating Systems / Kernel
