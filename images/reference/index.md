@@ -264,3 +264,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/thisamericanlife.svg" width="256" /> | <img src="/images/reference/thisamericanlife.png" width="256" /> | https://www.npr.org/about-npr/179876898/terms-of-use |
 | <img src="/images/svg/cplusplus.svg" width="256" /> | <img src="/images/reference/cplusplus.svg" width="256" /> | https://isocpp.org/home/terms-of-use |
 | <img src="/images/svg/whatwg.svg" width="256" /> | <img src="/images/reference/whatwg.svg" width="256" /> | https://whatwg.org/ipr-policy |
+| <img src="/images/svg/etsy.svg" width="256" /> | <img src="/images/reference/etsy.png" width="256" /> | https://www.etsy.com/uk/press?ref=ftr |
