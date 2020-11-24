@@ -296,7 +296,7 @@ Say thanks!
 <td>RedHat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redhat.svg" width="125" title="RedHat"/><br>549 Bytes</td>
 <td>CentOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="125" title="CentOS"/><br>761 Bytes</td>
 <td>Git<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="125" title="git"/><br>467 Bytes</td>
-<td>Microsoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microsoft.svg" width="125" title="Microsoft"/><br>403 Bytes</td>
+<td>Microsoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microsoft.svg" width="125" title="Microsoft"/><br>347 Bytes</td>
 <td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="125" title="Grafana"/><br>972 Bytes</td>
 <td>Ubiquiti<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubiquiti.svg" width="125" title="Ubiquiti"/><br>558 Bytes</td>
 </tr>
