@@ -3,4 +3,5 @@ aria-label="This American Life" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><g fill="#ed0017"><rect x="90" y="170" width="117" height="98"/><rect x="247.7" y="170" width="175.3" height="29.25" /><rect x="247.7" y="239" width="175.3" height="29.25" /><rect x="90" y="307" width="333" height="29.25" /><polygon points="208,335.6 208,420.4 278.5,335.6"/></g></svg>
+fill="#fff"/><path
+d="M90 170v98h117v-98zM247.7 170v29.25h175.3v-29.25zM247.7 239v29.25h175.3v-29.25zM208 420.4V336.25H90V307H423v29.25H278z" fill="#ed0017"/></svg>
