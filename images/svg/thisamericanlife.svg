@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="This American Life" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="#fff"/><g fill="#ed0017"><rect x="90" y="170" width="117" height="98"/><rect x="247.7" y="170" width="175.3" height="29.25" /><rect x="247.7" y="239" width="175.3" height="29.25" /><rect x="90" y="307" width="333" height="29.25" /><polygon points="208,335.6 208,420.4 278.5,335.6"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="This American Life" role="img" viewBox="0 0 512 512"><rect width="512" height="512" fill="#fff" rx="15%"/><g fill="#ed0017"><rect width="117" height="98" x="90" y="170"/><rect width="175.3" height="29.25" x="247.7" y="170"/><rect width="175.3" height="29.25" x="247.7" y="239"/><rect width="333" height="29.25" x="90" y="307"/><polygon points="208 335.6 208 420.4 278.5 335.6"/></g></svg>
