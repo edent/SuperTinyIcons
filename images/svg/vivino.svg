@@ -3,4 +3,5 @@ aria-label="Vivino" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#a91b2a"/><path stroke-linecap="round" stroke-width="70" stroke="#fff" d="M299 79zm-41 70zm-42 70zm87 0zm-127 72zm86 0zm86 0zm-127 69zm87 0zm-43 73z"/></svg>
+fill="#a91b2a"/><path stroke-linecap="round" stroke-width="70" stroke="#fff"
+d="m181 291zm41-70zm0 140zm40 70zm0-140zm0-140zm40-70zm0 140zm0 140zm41-70z"/></svg>
