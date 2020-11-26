@@ -3,4 +3,4 @@ aria-label="Ubuntu" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#e65e17"/><g fill="#fff"><circle cx="265" cy="256" r="150"/><g stroke="#e65e17" stroke-width="10"><circle cx="90" cy="257" r="41"/><circle cx="353" cy="409" r="41"/><circle cx="353" cy="104" r="41"/></g></g><g fill="#e65e17"><circle cx="265" cy="256" r="99"/><path d="m420 266v-19h-60v19zm-241 119 17 10 31-53-17-9zm17-268-17 10 31 52 17-9z"/></g></svg>
+fill="#e65e17"/><circle cx="265" cy="256" r="124" fill="none" stroke="#fff" stroke-width="51"/><g fill="#fff" stroke="#e65e17" stroke-width="10"><circle cx="90" cy="257" r="41"/><circle cx="353" cy="409" r="41"/><circle cx="353" cy="104" r="41"/><path stroke-width="19" d="M185,118l82,138m0,0h155h-155l-84,140"/></g></svg>
