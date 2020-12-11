@@ -266,3 +266,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/whatwg.svg" width="256" /> | <img src="/images/reference/whatwg.svg" width="256" /> | https://whatwg.org/ipr-policy |
 | <img src="/images/svg/etsy.svg" width="256" /> | <img src="/images/reference/etsy.png" width="256" /> | https://www.etsy.com/uk/press?ref=ftr |
 | <img src="/images/svg/foobar2000.svg" width="256" /> | <img src="/images/reference/foobar2000.jpg" width="256" /> | https://www.foobar2000.org/ |
+| <img src="/images/svg/intercom.svg" width="256" /> | <img src="/images/reference/intercom.svg" width="256" /> | https://www.intercom.com/press |
