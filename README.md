@@ -427,7 +427,7 @@ Say thanks!
 <td>GNU/Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="125" title="Linux" /><br>965 Bytes</td>
 <td>Ubuntu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>455 Bytes</td>
 <td>Windows<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>270 Bytes</td>
-<td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>767 Bytes</td>
+<td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>466 Bytes</td>
 </tr>
 <tr>
 <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
