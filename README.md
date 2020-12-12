@@ -172,7 +172,7 @@ Say thanks!
 <tr>
 <td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="125" title="Workato" /><br>431 Bytes</td>
 <td>Untappd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="125" title="Untappd" /><br>410 Bytes</td>
-<td>Vivino<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vivino.svg" width="125" title="Vivino" /><br>296 Bytes</td>
+<td>Vivino<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vivino.svg" width="125" title="Vivino" /><br>294 Bytes</td>
 <td>Apereo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apereo.svg" width="125" title="Apereo" /><br>473 Bytes</td>
 <td>Twilio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="125" title="Twilio" /><br>438 Bytes</td>
 <td>Plex<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/plex.svg" width="125" title="Plex" /><br>221 Bytes</td>
@@ -312,7 +312,7 @@ Say thanks!
 <tr>
 <td>Uphold<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="125" title="Uphold"/><br>819 Bytes</td>
 <td>CoinPot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coinpot.svg" width="125" title="CoinPot"/><br>739 Bytes</td>
-<td>This American Life<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/thisamericanlife.svg" width="125" title="This American Life"/><br>309 Bytes</td>
+<td>This American Life<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/thisamericanlife.svg" width="125" title="This American Life"/><br>302 Bytes</td>
 <td>WHATWG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatwg.svg" width="125" title="WHATWG"/><br>463 Bytes</td>
 </tr>
 </table>
