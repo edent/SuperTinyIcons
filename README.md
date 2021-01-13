@@ -514,7 +514,9 @@ They are converted using Android Studio and are **not** guaranteed to be under 1
 
 To convert in Android Studio, go to Tools ➡ Resource Manager ➡ Drawable ➡ + ➡ Import Drawables ➡ then select the SVGs.
 
-*Note* Android Studio doesn't like rounded corners. Before importing, run `sed -i '/rx\=\"15\%\"/d' ./*.svg`
+*Note* Android Studio doesn't like rounded corners with a percentage length value. Before importing, run `sed -i '/rx\=\"15\%\"/d' ./*.svg` to remove the corner or `sed -i -e '/rx\=/s/\"15\%\"/\"77\"/' ./*.svg` to replace the percentage length value with a corresponding fixed length value.
+
+See: https://issuetracker.google.com/issues/176694227
 
 ## Submitting Icons
 
