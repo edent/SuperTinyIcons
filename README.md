@@ -658,6 +658,7 @@ The majority of these vector logos are based on someone else's work.
 - [Plex](https://github.com/plexinc/plex-media-player/blob/master/resources/images/icon.svg) - GPLv2
 - [NHS](https://www.england.nhs.uk/nhsidentity/identity-guidelines/nhs-logo/)
 - [Threema.](https://threema.ch/de/press)
+- [CoreUI](https://github.com/coreui/coreui-icons) - CC-BY
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
