@@ -225,6 +225,9 @@ Say thanks!
 <td>Intercom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intercom.svg" width="125" title="Intercom"/><br>839 Bytes</td>
 <td>Overleaf<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overleaf.svg" width="125" title="Intercom"/><br>452 Bytes</td>
 </tr>
+<tr>
+<td>Malt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="125" title="Malt"/><br>1015 Bytes</td>
+</tr>
 </table>
 
 ### Internet
