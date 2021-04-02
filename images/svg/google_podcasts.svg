@@ -4,4 +4,4 @@ stroke-linecap="round" stroke-linejoin="round" stroke-width="43"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><path stroke="#fab908" d="M256 109v22zM256 381v22zM256 195v122"/><path stroke="#ea4335" d="M181 176v75zM181 315v21z"/><path stroke="#34a853" d="M331 261v75zM331 197v-21z"/><path stroke="#4285f4" d="M405 245v22"/><path stroke="#0066d9" d="M107 245v22"/></svg>
+fill="#fff"/><path stroke="#fab908" d="m256 109v22zm0 86v122m0 64v22z"/><path stroke="#ea4335" d="m181 176v75zm0 139v21z"/><path stroke="#34a853" d="m331 176v21zm0 85v75z"/><path stroke="#4285f4" d="m405 245v22"/><path stroke="#0066d9" d="m107 245v22"/></svg>
