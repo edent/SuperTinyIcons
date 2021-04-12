@@ -267,4 +267,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/etsy.svg" width="256" /> | <img src="/images/reference/etsy.png" width="256" /> | https://www.etsy.com/uk/press?ref=ftr |
 | <img src="/images/svg/foobar2000.svg" width="256" /> | <img src="/images/reference/foobar2000.jpg" width="256" /> | https://www.foobar2000.org/ |
 | <img src="/images/svg/intercom.svg" width="256" /> | <img src="/images/reference/intercom.svg" width="256" /> | https://www.intercom.com/press |
+| <img src="/images/svg/overleaf.svg" width="256" /> | <img src="/images/reference/overleaf.svg" width="256" /> | https://www.overleaf.com/for/partners/logos |
 | <img src="/images/svg/elastic.svg" width="256" /> | <img src="/images/reference/elastic-vertical-reverse.svg" width="256" /> | https://www.elastic.co |
