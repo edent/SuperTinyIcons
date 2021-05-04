@@ -268,4 +268,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/foobar2000.svg" width="256" /> | <img src="/images/reference/foobar2000.jpg" width="256" /> | https://www.foobar2000.org/ |
 | <img src="/images/svg/intercom.svg" width="256" /> | <img src="/images/reference/intercom.svg" width="256" /> | https://www.intercom.com/press |
 | <img src="/images/svg/overleaf.svg" width="256" /> | <img src="/images/reference/overleaf.svg" width="256" /> | https://www.overleaf.com/for/partners/logos |
-| <img src="/images/svg/freebsd.svg" width="256" /> | <img src="/images/reference/freebsd.svg" width="256" /> | https://freebsdfoundation.org/about-us/about-the-foundation/project/ |
+| <img src="/images/svg/freebsd.svg" width="256" /> | <img src="/images/reference/freebsd.png" width="256" /> | https://freebsdfoundation.org/about-us/about-the-foundation/project/ |
