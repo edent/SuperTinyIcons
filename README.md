@@ -218,7 +218,7 @@ Say thanks!
 <td>Humble Bundle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/humblebundle.svg" width="125" title="Humble bundle"/><br>978 Bytes</td>
 </tr>
 <tr>
-<td>freeCodeCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freecodecamp.svg" width="125" title="freeCodeCamp"/><br>1016 Bytes</td>
+<td>freeCodeCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freecodecamp.svg" width="125" title="freeCodeCamp"/><br>727 Bytes</td>
 <td>Codeberg<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codeberg.svg" width="125" title="Codeberg"/><br>837 Bytes</td>
 <td>BitBucket<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="125" title="BitBucket"/><br>681 Bytes</td>
 <td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="125" title="Etsy"/><br>538 Bytes</td>
