@@ -225,6 +225,9 @@ Say thanks!
 <td>Intercom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intercom.svg" width="125" title="Intercom"/><br>839 Bytes</td>
 <td>Overleaf<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overleaf.svg" width="125" title="Intercom"/><br>452 Bytes</td>
 </tr>
+<tr>
+<td>Malt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="125" title="Malt"/><br>1015 Bytes</td>
+</tr>
 </table>
 
 ### Internet
@@ -243,6 +246,7 @@ Say thanks!
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="125" title="markdown" /><br>449 Bytes</td>
 <td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="125" title="HAML"/><br>937 Bytes</td>
 <td>microformats<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microformats.svg" width="125" title="microformats"/><br>798 Bytes</td>
+<td>CSS3<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="125" title="CSS3"/><br>385 Bytes</td>
 </tr>
 </table>
 
@@ -265,7 +269,7 @@ Say thanks!
 <table>
 <tr>
 <td>iTunes<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/itunes_podcasts.svg" width="125" title="iTunes" /><br>779 Bytes</td>
-<td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_podcasts.svg" width="125" title="Google" /><br>478 Bytes</td>
+<td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_podcasts.svg" width="125" title="Google" /><br>466 Bytes</td>
 <td>Pocket Casts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocketcasts.svg" width="125" title="Pocket Casts" /><br>292 Bytes</td>
 <td>Stitcher<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/stitcher.svg" width="125" title="Stitcher" /><br>387 Bytes</td>
 <td>TuneIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tunein.svg" width="125" title="TuneIn" /><br>608 Bytes</td>
@@ -437,6 +441,7 @@ Say thanks!
 <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
 <td>Linux Mint<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux_mint.svg" width="125" title="Linux Mint"/><br>990 Bytes</td>
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
+<td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="125" title="FreeBSD"/><br>756 Bytes</td>
 </tr>
 </table>
 
