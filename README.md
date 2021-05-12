@@ -107,7 +107,7 @@ Say thanks!
 <td>Phone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="125" title="Phone" /><br>591 Bytes</td>
 <td>LINE<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/line.svg" width="125" title="LINE" /><br>478 Bytes</td>
 <td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="125" title="Viber" /><br>713 Bytes</td>
-<td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="125" title="Mailchimp" /><br>1010 Bytes</td>
+<td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="125" title="Mailchimp" /><br>998 Bytes</td>
 <td>Threema<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threema.svg" width="125" title="Threema" /><br>768 Bytes</td>
 <td>Mattermost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mattermost.svg" width="125" title="Mattermost"/><br>614 Bytes</td>
 </tr>
