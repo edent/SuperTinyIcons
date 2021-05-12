@@ -494,6 +494,15 @@ Say thanks!
 </tr>
 </table>
 
+### Text editors
+
+<table>
+<tr>
+<td>Sublime Text<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="125" title="Sublime Text" /><br>728 Bytes</td>
+</tr>
+</table>
+
+
 ## Why so smallious?
 
 Bytes cost money. They cost money to store, transport, and process. Simplicity should be our goal in all endeavours.

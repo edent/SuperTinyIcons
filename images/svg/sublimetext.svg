@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Sublime Text" role="img"
+viewBox="0 0 512 512"><rect
+rx="15%" width="512" height="512"
+fill="#424242"/><rect transform="skewY(-17.5)" x="110" y="375" width="292" height="107" rx="8" fill="url(#lg)"/><rect transform="skewY(17.5)" x="110" y="122" width="292" height="107" rx="8" fill="#ff9800"/><rect transform="skewY(-17.5)" x="110" y="191" width="292" height="107" rx="8" fill="#ff9800"/><defs><linearGradient id="lg" x1="174" x2="189" y1="725" y2="716" gradientTransform="scale(1.65 .605)" gradientUnits="userSpaceOnUse"><stop stop-color="#ff9700" offset="0"/><stop stop-color="#f48e00" offset=".5271813"/><stop stop-color="#d06f00" offset="1"/></linearGradient></defs></svg>
