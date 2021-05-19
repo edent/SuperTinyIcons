@@ -3,4 +3,4 @@ aria-label="Angular" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><g fill="#c3002f"><path id="a" d="M256 65v42l111 249h-42l-22-55h-47v146l151-84 27-235-178-63zm0 123v78h33l-33-78z"/></g><use fill="#dd0031" xlink:href="#a" transform="matrix(-1,0,0,1,512,0)"/></svg>
+fill="#fff"/><g fill="#c3002f"><path id="a" d="M256 65v42l111 249h-42l-22-55h-47v146l151-84 27-235-178-63zm0 123v78h33l-33-78z"/></g><use fill="#dd0031" href="#a" transform="matrix(-1,0,0,1,512,0)"/></svg>
