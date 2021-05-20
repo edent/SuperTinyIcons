@@ -116,7 +116,7 @@ Say thanks!
 <td>XMPP/Jabber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="125" title="XMPP" /><br>797 Bytes</td>
 <td>Tutanota<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tutanota.svg" width="125" title="Tutanota" /><br>627 Bytes</td>
 <td>Messenger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="125" title="Messenger" /><br>824 Bytes</td> 
-<td>Discord<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="125" title="Discord" /><br>505 Bytes</td>
+<td>Discord<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="125" title="Discord" /><br>993 Bytes</td>
 <td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="125" title="Zoom" /><br>530 Bytes</td>
 </tr>
 <tr>
