@@ -166,7 +166,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/chrome.svg" width="256" /> | <img src="/images/reference/chrome.svg" width="256" />  | https://www.google.com/chrome/static/images/chrome-logo.svg |
 | <img src="/images/svg/edge.svg" width="256" /> | <img src="/images/reference/Microsoft_Edge_logo_2019.svg" width="256" />  | https://www.microsoft.com/en-us/edge |
 | <img src="/images/svg/opera.svg" width="256" /> | <img src="/images/reference/opera.png" width="256" />  | https://brand.opera.com/ |
-| <img src="/images/svg/Firefox_logo_2019.svg" width="256" /> | <img src="/images/reference/firefox.svg" width="256" />  | https://mozilla.design/firefox/logos-usage/ |
+| <img src="/images/svg/firefox.svg" width="256" /> | <img src="/images/reference/firefox.svg" width="256" />  | https://mozilla.design/firefox/logos-usage/ |
 | <img src="/images/svg/raspberry_pi.svg" width="256" /> | <img src="/images/reference/RPi-Logo-SCREEN.png" width="256" />  | https://www.raspberrypi.org/trademark-rules/ |
 | <img src="/images/svg/venmo.svg" width="256" /> | <img src="/images/reference/venmo-icon.svg" width="256" />  | https://venmo.com/about/brand |
 | <img src="/images/svg/square_cash.svg" width="256" /> | <img src="/images/reference/square-cash-app-logo.jpg" width="256" />  | https://squareup.com/us/en/press |
@@ -189,23 +189,23 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/uber.svg" width="256" /> | <img src="/images/reference/uber.jpg" width="256" />  | https://brand.uber.com/guide#logo-clearspace |
 | <img src="/images/svg/flutter.svg" width="256" /> | <img src="/images/reference/flutter.svg" width="256" /> | https://flutter.dev/brand |
 | <img src="/images/svg/orcid.svg" width="256" /> | <img src="/images/reference/orcid.png" width="256" />  | https://orcid.org/ |
-| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.png" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
+| <img src="/images/svg/javascript.svg" width="256" /> | <img src="/images/reference/javascript.svg" width="256" />  | https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg |
 | <img src="/images/svg/amberframework.svg" width="256"/> | <img src="/images/reference/amberframework.png" width="256"/>  | https://amberframework.org/media |
-| <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.jpg" width="256" /> | https://developers.google.com/drive/api/v2/branding |
-| <img src="/images/svg/protonmail.svg" width="256" /> | <img src="/images/reference/protonmail.jpg" width="256" /> | https://protonmail.com/media-kit#Logos |
+| <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/reference/google_drive.png" width="256" /> | https://developers.google.com/drive/api/v2/branding |
+| <img src="/images/svg/protonmail.svg" width="256" /> | <img src="/images/reference/protonmail.png" width="256" /> | https://protonmail.com/media-kit#Logos |
 | <img src="/images/svg/ansible.svg" width="256" /> | <img src="/images/reference/ansible.svg" width="256" />  | https://www.ansible.com/logos |
 | <img src="/images/svg/sentry.svg" width="256"/> | <img src="/images/reference/sentry.svg" width="256" /> | https://sentry.io/branding/ |
 | <img src="/images/svg/microsoft.svg" width="256"/> | <img src="/images/reference/microsoft.png" width="256" /> | https://news.microsoft.com/mssurfacehub_logo_stacked_c-white_rgb/ |
 | <img src="/images/svg/behance.svg" width="256" />	| <img src="/images/reference/behance.png" width="256" />	| https://www.behance.net/ |
 | <img src="/images/svg/gojek.svg" width="256"/> | <img src="/images/reference/gojek.svg" width="256" /> | https://www.gojek.com/id/terms-of-service/ |
-| <img src="/images/svg/luckyframework.svg" width="256"/> | <img src="/images/reference/luckyframework.svg" width="256" /> | https://luckyframework.org/ |
+| <img src="/images/svg/luckyframework.svg" width="256"/> | <img src="/images/reference/luckyframework.png" width="256" /> | https://luckyframework.org/ |
 | <img src="/images/svg/grafana.svg" width="256"/> | <img src="/images/reference/grafana.svg" width="256"/> | https://github.com/grafana/grafana/blob/master/public/img/grafana\_icon.svg |
 | <img src="/images/svg/gitea.svg" width="256"/> | <img src="/images/reference/gitea.png" width="256"/> | https://github.com/go-gitea/gitea/tree/master/assets |
 | <img src="/images/svg/drone.svg" width="256"/> | <img src="/images/reference/drone.png" width="256"/> | https://github.com/drone/brand |
 | <img src="/images/svg/rubygems.svg" width="256"/> | <img src="/images/reference/rubygems.png" width="256"/> | https://rubygems.org |
 | <img src="/images/svg/iheartradio.svg" width="256"/> | <img src="/images/reference/iheartradio.png" width="256" /> | https://www.iheart.com/ |
 | <img src="/images/svg/semaphoreci.svg" width="256" /> | <img src="/images/reference/semaphoreci.png" width="256" /> | https://twitter.com/semaphoreci |
-| <img src="/images/svg/ubiquiti.svg" width="256"/> | <img src="/images/reference/ubiquiti.png" width="256"/> | https://pbs.twimg.com/profile_images/862701781368713216/B7oW421__400x400.jpg |
+| <img src="/images/svg/ubiquiti.svg" width="256"/> | <img src="/images/reference/ubiquiti.jpg" width="256"/> | https://pbs.twimg.com/profile_images/862701781368713216/B7oW421__400x400.jpg |
 | <img src="/images/svg/verizon.svg" width="256"/> | <img src="/images/reference/verizon.png" width="256"/> | https://apps.apple.com/us/app/my-verizon/id416023011 |
 | <img src="/images/svg/wekan.svg" width="256"/> | <img src="/images/reference/wekan.svg" width="256"/> | https://github.com/wekan/wekan/blob/master/public/wekan-logo-150.svg |
 | <img src="/images/svg/kemal.svg" width="256"/> | <img src="/images/reference/kemal.png" width="256"/> | https://raw.githubusercontent.com/kemalcr/kemalcr.com/master/img/kemal.png |
@@ -214,8 +214,8 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/kotlin.svg" width="256"/> | <img src="/images/reference/kotlin.svg" width="256"/> | https://resources.jetbrains.com/storage/products/kotlin/docs/kotlin_logos.zip |
 | <img src="/images/svg/crystal.svg" width="256" /> | <img src="/images/reference/crystal.svg" width="256" /> | https://crystal-lang.org/media/ |
 | <img src="/images/svg/messenger.svg" width="256" />	| <img src="/images/reference/messenger.svg" width="256" />	| https://en.facebookbrand.com/assets/messenger/	|
-| <img src="/images/svg/ubisoft.svg" width="256"/> | <img src="/images/reference/ubisoft.png" width="256"/> | https://commons.wikimedia.org/wiki/File:Ubisoft_logo.svg |
-| <img src="/images/svg/ea.svg" width="256"/> | <img src="/images/reference/ea.png" width="256"/> | https://commons.wikimedia.org/wiki/File:EA-Logo.svg |
+| <img src="/images/svg/ubisoft.svg" width="256"/> | <img src="/images/reference/ubisoft.svg" width="256"/> | https://commons.wikimedia.org/wiki/File:Ubisoft_logo.svg |
+| <img src="/images/svg/ea.svg" width="256"/> | <img src="/images/reference/ea.svg" width="256"/> | https://commons.wikimedia.org/wiki/File:EA-Logo.svg |
 | <img src="/images/svg/amazon_alexa.svg" width="256"/> | <img src="/images/reference/amazon_alexa.png" width="256"/> | https://developer.amazon.com/docs/alexa-voice-service/logo-and-brand.html |
 | <img src="/images/svg/debian.svg" width="256"/> | <img src="/images/reference/debian.svg" width="256"/> | https://www.debian.org/logos/ |
 | <img src="/images/svg/ruby.svg" width="256"/> | <img src="/images/reference/ruby.svg" width="256"/> |
@@ -244,10 +244,10 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/jellyfin.svg" width="256"/> | <img src="/images/reference/jellyfin-banner.png" width="256"/> | https://raw.githubusercontent.com/jellyfin/jellyfin-web/master/src/assets/img/banner-dark.png |
 | <img src="/images/svg/gandi.svg" width="256"/> | <img src="/images/reference/gandi.png" width="256"/> | https://v4.gandi.net/static/images/illustrations/press/Gandi_LogoGuidelines_EN.pdf |
 | <img src="/images/svg/kaggle.svg" width="256" /> | <img src="/images/reference/kaggle.png" width="256" /> | https://www.kaggle.com/ |
-| <img src="/images/svg/uphold.svg" width="256" /> | <img src="/images/reference/uphold.jpg" width="256" /> | https://uphold.com/en/press-media |
+| <img src="/images/svg/uphold.svg" width="256" /> | <img src="/images/reference/uphold.png" width="256" /> | https://uphold.com/en/press-media |
 | <img src="/images/svg/microformats.svg" width="256" /> | <img src="/images/reference/microformats.png" width="256" /> |  |
 | <img src="/images/svg/keepassdx.svg" width="256" /> | <img src="/images/reference/keepassdx.png" width="256" /> | https://github.com/Kunzisoft/KeePassDX |
-| <img src="/images/svg/humblebundle.svg" width="256" /> | <img src="/images/reference/humblebundle.png" width="256" /> | https://cdn.worldvectorlogo.com/logos/humblebundle.svg |
+| <img src="/images/svg/humblebundle.svg" width="256" /> | <img src="/images/reference/humblebundle.svg" width="256" /> | https://cdn.worldvectorlogo.com/logos/humblebundle.svg |
 | <img src="/images/svg/fritz.svg" width="256" /> | <img src="/images/reference/Fritz!.svg" width="256" /> | https://en.wikipedia.org/wiki/Fritz!Box#/media/File:Fritz!.svg |
 | <img src="/images/svg/friendica.svg" width="256" /> | <img src="/images/reference/friendica.png" width="256" /> | https://github.com/friendica/friendica/tree/develop/images |
 | <img src="/images/svg/wireguard.svg" width="256" /> | <img src="/images/reference/wireguard.svg" width="256" /> | https://www.wireguard.com/img/emblem-circle.svg |
@@ -259,13 +259,13 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/codeberg.svg" width="256" /> | <img src="/images/reference/codeberg.svg" width="256" /> | https://codeberg.org/img/logo.svg |
 | <img src="/images/svg/coinpot.svg" width="256" /> | <img src="/images/reference/coinpot.png" width="256" /> |
 | <img src="/images/svg/element.svg" width="256" /> | <img src="/images/reference/element.svg" width="256" /> | https://element.io/images/logo-mark-primary.svg |
-| <img src="/images/svg/keskonfai.svg" width="256" /> | <img src="/images/reference/keskonfai.svg" width="256" /> | https://www.keskonfai.fr/ |
+| <img src="/images/svg/keskonfai.svg" width="256" /> | <img src="/images/reference/keskonfai.png" width="256" /> | https://www.keskonfai.fr/ |
 | <img src="/images/svg/jacobin.svg" width="256" /> | <img src="/images/reference/jacobin.svg" width="256" /> | https://www.jacobinmag.com/contact |
 | <img src="/images/svg/thisamericanlife.svg" width="256" /> | <img src="/images/reference/thisamericanlife.png" width="256" /> | https://www.npr.org/about-npr/179876898/terms-of-use |
-| <img src="/images/svg/cplusplus.svg" width="256" /> | <img src="/images/reference/cplusplus.svg" width="256" /> | https://isocpp.org/home/terms-of-use |
+| <img src="/images/svg/cplusplus.svg" width="256" /> | <img src="/images/reference/cplusplus.png" width="256" /> | https://isocpp.org/home/terms-of-use |
 | <img src="/images/svg/whatwg.svg" width="256" /> | <img src="/images/reference/whatwg.svg" width="256" /> | https://whatwg.org/ipr-policy |
 | <img src="/images/svg/etsy.svg" width="256" /> | <img src="/images/reference/etsy.png" width="256" /> | https://www.etsy.com/uk/press?ref=ftr |
-| <img src="/images/svg/foobar2000.svg" width="256" /> | <img src="/images/reference/foobar2000.jpg" width="256" /> | https://www.foobar2000.org/ |
+| <img src="/images/svg/foobar2000.svg" width="256" /> | <img src="/images/reference/foobar2000.png" width="256" /> | https://www.foobar2000.org/ |
 | <img src="/images/svg/intercom.svg" width="256" /> | <img src="/images/reference/intercom.svg" width="256" /> | https://www.intercom.com/press |
 | <img src="/images/svg/overleaf.svg" width="256" /> | <img src="/images/reference/overleaf.svg" width="256" /> | https://www.overleaf.com/for/partners/logos |
 | <img src="/images/svg/elastic.svg" width="256" /> | <img src="/images/reference/elastic-vertical-reverse.svg" width="256" /> | https://www.elastic.co |
