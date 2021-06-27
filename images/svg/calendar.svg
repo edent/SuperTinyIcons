@@ -7,4 +7,4 @@ rx="15%"/></clipPath></defs><g clip-path="url(#c)"><rect
 width="512" height="512"
 fill="#dee"/><rect
 width="512" height="180"
-fill="#d34"/></g><g id="b"><circle fill="#eab" cx="384" cy="100" r="14" id="a"/><use x="43" xlink:href="#a"/><use x="86" xlink:href="#a"/></g><use y="43" xlink:href="#b"/><text font-size="64" x="256" y="480" id="w">Sunday</text><text fill="#fff" font-size="140" x="140" y="164" id="m">FEB</text><text font-size="256" x="256" y="400" id="d">29</text></svg>
+fill="#d34"/></g><g id="b"><circle fill="#eab" cx="384" cy="100" r="14" id="a"/><use x="43" href="#a"/><use x="86" href="#a"/></g><use y="43" href="#b"/><text font-size="64" x="256" y="480" id="w">Sunday</text><text fill="#fff" font-size="140" x="140" y="164" id="m">FEB</text><text font-size="256" x="256" y="400" id="d">29</text></svg>
