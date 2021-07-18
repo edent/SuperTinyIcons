@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="Briar" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/><g
+fill="#87c214"><path
+id="a" d="m145.7 224V409.2c0 15 12.2 27.4 27.4 27.4H186c15 0 27.4-12.4 27.4-27.4V224zm67.7-89.5v-34.5c0-15.4-12.4-27.8-27.4-27.8H173.1c-15 0-27.4 12.4-27.4 27.8v34.5z"/><use
+xlink:href="#a" transform="rotate(180,256,256)"/></g><g
+fill="#95d220"><use
+xlink:href="#a" transform="rotate(90,256,256)"/><use
+xlink:href="#a" transform="rotate(270,256,256)"/></g></svg>
