@@ -249,6 +249,7 @@ Say thanks!
 <td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="125" title="HAML"/><br>937 Bytes</td>
 <td>microformats<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microformats.svg" width="125" title="microformats"/><br>798 Bytes</td>
 <td>CSS3<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="125" title="CSS3"/><br>384 Bytes</td>
+<td>WebAssembly<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="125" title="WebAssembly"/><br>498 Bytes</td>
 </tr>
 </table>
 
