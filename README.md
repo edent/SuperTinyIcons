@@ -123,7 +123,7 @@ Say thanks!
 <tr>
 <td>Wire<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="125" title="Wire" /><br>271 Bytes</td>
 <td>Teamspeak<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="125" title="Teamspeak" /><br>936 Bytes</td>
-<td>Element<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/element.svg" width="125" title="Element" /><br>482 Bytes</td>
+<td>Element<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/element.svg" width="125" title="Element" /><br>444 Bytes</td>
 <td>Briar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/briar.svg" width="125" title="Briar" /><br>563 Bytes</td>
 </tr>
 </table>
