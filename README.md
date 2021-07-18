@@ -489,7 +489,7 @@ Say thanks!
 <td>Finder<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/finder.svg" width="125" title="Finder" /><br>780 Bytes</td>
 <td>Roundcube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/roundcube.svg" width="125" title="Roundcube"/><br>838 Bytes</td>
 <td>Fritz!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fritz.svg" width="125" title="Fritz!"/><br>707 Bytes</td>
-<td>Jacobin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jacobin.svg" width="125" title="Jacobin Magazine"/><br>245 Bytes</td>
+<td>Jacobin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jacobin.svg" width="125" title="Jacobin Magazine"/><br>241 Bytes</td>
 </tr>
 <tr>
 <td>Keskonfai.fr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keskonfai.svg" width="125" title="Keskonfai"/><br>700 Bytes</td>
