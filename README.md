@@ -412,7 +412,7 @@ Say thanks!
 <td>Kemal Framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kemal.svg" width="125" title="Kemal Framework" /><br>340 Bytes</td>
 <td>Ruby On Rails<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubyonrails.svg" width="125" title="Ruby On Rails" /><br>480 Bytes</td>
 <td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="125" title="Kotlin" /><br>251 Bytes</td>
-<td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>244 Bytes</td>
+<td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="125" title="Crystal"/><br>229 Bytes</td>
 </tr>
 <tr>
 <td>Semaphore CI<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/semaphoreci.svg" width="125" title="Semaphore CI" /><br>640 Bytes</td>
