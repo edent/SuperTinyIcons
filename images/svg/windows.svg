@@ -3,4 +3,4 @@ aria-label="Windows" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#00adef"/><path fill="#fff" d="M98 145l127-18v123H98m142-125l168-24v148H240M98 263h127v123L98 368m142-104h168v147l-168-24"/></svg>
+fill="#00adef"/><path fill="#fff" d="M98 145V250H225V127m15-2V250H408V101M98 368V263H225V386m15 1V263H408V411"/></svg>
