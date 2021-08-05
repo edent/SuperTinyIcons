@@ -337,7 +337,7 @@ Say thanks!
 <td>Lock / PGP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lock.svg" width="125" title="Lock" /><br>393 Bytes</td>
 <td>LastPass<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lastpass.svg" width="125" title="LastPass" /><br>297 Bytes</td>
 <td>Symantec<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.svg" width="125" title="Symantec" /><br>614 Bytes</td>
-<td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="125" title="Yubico" /><br>309 Bytes</td>
+<td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="125" title="Yubico" /><br>306 Bytes</td>
 <td>Keybase<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keybase.svg" width="125" title="Keybase" /><br>647 Bytes</td>
 </tr>
 <tr>
