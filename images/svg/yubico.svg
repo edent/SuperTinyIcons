@@ -3,4 +3,5 @@ aria-label="Yubico" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><circle cx="256" cy="256" fill="none" r="233" stroke="#98c93c" stroke-width="45"/><path d="m256 260 46-132h68l-114 279h-71l33-77-80-202h69z" fill="#98c93c"/></svg>
+fill="#fff"/><circle cx="256" cy="256" fill="none" r="233" stroke="#98c93c" stroke-width="45"/><path
+d="M256 407H185l33-77-80-202h69l49 132 46-132h68" fill="#98c93c"/></svg>
