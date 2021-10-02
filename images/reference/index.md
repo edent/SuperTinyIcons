@@ -271,3 +271,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/elastic.svg" width="256" /> | <img src="/images/reference/elastic-vertical-reverse.svg" width="256" /> | https://www.elastic.co |
 | <img src="/images/svg/freebsd.svg" width="256" /> | <img src="/images/reference/freebsd.png" width="256" /> | https://freebsdfoundation.org/about-us/about-the-foundation/project/ |
 | <img src="/images/svg/lobsters.svg" width="256" /> | <img src="/images/reference/lobsters.png" width="256" /> | https://lobste.rs/ |
+| <img src="/images/svg/pornhub.svg" width="256" /> | <img src="/images/reference/pornhub.png" width="256" /> | https://www.pornhub.org/press |
