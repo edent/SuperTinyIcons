@@ -58,7 +58,8 @@ Say thanks!
 <td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="125" title="Deezer"/><br>733 Bytes</td>
 <td>iHeartRadio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/iheartradio.svg" width="125" title="iHeartRadio" /><br>893 Bytes</td>
 <td>Kodi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kodi.svg" width="125" title="Kodi" /><br>771 Bytes</td>
-<td>foobar2000<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/foobar2000.svg" width="125" title=foobar2000"/><br>926 Bytes</td>
+<td>foobar2000<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/foobar2000.svg" width="125" title="foobar2000"/><br>926 Bytes</td>
+<td>Pornhub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pornhub.svg" width="125" title="Pornhub"/><br>850 Bytes</td>
 </tr>
 </table>
 
@@ -384,7 +385,7 @@ Say thanks!
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>559 Bytes</td>
 <td>Julia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/julia.svg" width="125" title="Julia" /><br>298 Bytes</td>
 <td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>595 Bytes</td>
-<td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>583 Bytes</td>
+<td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>523 Bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>899 Bytes</td>
 <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>360 Bytes</td>
 </tr>
@@ -445,6 +446,7 @@ Say thanks!
 <td>Ubuntu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>455 Bytes</td>
 <td>Windows<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>252 Bytes</td>
 <td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>466 Bytes</td>
+<td>Manjaro<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="125" title="Manjaro"/><br>375 Bytes</td>
 </tr>
 <tr>
 <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
@@ -502,6 +504,7 @@ Say thanks!
 <td>Keskonfai.fr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keskonfai.svg" width="125" title="Keskonfai"/><br>700 Bytes</td>
 <td>Olympic Rings<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/olympics.svg" width="125" title="Olympic Rings"/><br>678 Bytes</td>
 <td>Apache Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="125" title="guacamole"/><br>1021 Bytes</td>
+<td>Outlook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="125" title="Outlook"/><br>973 Bytes</td>
 </tr>
 </table>
 

@@ -61,6 +61,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/redhat.svg" width="256"/>	| <img src="/images/reference/redhat.svg" width="256"/>	| https://www.redhat.com/	|
 | <img src="/images/svg/centos.svg" width="256"/>	| <img src="/images/reference/centos.svg" width="256"/>	| https://wiki.centos.org/ArtWork/Brand/Logo	|
 | <img src="/images/svg/ubuntu.svg" width="256" />	| <img src="/images/reference/ubuntu.svg" width="256" />	| https://design.ubuntu.com/brand/ubuntu-logo/	|
+| <img src="/images/svg/manjaro.svg" width="256" /> | <img src="/images/reference/manjaro.jpg" width="256" /> | https://manjaro.org/img/logo.svg |
 | <img src="/images/svg/linux_mint.svg" width="256"/>	| <img src="/images/reference/Linux_Mint_logo_without_wordmark.svg" width="256"/>	| https://commons.wikimedia.org/wiki/File:Linux_Mint_logo_without_wordmark.svg	|
 | <img src="/images/svg/bitbucket.svg" width="256" />	| <img src="/images/reference/bitbucket.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/apple.svg" width="256" />	| <img src="/images/reference/apple.svg" width="256" />	| https://developer.apple.com/softwarelicensing/agreements/pdf/mac_logo_gdlns.pdf	|
@@ -272,3 +273,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/freebsd.svg" width="256" /> | <img src="/images/reference/freebsd.png" width="256" /> | https://freebsdfoundation.org/about-us/about-the-foundation/project/ |
 | <img src="/images/svg/lobsters.svg" width="256" /> | <img src="/images/reference/lobsters.png" width="256" /> | https://lobste.rs/ |
 | <img src="/images/svg/guacamole.svg" width="256" /> | <img src="/images/reference/guacamole.svg" width="256" /> | https://www.apache.org/logos/?#guacamole |
+| <img src="/images/svg/pornhub.svg" width="256" /> | <img src="/images/reference/pornhub.png" width="256" /> | https://www.pornhub.org/press |
+| <img src="/images/svg/outlook.svg" width="256" /> | <img src="/images/reference/outlook.jpg" width="256" /> | https://ow2.res.office365.com/owalanding/2021.8.25.01/images/outlook-icon.jpg
