@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M 15 0 L 497 0 Q 512 0 512 15 L 512 497 Q 512 512 497 512 L 15 512 Q 0 512 0 497 L 0 15 Q 0 0 15 0 Z" />
+    <path
+        android:fillColor="#136"
+        android:pathData="M398 246v24l15-8s0-7-5-9l-10-6z" />
+    <path
+        android:fillColor="#05a"
+        android:pathData="M 171 107 L 396 107 Q 399 107 399 110 L 399 374 Q 399 377 396 377 L 171 377 Q 168 377 168 374 L 168 110 Q 168 107 171 107 Z" />
+    <path
+        android:fillColor="#17d"
+        android:pathData="M168 150h77v70h-77z" />
+    <path
+        android:fillColor="#3ae"
+        android:pathData="M245 150h77v70h-77z" />
+    <path
+        android:fillColor="#5cf"
+        android:pathData="M322 150h77v70h-77z" />
+    <path
+        android:fillColor="#17d"
+        android:pathData="M245 220h77v70h-77z" />
+    <path
+        android:fillColor="#3ae"
+        android:pathData="M322 220h77v70h-77z" />
+    <path
+        android:fillColor="#136"
+        android:pathData="M168 290h77v70h-77z" />
+    <path
+        android:fillColor="#17d"
+        android:pathData="M322 290h77v70h-77z" />
+    <path
+        android:fillColor="#19e"
+        android:pathData="M413 261v128c0 7-2 15-7 18-3 2-124-71-124-71l131-75z" />
+    <path
+        android:fillColor="#2ae"
+        android:pathData="M160 266c-4 3-6 7-6 12v117c0 8 6 14 14 14h230c4 0 5 0 8-2" />
+    <path
+        android:fillColor="#18e"
+        android:pathData="M 73 172 L 239 172 Q 242 172 242 175 L 242 341 Q 242 344 239 344 L 73 344 Q 70 344 70 341 L 70 175 Q 70 172 73 172 Z" />
+    <path
+        android:fillColor="#fff"
+        android:pathData="M154 305c-23 0-43-18-43-45 0-28 16-48 44-48 27 0 43 21 43 46 0 29-18 47-44 47zm1-75c-16 0-23 14-23 29 0 18 11 28 22 28 14 0 23-10 23-28s-8-29-22-29z" />
+</vector>
