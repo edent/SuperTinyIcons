@@ -276,3 +276,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/guacamole.svg" width="256" /> | <img src="/images/reference/guacamole.svg" width="256" /> | https://www.apache.org/logos/?#guacamole |
 | <img src="/images/svg/pornhub.svg" width="256" /> | <img src="/images/reference/pornhub.png" width="256" /> | https://www.pornhub.org/press |
 | <img src="/images/svg/outlook.svg" width="256" /> | <img src="/images/reference/outlook.jpg" width="256" /> | https://ow2.res.office365.com/owalanding/2021.8.25.01/images/outlook-icon.jpg
+| <img src="/images/svg/subscribestar.svg" width="256" /> | <img src="/images/reference/subscribestar.png" width="256" /> | https://www.subscribestar.com/brand
