@@ -277,4 +277,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/pornhub.svg" width="256" /> | <img src="/images/reference/pornhub.png" width="256" /> | https://www.pornhub.org/press |
 | <img src="/images/svg/outlook.svg" width="256" /> | <img src="/images/reference/outlook.jpg" width="256" /> | https://ow2.res.office365.com/owalanding/2021.8.25.01/images/outlook-icon.jpg
 | <img src="/images/svg/subscribestar.svg" width="256" /> | <img src="/images/reference/subscribestar.png" width="256" /> | https://www.subscribestar.com/brand
+| <img src="/images/svg/visualstudiocode.svg" width="256" /> | <img src="/images/reference/visualstudiocode.svg" width="256" /> | https://code.visualstudio.com/brand
 | <img src="/images/svg/logitech.svg" width="256" /> | <img src="/images/reference/logitech.png" width="256" /> | https://www.logitech.com/en-au

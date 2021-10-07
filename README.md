@@ -452,7 +452,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
-<td>Linux Mint<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux_mint.svg" width="125" title="Linux Mint"/><br>990 Bytes</td>
+<td>Linux Mint<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux_mint.svg" width="125" title="Linux Mint"/><br>989 Bytes</td>
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="125" title="FreeBSD"/><br>756 Bytes</td>
 </tr>
@@ -516,6 +516,7 @@ Say thanks!
 <table>
 <tr>
 <td>Sublime Text<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="125" title="Sublime Text" /><br>728 Bytes</td>
+<td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br>923 Bytes</td>
 </tr>
 </table>
 
