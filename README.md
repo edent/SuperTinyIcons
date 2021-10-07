@@ -515,6 +515,7 @@ Say thanks!
 <table>
 <tr>
 <td>Sublime Text<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="125" title="Sublime Text" /><br>728 Bytes</td>
+<td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br>923 Bytes</td>
 </tr>
 </table>
 
