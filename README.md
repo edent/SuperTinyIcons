@@ -474,8 +474,8 @@ Say thanks!
 </tr>
 <tr>
 <td>itch.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/itch_io.svg" width="125" title="itch.io"/><br>870 Bytes</td>
-</tr>
 <td>Logitech<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/logitech.svg" width="125" title="logitech"/><br>371 Bytes</td>
+</tr>
 </table>
 
 ### Misc
