@@ -62,6 +62,9 @@ Say thanks!
 <td>Pornhub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pornhub.svg" width="125" title="Pornhub"/><br>850 Bytes</td>
 <td>SubscribeStar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/subscribestar.svg" width="125" title="SubscribeStar"/><br>873 Bytes</td>
 </tr>
+<tr>
+<td>Netflix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netflix.svg" width="125" title="Netflix"/><br>825 Bytes</td>
+</tr>
 </table>
 
 ### Google
