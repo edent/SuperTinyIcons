@@ -279,3 +279,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/subscribestar.svg" width="256" /> | <img src="/images/reference/subscribestar.png" width="256" /> | https://www.subscribestar.com/brand
 | <img src="/images/svg/visualstudiocode.svg" width="256" /> | <img src="/images/reference/visualstudiocode.svg" width="256" /> | https://code.visualstudio.com/brand
 | <img src="/images/svg/logitech.svg" width="256" /> | <img src="/images/reference/logitech.png" width="256" /> | https://www.logitech.com/en-au
+| <img src="/images/svg/netflix.svg" width="256" /> | <img src="/images/reference/netflix.png" width="256" /> | https://brand.netflix.com/en/assets/brand-symbol/
