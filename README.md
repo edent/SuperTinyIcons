@@ -133,6 +133,14 @@ Say thanks!
 </tr>
 </table>
 
+### Education
+
+<table>
+<tr>
+<td>Udemy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/udemy.svg" width="125" title="Udemy" /><br>537 Bytes</td>
+</tr>
+</table>
+
 ### Websites
 
 <table>
