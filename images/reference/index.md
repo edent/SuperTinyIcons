@@ -282,3 +282,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/netflix.svg" width="256" /> | <img src="/images/reference/netflix.png" width="256" /> | https://brand.netflix.com/en/assets/brand-symbol/
 | <img src="/images/svg/terraform.svg" width="256" /> | <img src="/images/reference/Terraform_PrimaryLogo_NonAtt_Color_RGB.svg" width="256" /> | https://www.terraform.io/logos.html
 | <img src="/images/svg/origin.svg" width="256" /> | <img src="/images/reference/origin.jpg" width="256" /> | https://www.origin.com/ |
+| <img src="/images/svg/dart.svg" width="256" /> | <img src="/images/reference/dart.png" width="256" /> | https://dart.dev/brand |
