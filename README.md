@@ -483,6 +483,7 @@ Say thanks!
 <tr>
 <td>itch.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/itch_io.svg" width="125" title="itch.io"/><br>870 Bytes</td>
 <td>Logitech<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/logitech.svg" width="125" title="logitech"/><br>371 Bytes</td>
+<td>Origin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/origin.svg" width="125" title="Origin"/><br>832 Bytes</td>
 </tr>
 </table>
 
