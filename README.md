@@ -131,6 +131,7 @@ Say thanks!
 <td>Teamspeak<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="125" title="Teamspeak" /><br>936 Bytes</td>
 <td>Element<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/element.svg" width="125" title="Element" /><br>444 Bytes</td>
 <td>Briar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/briar.svg" width="125" title="Briar" /><br>563 Bytes</td>
+<td>Guilded<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guilded.svg" width="125" title="Guilded" /><br>816 Bytes</td>
 </tr>
 </table>
 

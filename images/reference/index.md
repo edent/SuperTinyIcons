@@ -284,3 +284,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/origin.svg" width="256" /> | <img src="/images/reference/origin.jpg" width="256" /> | https://www.origin.com/ |
 | <img src="/images/svg/dart.svg" width="256" /> | <img src="/images/reference/dart.png" width="256" /> | https://dart.dev/brand |
 | <img src="/image/svg/hulu.svg" width="256" /> | <img src="/images/reference/hulu-Green-digital.svg" width="256" /> | https://thisis.hulu.com/#hulu-logo
+| <img src="/image/svg/guilded.svg" width="256" /> | <img src="/images/reference/guilded.png" width="256" /> | https://www.guilded.gg/brand
