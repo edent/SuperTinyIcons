@@ -64,6 +64,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Netflix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netflix.svg" width="125" title="Netflix"/><br>825 Bytes</td>
+<td>Hulu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hulu.svg" width="125" title="Hulu"/><br>482 Bytes</td>
 </tr>
 </table>
 
