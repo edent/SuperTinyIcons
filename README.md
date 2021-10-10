@@ -64,6 +64,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Netflix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netflix.svg" width="125" title="Netflix"/><br>825 Bytes</td>
+<td>Hulu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hulu.svg" width="125" title="Hulu"/><br>482 Bytes</td>
 </tr>
 </table>
 
@@ -446,6 +447,7 @@ Say thanks!
 <td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="125" title="C++"/><br>776 Bytes</td>
 <td>Elastic<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elastic.svg" width="125" title="Elastic"/><br>730 Bytes</td>
 <td>TypeScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="125" title="TypeScript"/><br>1014 Bytes</td>
+<td>Dart<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="125" title="Dart"/><br>571 Bytes</td>
 </tr>
 </table>
 
