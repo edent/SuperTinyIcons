@@ -370,6 +370,8 @@ Say thanks!
 <td>KeePassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keepassdx.svg" width="125" title="KeePassDX"/><br>772 Bytes</td>
 <td>WireGuard VPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wireguard.svg" width="125" title="WireGuard"/><br>970 Bytes</td>
 <td>Bugcrowd VPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bugcrowd.svg" width="125" title="Bugcrowd"/><br>799 Bytes</td>
+<td>Citrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/citrix.svg" width="125" title="Citrx"/><br>819 Bytes</td>
+<td>Citrix (compact)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/citrix_compact.svg" width="125" title="Citrx"/><br>438 Bytes</td>
 </tr>
 </table>
 
