@@ -289,3 +289,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/image/svg/citrix_compact.svg" width="256" /> | <img src="/images/reference/citrix-logo-compact.gif" width="256" /> | https://brand.citrix.com/brand-system/compact-mark/
 | <img src="/image/svg/i18next.svg" width="256" /> | <img src="/images/reference/i18next.png" width="256" /> | https://www.i18next.com/
 | <img src="/image/svg/sogo.svg" width="256" /> | <img src="/images/reference/sogo.svg" width="256" /> | https://www.sogo.nu/
+| <img src="/image/svg/todoist.svg" width="256" /> | <img src="/images/reference/todoist.svg" width="256" /> | https://doist.com/press
