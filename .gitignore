@@ -1,1 +1,9 @@
+# OS files #
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Other files #
 /node_modules/
