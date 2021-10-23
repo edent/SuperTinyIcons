@@ -10,7 +10,7 @@ Say thanks!
 
 ## How Small?
 
-| 542 Bytes SVG | 7,225 Bytes PNG | 414 Bytes SVG | 5,568 Bytes PNG | 250 Bytes SVG | 5,031 Bytes PNG |
+| 542 Bytes SVG | 6,475 Bytes PNG | 414 Bytes SVG | 4,743 Bytes PNG | 250 Bytes SVG | 4,478 Bytes PNG |
 | ------------- | --------------- | ------------- | --------------- | ------------- | --------------- |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" /> |
 
@@ -247,6 +247,7 @@ Say thanks!
 <td>Malt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="125" title="Malt"/><br>1015 Bytes</td>
 <td>DataCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="125" title="DataCamp"/><br>491 Bytes</td>
 <td>Lobste.rs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lobsters.svg" width="125" title="Lobste.rs"/><br>676 Bytes</td>
+<td>Quora<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/quora.svg" width="125" title="Quora"/><br>894 Bytes</td>
 </tr>
 </table>
 
