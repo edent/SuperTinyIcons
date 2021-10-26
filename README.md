@@ -528,7 +528,7 @@ Say thanks!
 <td>Olympic Rings<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/olympics.svg" width="125" title="Olympic Rings"/><br>678 Bytes</td>
 <td>Apache Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="125" title="guacamole"/><br>1021 Bytes</td>
 <td>Outlook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="125" title="Outlook"/><br>973 Bytes</td>
-<td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="125" title="Terraform"/><br>405 Bytes</td>
+<td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="125" title="Terraform"/><br>303 Bytes</td>
 <td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="125" title="Todoist"/><br>825 Bytes</td>
 </tr>
 </table>
