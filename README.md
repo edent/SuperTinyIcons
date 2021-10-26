@@ -231,6 +231,7 @@ Say thanks!
 <td>Malt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="125" title="Malt"/><br>1015 Bytes</td>
 <td>DataCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="125" title="DataCamp"/><br>491 Bytes</td>
 <td>Lobste.rs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lobsters.svg" width="125" title="Lobste.rs"/><br>676 Bytes</td>
+<td>Matrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/matrix.svg" width="125" title="Matrix"/><br>899 Bytes</td>
 </tr>
 </table>
 
