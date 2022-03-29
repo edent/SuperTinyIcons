@@ -61,6 +61,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/redhat.svg" width="256"/>	| <img src="/images/reference/redhat.svg" width="256"/>	| https://www.redhat.com/	|
 | <img src="/images/svg/centos.svg" width="256"/>	| <img src="/images/reference/centos.svg" width="256"/>	| https://wiki.centos.org/ArtWork/Brand/Logo	|
 | <img src="/images/svg/ubuntu.svg" width="256" />	| <img src="/images/reference/ubuntu.svg" width="256" />	| https://design.ubuntu.com/brand/ubuntu-logo/	|
+| <img src="/images/svg/manjaro.svg" width="256" /> | <img src="/images/reference/manjaro.jpg" width="256" /> | https://manjaro.org/img/logo.svg |
 | <img src="/images/svg/linux_mint.svg" width="256"/>	| <img src="/images/reference/Linux_Mint_logo_without_wordmark.svg" width="256"/>	| https://commons.wikimedia.org/wiki/File:Linux_Mint_logo_without_wordmark.svg	|
 | <img src="/images/svg/bitbucket.svg" width="256" />	| <img src="/images/reference/bitbucket.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/apple.svg" width="256" />	| <img src="/images/reference/apple.svg" width="256" />	| https://developer.apple.com/softwarelicensing/agreements/pdf/mac_logo_gdlns.pdf	|
@@ -167,6 +168,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/edge.svg" width="256" /> | <img src="/images/reference/Microsoft_Edge_logo_2019.svg" width="256" />  | https://www.microsoft.com/en-us/edge |
 | <img src="/images/svg/opera.svg" width="256" /> | <img src="/images/reference/opera.png" width="256" />  | https://brand.opera.com/ |
 | <img src="/images/svg/firefox.svg" width="256" /> | <img src="/images/reference/firefox.svg" width="256" />  | https://mozilla.design/firefox/logos-usage/ |
+| <img src="/images/svg/brave.svg" width="256" /> | <img src="/images/reference/brave.svg" width="256" />  | https://brave.com/brave-branding-assets/ |
 | <img src="/images/svg/raspberry_pi.svg" width="256" /> | <img src="/images/reference/RPi-Logo-SCREEN.png" width="256" />  | https://www.raspberrypi.org/trademark-rules/ |
 | <img src="/images/svg/venmo.svg" width="256" /> | <img src="/images/reference/venmo-icon.svg" width="256" />  | https://venmo.com/about/brand |
 | <img src="/images/svg/square_cash.svg" width="256" /> | <img src="/images/reference/square-cash-app-logo.jpg" width="256" />  | https://squareup.com/us/en/press |
@@ -271,3 +273,22 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/elastic.svg" width="256" /> | <img src="/images/reference/elastic-vertical-reverse.svg" width="256" /> | https://www.elastic.co |
 | <img src="/images/svg/freebsd.svg" width="256" /> | <img src="/images/reference/freebsd.png" width="256" /> | https://freebsdfoundation.org/about-us/about-the-foundation/project/ |
 | <img src="/images/svg/lobsters.svg" width="256" /> | <img src="/images/reference/lobsters.png" width="256" /> | https://lobste.rs/ |
+| <img src="/images/svg/guacamole.svg" width="256" /> | <img src="/images/reference/guacamole.svg" width="256" /> | https://www.apache.org/logos/?#guacamole |
+| <img src="/images/svg/pornhub.svg" width="256" /> | <img src="/images/reference/pornhub.png" width="256" /> | https://www.pornhub.org/press |
+| <img src="/images/svg/outlook.svg" width="256" /> | <img src="/images/reference/outlook.jpg" width="256" /> | https://ow2.res.office365.com/owalanding/2021.8.25.01/images/outlook-icon.jpg
+| <img src="/images/svg/subscribestar.svg" width="256" /> | <img src="/images/reference/subscribestar.png" width="256" /> | https://www.subscribestar.com/brand
+| <img src="/images/svg/visualstudiocode.svg" width="256" /> | <img src="/images/reference/visualstudiocode.svg" width="256" /> | https://code.visualstudio.com/brand
+| <img src="/images/svg/logitech.svg" width="256" /> | <img src="/images/reference/logitech.png" width="256" /> | https://www.logitech.com/en-au
+| <img src="/images/svg/netflix.svg" width="256" /> | <img src="/images/reference/netflix.png" width="256" /> | https://brand.netflix.com/en/assets/brand-symbol/
+| <img src="/images/svg/terraform.svg" width="256" /> | <img src="/images/reference/Terraform_PrimaryLogo_NonAtt_Color_RGB.svg" width="256" /> | https://www.terraform.io/logos.html
+| <img src="/images/svg/origin.svg" width="256" /> | <img src="/images/reference/origin.jpg" width="256" /> | https://www.origin.com/ |
+| <img src="/images/svg/dart.svg" width="256" /> | <img src="/images/reference/dart.png" width="256" /> | https://dart.dev/brand |
+| <img src="/image/svg/hulu.svg" width="256" /> | <img src="/images/reference/hulu-Green-digital.svg" width="256" /> | https://thisis.hulu.com/#hulu-logo
+| <img src="/image/svg/guilded.svg" width="256" /> | <img src="/images/reference/guilded.png" width="256" /> | https://www.guilded.gg/brand
+| <img src="/image/svg/citrix.svg" width="256" /> | <img src="/images/reference/citrix-logo.svg" width="256" /> | https://brand.citrix.com/brand-system/logo/
+| <img src="/image/svg/citrix_compact.svg" width="256" /> | <img src="/images/reference/citrix-logo-compact.gif" width="256" /> | https://brand.citrix.com/brand-system/compact-mark/
+| <img src="/image/svg/i18next.svg" width="256" /> | <img src="/images/reference/i18next.png" width="256" /> | https://www.i18next.com/
+| <img src="/image/svg/sogo.svg" width="256" /> | <img src="/images/reference/sogo.svg" width="256" /> | https://www.sogo.nu/
+| <img src="/image/svg/todoist.svg" width="256" /> | <img src="/images/reference/todoist.svg" width="256" /> | https://doist.com/press
+| <img src="/image/svg/quora.svg" width="256" /> | <img src="/images/reference/quora.svg" width="256" /> | https://www.quora.com/
+| <img src="/images/svg/deviantart.svg" width="256" /> | <img src="/images/reference/deviantart.png" width="256" /> | https://www.deviantart.com/ |
