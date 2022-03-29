@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="Netflix" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%" fill="#fff"/>
+<path d="M279 89v148l-6-17-8 165 12 33 10 1a757 757 0 0 1 58 5V89h-66z" fill="#b20710"/><path d="M161 89v335l12-1 21-2 32-2 1-71v-71l5 14 2 6 8-165-3-8-12-34v-1h-66z" fill="#b20710"/><linearGradient id="a" x1="209" x2="297" y1="271" y2="241" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#b20710"/><stop offset=".5"/><stop offset="1" stop-color="#b20710"/></linearGradient><path fill="url(#a)" d="M161 89s66 238 66 234v-46l5 14 45 127 10 1a754 754 0 0 1 58 5l-66-236v49l-6-17-34-96-12-34-1-1h-65z"/><path fill="#e50914" d="m161 89 66 188 5 14 45 127 10 1a757 757 0 0 1 58 5l-66-187-6-17-34-96-12-34v-1h-66z"/></svg>
