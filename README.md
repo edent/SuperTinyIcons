@@ -281,7 +281,7 @@ Say thanks!
 <td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="125" title="Firefox" /><br>1022 Bytes</td>
 <td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_internet.svg" width="125" title="Samsung Internet" /><br>346 Bytes</td>
 <td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>964 Bytes</td>
-<td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="125" title="Opera" /><br>721 Bytes</td>
+<td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="125" title="Opera" /><br>470 Bytes</td>
 <td>Safari<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="125" title="Safari" /><br>708 Bytes</td>
 <td>Brave<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/brave.svg" width="125" title="Brave" /><br>1001 Bytes</td>
 </tr>
