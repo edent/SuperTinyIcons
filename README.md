@@ -289,7 +289,7 @@ Say thanks!
 <td>Brave<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/brave.svg" width="125" title="Brave" /><br>1001 Bytes</td>
 </tr>
 <tr>
-<td>Chromium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="125" title="Chromium" /><br>379 Bytes</td>
+<td>Chromium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="125" title="Chromium" /><br>369 Bytes</td>
 </tr>
 </table>
 
