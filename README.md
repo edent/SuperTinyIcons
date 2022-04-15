@@ -280,7 +280,7 @@ Say thanks!
 
 <table>
 <tr>
-<td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="125" title="Chrome" /><br>378 Bytes</td>
+<td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="125" title="Chrome" /><br>364 Bytes</td>
 <td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="125" title="Firefox" /><br>1022 Bytes</td>
 <td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_internet.svg" width="125" title="Samsung Internet" /><br>346 Bytes</td>
 <td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>964 Bytes</td>
@@ -476,6 +476,7 @@ Say thanks!
 <tr>
 <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
 <td>Linux Mint<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux_mint.svg" width="125" title="Linux Mint"/><br>989 Bytes</td>
+<td>NixOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nixos.svg" width="125" title="Nixos"/><br>544 Bytes</td>
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="125" title="FreeBSD"/><br>756 Bytes</td>
 </tr>
@@ -718,9 +719,10 @@ The majority of these vector logos are based on someone else's work.
 - [NHS](https://www.england.nhs.uk/nhsidentity/identity-guidelines/nhs-logo/)
 - [Threema.](https://threema.ch/de/press)
 - [CoreUI](https://github.com/coreui/coreui-icons) - CC-BY
+- [NixOS](https://github.com/NixOS/nixos-artwork) - CC-BY
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
-IBM, Yammer, Android, Authy, Cloudflare, CodePen, DigitalOcean, Discord, Airbnb, WiFi, Delicious, Open Source, Patreon
+IBM, Yammer, Android, Authy, Cloudflare, CodePen, DigitalOcean, Discord, Airbnb, WiFi, Delicious, Open Source, Patreon, Tim Cuthbertson
 
 Where possible, they retain their original licenses. Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
