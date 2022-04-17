@@ -408,7 +408,7 @@ Say thanks!
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="125" title="Python" /><br>559 Bytes</td>
 <td>Julia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/julia.svg" width="125" title="Julia" /><br>298 Bytes</td>
 <td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="125" title="PHP" /><br>595 Bytes</td>
-<td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>523 Bytes</td>
+<td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="125" title="Laravel" /><br>404 Bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="125" title="Drupal" /><br>899 Bytes</td>
 <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="125" title="React" /><br>360 Bytes</td>
 </tr>
