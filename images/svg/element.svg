@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Element" role="img"
-viewBox="0 0 512 512"><rect
+viewBox="0 0 512 512" ><rect
 width="512" height="512"
-rx="15%"
-fill="#fff"/><circle cx="256" cy="256" fill="#0dbd8b" r="192"/><path fill="none" stroke="#fff" stroke-width="28.155" stroke-linecap="round"
-d="m153.25 277.15c.47-46.35 37.79-81.6 81.6-81.6m0-42.3c46.35.47 81.6 37.79 81.6 81.6m42.3 0c-.47 46.35-37.79 81.6-81.6 81.6m0 42.3c-46.35 0-81.6-37.79-81.6-81.6"/></svg>
+rx="15%" 
+fill="#fff"/><circle cx="256" cy="256" r="192" fill="#0dbd8b"/><path d="m153.2 277.1c0.5-46.4 37.8-81.6 81.6-81.6m0-42.3c46.4 0.5 81.6 37.8 81.6 81.6m42.3 0c-0.5 46.4-37.8 81.6-81.6 81.6m0 42.3c-46.4 0-81.6-37.8-81.6-81.6" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="28.155"/></svg>
