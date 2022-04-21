@@ -1,3 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Chrome" role="img"
-viewBox="0 0 512 512"><path d="M256 140h228A256 256 0 0 1 244 511.7" fill="#fc4"/><path d="M357 314 244 511.7A256 256 0 0 1 40 118" fill="#0f9d58"/><path d="M256 140h228A256 256 1 0 0 40 118L155 314" fill="#db4437"/><circle cx="256" cy="256" r="105" fill="#4285f4" stroke="#f1f1f1" stroke-width="24"/></svg>
+viewBox="0 0 512 512"><circle fill="#fc4" r="256" cy="256" cx="256" /><path fill="#0f9d58" d="M357 314L244 511.7A256 256 0 0140 118"/><path fill="#db4437" d="M256 140h228a256 256 1 00-444-22l115 196"/><circle cx="256" cy="256" r="105" fill="#4285f4" stroke="#f1f1f1" stroke-width="24"/></svg>
