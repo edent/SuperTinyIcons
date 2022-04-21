@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="Redis"
+viewBox="0 0 512 512"><rect width="512" height="512"
+fill="#fff"
+rx="15%"/><use transform="translate(0 124)" xlink:href="#a"/><use transform="translate(0 124)" xlink:href="#b"/><use transform="translate(0 62)" xlink:href="#a"/><use transform="translate(0 62)" xlink:href="#b"/><path id="a" fill="#a32422" d="M430 220c-20 11-125 53-148 65s-35 12-52 3c-18-8-129-54-150-63-10-5-15.5-9-15.5-13v-39l381-5.5V207c0 4-4.5 8-15.5 13z"/><path id="b" fill="#dc382c" d="M430 181c-20 10-125 53-148 65s-35 12-52 3c-18-8-129-54-150-63-20-10-21-16-1-24s131-51 155-60 32-9 52-1c20 7 125 49 144 56 20 7 21 13 0 24z"/><path fill="#741113" d="M344 189v-41l52 21z"/><path fill="#ac2724" d="M344 189l-6 2-52-19.9 58-23z"/><path fill="#fff" d="M253 145l-38-3 28-10-9-16 27 10 25-8-7 16 26 10-33 3-7 18zm37 46l-27 39-62-26zm-112-37c26 0 47 8 47 18s-21 18-47 18-47-8-47-18 21-18 47-18z"/></svg>
