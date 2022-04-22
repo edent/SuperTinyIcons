@@ -537,7 +537,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="125" title="Todoist"/><br>825 Bytes</td>
-<td>Redis<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redis.svg" width="125" title="Redis"/><br>971 Bytes</td>
+<td>Redis<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redis.svg" width="125" title="Redis"/><br>896 Bytes</td>
 </tr>
 </table>
 
