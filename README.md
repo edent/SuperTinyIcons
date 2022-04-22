@@ -534,7 +534,10 @@ Say thanks!
 <td>Apache Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="125" title="guacamole"/><br>1021 Bytes</td>
 <td>Outlook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="125" title="Outlook"/><br>973 Bytes</td>
 <td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="125" title="Terraform"/><br>303 Bytes</td>
+</tr>
+<tr>
 <td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="125" title="Todoist"/><br>825 Bytes</td>
+<td>Redis<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redis.svg" width="125" title="Redis"/><br>896 Bytes</td>
 </tr>
 </table>
 
