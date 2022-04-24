@@ -37,8 +37,7 @@ files.forEach((filename, i) => {
         
         it("should match readme size", () => {
             for(line of readmeLines) {
-                if(line.includes("/svg/"+filename)) {
-					console.log(line)
+                if(line.includes("/svg/"+filename+"\" width=\"125\"")) {
                     const size = parseInt(line.match(readmeRegex)[1])
                     expect(fs.statSync(filepath).size).to.equal(size)
                     break
