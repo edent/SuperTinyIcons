@@ -12,7 +12,6 @@ const readmeRegex = new RegExp("<br>(\\d{1,4}) Bytes<\/td>")
 
 files.forEach((filename, i) => {
     if (! filename.endsWith(".svg")) {return}
-	if (i > 3) {return}
     const filepath = svgDir + filename
     describe(filename, async () => {
         it("should exists", () => {
