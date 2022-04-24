@@ -7,42 +7,7 @@
     android:pathData="M0,0h512v512h-512z"
     android:fillColor="#fff"/>
   <path
-    android:pathData="m103 136v226l130 73 132-73v-75l-68-38-64 37v-150l-66-38z"
-    android:strokeWidth="11"
-    android:fillColor="#00000000"
-    android:strokeColor="#ff2d20"/>
-  <path
-    android:pathData="m103 136 64 38v151l66 37 132-75"
-    android:strokeWidth="11"
-    android:fillColor="#00000000"
-    android:strokeColor="#ff2d20"/>
-  <path
-    android:pathData="m167 175 66-38"
-    android:strokeWidth="11"
-    android:fillColor="#00000000"
-    android:strokeColor="#ff2d20"/>
-  <path
-    android:pathData="m167 325 66-39"
-    android:strokeWidth="11"
-    android:fillColor="#00000000"
-    android:strokeColor="#ff2d20"/>
-  <path
-    android:pathData="m233 362v73"
-    android:strokeWidth="11"
-    android:fillColor="#00000000"
-    android:strokeColor="#ff2d20"/>
-  <path
-    android:pathData="m365 287 66-38v-78l-66-38-68 38v78"
-    android:strokeWidth="11"
-    android:fillColor="#00000000"
-    android:strokeColor="#ff2d20"/>
-  <path
-    android:pathData="m297 171 68 39 66-39"
-    android:strokeWidth="11"
-    android:fillColor="#00000000"
-    android:strokeColor="#ff2d20"/>
-  <path
-    android:pathData="m365 209v75"
+    android:pathData="m233 435-130-73V136l64-38 66 39-66 38-64-39m64 39v150l66 37v73l132-73v-75l-68-38v-78l68-38 66 38v78l-66 38v-77l66-39m-66 39-68-39v78l-130 76m66-39V137m0 225 132-75"
     android:strokeWidth="11"
     android:fillColor="#00000000"
     android:strokeColor="#ff2d20"/>
