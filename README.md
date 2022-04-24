@@ -50,7 +50,7 @@ Say thanks!
 <td>SoundCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="125" title="SoundCloud" /><br>959 Bytes</td>
 <td>Vimeo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vimeo.svg" width="125" title="Vimeo" /><br>376 Bytes</td>
 <td>Spotify<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="125" title="Spotify" /><br>436 Bytes</td>
-<td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="125" title="YouTube" /><br>359 Bytes</td>
+<td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="125" title="YouTube" /><br>352 Bytes</td>
 <td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="125" title="Apple Music" /><br>514 Bytes</td>
 <td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="125" title="Bandcamp" /><br>200 Bytes</td>
 </tr>
