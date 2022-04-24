@@ -343,7 +343,7 @@ Say thanks!
 <td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="125" title="Pixelfed"/><br>989 Bytes</td>
 <td>Samsung<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung.svg" width="125" title="Samsung"/><br>872 Bytes</td>
 <td>Samsung (alt.)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_s.svg" width="125" title="Samsung"/><br>617 Bytes</td>
-<td>Samsung (alt. 2)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="125" title="Samsung"/><br>899 Bytes</td>3
+<td>Samsung (alt. 2)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="125" title="Samsung"/><br>893 Bytes</td>3
 </tr>
 <tr>
 <td>Uphold<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="125" title="Uphold"/><br>819 Bytes</td>
