@@ -291,7 +291,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/image/svg/i18next.svg" width="256" /> | <img src="/images/reference/i18next.png" width="256" /> | https://www.i18next.com/
 | <img src="/image/svg/sogo.svg" width="256" /> | <img src="/images/reference/sogo.svg" width="256" /> | https://www.sogo.nu/
 | <img src="/image/svg/todoist.svg" width="256" /> | <img src="/images/reference/todoist.svg" width="256" /> | https://doist.com/press
-| <img src="/image/svg/quora.svg" width="256" /> | <img src="/images/reference/quora.svg" width="256" /> | https://www.quora.com/
+| <img src="/image/svg/quora.svg" width="256" /> | <img src="/images/reference/quora.jpg" width="256" /> | https://www.quora.com/
 | <img src="/images/svg/deviantart.svg" width="256" /> | <img src="/images/reference/deviantart.png" width="256" /> | https://www.deviantart.com/ |
 | <img src="/images/svg/jsonfeed.svg" width="256" /> | <img src="/images/reference/jsonfeed.png" width="256" /> | https://www.jsonfeed.org/ |
 | <img src="/images/svg/godot.svg" width="256" /> | <img src="/images/reference/godot.svg" width="256" /> | https://godotengine.org/press/ |
