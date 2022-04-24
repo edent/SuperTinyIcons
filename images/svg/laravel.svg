@@ -3,4 +3,4 @@ aria-label="Laravel" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
 rx="15%"
-fill="#fff"/><style>path{stroke:#ff2d20;stroke-linejoin:round;stroke-width:11;fill:none}</style><path d="m103 136v226l130 73 132-73v-75l-68-38-64 37v-150l-66-38z"/><path d="m103 136 64 38v151l66 37 132-75"/><path d="m167 175 66-38"/><path d="m167 325 66-39"/><path d="m233 362v73"/><path d="m365 287 66-38v-78l-66-38-68 38v78"/><path d="m297 171 68 39 66-39"/><path d="m365 209v75"/></svg>
+fill="#fff"/><path stroke="#ff2d20" fill="none" stroke-width="11" stroke-linejoin="round" d="m233 435-130-73V136l64-38 66 39-66 38-64-39m64 39v150l66 37v73l132-73v-75l-68-38v-78l68-38 66 38v78l-66 38v-77l66-39m-66 39-68-39v78l-130 76m66-39V137m0 225 132-75"/></svg>

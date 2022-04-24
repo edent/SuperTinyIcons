@@ -2,5 +2,5 @@
 aria-label="Jellyfin" role="img"
 viewBox="0 0 512 512" ><rect
 width="512" height="512"
-rx="15%" 
-fill="#fff"/><defs><path id="A" d="m190.6 329.1c8.6 17.3 122.4 17.1 130.9 0s-47.9-119.8-65.5-119.8-74.1 102.5-65.5 119.8z"/><linearGradient id="B" x1="126.15" x2="457.68" y1="219.32" y2="410.73" gradientUnits="userSpaceOnUse"><stop stop-color="#aa5cc3" offset="0"/><stop stop-color="#00a4dc" offset="1"/></linearGradient><path id="C" d="m58.8 417c26 52.1 368.9 51.5 394.6 0s-144.5-360.9-197.4-360.9-223.2 308.8-197.3 360.9zm68-45.2c-17-34.2 94.6-236.5 129.3-236.5s146.1 202.7 129.3 236.5-241.5 34.2-258.5 0z"/></defs><use fill="url(#B)" xlink:href="#A"/><use fill-opacity="0" stroke="#000" stroke-opacity="0" xlink:href="#A"/><use fill="url(#B)" xlink:href="#C"/><use fill-opacity="0" stroke="#000" stroke-opacity="0" xlink:href="#C"/></svg>
+rx="15%"
+fill="#fff"/><defs><linearGradient id="A" gradientUnits="userSpaceOnUse" x1="126.15" y1="219.32" x2="457.68" y2="410.73"><stop offset="0" stop-color="#aa5cc3"/><stop offset="1" stop-color="#00a4dc"/></linearGradient></defs><path fill="url(#A)" d="M256 56.1C203.1 56.1 32.8 364.9 58.7 417s369 51.6 394.7 0S308.9 56.1 256 56.1zm0 79.1c34.7 0 146.1 202.7 129.3 236.5s-241.5 34.2-258.5 0S221.3 135.2 256 135.2zm0 74.1c-17.6 0-74.1 102.5-65.5 119.8s122.5 17.1 131 0-47.9-119.8-65.5-119.8z"/></svg>
