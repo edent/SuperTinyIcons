@@ -458,6 +458,7 @@ Say thanks!
 <td>TypeScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="125" title="TypeScript"/><br>1014 Bytes</td>
 <td>Dart<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="125" title="Dart"/><br>564 Bytes</td>
 <td>i18next<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/i18next.svg" width="125" title="i18next"/><br>728 Bytes</td>
+<td>Godot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="125" title="Godot"/><br>998 Bytes</td>
 </tr>
 </table>
 
