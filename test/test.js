@@ -1,6 +1,6 @@
 const expect = require("chai").expect
 const fs = require("fs")
-const fetch = require("node-fetch")
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 const svgDir = __dirname + "/../images/svg/"
 
@@ -22,7 +22,7 @@ files.forEach((filename, i) => {
             await fetch("https://validator.w3.org/nu/?out=gnu", {
                     method: "POST",
                     body: fs.readFileSync(filepath, "utf8").replace(/aria-label="[^"]+"/g, ""),
-                    headers: new fetch.Headers([["Content-Type", "application/xml"]])
+                    headers: {"Content-Type": "application/xml"}
                 })
                 .then(res => (console.log(i + 1, "/", files.length), res))
                 .then(res => res.text())
