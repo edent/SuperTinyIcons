@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is _under_ 465 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. The average size is _under_ 568 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
