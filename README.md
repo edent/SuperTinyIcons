@@ -350,6 +350,7 @@ Say thanks!
 <td>CoinPot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coinpot.svg" width="125" title="CoinPot"/><br>739 Bytes</td>
 <td>This American Life<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/thisamericanlife.svg" width="125" title="This American Life"/><br>302 Bytes</td>
 <td>WHATWG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatwg.svg" width="125" title="WHATWG"/><br>423 Bytes</td>
+<td>Pop!_OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/popos.svg" width="125" title="Pop!_OS"/><br>450 Bytes</td>
 </tr>
 </table>
 
