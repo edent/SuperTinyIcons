@@ -40,6 +40,7 @@ Say thanks!
 <td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="125" title="Goodreads"/><br>669 Bytes</td>
 <td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="125" title="TikTok"/><br>433 Bytes</td>
 <td>Friendica<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/friendica.svg" width="125" title="Friendica"/><br>847 Bytes</td>
+<td>Misskey<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/misskey.svg" width="125" title="Misskey" /><br>758 Bytes</td>
 </tr>
 </table>
 
