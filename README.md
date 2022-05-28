@@ -39,6 +39,7 @@ Say thanks!
 <td>dev.to<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="125" title="dev.to"/><br>556 Bytes</td>
 <td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="125" title="Goodreads"/><br>669 Bytes</td>
 <td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="125" title="TikTok"/><br>433 Bytes</td>
+<td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="125" title="Pixelfed"/><br>989 Bytes</td>
 <td>Friendica<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/friendica.svg" width="125" title="Friendica"/><br>847 Bytes</td>
 </tr>
 </table>
@@ -340,7 +341,6 @@ Say thanks!
 <tr>
 <td>Adobe<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/adobe.svg" width="125" title="Adobe"/><br>237 Bytes</td>
 <td>Homekit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/homekit.svg" width="125" title="Homekit"/><br>821 Bytes</td>
-<td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="125" title="Pixelfed"/><br>989 Bytes</td>
 <td>Samsung<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung.svg" width="125" title="Samsung"/><br>872 Bytes</td>
 <td>Samsung (alt.)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_s.svg" width="125" title="Samsung"/><br>617 Bytes</td>
 <td>Samsung (alt. 2)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="125" title="Samsung"/><br>893 Bytes</td>3
