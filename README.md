@@ -535,7 +535,7 @@ Say thanks!
 <td>Jacobin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jacobin.svg" width="125" title="Jacobin Magazine"/><br>241 Bytes</td>
 <td>Keskonfai.fr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keskonfai.svg" width="125" title="Keskonfai"/><br>700 Bytes</td>
 <td>Olympic Rings<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/olympics.svg" width="125" title="Olympic Rings"/><br>678 Bytes</td>
-<td>Apache Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="125" title="guacamole"/><br>1021 Bytes</td>
+<td>Apache Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="125" title="guacamole"/><br>697 Bytes</td>
 <td>Outlook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="125" title="Outlook"/><br>896 Bytes</td>
 <td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="125" title="Terraform"/><br>303 Bytes</td>
 <td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="125" title="Todoist"/><br>771 Bytes</td>
