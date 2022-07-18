@@ -275,6 +275,7 @@ Say thanks!
 </tr>
 <tr>
 <td>JSON Feed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jsonfeed.svg" width="125" title="JSON Feed" /><br>684 Bytes</td>
+<td>WebMention<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webmention.svg" width="125" title="WebMention" /><br>324 Bytes</td>
 </tr>
 </table>
 
