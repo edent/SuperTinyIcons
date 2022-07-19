@@ -274,7 +274,7 @@ Say thanks!
 <tr>
 <td>JSON Feed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jsonfeed.svg" width="125" title="JSON Feed" /><br>684 Bytes</td>
 <td>WebMention<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webmention.svg" width="125" title="WebMention" /><br>324 Bytes</td>
-<td>JSON-LD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/json-ld.svg" width="125" title="JSON-LD" /><br>767 Bytes</td>
+<td>JSON-LD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/json-ld.svg" width="125" title="JSON-LD" /><br>921 Bytes</td>
 </tr>
 </table>
 
