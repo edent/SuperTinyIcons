@@ -298,3 +298,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/webmention.svg" width="256" /> | <img src="/images/reference/webmention.svg" width="256" /> | https://indieweb.org/File:webmention-logo.svg |
 | <img src="/images/svg/json-ld.svg" width="256" /> | <img src="/images/reference/json-ld.svg" width="256" /> | https://json-ld.org/images/ |
 | <img src="/images/svg/floatplane.svg" width="256" /> | <img src="/images/reference/floatplane.svg" width="256" /> | https://www.floatplane.com/ |
+| <img src="/images/svg/zorinos.svg" width="256" /> | <img src="/images/reference/zorin.png" width="256" /> | https://zorin.com/press/ |
+| <img src="/images/svg/netbeans.svg" width="256" /> | <img src="/images/reference/netbeans.png" width="256" /> | https://www.apache.org/logos/res/netbeans/netbeans.png |
