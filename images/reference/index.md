@@ -300,3 +300,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/floatplane.svg" width="256" /> | <img src="/images/reference/floatplane.svg" width="256" /> | https://www.floatplane.com/ |
 | <img src="/images/svg/zorinos.svg" width="256" /> | <img src="/images/reference/zorin.png" width="256" /> | https://zorin.com/press/ |
 | <img src="/images/svg/netbeans.svg" width="256" /> | <img src="/images/reference/netbeans.png" width="256" /> | https://www.apache.org/logos/res/netbeans/netbeans.png |
+| <img src="/images/svg/solidity.svg" width="256" /> | <img src="/images/reference/solidity.svg" width="256" /> | https://docs.soliditylang.org/en/latest/brand-guide.html |
