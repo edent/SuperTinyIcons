@@ -483,7 +483,7 @@ Say thanks!
 <td>NixOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nixos.svg" width="125" title="Nixos"/><br>543 Bytes</td>
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="125" title="FreeBSD"/><br>756 Bytes</td>
-<td>Zorin OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="125" title="Zorin OS"/><br>458 Bytes</td>
+<td>Zorin OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="125" title="Zorin OS"/><br>430 Bytes</td>
 </tr>
 </table>
 
@@ -549,7 +549,7 @@ Say thanks!
 <tr>
 <td>Sublime Text<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="125" title="Sublime Text" /><br>728 Bytes</td>
 <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br>923 Bytes</td>
-<td>Apache Netbeans<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netbeans.svg" width="125" title="Apache Netbeans"/><br>777 Bytes</td>
+<td>Apache Netbeans<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netbeans.svg" width="125" title="Apache Netbeans"/><br>721 Bytes</td>
 </tr>
 </table>
 
