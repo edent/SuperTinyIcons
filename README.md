@@ -250,6 +250,7 @@ Say thanks!
 <td>DataCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="125" title="DataCamp"/><br>491 Bytes</td>
 <td>Lobste.rs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lobsters.svg" width="125" title="Lobste.rs"/><br>536 Bytes</td>
 <td>Quora<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/quora.svg" width="125" title="Quora"/><br>282 Bytes</td>
+<td>Gitpod<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitpod.svg" width="125" title="Gitpod"/><br>783 Bytes</td>
 </tr>
 </table>
 
