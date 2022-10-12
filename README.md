@@ -463,6 +463,9 @@ Say thanks!
 <td>i18next<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/i18next.svg" width="125" title="i18next"/><br>728 Bytes</td>
 <td>Godot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="125" title="Godot"/><br>998 Bytes</td>
 </tr>
+<tr>
+<td>Solidity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="125" title="Solidity"/><br>565 Bytes</td>
+</tr>
 </table>
 
 ### Operating Systems / Kernel
