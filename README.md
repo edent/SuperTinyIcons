@@ -546,6 +546,9 @@ Say thanks!
 <td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="125" title="Terraform"/><br>303 Bytes</td>
 <td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="125" title="Todoist"/><br>771 Bytes</td>
 </tr>
+<tr>
+<td>Sublime Merge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimemerge.svg" width="125" title="Sublime Merge"/><br>566 Bytes</td>
+</tr>
 </table>
 
 ### Text editors
