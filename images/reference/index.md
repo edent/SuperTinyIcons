@@ -61,7 +61,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/redhat.svg" width="256"/>	| <img src="/images/reference/redhat.svg" width="256"/>	| https://www.redhat.com/	|
 | <img src="/images/svg/centos.svg" width="256"/>	| <img src="/images/reference/centos.svg" width="256"/>	| https://wiki.centos.org/ArtWork/Brand/Logo	|
 | <img src="/images/svg/ubuntu.svg" width="256" />	| <img src="/images/reference/ubuntu.svg" width="256" />	| https://design.ubuntu.com/brand/ubuntu-logo/	|
-| <img src="/images/svg/manjaro.svg" width="256" /> | <img src="/images/reference/manjaro.jpg" width="256" /> | https://manjaro.org/img/logo.svg |
+| <img src="/images/svg/manjaro.svg" width="256" /> | <img src="/images/reference/manjaro.svg" width="256" /> | https://manjaro.org/img/logo.svg |
 | <img src="/images/svg/linux_mint.svg" width="256"/>	| <img src="/images/reference/Linux_Mint_logo_without_wordmark.svg" width="256"/>	| https://commons.wikimedia.org/wiki/File:Linux_Mint_logo_without_wordmark.svg	|
 | <img src="/images/svg/nixos.svg" width="256" /> | <img src="/images/reference/nixos.svg" width="256" /> | https://github.com/NixOS/nixos-artwork/blob/master/logo/README.md |
 | <img src="/images/svg/bitbucket.svg" width="256" />	| <img src="/images/reference/bitbucket.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
@@ -209,7 +209,6 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/iheartradio.svg" width="256"/> | <img src="/images/reference/iheartradio.png" width="256" /> | https://www.iheart.com/ |
 | <img src="/images/svg/semaphoreci.svg" width="256" /> | <img src="/images/reference/semaphoreci.png" width="256" /> | https://twitter.com/semaphoreci |
 | <img src="/images/svg/ubiquiti.svg" width="256"/> | <img src="/images/reference/ubiquiti.jpg" width="256"/> | https://pbs.twimg.com/profile_images/862701781368713216/B7oW421__400x400.jpg |
-| <img src="/images/svg/verizon.svg" width="256"/> | <img src="/images/reference/verizon.png" width="256"/> | https://apps.apple.com/us/app/my-verizon/id416023011 |
 | <img src="/images/svg/wekan.svg" width="256"/> | <img src="/images/reference/wekan.svg" width="256"/> | https://github.com/wekan/wekan/blob/master/public/wekan-logo-150.svg |
 | <img src="/images/svg/kemal.svg" width="256"/> | <img src="/images/reference/kemal.png" width="256"/> | https://raw.githubusercontent.com/kemalcr/kemalcr.com/master/img/kemal.png |
 | <img src="/images/svg/rubyonrails.svg" width="256"/> | <img src="/images/reference/rubyonrails_favicon.png" width="256"/> | https://rubyonrails.org/trademarks/ |
@@ -282,19 +281,23 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/logitech.svg" width="256" /> | <img src="/images/reference/logitech.png" width="256" /> | https://www.logitech.com/en-au
 | <img src="/images/svg/netflix.svg" width="256" /> | <img src="/images/reference/netflix.png" width="256" /> | https://brand.netflix.com/en/assets/brand-symbol/
 | <img src="/images/svg/terraform.svg" width="256" /> | <img src="/images/reference/Terraform_PrimaryLogo_NonAtt_Color_RGB.svg" width="256" /> | https://www.terraform.io/logos.html
-| <img src="/images/svg/origin.svg" width="256" /> | <img src="/images/reference/origin.jpg" width="256" /> | https://www.origin.com/ |
+| <img src="/images/svg/origin.svg" width="256" /> | <img src="/images/reference/origin.png" width="256" /> | https://www.origin.com/ |
 | <img src="/images/svg/dart.svg" width="256" /> | <img src="/images/reference/dart.png" width="256" /> | https://dart.dev/brand |
-| <img src="/image/svg/hulu.svg" width="256" /> | <img src="/images/reference/hulu-Green-digital.svg" width="256" /> | https://thisis.hulu.com/#hulu-logo
-| <img src="/image/svg/guilded.svg" width="256" /> | <img src="/images/reference/guilded.png" width="256" /> | https://www.guilded.gg/brand
-| <img src="/image/svg/citrix.svg" width="256" /> | <img src="/images/reference/citrix-logo.svg" width="256" /> | https://brand.citrix.com/brand-system/logo/
-| <img src="/image/svg/citrix_compact.svg" width="256" /> | <img src="/images/reference/citrix-logo-compact.gif" width="256" /> | https://brand.citrix.com/brand-system/compact-mark/
-| <img src="/image/svg/i18next.svg" width="256" /> | <img src="/images/reference/i18next.png" width="256" /> | https://www.i18next.com/
-| <img src="/image/svg/sogo.svg" width="256" /> | <img src="/images/reference/sogo.svg" width="256" /> | https://www.sogo.nu/
-| <img src="/image/svg/todoist.svg" width="256" /> | <img src="/images/reference/todoist.svg" width="256" /> | https://doist.com/press
-| <img src="/image/svg/quora.svg" width="256" /> | <img src="/images/reference/quora.jpg" width="256" /> | https://www.quora.com/
+| <img src="/images/svg/hulu.svg" width="256" /> | <img src="/images/reference/hulu-Green-digital.svg" width="256" /> | https://thisis.hulu.com/#hulu-logo
+| <img src="/images/svg/guilded.svg" width="256" /> | <img src="/images/reference/guilded.png" width="256" /> | https://www.guilded.gg/brand
+| <img src="/images/svg/citrix.svg" width="256" /> | <img src="/images/reference/citrix-logo.svg" width="256" /> | https://brand.citrix.com/brand-system/logo/
+| <img src="/images/svg/citrix_compact.svg" width="256" /> | <img src="/images/reference/citrix-logo-compact.gif" width="256" /> | https://brand.citrix.com/brand-system/compact-mark/
+| <img src="/images/svg/i18next.svg" width="256" /> | <img src="/images/reference/i18next.png" width="256" /> | https://www.i18next.com/
+| <img src="/images/svg/sogo.svg" width="256" /> | <img src="/images/reference/sogo.svg" width="256" /> | https://www.sogo.nu/
+| <img src="/images/svg/todoist.svg" width="256" /> | <img src="/images/reference/todoist.png" width="256" /> | https://doist.com/press
+| <img src="/images/svg/quora.svg" width="256" /> | <img src="/images/reference/quora.jpg" width="256" /> | https://www.quora.com/
 | <img src="/images/svg/deviantart.svg" width="256" /> | <img src="/images/reference/deviantart.png" width="256" /> | https://www.deviantart.com/ |
 | <img src="/images/svg/jsonfeed.svg" width="256" /> | <img src="/images/reference/jsonfeed.png" width="256" /> | https://www.jsonfeed.org/ |
 | <img src="/images/svg/godot.svg" width="256" /> | <img src="/images/reference/godot.svg" width="256" /> | https://godotengine.org/press/ |
 | <img src="/images/svg/webmention.svg" width="256" /> | <img src="/images/reference/webmention.svg" width="256" /> | https://indieweb.org/File:webmention-logo.svg |
 | <img src="/images/svg/json-ld.svg" width="256" /> | <img src="/images/reference/json-ld.svg" width="256" /> | https://json-ld.org/images/ |
 | <img src="/images/svg/floatplane.svg" width="256" /> | <img src="/images/reference/floatplane.svg" width="256" /> | https://www.floatplane.com/ |
+| <img src="/images/svg/zorinos.svg" width="256" /> | <img src="/images/reference/zorin.png" width="256" /> | https://zorin.com/press/ |
+| <img src="/images/svg/netbeans.svg" width="256" /> | <img src="/images/reference/netbeans.png" width="256" /> | https://www.apache.org/logos/res/netbeans/netbeans.png |
+| <img src="/images/svg/solidity.svg" width="256" /> | <img src="/images/reference/solidity.svg" width="256" /> | https://docs.soliditylang.org/en/latest/brand-guide.html |
+| <img src="/images/svg/gitpod.svg" width="256" /> | <img src="/images/reference/gitpod.svg" width="256" /> | https://www.gitpod.io/media-kit |

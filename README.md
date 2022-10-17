@@ -250,6 +250,7 @@ Say thanks!
 <td>DataCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="125" title="DataCamp"/><br>491 Bytes</td>
 <td>Lobste.rs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lobsters.svg" width="125" title="Lobste.rs"/><br>536 Bytes</td>
 <td>Quora<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/quora.svg" width="125" title="Quora"/><br>282 Bytes</td>
+<td>Gitpod<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitpod.svg" width="125" title="Gitpod"/><br>783 Bytes</td>
 </tr>
 </table>
 
@@ -463,6 +464,9 @@ Say thanks!
 <td>i18next<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/i18next.svg" width="125" title="i18next"/><br>728 Bytes</td>
 <td>Godot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="125" title="Godot"/><br>998 Bytes</td>
 </tr>
+<tr>
+<td>Solidity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="125" title="Solidity"/><br>565 Bytes</td>
+</tr>
 </table>
 
 ### Operating Systems / Kernel
@@ -483,6 +487,7 @@ Say thanks!
 <td>NixOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nixos.svg" width="125" title="Nixos"/><br>543 Bytes</td>
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="125" title="FreeBSD"/><br>756 Bytes</td>
+<td>Zorin OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="125" title="Zorin OS"/><br>430 Bytes</td>
 </tr>
 </table>
 
@@ -548,6 +553,7 @@ Say thanks!
 <tr>
 <td>Sublime Text<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="125" title="Sublime Text" /><br>728 Bytes</td>
 <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br>923 Bytes</td>
+<td>Apache Netbeans<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netbeans.svg" width="125" title="Apache Netbeans"/><br>721 Bytes</td>
 </tr>
 </table>
 

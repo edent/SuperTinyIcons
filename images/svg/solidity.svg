@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Solidity" role="img"
+viewBox="0 0 512 512" ><rect
+width="512" height="512"
+rx="15%" 
+fill="#fff"/><path opacity=".4" d="m314.5 73.6-58.6 104h-117l58.5-104h117.1"/><path opacity=".6" d="M255.9 177.6h117l-58.4-104H197.4l58.5 104"/><path opacity=".8" d="m197.4 281.7 58.5-104.1-58.5-104-58.5 104 58.5 104.1"/><path opacity=".4" d="m198 437.8 58.5-104h117l-58.4 104H198"/><path opacity=".6" d="M256.6 333.7H139.5l58.5 104h117l-58.4-104"/><path opacity=".8" d="m315.1 229.7-58.5 104 58.5 104 58.5-104-58.5-104"/></svg>

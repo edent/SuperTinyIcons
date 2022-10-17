@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="..." role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/>
+   <polygon points="120,140,150,80,365,80,400,140" fill="#15a6f0" />
+   <polygon points="50,260,85,200,310,200,85,320" fill="#15a6f0" />
+   <polygon points="120,380,150,440,365,440,400,380" fill="#15a6f0" />
+   <polygon points="210,320,430,320,465,260,430,200" fill="#15a6f0" />
+</svg>
