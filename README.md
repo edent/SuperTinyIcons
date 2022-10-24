@@ -491,6 +491,7 @@ Say thanks!
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="125" title="FreeBSD"/><br>756 Bytes</td>
 <td>Zorin OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="125" title="Zorin OS"/><br>430 Bytes</td>
+<td>Endeavour OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/endeavouros.svg" width="125" title="Endeavour OS"/><br>639 Bytes</td>
 </tr>
 </table>
 
