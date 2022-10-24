@@ -551,6 +551,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Sublime Merge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimemerge.svg" width="125" title="Sublime Merge"/><br>566 Bytes</td>
+<td>Vagrant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vagrant.svg" width="125" title="Vagrant"/><br>553 Bytes</td>
 </tr>
 </table>
 
