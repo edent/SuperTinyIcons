@@ -41,6 +41,7 @@ Say thanks!
 <td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="125" title="TikTok"/><br>433 Bytes</td>
 <td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="125" title="Pixelfed"/><br>989 Bytes</td>
 <td>Friendica<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/friendica.svg" width="125" title="Friendica"/><br>847 Bytes</td>
+<td>Matrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/matrix.svg" width="125" title="Matrix"/><br>673 Bytes</td>
 <td>Linear<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linearapp.svg" width="125" title="Linear"/><br>483 Bytes</td>
 </tr>
 </table>
@@ -490,6 +491,7 @@ Say thanks!
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="125" title="FreeBSD"/><br>756 Bytes</td>
 <td>Zorin OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="125" title="Zorin OS"/><br>430 Bytes</td>
+<td>Endeavour OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/endeavouros.svg" width="125" title="Endeavour OS"/><br>639 Bytes</td>
 </tr>
 </table>
 
