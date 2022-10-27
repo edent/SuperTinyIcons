@@ -90,6 +90,7 @@ Say thanks!
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="125" title="Google Maps" /><br>778 Bytes</td>
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="125" title="Google Scholar" /><br>533 Bytes</td>
 <td>Google CoLaboratory<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/colaboratory.svg" width="125" title="Google CoLaboratory" /><br>599 Bytes</td>
+<td>Google Assistant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_assistant.svg" width="125" title="Google Assistant" /><br>489 Bytes</td>
 </tr>
 </table>
 
