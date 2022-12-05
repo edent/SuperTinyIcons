@@ -563,7 +563,7 @@ Say thanks!
 <td>Sublime Text<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="125" title="Sublime Text" /><br>728 Bytes</td>
 <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br>923 Bytes</td>
 <td>Apache Netbeans<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netbeans.svg" width="125" title="Apache Netbeans"/><br>721 Bytes</td>
-<td>Atom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="125" title="Atom"/><br>738 Bytes</td>
+<td>Atom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="125" title="Atom"/><br>380 Bytes</td>
 </tr>
 </table>
 
