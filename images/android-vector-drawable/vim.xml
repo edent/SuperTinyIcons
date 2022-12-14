@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <path
+        android:fillColor="#fff"
+        android:pathData="M 15 0 L 497 0 Q 512 0 512 15 L 512 497 Q 512 512 497 512 L 15 512 Q 0 512 0 497 L 0 15 Q 0 0 15 0 Z" />
+    <path
+        android:fillColor="#007f00"
+        android:strokeColor="#000"
+        android:strokeWidth=".8"
+        android:pathData="M30 0-30 30 30 30 30-30z" />
+    <path
+        android:fillColor="#bfbfbf"
+        android:strokeColor="#000"
+        android:strokeWidth="2.5"
+        android:pathData="M8 5-2 2v4l2 1h2v40l3 2h3l43-44v-3l-2-2h-17l-2 2v4l2 1h2l-1 1-17 16v-17h2l2-1v-4l-2-2z" />
+    <path
+        android:fillColor="#bfbfbf"
+        android:pathData="M8 5-2 2v4l2 1h2v40l3 2h3l43-44v-3l-2-2h-17l-2 2v4l2 1h2l-1 1-17 16v-17h2l2-1v-4l-2-2z" />
+    <path
+        android:fillColor="#bfbfbf"
+        android:strokeColor="#000"
+        android:strokeWidth="2.5"
+        android:pathData="M31 36h3v3h-3z" />
+    <path
+        android:fillColor="#bfbfbf"
+        android:strokeColor="#000"
+        android:strokeWidth="2.5"
+        android:pathData="M30.5 42-0.5-1h4l-4 11.5h1v1.5h-5v-1.5h1z" />
+    <path
+        android:fillColor="#bfbfbf"
+        android:strokeColor="#000"
+        android:strokeWidth="2.5"
+        android:pathData="M38 41h5l1 1 1-1h4l1 1 1-1h5l1 1v3l-3 7.5h1v1.5h-5v-1.5h1l3-7.5h-5l-3 7.5h1v1.5h-5v-1.5h1l3-7.5h-5l-3 7.5h1v1.5h-5v-1.5h1l3.5-10.5z" />
+    <path
+        android:fillColor="#bfbfbf"
+        android:pathData="M31 36h3v3h-3z" />
+    <path
+        android:fillColor="#bfbfbf"
+        android:pathData="M30.5 42-0.5-1h4l-4 11.5h1v1.5h-5v-1.5h1z" />
+    <path
+        android:fillColor="#bfbfbf"
+        android:pathData="M38 41h5l1 1 1-1h4l1 1 1-1h5l1 1v3l-3 7.5h1v1.5h-5v-1.5h1l3-7.5h-5l-3 7.5h1v1.5h-5v-1.5h1l3-7.5h-5l-3 7.5h1v1.5h-5v-1.5h1l3.5-10.5z" />
+</vector>
