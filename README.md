@@ -38,7 +38,7 @@ Say thanks!
 <tr>
 <td>dev.to<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="125" title="dev.to"/><br>556 Bytes</td>
 <td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="125" title="Goodreads"/><br>669 Bytes</td>
-<td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="125" title="TikTok"/><br>433 Bytes</td>
+<td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="125" title="TikTok"/><br>407 Bytes</td>
 <td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="125" title="Pixelfed"/><br>989 Bytes</td>
 <td>Friendica<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/friendica.svg" width="125" title="Friendica"/><br>847 Bytes</td>
 <td>Matrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/matrix.svg" width="125" title="Matrix"/><br>673 Bytes</td>
@@ -288,7 +288,7 @@ Say thanks!
 
 <table>
 <tr>
-<td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="125" title="Chrome" /><br>368 Bytes</td>
+<td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="125" title="Chrome" /><br>367 Bytes</td>
 <td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="125" title="Firefox" /><br>1022 Bytes</td>
 <td>Samsung Internet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_internet.svg" width="125" title="Samsung Internet" /><br>346 Bytes</td>
 <td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>964 Bytes</td>
@@ -297,7 +297,7 @@ Say thanks!
 <td>Brave<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/brave.svg" width="125" title="Brave" /><br>1001 Bytes</td>
 </tr>
 <tr>
-<td>Chromium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="125" title="Chromium" /><br>370 Bytes</td>
+<td>Chromium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="125" title="Chromium" /><br>369 Bytes</td>
 </tr>
 </table>
 
