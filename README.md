@@ -471,7 +471,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Solidity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="125" title="Solidity"/><br>565 Bytes</td>
-<td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="125" title="ExpressionEngine"/><br>701 Bytes</td>
+<td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="125" title="ExpressionEngine"/><br>668 Bytes</td>
 </tr>
 </table>
 
