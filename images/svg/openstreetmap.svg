@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="OpenStreetMap" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"
+fill="#fff"/>
+<rect fill="#c6e0ad" transform="rotate(16)" x="170" y="132" width="64" height="64" id="a" />
+<rect fill="#a5d383" transform="rotate(106) skewX(32)" x="485" y="-468" width="63" height="53" id="b" />
+<use href="#a" x="139.5" y="139.5" />
+<use href="#b" x="-140" />
+<use href="#b" x="-140" y="-140" />
+<use href="#a" x="281" y="-367" transform="rotate(58)" />
+<use href="#b" transform="rotate(90)" x="-75" y="-502" />
+<use href="#b" transform="rotate(90)" x="-215" y="-502" />
+<use href="#a" x="88" y="-323" transform="rotate(58)" />
+<rect fill="#75570f" stroke="#fff" stroke-width="18" transform="rotate(135)" x="45" y="-405" width="174" height="89" rx="30" />
+<ellipse stroke="#fff" stroke-width="18" cx="314" cy="195" rx="115" />
+<ellipse stroke="#fff" stroke-width="15" cx="314" cy="195" fill="#c6e0ad" rx="82" />
+<rect transform="rotate(45)" x="343" y="18" width="35" height="35" />
+</svg>
