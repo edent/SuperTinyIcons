@@ -254,6 +254,7 @@ Say thanks!
 <td>Lobste.rs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lobsters.svg" width="125" title="Lobste.rs"/><br>536 Bytes</td>
 <td>Quora<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/quora.svg" width="125" title="Quora"/><br>282 Bytes</td>
 <td>Gitpod<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitpod.svg" width="125" title="Gitpod"/><br>783 Bytes</td>
+<td>OpenStreetMap<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openstreetmap.svg" width="125" title="OpenStreetMap"/><br>983 Bytes</td>
 </tr>
 </table>
 
