@@ -42,6 +42,8 @@ Say thanks!
 <td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="125" title="Pixelfed"/><br>989 Bytes</td>
 <td>Friendica<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/friendica.svg" width="125" title="Friendica"/><br>847 Bytes</td>
 <td>Matrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/matrix.svg" width="125" title="Matrix"/><br>673 Bytes</td>
+</tr>
+<tr>
 <td>Linear<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linearapp.svg" width="125" title="Linear"/><br>483 Bytes</td>
 </tr>
 </table>
@@ -471,7 +473,7 @@ Say thanks!
 </tr>
 <tr>
 <td>Solidity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="125" title="Solidity"/><br>565 Bytes</td>
-<td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="125" title="ExpressionEngine"/><br>668 Bytes</td>
+<td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="125" title="ExpressionEngine"/><br>663 Bytes</td>
 </tr>
 </table>
 
