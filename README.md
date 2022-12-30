@@ -540,7 +540,7 @@ Say thanks!
 <tr>
 <td>Ansible<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ansible.svg" width="125" title="Ansible"/><br>430 Bytes</td>
 <td>Gojek<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gojek.svg" width="125" title="Gojek" /><br>294 Bytes</td>
-<td>Amazon Alexa<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_alexa.svg" width="125" title="Amazon Alexa" /><br>272 Bytes</td>
+<td>Amazon Alexa<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_alexa.svg" width="125" title="Amazon Alexa" /><br>267 Bytes</td>
 <td>Finder<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/finder.svg" width="125" title="Finder" /><br>780 Bytes</td>
 <td>Roundcube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/roundcube.svg" width="125" title="Roundcube"/><br>537 Bytes</td>
 <td>Fritz!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fritz.svg" width="125" title="Fritz!"/><br>707 Bytes</td>
