@@ -174,7 +174,7 @@ Say thanks!
 <td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="125" title="Yammer" /><br>479 Bytes</td>
 <td>Blogger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/blogger.svg" width="125" title="Blogger" /><br>354 Bytes</td>
 <td>Cloudflare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="125" title="Cloudflare" /><br>500 Bytes</td>
-<td>Amazon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="125" title="Amazon" /><br>667 Bytes</td>
+<td>Amazon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="125" title="Amazon" /><br>657 Bytes</td>
 <td>Strava<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/strava.svg" width="125" title="Strava" /><br>286 Bytes</td>
 <td>Dribbble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="125" title="Dribbble" /><br>641 Bytes</td>
 </tr>
