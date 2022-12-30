@@ -182,7 +182,7 @@ Say thanks!
 <td>CodePen<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="125" title="CodePen" /><br>375 Bytes</td>
 <td>DigitalOcean<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/digitalocean.svg" width="125" title="DigitalOcean" /><br>259 Bytes</td>
 <td>Medium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="125" title="Medium" /><br>379 Bytes</td>
-<td>AirBnB<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/airbnb.svg" width="125" title="Airbnb" /><br>427 Bytes</td>
+<td>AirBnB<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/airbnb.svg" width="125" title="Airbnb" /><br>371 Bytes</td>
 <td>Delicious<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/delicious.svg" width="125" title="Delicious" /><br>353 Bytes</td>
 <td>Disqus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="125" title="Disqus" /><br>280 Bytes</td>
 </tr>
