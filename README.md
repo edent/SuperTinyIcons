@@ -296,9 +296,9 @@ Say thanks!
 <td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="125" title="Edge" /><br>964 Bytes</td>
 <td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="125" title="Opera" /><br>469 Bytes</td>
 <td>Safari<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="125" title="Safari" /><br>708 Bytes</td>
-<td>Brave<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/brave.svg" width="125" title="Brave" /><br>1001 Bytes</td>
 </tr>
 <tr>
+<td>Brave<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/brave.svg" width="125" title="Brave" /><br>1001 Bytes</td>
 <td>Chromium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="125" title="Chromium" /><br>369 Bytes</td>
 </tr>
 </table>
@@ -487,14 +487,16 @@ Say thanks!
 <td>Ubuntu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="125" title="Ubuntu" /><br>455 Bytes</td>
 <td>Windows<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>252 Bytes</td>
 <td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="125" title="Elementary OS" /><br>466 Bytes</td>
-<td>Manjaro<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="125" title="Manjaro"/><br>367 Bytes</td>
 </tr>
 <tr>
+<td>Manjaro<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="125" title="Manjaro"/><br>367 Bytes</td>
 <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="125" title="Debian"/><br>937 Bytes</td>
 <td>Linux Mint<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux_mint.svg" width="125" title="Linux Mint"/><br>374 Bytes</td>
 <td>NixOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nixos.svg" width="125" title="Nixos"/><br>543 Bytes</td>
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="125" title="macOS"/><br>774 Bytes</td>
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="125" title="FreeBSD"/><br>756 Bytes</td>
+</tr>
+<tr>
 <td>Zorin OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="125" title="Zorin OS"/><br>430 Bytes</td>
 <td>Endeavour OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/endeavouros.svg" width="125" title="Endeavour OS"/><br>639 Bytes</td>
 </tr>
@@ -552,9 +554,9 @@ Say thanks!
 <td>Apache Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="125" title="guacamole"/><br>697 Bytes</td>
 <td>Outlook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="125" title="Outlook"/><br>896 Bytes</td>
 <td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="125" title="Terraform"/><br>303 Bytes</td>
-<td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="125" title="Todoist"/><br>771 Bytes</td>
 </tr>
 <tr>
+<td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="125" title="Todoist"/><br>771 Bytes</td>
 <td>Sublime Merge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimemerge.svg" width="125" title="Sublime Merge"/><br>566 Bytes</td>
 <td>Vagrant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vagrant.svg" width="125" title="Vagrant"/><br>553 Bytes</td>
 </tr>
