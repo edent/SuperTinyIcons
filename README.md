@@ -72,6 +72,7 @@ Say thanks!
 <td>Hulu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hulu.svg" width="125" title="Hulu"/><br>482 Bytes</td>
 <td>DeviantArt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deviantart.svg" width="125" title="DeviantArt"/><br>563 Bytes</td>
 <td>Floatplane<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/floatplane.svg" width="125" title="Floatplane"/><br>944 Bytes</td>
+<td>Blender<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/blender.svg" width="125" title="Blender"/><br>841 Bytes</td>
 </tr>
 </table>
 

@@ -309,4 +309,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/google_assistant.svg" width="256" /> | <img src="/images/reference/google_assistant.png" width="256" /> | https://www.blog.google/press/ |
 | <img src="/images/svg/atom.svg" width="256" /> | <img src="/images/reference/atom.png" width="256" /> | https://atom.io/ |
 | <img src="/images/svg/activitypub.svg" width="256" /> | <img src="/images/reference/ActivityPub-logo.svg" width="256" /> | https://activitypub.rocks/ |
+| <img src="/images/svg/blender.svg" width="256" /> | <img src="/images/reference/blender.svg" width="256" /> | https://www.blender.org/ |
 | <img src="/images/svg/expressionengine.svg" width="256" /> | <img src="/images/reference/expressionengine.png" width="256" /> | https://expressionengine.com/about/trademark-use-policy |
