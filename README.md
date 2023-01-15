@@ -513,6 +513,10 @@ Say thanks!
 <td>Uplay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="125" title="Uplay" /><br>542 Bytes</td>
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="125" title="Electronic Arts" /><br>296 Bytes</td>
 <td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="125" title="Minecraft" /><br>1023 Bytes</td>
+<td>Dingux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dingux.svg" width="125" title="Dingux"/><br>821 Bytes</td>
+<td>Everdrive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/everdrive.svg" width="125" title="Everdrive"/><br>425 Bytes</td>
+<td>Open Dingux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/open_dingux.svg" width="125" title="Open Dingux"/><br>386 Bytes</td>
+<td>Retroarch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/retroarch.svg" width="125" title="Retroarch"/><br>381 Bytes</td>
 </tr>
 <tr>
 <td>itch.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/itch_io.svg" width="125" title="itch.io"/><br>870 Bytes</td>
