@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+aria-label="Retroarch" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512"
+rx="15%"/><path id="a" fill="#fff" d="m163 144 28 35h-56l-12 51H88l13-51H67L41 282h68l-8 34h61l-46 52h50l43-52h47V179h-26l-30-35zm5 69h34v34h-34z"/><use xlink:href="#a" transform="matrix(-1 0 0 1 512 0)"/></svg>
