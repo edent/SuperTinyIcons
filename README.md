@@ -571,6 +571,7 @@ Say thanks!
 <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="125" title="Visual Studio Code" /><br>923 Bytes</td>
 <td>Apache Netbeans<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netbeans.svg" width="125" title="Apache Netbeans"/><br>721 Bytes</td>
 <td>Atom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="125" title="Atom"/><br>380 Bytes</td>
+<td>Vim<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vim.svg" width="125" title="Vim"/><br>779 Bytes</td>
 </tr>
 </table>
 
