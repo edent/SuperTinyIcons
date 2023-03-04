@@ -230,7 +230,7 @@ Say thanks!
 <tr>
 <td>OpenBenches<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openbenches.svg" width="125" title="OpenBenches" /><br>754 Bytes</td>
 <td>TripAdvisor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tripadvisor.svg" width="125" title="TripAdvisor" /><br>712 Bytes</td>
-<td>Sentry<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sentry.svg" width="125" title="Sentry" /><br>506 Bytes</td>
+<td>Sentry<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sentry.svg" width="125" title="Sentry" /><br>379 Bytes</td>
 <td>Behance<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/behance.svg" width="125" title="Behance" /><br>689 Bytes</td>
 <td>Taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="125" title="Taiga.io" /><br>753 Bytes</td>
 <td>Coil.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coil.svg" width="125" title="Coil.com" /><br>515 Bytes</td>
