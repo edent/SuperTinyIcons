@@ -169,7 +169,7 @@ Say thanks!
 <td>eBay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ebay.svg" width="125" title="eBay" /><br>819 Bytes</td>
 <td>Kickstarter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kickstarter.svg" width="125" title="Kickstarter" /><br>288 Bytes</td>
 <td>Yahoo!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="125" title="Yahoo!" /><br>295 Bytes</td>
-<td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="125" title="Evernote" /><br>704 Bytes</td>
+<td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="125" title="Evernote" /><br>628 Bytes</td>
 </tr>
 <tr>
 <td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="125" title="Yammer" /><br>479 Bytes</td>
