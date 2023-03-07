@@ -247,7 +247,7 @@ Say thanks!
 <td>freeCodeCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freecodecamp.svg" width="125" title="freeCodeCamp"/><br>727 Bytes</td>
 <td>Codeberg<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codeberg.svg" width="125" title="Codeberg"/><br>594 Bytes</td>
 <td>BitBucket<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="125" title="BitBucket"/><br>681 Bytes</td>
-<td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="125" title="Etsy"/><br>538 Bytes</td>
+<td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="125" title="Etsy"/><br>477 Bytes</td>
 <td>Intercom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intercom.svg" width="125" title="Intercom"/><br>839 Bytes</td>
 <td>Overleaf<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overleaf.svg" width="125" title="Intercom"/><br>452 Bytes</td>
 </tr>
