@@ -353,7 +353,7 @@ Say thanks!
 <td>Samsung<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung.svg" width="125" title="Samsung"/><br>872 Bytes</td>
 <td>Samsung (alt.)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_s.svg" width="125" title="Samsung"/><br>617 Bytes</td>
 <td>Samsung (alt. 2)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="125" title="Samsung"/><br>893 Bytes</td>3
-<td>NGINX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="125" title="NGINX" /><br>693 Bytes</td>
+<td>NGINX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="125" title="NGINX" /><br>465 Bytes</td>
 </tr>
 <tr>
 <td>Uphold<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="125" title="Uphold"/><br>819 Bytes</td>
