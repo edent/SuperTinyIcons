@@ -436,7 +436,7 @@ Say thanks!
 <td>Rust<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="125" title="Rust" /><br>1007 Bytes</td>
 <td>Clojure<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/clojure.svg" width="125" title="Clojure" /><br>632 Bytes</td>
 <td>CoffeeScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coffeescript.svg" width="125" title="CoffeeScript" /><br>534 Bytes</td>
-<td>JavaScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /><br>519 Bytes</td>
+<td>JavaScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="125" title="JavaScript" /><br>419 Bytes</td>
 <td>Flutter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="125" title="Flutter" /><br>695 Bytes</td>
 <td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="125" title="Backbone" /><br>463 Bytes</td>
 </tr>
