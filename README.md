@@ -392,7 +392,7 @@ Say thanks!
 <td>Citrix (compact)<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/citrix_compact.svg" width="125" title="Citrx"/><br>438 Bytes</td>
 </tr>
 <tr>
-<td>1Password<br/><img src="https://edent.github.io/SuperTinyIcons/images/svg/1password.svg" width="125" title="1Password"/><br>769 Bytes</td>
+<td>1Password<br/><img src="https://edent.github.io/SuperTinyIcons/images/svg/1password.svg" width="125" title="1Password"/><br>765 Bytes</td>
 </tr>
 </table>
 
