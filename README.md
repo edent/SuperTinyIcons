@@ -63,7 +63,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>imgur<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitwarden.svg" width="100" title="imgur"><br>288 bytes</td>
+<td>Bitwarden<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bitwarden.svg" width="100" title="Bitwarden"><br>292 bytes</td>
 <td>Blender<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/blender.svg" width="100" title="Blender"><br>375 bytes</td>
 <td>Blogger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/blogger.svg" width="100" title="Blogger"><br>345 bytes</td>
 <td>Bluetooth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="100" title="Bluetooth"><br>244 bytes</td>
