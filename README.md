@@ -628,8 +628,6 @@ import logo from "super-tiny-icons/images/svg/github.svg";
 <img src={logo} />;
 ```
 
-The demo repository bootstrapped with `create-react-app`: [create-react-app-super-tiny-icons](https://github.com/limonte/create-react-app-super-tiny-icons)
-
 ## Contributors
 
 ### Code Contributors
