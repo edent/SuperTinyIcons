@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="KeePassDX" role="img"
-viewBox="0 0 512 512" ><rect
+viewBox="0 0 512 512"><rect
 width="512" height="512"
-rx="15%" 
 fill="#43A047"/><defs><filter id="a" x="-12%" width="124%" height="130%"><feDropShadow dx="1" dy="10" flood-opacity=".45" stdDeviation="10"/></filter></defs><path d="m282.8 195.2-173.4 173.6-0.5 35 35-0.5 36.3-36.3h39.1v-36.8h36.8v-39.1l57.2-57.2-30.5-38.7z" fill="#eaeaea" filter="url(#a)"/><path d="m108.8 109.4 0.5 35 259 259 35 0.5-0.5-35-258.9-259-35-0.5z" fill="#c6c6c6" filter="url(#a)"/><path d="m346.2 84.8a82.8 82.8 0 1 0 57.4 24.3 82.8 82.8 0 0 0-57.4-24.3zm32.5 61.3a24.5 24.5 0 1 1-24.5 24.5 24.5 24.5 0 0 1 24.5-24.5z" fill="#eaeaea" filter="url(#a)"/></svg>

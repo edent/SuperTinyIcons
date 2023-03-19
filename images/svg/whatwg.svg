@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="WHATWG" role="img"
-viewBox="0 0 512 512" ><rect
+viewBox="0 0 512 512"><rect
 width="512" height="512"
-rx="15%" 
 fill="#fff"/><path d="m215 215c0-41.3 82.6-51.6 79.1-6.9 0 31-55 44.7-55 79.1v24.1h34.4v-13.8c0-31 58.5-41.3 58.5-92.9-6.9-75.7-154.8-75.7-154.8 10.3zm24.1 110.1h34.4v34.4h-34.4" fill="#3c790a"/><circle cx="256" cy="256" r="154.5" fill="none" stroke="#3c790a" stroke-width="37.5"/></svg>
