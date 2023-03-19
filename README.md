@@ -546,7 +546,6 @@ Bytes cost money. They cost money to store, transport, and process. Simplicity s
 These files were edited by hand in Inkscape, Illustrator, or a text editor, then were minified using [Yann Armelin's SVG Path Editor](https://yqnn.github.io/svg-path-editor/), [svgo](https://github.com/svg/svgo), and [svgcleaner](https://github.com/RazrFalcon/svgcleaner). Further smallification may be possible. Try it!
 
 - Each of these has an `xmlns="http://www.w3.org/2000/svg"` in the `<svg>` tag. This isn't strictly necessary - but some web browsers won't display them as an image without it.
-- Rounded corners can be dropped - `rx="80"` - the effect can be done in CSS if you want.
 - The background colour can also be excluded if you're including it elsewhere.
 - Colours can be simplified. `#FF0000` becomes `red`.
 - The precision of the paths is _mostly_ 0 decimal places. A few logos have 1 or 2 dp to make them look more accurate. The precision can be reduced if necessary.
@@ -587,7 +586,6 @@ At a minimum, your icon needs these components:
    viewBox="0 0 512 512">
    <rect
       width="512" height="512"
-      rx="15%"
       fill="#fff"/>
    ...
 </svg>
