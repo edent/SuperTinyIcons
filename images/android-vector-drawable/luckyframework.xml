@@ -14,13 +14,13 @@
       android:strokeWidth="150">
     <aapt:attr name="android:strokeColor">
       <gradient 
-          android:gradientRadius="1699.8269"
-          android:centerX="1740.375"
+          android:centerX="1740.37"
           android:centerY="921.4"
+          android:gradientRadius="1699.83"
           android:type="radial">
-        <item android:offset="0.9745" android:color="#FF9CFD65"/>
-        <item android:offset="0.975" android:color="#FF34DB96"/>
-        <item android:offset="0.9995" android:color="#FF34DB96"/>
+        <item android:offset="0.97" android:color="#FF9CFD65"/>
+        <item android:offset="0.97" android:color="#FF34DB96"/>
+        <item android:offset="1" android:color="#FF34DB96"/>
         <item android:offset="1" android:color="#FF1B92B1"/>
       </gradient>
     </aapt:attr>

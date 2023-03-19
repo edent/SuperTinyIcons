@@ -10,27 +10,9 @@
       android:pathData="M256,256m-192,0a192,192 0,1 1,384 0a192,192 0,1 1,-384 0"
       android:fillColor="#0dbd8b"/>
   <path
-      android:pathData="m234.85,153.25c46.35,0.47 81.6,37.79 81.6,81.6"
+      android:pathData="m153.2,277.1c0.5,-46.4 37.8,-81.6 81.6,-81.6m0,-42.3c46.4,0.5 81.6,37.8 81.6,81.6m42.3,0c-0.5,46.4 -37.8,81.6 -81.6,81.6m0,42.3c-46.4,0 -81.6,-37.8 -81.6,-81.6"
       android:strokeWidth="28.155"
       android:fillColor="#00000000"
-      android:strokeColor="#ffffff"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m358.75,234.85c-0.47,46.35 -37.79,81.6 -81.6,81.6"
-      android:strokeWidth="28.155"
-      android:fillColor="#00000000"
-      android:strokeColor="#ffffff"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m277.15,358.75c-46.35,-0.47 -81.6,-37.79 -81.6,-81.6"
-      android:strokeWidth="28.155"
-      android:fillColor="#00000000"
-      android:strokeColor="#ffffff"
-      android:strokeLineCap="round"/>
-  <path
-      android:pathData="m153.25,277.15c0.47,-46.35 37.79,-81.6 81.6,-81.6"
-      android:strokeWidth="28.155"
-      android:fillColor="#00000000"
-      android:strokeColor="#ffffff"
+      android:strokeColor="#fff"
       android:strokeLineCap="round"/>
 </vector>

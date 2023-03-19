@@ -27,11 +27,6 @@
       android:fillColor="#665e74"
       android:fillAlpha="0.8"/>
   <path
-      android:pathData="M256,449l-72,-96 72,-96 72,96z"
-      android:strokeAlpha="0.8"
-      android:fillColor="#3c3647"
-      android:fillAlpha="0.8"/>
-  <path
       android:pathData="M450,255l-96,72 -96,-72 96,-72z"
       android:strokeAlpha="0.8"
       android:fillColor="#837193"
@@ -45,6 +40,11 @@
       android:pathData="M63,256l96,-72 96,72 -96,72z"
       android:strokeAlpha="0.8"
       android:fillColor="#7ea685"
+      android:fillAlpha="0.8"/>
+  <path
+      android:pathData="M256,449l-72,-96 72,-96 72,96z"
+      android:strokeAlpha="0.8"
+      android:fillColor="#3c3647"
       android:fillAlpha="0.8"/>
   <path
       android:pathData="M256,210l46,46 -46,46 -46,-46z"

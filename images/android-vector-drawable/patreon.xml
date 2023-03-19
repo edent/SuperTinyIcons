@@ -10,6 +10,6 @@
       android:pathData="M310,223m-113,0a113,113 0,1 1,226 0a113,113 0,1 1,-226 0"
       android:fillColor="#fff"/>
   <path
-      android:pathData="M165,410V110h-56v300"
+      android:pathData="M109,410V110h56v300"
       android:fillColor="#f96854"/>
 </vector>

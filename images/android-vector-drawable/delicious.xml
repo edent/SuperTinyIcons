@@ -3,19 +3,20 @@
     android:height="512dp"
     android:viewportWidth="512"
     android:viewportHeight="512">
-    <group>
-        <clip-path android:pathData="M15 0H497A15 15 0 0 1 512 15V497A15 15 0 0 1 497 512H15A15 15 0 0 1 0 497V15A15 15 0 0 1 15 0Z" />
-        <path
-            android:fillColor="#FFFFFF"
-            android:pathData="M0 0h256v256H0z" />
-        <path
-            android:fillColor="#333333"
-            android:pathData="M0 256h256v256H0z" />
-        <path
-            android:fillColor="#EEEEEE"
-            android:pathData="M256 256h256v256H256z" />
-        <path
-            android:fillColor="#3399FF"
-            android:pathData="M256 0h256v256H256z" />
-    </group>
+  <group>
+    <clip-path
+        android:pathData="M0,0h512v512h-512z"/>
+    <path
+        android:pathData="M512,512H0V0"
+        android:fillColor="#333"/>
+    <path
+        android:pathData="M512,512V0H0"
+        android:fillColor="#39F"/>
+    <path
+        android:pathData="M0,0h256v256H0"
+        android:fillColor="#fff"/>
+    <path
+        android:pathData="M256,256h256v256H256z"
+        android:fillColor="#eee"/>
+  </group>
 </vector>

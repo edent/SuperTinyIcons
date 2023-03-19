@@ -11,10 +11,10 @@
       android:pathData="M256,64c-99,0 -192,81 -192,192 0,123 102,192 192,192 -21,0 -125,-23 -125,-166 0,-89 73,-139 125,-119 0,0 56,21 56,93s-56,93 -56,93c51,20 125,-27 125,-119 0,-129 -87,-166 -125,-166z">
     <aapt:attr name="android:fillColor">
       <gradient 
+          android:startX="119.47"
           android:startY="121.6"
-          android:startX="119.475"
-          android:endY="390.4"
           android:endX="381"
+          android:endY="390.4"
           android:type="linear">
         <item android:offset="0" android:color="#FF000000"/>
         <item android:offset="1" android:color="#FFFFFFFF"/>
@@ -25,10 +25,10 @@
       android:pathData="M256,448c99,-0 192,-81 192,-192 -0,-123 -102,-192 -192,-192 21,-0 125,23 125,166 -0,89 -73,139 -125,119 -0,-0 -56,-21 -56,-93s56,-93 56,-93c-51,-20 -125,27 -125,119 -0,129 87,166 125,166z">
     <aapt:attr name="android:fillColor">
       <gradient 
+          android:startX="186.47"
           android:startY="121.6"
-          android:startX="186.475"
-          android:endY="390.4"
           android:endX="448"
+          android:endY="390.4"
           android:type="linear">
         <item android:offset="0" android:color="#FF000000"/>
         <item android:offset="1" android:color="#FFFFFFFF"/>

@@ -14,12 +14,12 @@
       android:fillColor="#eee"/>
   <path
       android:pathData="M174,318l42,60c22,14 10,70 -50,42 -34,-10 -62,-8 -66,-26s8,-20 6,-28c-8,-44 28,-22 38,-44s10,-32 30,-4M398,346c-8,-12 0,-34 -28,-32 -12,24 -46,48 -48,0 -20,0 -6,48 -14,70 -18,54 34,58 56,32l52,-36c4,-6 10,-12 -18,-34m-184,-184c-6,-12 22,-28 32,-28s24,8 38,12 8,18 4,20S262,186 246,186s-20,-16 -32,-24"
-      android:strokeWidth="1"
+      android:strokeWidth="2"
       android:fillColor="#fc2"
       android:strokeColor="#333"/>
   <path
       android:pathData="M214,160c16,12 34,22 70,-6"
-      android:strokeWidth="1"
+      android:strokeWidth="2"
       android:fillColor="#fc2"
       android:strokeColor="#333"/>
   <path

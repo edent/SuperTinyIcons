@@ -5,17 +5,17 @@
     android:viewportWidth="512"
     android:viewportHeight="512">
   <path
-      android:pathData="M77,0L435,0A77,77 0,0 1,512 77L512,435A77,77 0,0 1,435 512L77,512A77,77 0,0 1,0 435L0,77A77,77 0,0 1,77 0z"
+      android:pathData="M0,0h512v512h-512z"
       android:fillColor="#fff"/>
   <path
       android:pathData="M416,158l9,-23c-24,-25 -33,-43 -72,-34l-35,-40H194l-35,40c-38,-3 -45,6 -72,34l10,23 -12,34 39,150c8,32 14,45 37,61l72,49c7,4 16,12 23,12 8,0 16,-8 23,-12l72,-49c23,-16 29,-29 37,-61l40,-150">
     <aapt:attr name="android:fillColor">
       <gradient 
-          android:startY="61"
           android:startX="85"
+          android:startY="61"
+          android:endX="428"
           android:endY="61"
-          android:type="linear"
-          android:endX="428">
+          android:type="linear">
         <item android:offset="0" android:color="#FFFF5500"/>
         <item android:offset="1" android:color="#FFFF2200"/>
       </gradient>

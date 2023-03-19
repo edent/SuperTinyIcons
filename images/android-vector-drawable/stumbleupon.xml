@@ -7,11 +7,11 @@
       android:pathData="M0,0h512v512h-512z"
       android:fillColor="#ea4b24"/>
   <path
-      android:pathData="m99 260v52a52.5 55.5 0 00105 0v-122a52 49.5 0 01104 0v122a52.5 55.5 0 00105 0V260"
+      android:pathData="m99,260v52a52.5,55.5 0,0 0,105 0v-122a52,49.5 0,0 1,104 0v122a52.5,55.5 0,0 0,105 0V260"
       android:strokeWidth="63"
-	  android:fillColor="#00000000"
-	  android:strokeColor="#fff"/>
+      android:fillColor="#00000000"
+      android:strokeColor="#fff"/>
   <path
-      android:pathData="M273 215v44l35 15 35-15v-44l-35 15z"
+      android:pathData="M273,215v44l35,15 35,-15v-44l-35,15z"
       android:fillColor="#ea4b24"/>
 </vector>
