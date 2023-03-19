@@ -559,13 +559,7 @@ Think the icons look wrong? [Compare them against the official logos](https://gi
 ## Android Vector Drawables
 Icons also available as [Android Vector Drawables](https://developer.android.com/guide/topics/graphics/vector-drawable-resources.html), so you can easily use them in Android apps.
 
-They are converted using Android Studio and are **not** guaranteed to be under 1KB.
-
-To convert in Android Studio, go to Tools ➡ Resource Manager ➡ Drawable ➡ + ➡ Import Drawables ➡ then select the SVGs.
-
-*Note* Android Studio doesn't like rounded corners with a percentage length value. Before importing, run `sed -i '/rx\=\"15\%\"/d' ./*.svg` to remove the corner or `sed -i -e '/rx\=/s/\"15\%\"/\"77\"/' ./*.svg` to replace the percentage length value with a corresponding fixed length value.
-
-See: https://issuetracker.google.com/issues/176694227
+They are **not** guaranteed to be under 1KB.
 
 ## Submitting Icons
 

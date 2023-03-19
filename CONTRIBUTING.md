@@ -23,7 +23,6 @@ At a minimum, your icon needs these components, in this layout:
 aria-label="..." role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
-rx="15%"
 fill="#fff"/>...</svg>
 ```
 
@@ -48,16 +47,13 @@ This is the standard guideline. Use this to help with sizing your icons and they
 - **Yellow** is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.
 - **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
 
-
 ## Edit Readme
 
-Add a table cell to README.md - it must be in this format:
+You will need to generate a new table for the README.  To do this, run:
 
-```html
-<td>Name of Service<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nameofservice.svg" width="125" title="Name Of Service"/><br>123 Bytes</td>
-```
+`python3 generate_readme_table.py`
 
-Please add the correct file size.
+Copy the output and paste it over the old table.
 
 ## Reference Image
 
@@ -72,5 +68,12 @@ Please add the correct file size.
 
 ## (Optional) Create Android Version
 
-* Use https://inloop.github.io/svg2android/ to create an Android-compatible XML file.
-* Add the file to `/images/android-vector-drawable/`
+To convert in Android Studio, go to Tools ➡ Resource Manager ➡ Drawable ➡ + ➡ Import Drawables ➡ then select the SVGs.
+
+*Note* Android Studio doesn't like rounded corners with a percentage length value. Before importing, run `sed -i '/rx\=\"15\%\"/d' ./*.svg` to remove the corner or `sed -i -e '/rx\=/s/\"15\%\"/\"77\"/' ./*.svg` to replace the percentage length value with a corresponding fixed length value.
+
+See: https://issuetracker.google.com/issues/176694227
+
+Or, use https://inloop.github.io/svg2android/ to create an Android-compatible XML file.
+
+Add the file to `/images/android-vector-drawable/`
