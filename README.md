@@ -212,7 +212,7 @@ Say thanks!
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="100" title="Google Scholar"><br>524 bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="100" title="Gradle"><br>681 bytes</td>
 <td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="100" title="Grafana"><br>963 bytes</td>
-<td>Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="100" title="Guacamole"><br>688 bytes</td>
+<td>Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="100" title="Guacamole"><br>676 bytes</td>
 </tr>
 
 <tr>
@@ -363,7 +363,7 @@ Say thanks!
 <td>Pocket<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocket.svg" width="100" title="Pocket"><br>508 bytes</td>
 <td>Pocket Casts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocketcasts.svg" width="100" title="Pocket Casts"><br>283 bytes</td>
 <td>Pop!_OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/popos.svg" width="100" title="Pop!_OS"><br>436 bytes</td>
-<td>Pornhub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pornhub.svg" width="100" title="Pornhub"><br>841 bytes</td>
+<td>Pornhub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pornhub.svg" width="100" title="Pornhub"><br>829 bytes</td>
 <td>Preact<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/preact.svg" width="100" title="Preact"><br>521 bytes</td>
 <td>Printer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/print.svg" width="100" title="Printer"><br>441 bytes</td>
 </tr>
