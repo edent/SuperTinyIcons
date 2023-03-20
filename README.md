@@ -628,6 +628,28 @@ import logo from "super-tiny-icons/images/svg/github.svg";
 <img src={logo} />;
 ```
 
+[CSS](https://developer.mozilla.org/docs/Web/CSS) can be used to customize an icon's appearance. The following example shows styles for small/medium/large icons with square/rounded/circular frames:
+
+```html
+<style>
+.small-square {
+  width: 20px;
+}
+.medium-rounded {
+  width: 50px;
+  border-radius: 10%;
+}
+.large-circular {
+  width: 100px;
+  border-radius: 50%;
+}
+</style>
+
+<img src="images/svg/reddit.svg" class="small-square" />
+<img src="images/svg/reddit.svg" class="medium-rounded" />
+<img src="images/svg/reddit.svg" class="large-circular" />
+```
+
 ## Contributors
 
 ### Code Contributors
