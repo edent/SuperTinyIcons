@@ -434,7 +434,7 @@ Say thanks!
 <tr>
 <td>Sublime Text<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="100" title="Sublime Text"><br>720 bytes</td>
 <td>SubscribeStar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/subscribestar.svg" width="100" title="SubscribeStar"><br>858 bytes</td>
-<td>Svelte<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svelte.svg" width="100" title="Svelte"><br>988 bytes</td>
+<td>Svelte<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svelte.svg" width="100" title="Svelte"><br>477 bytes</td>
 <td>SVG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svg.svg" width="100" title="SVG"><br>755 bytes</td>
 <td>Symantec<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.svg" width="100" title="Symantec"><br>605 bytes</td>
 <td>taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="100" title="taiga.io"><br>742 bytes</td>
