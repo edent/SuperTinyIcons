@@ -10,7 +10,7 @@ Say thanks!
 
 ## How Small?
 
-| 542 Bytes SVG | 5,897 Bytes PNG | 414 Bytes SVG | 4,743 Bytes PNG | 250 Bytes SVG | 4,478 Bytes PNG |
+| 533 Bytes SVG | 5,897 Bytes PNG | 405 Bytes SVG | 4,743 Bytes PNG | 241 Bytes SVG | 4,478 Bytes PNG |
 | ------------- | --------------- | ------------- | --------------- | ------------- | --------------- |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" /> |
 
