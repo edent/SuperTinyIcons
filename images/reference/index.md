@@ -6,6 +6,7 @@ Where possible this links to the organisation's brand guidelines page.
 
 | Super Tiny SVG	| Official Logo | Source	|
 |-----|---------------|----------|
+| <img src="/images/svg/filestash.svg" width="256" />	| <img src="/images/reference/filestash.svg" width="256" />	| https://www.filestash.app/	|
 | <img src="/images/svg/twitter.svg" width="256" />	| <img src="/images/reference/twitter.svg" width="256" />	| https://about.twitter.com/en_us/company/brand-resources.html	|
 | <img src="/images/svg/hackernews.svg" width="256" />	| <img src="/images/reference/hackernews.png" width="256" />	| https://www.ycombinator.com/favicon.ico	|
 | <img src="/images/svg/flickr.svg" width="256" />	| <img src="/images/reference/flickr.png" width="256" />	| https://www.flickr.com/images/opensearch-flickr-logo.png	|
