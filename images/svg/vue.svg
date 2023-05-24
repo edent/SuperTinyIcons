@@ -2,5 +2,4 @@
 aria-label="Vue" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
-fill="#fff"/><path fill="#42b883"
-d="m64 140h148l44 77l44-77h148L256 473"/><path fill="#35495e" d="m141 140h71l44 77l44-77h71L256 340"/></svg>
+fill="#fff"/><path fill="#42b883" d="m64 100h148l44 77 44-77h148L256 433"/><path fill="#35495e" d="m141 100h71l44 77 44-77h71L256 300"/></svg>
