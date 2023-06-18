@@ -313,5 +313,5 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/blender.svg" width="256" /> | <img src="/images/reference/blender.svg" width="256" /> | https://www.blender.org/ |
 | <img src="/images/svg/expressionengine.svg" width="256" /> | <img src="/images/reference/expressionengine.png" width="256" /> | https://expressionengine.com/about/trademark-use-policy |
 | <img src="/images/svg/vim.svg" width="256" /> | <img src="/images/reference/vim.gif" width="256" /> | https://www.vim.org/logos.php |
-| <img src="/images/svg/openstreetmap.svg" width="256" /> | <img src="/images/reference/openstreetmap.png" width="256" /> | 
-https://wiki.openstreetmap.org/wiki/Logos#Other_logos |
+| <img src="/images/svg/openstreetmap.svg" width="256" /> | <img src="/images/reference/openstreetmap.png" width="256" /> | https://wiki.openstreetmap.org/wiki/Logos#Other_logos |
+| <img src="/images/svg/bun.svg" width="256" /> | <img src="/images/reference/bun.svg" width="256" /> | https://bun.sh/ |
