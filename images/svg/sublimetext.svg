@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Sublime Text" role="img"
-viewBox="0 0 512 512"><rect
- width="512" height="512"
-fill="#424242"/><path transform="skewY(-17.5)" d="M232 375H118a8 8 0 00-8 8v91a8 8 0 008 8h276a8 8 0 008-8v-91c0-5-5-10-8-12l-115-73h115a8 8 0 008-8v-91a8 8 0 00-8-8H118a8 8 0 00-8 8v91c0 4 4 10 8 13" fill="url(#g)"/><defs><linearGradient id="g" x1=".73" x2=".77" y1=".909" y2=".842"><stop stop-color="#ff9700" offset="0"/><stop stop-color="#e80" offset=".4"/><stop stop-color="#d06f00" offset=".7"/><stop stop-color="#d06f00" offset="1"/><stop stop-color="#ff9700" offset="1"/></linearGradient></defs></svg>
+viewBox="0 0 512 512" fill="#ff9800"><rect
+width="512" height="512"
+fill="#424242"/><g transform="skewY(-17.5)"><rect x="110" y="375" width="292" height="107" rx="8" fill="url(#g)"/><rect x="110" y="191" width="292" height="107" rx="8"/></g><rect transform="skewY(17.5)" x="110" y="122" width="292" height="107" rx="8"/><linearGradient id="g" x1=".6" x2=".7" y1=".6" y2=".54"><stop stop-color="#ff9700" offset="0"/><stop stop-color="#f48e00" offset=".5"/><stop stop-color="#d06f00" offset=".9"/></linearGradient></svg>
