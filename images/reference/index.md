@@ -315,3 +315,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/vim.svg" width="256" /> | <img src="/images/reference/vim.gif" width="256" /> | https://www.vim.org/logos.php |
 | <img src="/images/svg/openstreetmap.svg" width="256" /> | <img src="/images/reference/openstreetmap.png" width="256" /> | https://wiki.openstreetmap.org/wiki/Logos#Other_logos |
 | <img src="/images/svg/bun.svg" width="256" /> | <img src="/images/reference/bun.svg" width="256" /> | https://bun.sh/ |
+| <img src="/images/svg/powershell.svg" width="256" /> | <img src="/images/reference/powershell.svg" width="256" /> | https://github.com/PowerShell/PowerShell/blob/master/assets/ps_black_128.svg |
