@@ -41,7 +41,7 @@ Say thanks!
 <td>Ansible<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ansible.svg" width="100" title="Ansible"><br>421 bytes</td>
 <td>Apereo Foundation<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apereo.svg" width="100" title="Apereo Foundation"><br>464 bytes</td>
 <td>Apple<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="100" title="Apple"><br>408 bytes</td>
-<td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="100" title="Apple Music"><br>505 bytes</td>
+<td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="100" title="Apple Music"><br>485 bytes</td>
 </tr>
 
 <tr>
