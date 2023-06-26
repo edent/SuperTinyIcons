@@ -263,7 +263,7 @@ Say thanks!
 <tr>
 <td>Julia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/julia.svg" width="100" title="Julia"><br>289 bytes</td>
 <td>Kaggle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="100" title="Kaggle"><br>508 bytes</td>
-<td>KeePassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keepassdx.svg" width="100" title="KeePassDX"><br>699 bytes</td>
+<td>KeePassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keepassdx.svg" width="100" title="KeePassDX"><br>522 bytes</td>
 <td>Kemal Framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kemal.svg" width="100" title="Kemal Framework"><br>331 bytes</td>
 <td>Keskonfai<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keskonfai.svg" width="100" title="Keskonfai"><br>691 bytes</td>
 <td>Keybase<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keybase.svg" width="100" title="Keybase"><br>638 bytes</td>
