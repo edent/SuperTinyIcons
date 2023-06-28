@@ -249,7 +249,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/kaggle.svg" width="256" /> | <img src="/images/reference/kaggle.png" width="256" /> | https://www.kaggle.com/ |
 | <img src="/images/svg/uphold.svg" width="256" /> | <img src="/images/reference/uphold.png" width="256" /> | https://uphold.com/en/press-media |
 | <img src="/images/svg/microformats.svg" width="256" /> | <img src="/images/reference/microformats.png" width="256" /> |  |
-| <img src="/images/svg/keepassdx.svg" width="256" /> | <img src="/images/reference/keepassdx.png" width="256" /> | https://github.com/Kunzisoft/KeePassDX |
+| <img src="/images/svg/keepassdx.svg" width="256" /> | <img src="/images/reference/keepassdx.svg" width="256" /> | https://www.keepassdx.com/ |
 | <img src="/images/svg/humblebundle.svg" width="256" /> | <img src="/images/reference/humblebundle.svg" width="256" /> | https://cdn.worldvectorlogo.com/logos/humblebundle.svg |
 | <img src="/images/svg/fritz.svg" width="256" /> | <img src="/images/reference/Fritz!.svg" width="256" /> | https://en.wikipedia.org/wiki/Fritz!Box#/media/File:Fritz!.svg |
 | <img src="/images/svg/friendica.svg" width="256" /> | <img src="/images/reference/friendica.png" width="256" /> | https://github.com/friendica/friendica/tree/develop/images |
