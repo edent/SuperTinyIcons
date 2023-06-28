@@ -154,7 +154,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/angular.svg" width="256" /> | <img src="/images/reference/angular.svg" width="256" />  | https://angular.io/presskit |
 | <img src="/images/svg/sass.svg" width="256" /> | <img src="/images/reference/seal-color-aef0354c.png" width="256" />  | https://sass-lang.com/styleguide/brand |
 | <img src="/images/svg/duckduckgo.svg" width="256" /> | <img src="/images/reference/DuckDuckGoLogo-Dax-Solo.svg" width="256" />  | https://duckduckgo.com/press |
-| <img src="/images/svg/bing.svg" width="256" /> | <img src="/images/reference/BingLogo.png" width="256" />  | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1q9FS |
+| <img src="/images/svg/bing.svg" width="256" /> | <img src="/images/reference/bing.svg" width="256" />  | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1q9FS |
 | <img src="/images/svg/json.svg" width="256" /> | <img src="/images/reference/json.gif" width="256" />  | https://json.org/ |
 | <img src="/images/svg/unicode.svg" width="256" /> | <img src="/images/reference/Unicode_logo.svg" width="256" />  | https://www.unicode.org/policies/logo_policy.html |
 | <img src="/images/svg/linux.svg" width="256" /> | <img src="/images/reference/Classic_flat_look_v1.1.svg" width="256" />  | https://www.linuxfoundation.org/trademark-usage/ |
