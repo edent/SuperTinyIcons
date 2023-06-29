@@ -76,7 +76,7 @@ Say thanks!
 <td>Buffer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/buffer.svg" width="100" title="Buffer"><br>480 bytes</td>
 <td>Bugcrowd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bugcrowd.svg" width="100" title="Bugcrowd"><br>790 bytes</td>
 <td>Bun<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bun.svg" width="100" title="Bun"><br>1023 bytes</td>
-<td>Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="100" title="Calendar"><br>959 bytes</td>
+<td>Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="100" title="Calendar"><br>744 bytes</td>
 <td>CentOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="100" title="CentOS"><br>734 bytes</td>
 </tr>
 
