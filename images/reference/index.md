@@ -320,3 +320,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/nodejs.svg" width="256" /> | <img src="/images/reference/nodejs.svg" width="256" /> | https://www.svgrepo.com/show/354119/nodejs-icon.svg |
 | <img src="/images/svg/mongodb.svg" width="256" /> | <img src="/images/reference/mongodb.svg" width="256" /> | https://www.mongodb.com/brand-resources |
 | <img src="/images/svg/symfony.svg" width="256" /> | <img src="/images/reference/symfony.svg" width="256" /> | https://symfony.com/logo |
+| <img src="/images/svg/jquery.svg" width="256" /> | <img src="/images/reference/jquery.svg" width="256" /> | https://brand.jquery.org/logos |
