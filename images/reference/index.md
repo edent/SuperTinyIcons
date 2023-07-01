@@ -321,3 +321,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/mongodb.svg" width="256" /> | <img src="/images/reference/mongodb.svg" width="256" /> | https://www.mongodb.com/brand-resources |
 | <img src="/images/svg/symfony.svg" width="256" /> | <img src="/images/reference/symfony.svg" width="256" /> | https://symfony.com/logo |
 | <img src="/images/svg/jquery.svg" width="256" /> | <img src="/images/reference/jquery.svg" width="256" /> | https://brand.jquery.org/logos |
+| <img src="/images/svg/f-droid.svg" width="256" /> | <img src="/images/reference/f-droid.svg" width="256" /> | https://gitlab.com/fdroid/fdroid-website/-/blob/master/assets/fdroid-logo.svg |
