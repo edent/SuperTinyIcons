@@ -91,7 +91,7 @@ Say thanks!
 
 <tr>
 <td>Codeberg<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codeberg.svg" width="100" title="Codeberg"><br>583 bytes</td>
-<td>CodePen<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="100" title="CodePen"><br>334 bytes</td>
+<td>CodePen<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="100" title="CodePen"><br>309 bytes</td>
 <td>Coderwall<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coderwall.svg" width="100" title="Coderwall"><br>250 bytes</td>
 <td>CoffeeScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coffeescript.svg" width="100" title="CoffeeScript"><br>525 bytes</td>
 <td>Coil<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coil.svg" width="100" title="Coil"><br>507 bytes</td>
