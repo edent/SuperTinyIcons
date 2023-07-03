@@ -85,7 +85,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/andotp.svg" width="256"/>	| <img src="/images/reference/andotp.png" width="256"/>	| https://github.com/andOTP/andOTP	|
 | <img src="/images/svg/blogger.svg" width="256" />	| <img src="/images/reference/blogger.png" width="256" />	| https://www.blogger.com/img/blogger-logotype-color-black-2x.png	|
 | <img src="/images/svg/cloudflare.svg" width="256" />	| <img src="/images/reference/cloudflare.svg" width="256" />	| https://www.cloudflare.com/logo/	|
-| <img src="/images/svg/codepen.svg" width="256" />	| <img src="/images/reference/codepen.svg" width="256" />	| https://production-assets.codepen.io/assets/footer/codepen-logo-midgray-0711f75fbf09cc2e68d3836668e0eba8c28d76760d1e40386095ce503428bd03.svg	|
+| <img src="/images/svg/codepen.svg" width="256" />	| <img src="/images/reference/codepen.svg" width="256" />	| https://blog.codepen.io/documentation/logos/ |
 | <img src="/images/svg/digitalocean.svg" width="256" />	| <img src="/images/reference/digitalocean.svg" width="256" />	| https://www.digitalocean.com/company/logos-and-badges/	|
 | <img src="/images/svg/discord.svg" width="256" />	| <img src="/images/reference/discord.svg" width="256" />	| https://discordapp.com/branding	|
 | <img src="/images/svg/medium.svg" width="256" />	| <img src="/images/reference/medium.svg" width="256" />	| https://medium.design/logos-and-brand-guidelines-f1a01a733592	|

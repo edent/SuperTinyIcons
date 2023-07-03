@@ -1,10 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="CodePen" role="img"
 viewBox="0 0 512 512"><rect
-width="512" height="512"
-fill="#111"/><path
-fill="none"
-stroke="#e6e6e6"
-stroke-width="33"
-stroke-linejoin="round"
-d="M81 198v116l175 117 175-117V198L256 81 81 198l175 116 175-116M256 81v117M81 314l175-116 175 116M256 431V314"/></svg>
+width="512" height="512"/><path
+fill="none" stroke="#fff" stroke-width="33" stroke-linejoin="round" d="M256 314 431 198 256 81 81 198ZV431L431 314 256 198 81 314 256 431M81 198V314m350 0V198m-175 0V81"/></svg>
