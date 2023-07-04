@@ -99,7 +99,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Google CoLaboratory<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/colaboratory.svg" width="100" title="Google CoLaboratory"><br>475 bytes</td>
+<td>Google Colab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/colaboratory.svg" width="100" title="Google Colab"><br>380 bytes</td>
 <td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="100" title="C++"><br>685 bytes</td>
 <td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="100" title="Crystal"><br>220 bytes</td>
 <td>CSS3<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="100" title="CSS3"><br>384 bytes</td>
