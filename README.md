@@ -193,7 +193,7 @@ Say thanks!
 <td>Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="100" title="Go"><br>573 bytes</td>
 <td>Godot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="100" title="Godot"><br>989 bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="100" title="GOG.com"><br>709 bytes</td>
-<td>Gojek<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gojek.svg" width="100" title="Gojek"><br>285 bytes</td>
+<td>Gojek<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gojek.svg" width="100" title="Gojek"><br>264 bytes</td>
 <td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="100" title="Goodreads"><br>660 bytes</td>
 </tr>
 
