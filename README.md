@@ -334,7 +334,7 @@ Say thanks!
 
 <tr>
 <td>Node.js<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="100" title="Node.js"><br>659 bytes</td>
-<td>npm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="100" title="npm"><br>289 bytes</td>
+<td>npm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="100" title="npm"><br>283 bytes</td>
 <td>OK.ru<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ok.svg" width="100" title="OK.ru"><br>621 bytes</td>
 <td>Olympic Rings<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/olympics.svg" width="100" title="Olympic Rings"><br>669 bytes</td>
 <td>OpenBenches<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openbenches.svg" width="100" title="OpenBenches"><br>754 bytes</td>
