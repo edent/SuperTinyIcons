@@ -183,7 +183,7 @@ Say thanks!
 <td>Gitea<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitea.svg" width="100" title="Gitea"><br>756 bytes</td>
 <td>GitHub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" title="GitHub"><br>533 bytes</td>
 <td>GitLab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitlab.svg" width="100" title="GitLab"><br>417 bytes</td>
-<td>Gitpod<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitpod.svg" width="100" title="Gitpod"><br>579 bytes</td>
+<td>Gitpod<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitpod.svg" width="100" title="Gitpod"><br>549 bytes</td>
 <td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="100" title="Glitch"><br>1023 bytes</td>
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="100" title="Gmail"><br>473 bytes</td>
 </tr>
