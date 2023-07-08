@@ -198,7 +198,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="100" title="Google"><br>475 bytes</td>
+<td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="100" title="Google"><br>455 bytes</td>
 <td>Google Assistant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_assistant.svg" width="100" title="Google Assistant"><br>372 bytes</td>
 <td>Google Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_calendar.svg" width="100" title="Google Calendar"><br>623 bytes</td>
 <td>Google Collaborative content tools<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_collaborative_content_tools.svg" width="100" title="Google Collaborative content tools"><br>493 bytes</td>
