@@ -189,7 +189,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="100" title="Gmail"><br>575 bytes</td>
+<td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="100" title="Gmail"><br>452 bytes</td>
 <td>Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="100" title="Go"><br>573 bytes</td>
 <td>Godot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="100" title="Godot"><br>689 bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="100" title="GOG.com"><br>709 bytes</td>
@@ -198,20 +198,20 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="100" title="Google"><br>475 bytes</td>
+<td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="100" title="Google"><br>455 bytes</td>
 <td>Google Assistant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_assistant.svg" width="100" title="Google Assistant"><br>372 bytes</td>
-<td>Google Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_calendar.svg" width="100" title="Google Calendar"><br>623 bytes</td>
+<td>Google Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_calendar.svg" width="100" title="Google Calendar"><br>586 bytes</td>
 <td>Google Collaborative content tools<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_collaborative_content_tools.svg" width="100" title="Google Collaborative content tools"><br>493 bytes</td>
 <td>Google Docs Editors<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="100" title="Google Docs Editors"><br>478 bytes</td>
-<td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="100" title="Google Drive"><br>520 bytes</td>
+<td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="100" title="Google Drive"><br>567 bytes</td>
 </tr>
 
 <tr>
 <td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="100" title="Google Drive"><br>304 bytes</td>
-<td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="100" title="Google Maps"><br>769 bytes</td>
+<td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="100" title="Google Maps"><br>560 bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="100" title="Google Maps"><br>704 bytes</td>
 <td>Google Meet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_meet.svg" width="100" title="Google Meet"><br>520 bytes</td>
-<td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="100" title="Google Play"><br>495 bytes</td>
+<td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="100" title="Google Play"><br>426 bytes</td>
 <td>Google+<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="100" title="Google+"><br>388 bytes</td>
 </tr>
 

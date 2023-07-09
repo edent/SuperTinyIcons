@@ -39,7 +39,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/gmail.svg" width="256" />	| <img src="/images/reference/gmail.png" width="256" />	| https://www.blog.google/press/|
 | <img src="/images/svg/google_calendar.svg" width="256" />	| <img src="/images/reference/google_calendar.png" width="256" />	| https://www.blog.google/press/|
 | <img src="/images/svg/google_meet.svg" width="256" />	| <img src="/images/reference/google_meet.png" width="256" />	| https://www.blog.google/press/|
-| <img src="/images/svg/google_drive.svg" width="256" />	| <img src="/images/reference/google_drive.png" width="256" />	| https://www.blog.google/press/|
+| <img src="/images/svg/google_drive.svg" width="256" />	| <img src="/images/reference/google_drive.svg" width="256" />	| https://drive.google.com/ |
 | <img src="/images/svg/google_collaborative_content_tools.svg" width="256" />	| <img src="/images/reference/google_collaborative_content_tools.png" width="256" />	| https://www.blog.google/press/|
 | <img src="/images/svg/google_plus.svg" width="256" />	| <img src="/images/reference/google_plus.png" width="256" />	| https://plus.google.com/+googleplus	|
 | <img src="/images/svg/wechat.svg" width="256" />	| <img src="/images/reference/wechat.svg" width="256" />	| https://wechat.design/?locale=en_US	|
@@ -324,3 +324,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/f-droid.svg" width="256" /> | <img src="/images/reference/f-droid.svg" width="256" /> | https://gitlab.com/fdroid/fdroid-website/-/blob/master/assets/fdroid-logo.svg |
 | <img src="/images/svg/coderwall.svg" width="256" /> | <img src="/images/reference/coderwall.svg" width="256" /> | https://coderwall.com/tos |
 | <img src="/images/svg/colaboratory.svg" width="256" /> | <img src="/images/reference/google_colab.svg" width="256" /> | https://colab.research.google.com |
+| <img src="/images/svg/google_play.svg" width="256" /> | <img src="/images/reference/google_play.svg" width="256" /> | https://play.google.com/intl/en_us/badges/ |
