@@ -324,3 +324,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/f-droid.svg" width="256" /> | <img src="/images/reference/f-droid.svg" width="256" /> | https://gitlab.com/fdroid/fdroid-website/-/blob/master/assets/fdroid-logo.svg |
 | <img src="/images/svg/coderwall.svg" width="256" /> | <img src="/images/reference/coderwall.svg" width="256" /> | https://coderwall.com/tos |
 | <img src="/images/svg/colaboratory.svg" width="256" /> | <img src="/images/reference/google_colab.svg" width="256" /> | https://colab.research.google.com |
+| <img src="/images/svg/google_play.svg" width="256" /> | <img src="/images/reference/google_play.svg" width="256" /> | https://play.google.com/intl/en_us/badges/ |
