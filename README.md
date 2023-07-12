@@ -328,7 +328,7 @@ Say thanks!
 <td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="100" title="Minecraft"><br>1014 bytes</td>
 <td>MongoDB<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mongodb.svg" width="100" title="MongoDB"><br>359 bytes</td>
 <td>NetBeans<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netbeans.svg" width="100" title="NetBeans"><br>667 bytes</td>
-<td>Netflix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netflix.svg" width="100" title="Netflix"><br>782 bytes</td>
+<td>Netflix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netflix.svg" width="100" title="Netflix"><br>441 bytes</td>
 <td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="100" title="NextCloud"><br>302 bytes</td>
 </tr>
 
@@ -353,7 +353,7 @@ Say thanks!
 <tr>
 <td>Open Source<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opensource.svg" width="100" title="Open Source"><br>241 bytes</td>
 <td>OpenStreetMap<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openstreetmap.svg" width="100" title="OpenStreetMap"><br>958 bytes</td>
-<td>OpenVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openvpn.svg" width="100" title="OpenVPN"><br>546 bytes</td>
+<td>OpenVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openvpn.svg" width="100" title="OpenVPN"><br>284 bytes</td>
 <td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="100" title="Opera"><br>460 bytes</td>
 <td>Orcid<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/orcid.svg" width="100" title="Orcid"><br>412 bytes</td>
 <td>Origin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/origin.svg" width="100" title="Origin"><br>644 bytes</td>
@@ -540,7 +540,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>748 bytes</td>
+<td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>671 bytes</td>
 <td>Yahoo!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="100" title="Yahoo!"><br>286 bytes</td>
 <td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="100" title="Yammer"><br>470 bytes</td>
 <td>Yarn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="100" title="Yarn"><br>506 bytes</td>
