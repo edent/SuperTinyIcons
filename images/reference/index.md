@@ -328,3 +328,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/librespeed.svg" width="256" /> | <img src="/images/reference/librespeed.svg" width="256" /> | https://github.com/librespeed/speedtest/blob/master/.logo/LibreSpeed.svg |
 | <img src="/images/svg/ecosia.svg" width="256" /> | <img src="/images/reference/Ecosia_Logo_Green.png" width="256" /> | https://ecosia.co/ecosialogos |
 | <img src="/images/svg/fediverse.svg" width="256" /> | <img src="/images/reference/Fediverse_logo_proposal.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Fediverse_logo_proposal.svg |
+| <img src="/images/svg/threads.svg" width="256" /> | <img src="/images/reference/threads.svg" width="256" /> | https://en.wikipedia.org/wiki/File:Threads_(app)_logo.svg |
