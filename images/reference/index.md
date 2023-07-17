@@ -99,7 +99,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/trello.svg" width="256" />	| <img src="/images/reference/trello.svg" width="256" />	| https://www.atlassian.com/company/news/press-kit	|
 | <img src="/images/svg/hp.svg" width="256"/>	| <img src="/images/reference/hp.gif" width="256"/>	| https://www.hp.com/	|
 | <img src="/images/svg/intel.svg" width="256" />	| <img src="/images/reference/intel.png" width="256" />	| https://newsroom.intel.com/news/intel-accelerates-ai-innovation-3-new-intel-capital-investments/intel-logo-default/	|
-| <img src="/images/svg/badoo.svg" width="256" />	| <img src="/images/reference/badoo.svg" width="256" />	| https://team.badoo.com/new/	|
+| <img src="/images/svg/badoo.svg" width="256" />	| <img src="/images/reference/badoo.svg" width="256" />	| https://badoo.com/ |
 | <img src="/images/svg/samsung_internet.svg" width="256" />	| <img src="/images/reference/samsung_internet.png" width="256" />	| http://www.samsung.com/global/galaxy/apps/samsung-internet/	|
 | <img src="/images/svg/twilio.svg" width="256" />	| <img src="/images/reference/twilio.svg" width="256" />	| https://www.twilio.com/marketing/bundles/company-brand/resources/Twilio-Logos.zip	|
 | <img src="/images/svg/laravel.svg" width="256" />	| <img src="/images/reference/laravel.svg" width="256" />	| https://github.com/laravel/art/blob/master/Laravel-l-slant.svg	|
@@ -329,3 +329,4 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/ecosia.svg" width="256" /> | <img src="/images/reference/Ecosia_Logo_Green.png" width="256" /> | https://ecosia.co/ecosialogos |
 | <img src="/images/svg/fediverse.svg" width="256" /> | <img src="/images/reference/Fediverse_logo_proposal.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Fediverse_logo_proposal.svg |
 | <img src="/images/svg/threads.svg" width="256" /> | <img src="/images/reference/threads.svg" width="256" /> | https://en.wikipedia.org/wiki/File:Threads_(app)_logo.svg |
+| <img src="/images/svg/1password.svg" width="256" /> | <img src="/images/reference/1password.png" width="256" /> | https://1password.social/@1password |

@@ -18,7 +18,7 @@ Say thanks!
 
 <table>
 <tr>
-<td>1Password<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/1password.svg" width="100" title="1Password"><br>795 bytes</td>
+<td>1Password<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/1password.svg" width="100" title="1Password"><br>366 bytes</td>
 <td>Acast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/acast.svg" width="100" title="Acast"><br>412 bytes</td>
 <td>Access<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/access.svg" width="100" title="Access"><br>355 bytes</td>
 <td>ActivityPub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/activitypub.svg" width="100" title="ActivityPub"><br>343 bytes</td>
@@ -50,7 +50,7 @@ Say thanks!
 <td>Auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="100" title="Auth0"><br>398 bytes</td>
 <td>Authy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="100" title="Authy"><br>338 bytes</td>
 <td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="100" title="Backbone"><br>454 bytes</td>
-<td>Badoo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="100" title="Badoo"><br>257 bytes</td>
+<td>Badoo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="100" title="Badoo"><br>304 bytes</td>
 </tr>
 
 <tr>
