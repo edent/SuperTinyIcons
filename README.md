@@ -50,7 +50,7 @@ Say thanks!
 <td>Auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="100" title="Auth0"><br>398 bytes</td>
 <td>Authy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="100" title="Authy"><br>338 bytes</td>
 <td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="100" title="Backbone"><br>454 bytes</td>
-<td>Badoo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="100" title="Badoo"><br>257 bytes</td>
+<td>Badoo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="100" title="Badoo"><br>304 bytes</td>
 </tr>
 
 <tr>
