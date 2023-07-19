@@ -147,7 +147,7 @@ Say thanks!
 <td>Endeavour OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/endeavouros.svg" width="100" title="Endeavour OS"><br>630 bytes</td>
 <td>ePub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="100" title="ePub"><br>314 bytes</td>
 <td>Espressif<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/espressif.svg" width="100" title="Espressif"><br>584 bytes</td>
-<td>Ethereum<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="100" title="Ethereum"><br>403 bytes</td>
+<td>Ethereum<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="100" title="Ethereum"><br>388 bytes</td>
 <td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="100" title="Etsy"><br>468 bytes</td>
 <td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="100" title="Evernote"><br>619 bytes</td>
 </tr>
