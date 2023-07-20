@@ -468,7 +468,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Threema<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threema.svg" width="100" title="Threema"><br>736 bytes</td>
+<td>Threema<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threema.svg" width="100" title="Threema"><br>387 bytes</td>
 <td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="100" title="TikTok"><br>398 bytes</td>
 <td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="100" title="Todoist"><br>761 bytes</td>
 <td>Tox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tox.svg" width="100" title="Tox"><br>486 bytes</td>

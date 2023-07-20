@@ -2,4 +2,4 @@
 aria-label="Threema" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
-fill="url(#a)"/><defs><linearGradient id="a" x2="0%" y2="50%"><stop stop-color="#505050" offset="0"/><stop stop-color="#323232" offset="1"/></linearGradient></defs><path d="m184.4 327-81 20 17-69c-17-22-27-50-27-79 0-79 73-143 163-143s163 64 163 143-73 143-163 143c-25 0-50-5-71-14zm25-141h-2c-4 0-7 3-6 7v65c0 4 3 7 7 7h96c4 0 7-3 7-7v-65c0-4-3-7-7-7h-2v-18c0-25-21-46-46-46s-46 21-46 46v18zm74 0h-55v-18c0-15 12-28 28-28 15 0 28 12 28 28v18z" fill="#fff"/><circle cx="156" cy="406" r="28" fill="#3FE669"/><circle cx="256" cy="406" r="28" fill="#3FE669"/><circle cx="356" cy="406" r="28" fill="#3FE669"/></svg>
+fill="#323232"/><path d="m102 365 82-21a164.4 144.5 0 10-65-50m81-83s-1-9 9-9v-18a1 1 0 0194 0v18s9-1 9 9v64s0 8-8 8h-96s-8 0-8-8m28-73h56v-18.4a1 1 0 00-56 0" fill="#fff"/><path d="m154 396a28 28 0 102 0h99a28 28 0 102 0h99a28 28 0 102 0" fill="#05a63f"/></svg>

@@ -185,7 +185,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/rust.svg" width="256" /> | <img src="/images/reference/Rust_programming_language_black_logo.svg" width="256" />  | https://www.rust-lang.org/policies/media-guide |
 | <img src="/images/svg/clojure.svg" width="256" /> | <img src="/images/reference/Clojure_logo.svg.png" width="256" />  | https://clojure.org/index |
 | <img src="/images/svg/coffeescript.svg" width="256" /> | <img src="/images/reference/coffeescript-logo.svg" width="256" />  | http://coffeescript.org/ |
-| <img src="/images/svg/threema.svg" width="256" /> | <img src="/images/reference/threema.png" width="256" />  | https://threema.ch/press-files/5_graphics/1_icons_and_logos.zip |
+| <img src="/images/svg/threema.svg" width="256" /> | <img src="/images/reference/threema-app-icon_neutral.svg" width="256" /> | https://threema.ch/en/press |
 | <img src="/images/svg/elementaryos.svg" width="256" /> | <img src="/images/reference/elementaryos.png" width="256" />  | https://elementary.io/images/brand/logomark.png |
 | <img src="/images/svg/print.svg" width="256" /> | <img src="/images/reference/print.svg" width="256" />  | https://www.iconfinder.com/icons/326675/print_icon#size=512 |
 | <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/reference/mattermost.png" width="256" />  | https://www.mattermost.org/brand-guidelines/ |
