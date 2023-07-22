@@ -221,7 +221,7 @@ Say thanks!
 <td>Google Podcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_podcasts.svg" width="100" title="Google Podcasts"><br>450 bytes</td>
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="100" title="Google Scholar"><br>524 bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="100" title="Gradle"><br>681 bytes</td>
-<td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="100" title="Grafana"><br>963 bytes</td>
+<td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="100" title="Grafana"><br>680 bytes</td>
 </tr>
 
 <tr>
