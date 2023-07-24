@@ -10,7 +10,7 @@ Say thanks!
 
 ## How Small?
 
-| 533 Bytes SVG                                                                          | 3,328 Bytes PNG                                                                        | 405 Bytes SVG                                                                           | 2,954 Bytes PNG                                                                         | 241 Bytes SVG                                                                          | 1,615 Bytes PNG                                                                        |
+| 533 Bytes SVG                                                                          | 3,328 Bytes PNG                                                                        | 358 Bytes SVG                                                                           | 2,987 Bytes PNG                                                                         | 241 Bytes SVG                                                                          | 1,615 Bytes PNG                                                                        |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" /> |
 
@@ -482,7 +482,7 @@ Say thanks!
 <td>Tutanota<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tutanota.svg" width="100" title="Tutanota"><br>567 bytes</td>
 <td>Twilio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="100" title="Twilio"><br>429 bytes</td>
 <td>Twitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitch.svg" width="100" title="Twitch"><br>299 bytes</td>
-<td>Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" title="Twitter"><br>405 bytes</td>
+<td>Twitter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" title="Twitter"><br>358 bytes</td>
 </tr>
 
 <tr>
