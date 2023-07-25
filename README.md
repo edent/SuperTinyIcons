@@ -435,7 +435,7 @@ Say thanks!
 <td>SOGo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sogo.svg" width="100" title="SOGo"><br>842 bytes</td>
 <td>Solidity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="100" title="Solidity"><br>554 bytes</td>
 <td>SoundCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="100" title="SoundCloud"><br>950 bytes</td>
-<td>Spotify<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="100" title="Spotify"><br>427 bytes</td>
+<td>Spotify<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="100" title="Spotify"><br>424 bytes</td>
 <td>Square Cash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/square_cash.svg" width="100" title="Square Cash"><br>782 bytes</td>
 <td>Stack Exchange<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/stackexchange.svg" width="100" title="Stack Exchange"><br>398 bytes</td>
 </tr>
