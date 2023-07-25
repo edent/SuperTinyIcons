@@ -351,7 +351,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Open Source<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opensource.svg" width="100" title="Open Source"><br>241 bytes</td>
+<td>Open Source<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opensource.svg" width="100" title="Open Source"><br>342 bytes</td>
 <td>OpenStreetMap<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openstreetmap.svg" width="100" title="OpenStreetMap"><br>958 bytes</td>
 <td>OpenVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openvpn.svg" width="100" title="OpenVPN"><br>284 bytes</td>
 <td>Opera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opera.svg" width="100" title="Opera"><br>460 bytes</td>
