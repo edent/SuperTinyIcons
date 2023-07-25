@@ -77,7 +77,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/kickstarter.svg" width="256" />	| <img src="/images/reference/kickstarter.svg" width="256" />	| https://www.kickstarter.com/help/brand_assets	|
 | <img src="/images/svg/yahoo.svg" width="256" />	| <img src="/images/reference/yahoo.jpg" width="256" />	| https://www.pentagram.com/work/yahoo/story	|
 | <img src="/images/svg/bitcoin.svg" width="256" />	| <img src="/images/reference/bitcoin.svg" width="256" />	| https://commons.wikimedia.org/wiki/File:Bitcoin.svg	|
-| <img src="/images/svg/bluetooth.svg" width="256" />	| <img src="/images/reference/bluetooth.svg" width="256" />	| https://www.bluetooth.com/develop-with-bluetooth/marketing-branding/brand-guide-logos	|
+| <img src="/images/svg/bluetooth.svg" width="256" />	| <img src="/images/reference/bluetooth.svg" width="256" />	| https://www.bluetooth.com/develop-with-bluetooth/marketing-branding	|
 | <img src="/images/svg/ibm.svg" width="256" />	| <img src="/images/reference/ibm.svg" width="256" />	| https://www-03.ibm.com/ibm/history/exhibits/logo/logo_8.html	|
 | <img src="/images/svg/yammer.svg" width="256" />	| <img src="/images/reference/yammer.svg" width="256" />	| https://yammerassets.blob.core.windows.net/assets/sites/12/2014/07/Yammer_BrandIdentityGuidelines-1.pdf	|
 | <img src="/images/svg/android.svg" width="256" />	| <img src="/images/reference/android.svg" width="256" />	| https://developer.android.com/distribute/marketing-tools/brand-guidelines.html	|
