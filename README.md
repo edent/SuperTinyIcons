@@ -291,7 +291,7 @@ Say thanks!
 <td>Liberapay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/liberapay.svg" width="100" title="Liberapay"><br>556 bytes</td>
 <td>LibreSpeed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/librespeed.svg" width="100" title="LibreSpeed"><br>948 bytes</td>
 <td>LINE<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/line.svg" width="100" title="LINE"><br>469 bytes</td>
-<td>Linear<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linearapp.svg" width="100" title="Linear"><br>472 bytes</td>
+<td>Linear<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linearapp.svg" width="100" title="Linear"><br>396 bytes</td>
 <td>LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="LinkedIn"><br>361 bytes</td>
 <td>Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="100" title="Linux"><br>956 bytes</td>
 </tr>
