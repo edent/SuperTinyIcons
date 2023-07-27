@@ -303,7 +303,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/solidity.svg" width="256" /> | <img src="/images/reference/solidity.svg" width="256" /> | https://docs.soliditylang.org/en/latest/brand-guide.html |
 | <img src="/images/svg/gitpod.svg" width="256" /> | <img src="/images/reference/gitpod.svg" width="256" /> | https://www.gitpod.io/media-kit |
 | <img src="/images/svg/sublimemerge.svg" width="256" /> | <img src="/images/reference/sublime_merge.png" width="256" /> | https://www.sublimehq.com/ |
-| <img src="/images/svg/linearapp.svg" width="256" />	| <img src="/images/reference/linearapp.png" width="256" />	| https://linear.app/	|
+| <img src="/images/svg/linearapp.svg" width="256" />	| <img src="/images/reference/linear.svg" width="256" /> | https://linear.app/brand |
 | <img src="/images/svg/nginx.svg" width="256" /> | <img src="/images/reference/NGINX-Part-of-F5-horiz-black-type-1.svg" width="256" /> | https://www.nginx.com/ |
 | <img src="/images/svg/vagrant.svg" width="256" /> | <img src="/images/reference/vagrant.png" width="256" /> | https://www.vagrantup.com/files/press-kit.zip |
 | <img src="/images/svg/endeavouros.svg" width="256" /> | <img src="/images/reference/endeavouros.png" width="256" /> | https://github.com/endeavouros-team/endeavouros-theming |
