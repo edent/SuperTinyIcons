@@ -85,7 +85,7 @@ Say thanks!
 <td>Chromium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="100" title="Chromium"><br>409 bytes</td>
 <td>Citrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/citrix.svg" width="100" title="Citrix"><br>751 bytes</td>
 <td>Citrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/citrix_compact.svg" width="100" title="Citrix"><br>349 bytes</td>
-<td>Clojure<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/clojure.svg" width="100" title="Clojure"><br>623 bytes</td>
+<td>Clojure<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/clojure.svg" width="100" title="Clojure"><br>567 bytes</td>
 <td>Cloudflare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="100" title="Cloudflare"><br>491 bytes</td>
 </tr>
 
