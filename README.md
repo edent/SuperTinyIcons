@@ -379,7 +379,7 @@ Say thanks!
 
 <tr>
 <td>Pocket<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocket.svg" width="100" title="Pocket"><br>508 bytes</td>
-<td>Pocket Casts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocketcasts.svg" width="100" title="Pocket Casts"><br>283 bytes</td>
+<td>Pocket Casts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocketcasts.svg" width="100" title="Pocket Casts"><br>269 bytes</td>
 <td>Pop!_OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/popos.svg" width="100" title="Pop!_OS"><br>436 bytes</td>
 <td>Pornhub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pornhub.svg" width="100" title="Pornhub"><br>829 bytes</td>
 <td>PowerShell<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/powershell.svg" width="100" title="PowerShell"><br>998 bytes</td>
