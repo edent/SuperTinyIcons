@@ -119,7 +119,7 @@ Say thanks!
 <tr>
 <td>DigitalOcean<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/digitalocean.svg" width="100" title="DigitalOcean"><br>250 bytes</td>
 <td>Discord<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="100" title="Discord"><br>356 bytes</td>
-<td>Disqus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="100" title="Disqus"><br>271 bytes</td>
+<td>Disqus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="100" title="Disqus"><br>265 bytes</td>
 <td>Django Project<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/djangoproject.svg" width="100" title="Django Project"><br>434 bytes</td>
 <td>Docker<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="100" title="Docker"><br>422 bytes</td>
 <td>Dribble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="100" title="Dribble"><br>371 bytes</td>
