@@ -2,4 +2,4 @@
 aria-label="NetBeans" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
-fill="#fff"/><polygon points="60,140,130,185,250,115,250,30" fill="#A1C535"/><polygon points="250,115,250,30,450,140,375,185" fill="#ADD439"/><polygon points="450,140,375,185,375,325,450,365" fill="#1B6AC6"/><polygon points="375,325,450,365,250,475,250,390" fill="#2E90E8"/><polygon points="250,475,250,390,130,325,60,365" fill="#EA205E"/><polygon points="60,140,130,185,130,325,60,365" fill="#A5073E"/><polygon points="130,185,250,115,375,185,250,250" fill="#F1F6E2"/><polygon points="250,250,250,390,375,325,375,185" fill="#CEDBE6"/></svg>
+fill="#fff"/><path d="M84 157v39H256V58" fill="#a1c535"/><path d="M256 58V196H428V157" fill="#add439"/><path d="M361 196V355h67V157" fill="#1b6ac6"/><path d="M256 454V316H361l67 39" fill="#2e90e8"/><path d="M84 157V355h67V196" fill="#a5073e"/><path d="m84 355 67-39 105 61v77" fill="#ea205e"/><path d="M256 377V196H361V316" fill="#cedbe6"/><path d="m151 196 105 60 105-60-105-61" fill="#f1f6e2"/></svg>
