@@ -2,4 +2,4 @@
 aria-label="Orcid" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
-fill="#fff"/><circle cx="256" cy="256" r="256" fill="#a6ce39"/><path d="m173 372h-31v-214h31zm45-214h83c79 0 114 57 114 107 0 55-43 107-114 107h-84zm31 187h49c70 0 86-53 86-79 0-43-27-79-87-79h-47zm-71-231c0 11-9 20-20 20s-20-9-20-20a20 20 0 0 1 20-20c11 0 20 9 20 20z" fill="#fff"/></svg>
+fill="#fff"/><circle cx="256" cy="256" r="192" fill="#a6ce39"/><path d="m167 148a15 15 0 110 2m3 33V343h23V183m34 0h63c115 0 112 160 0 160h-63m23-20h38c83 0 88-120-2-120h-36" fill="#fff"/></svg>
