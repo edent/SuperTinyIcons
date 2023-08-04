@@ -55,7 +55,7 @@ Say thanks!
 
 <tr>
 <td>Baidu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/baidu.svg" width="100" title="Baidu"><br>790 bytes</td>
-<td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="100" title="Bandcamp"><br>191 bytes</td>
+<td>Bandcamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bandcamp.svg" width="100" title="Bandcamp"><br>195 bytes</td>
 <td>Bash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bash.svg" width="100" title="Bash"><br>762 bytes</td>
 <td>Behance<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/behance.svg" width="100" title="Behance"><br>677 bytes</td>
 <td>Bing<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bing.svg" width="100" title="Bing"><br>945 bytes</td>
