@@ -346,7 +346,7 @@ Say thanks!
 <td>OpenBenches<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openbenches.svg" width="100" title="OpenBenches"><br>754 bytes</td>
 <td>Open Bug Bounty<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openbugbounty.svg" width="100" title="Open Bug Bounty"><br>494 bytes</td>
 <td>Opencast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencast.svg" width="100" title="Opencast"><br>303 bytes</td>
-<td>OpenCollective<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencollective.svg" width="100" title="OpenCollective"><br>465 bytes</td>
+<td>Open Collective<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencollective.svg" width="100" title="Open Collective"><br>310 bytes</td>
 <td>OpenCores<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/opencores.svg" width="100" title="OpenCores"><br>273 bytes</td>
 </tr>
 

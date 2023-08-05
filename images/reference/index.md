@@ -174,7 +174,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/raspberry_pi.svg" width="256" /> | <img src="/images/reference/RPi-Logo-SCREEN.png" width="256" />  | https://www.raspberrypi.org/trademark-rules/ |
 | <img src="/images/svg/venmo.svg" width="256" /> | <img src="/images/reference/venmo-icon.svg" width="256" />  | https://venmo.com/about/brand |
 | <img src="/images/svg/square_cash.svg" width="256" /> | <img src="/images/reference/square-cash-app-logo.jpg" width="256" />  | https://squareup.com/us/en/press |
-| <img src="/images/svg/opencollective.svg" width="256" /> | <img src="/images/reference/opencollective.svg" width="256" />  | https://opencollective.com/static/images/opencollective-icon.svg |
+| <img src="/images/svg/opencollective.svg" width="256" /> | <img src="/images/reference/opencollective.svg" width="256" /> | https://docs.opencollective.com/help/about/introduction#media-logo |
 | <img src="/images/svg/safari.svg" width="256" /> | <img src="/images/reference/Safari_browser_logo.svg" width="256" />  | https://www.apple.com/uk/safari/ |
 | <img src="/images/svg/researchgate.svg" width="256" /> | <img src="/images/reference/researchgate.png" width="256" />  | https://mobile.twitter.com/ResearchGate/photo |
 | <img src="/images/svg/opencores.svg" width="256" /> | <img src="/images/reference/opencores.png" width="256" />  | https://opencores.org |
