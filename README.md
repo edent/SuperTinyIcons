@@ -477,7 +477,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Tumblr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tumblr.svg" width="100" title="Tumblr"><br>413 bytes</td>
+<td>Tumblr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tumblr.svg" width="100" title="Tumblr"><br>257 bytes</td>
 <td>TuneIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tunein.svg" width="100" title="TuneIn"><br>599 bytes</td>
 <td>Tutanota<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tutanota.svg" width="100" title="Tutanota"><br>567 bytes</td>
 <td>Twilio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="100" title="Twilio"><br>317 bytes</td>
