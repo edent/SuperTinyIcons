@@ -550,7 +550,7 @@ Say thanks!
 
 <tr>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="100" title="YouTube"><br>342 bytes</td>
-<td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="100" title="Yubico"><br>297 bytes</td>
+<td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="100" title="Yubico"><br>256 bytes</td>
 <td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="100" title="Zoom"><br>521 bytes</td>
 <td>Zorinos<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="100" title="Zorinos"><br>260 bytes</td>
 </tr>

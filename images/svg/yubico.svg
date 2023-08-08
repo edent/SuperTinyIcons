@@ -2,5 +2,4 @@
 aria-label="Yubico" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
-fill="#fff"/><circle cx="256" cy="256" fill="none" r="233" stroke="#98c93c" stroke-width="45"/><path
-d="M256 407H185l33-77-80-202h69l49 132 46-132h68" fill="#98c93c"/></svg>
+fill="#fff"/><path d="m255 64a192 192 0 102 0m0 44a148 148 0 11-2 0m4 249h-51l23-54-54-137h48l32 88 31-88h48" fill="#98c93c"/></svg>
