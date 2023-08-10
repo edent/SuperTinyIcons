@@ -111,7 +111,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/twitch.svg" width="256" />	| <img src="/images/reference/twitch.svg" width="256" />	| https://www.twitch.tv/p/brand/ |
 | <img src="/images/svg/ok.svg" width="256" />	| <img src="/images/reference/ok.png" width="256" />	| https://insideok.ru/brandbook |
 | <img src="/images/svg/stumbleupon.svg" width="256" />	| <img src="/images/reference/stumbleupon.png" width="256" />	| https://en.wikipedia.org/wiki/StumbleUpon#/media/File:StumbleUpon_Logo.svg |
-| <img src="/images/svg/pocket.svg" width="256" />	| <img src="/images/reference/pocket.png" width="256" />	| https://getpocket.com/blog/press/ |
+| <img src="/images/svg/pocket.svg" width="256" />	| <img src="/images/reference/pocket.svg" width="256" />	| https://blog.getpocket.com/press/ |
 | <img src="/images/svg/buffer.svg" width="256" />	| <img src="/images/reference/buffer.jpg" width="256" />	| https://buffer.com/press |
 | <img src="/images/svg/workato.svg" width="256" />	| <img src="/images/reference/workato.svg" width="256" />	| https://workato.com |
 | <img src="/images/svg/sketch.svg" width="256" />	| <img src="/images/reference/sketch.svg" width="256" />	| https://www.sketchapp.com/ |
