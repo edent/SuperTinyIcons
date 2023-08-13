@@ -363,7 +363,7 @@ Say thanks!
 <td>Outlook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="100" title="Outlook"><br>886 bytes</td>
 <td>Overcast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overcast.svg" width="100" title="Overcast"><br>780 bytes</td>
 <td>Overleaf<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overleaf.svg" width="100" title="Overleaf"><br>443 bytes</td>
-<td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="100" title="Patreon"><br>240 bytes</td>
+<td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="100" title="Patreon"><br>211 bytes</td>
 <td>PayPal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="100" title="PayPal"><br>508 bytes</td>
 <td>PDF<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg" width="100" title="PDF"><br>665 bytes</td>
 </tr>
