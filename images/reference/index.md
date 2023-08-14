@@ -168,7 +168,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/yelp.svg" width="256" /> | <img src="/images/reference/Yelp_burst_positive_RGB.png" width="256" />  | https://www.yelp.co.uk/brand |
 | <img src="/images/svg/chrome.svg" width="256" /> | <img src="/images/reference/chrome.svg" width="256" />  | https://www.google.com/chrome/static/images/chrome-logo.svg |
 | <img src="/images/svg/edge.svg" width="256" /> | <img src="/images/reference/Microsoft_Edge_logo_2019.svg" width="256" />  | https://www.microsoft.com/en-us/edge |
-| <img src="/images/svg/opera.svg" width="256" /> | <img src="/images/reference/opera.png" width="256" />  | https://brand.opera.com/ |
+| <img src="/images/svg/opera.svg" width="256" /> | <img src="/images/reference/opera.svg" width="256" />  | https://brand.opera.com/1472-2/opera-logos/ |
 | <img src="/images/svg/firefox.svg" width="256" /> | <img src="/images/reference/firefox.svg" width="256" />  | https://mozilla.design/firefox/logos-usage/ |
 | <img src="/images/svg/brave.svg" width="256" /> | <img src="/images/reference/brave.svg" width="256" />  | https://brave.com/brave-branding-assets/ |
 | <img src="/images/svg/raspberry_pi.svg" width="256" /> | <img src="/images/reference/RPi-Logo-SCREEN.png" width="256" />  | https://www.raspberrypi.org/trademark-rules/ |
