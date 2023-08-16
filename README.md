@@ -136,7 +136,7 @@ Say thanks!
 
 <tr>
 <td>Ecosia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ecosia.svg" width="100" title="Ecosia"><br>782 bytes</td>
-<td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="100" title="Edge"><br>955 bytes</td>
+<td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="100" title="Edge"><br>1023 bytes</td>
 <td>elastic<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elastic.svg" width="100" title="elastic"><br>720 bytes</td>
 <td>Element<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/element.svg" width="100" title="Element"><br>426 bytes</td>
 <td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="100" title="Elementary OS"><br>457 bytes</td>
