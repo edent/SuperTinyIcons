@@ -166,7 +166,7 @@ Say thanks!
 <td>Flattr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flattr.svg" width="100" title="Flattr"><br>338 bytes</td>
 <td>Flickr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" title="Flickr"><br>241 bytes</td>
 <td>Floatplane<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/floatplane.svg" width="100" title="Floatplane"><br>832 bytes</td>
-<td>Flutter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="100" title="Flutter"><br>683 bytes</td>
+<td>Flutter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="100" title="Flutter"><br>497 bytes</td>
 <td>foobar2000<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/foobar2000.svg" width="100" title="foobar2000"><br>757 bytes</td>
 </tr>
 
