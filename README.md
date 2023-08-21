@@ -387,7 +387,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Printer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/print.svg" width="100" title="Printer"><br>441 bytes</td>
+<td>Printer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/print.svg" width="100" title="Printer"><br>278 bytes</td>
 <td>Proton Mail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/protonmail.svg" width="100" title="Proton Mail"><br>635 bytes</td>
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"><br>550 bytes</td>
 <td>QQ<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/qq.svg" width="100" title="QQ"><br>941 bytes</td>
