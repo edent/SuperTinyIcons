@@ -2,4 +2,4 @@
 aria-label="Preact" role="img"
 viewBox="0 0 512 512"><rect
 width="512" height="512"
-fill="#fff"/><g transform="translate(256,256)"><path d="M0,-256 222,-128 222,128 0,256 -222,128 -222,-128z" fill="#673ab8"/><ellipse cx="0" cy="0" stroke-width="16" rx="75" ry="196" fill="none" stroke="#fff" transform="rotate(52.5)"/><ellipse cx="0" cy="0" stroke-width="16" rx="75" ry="196" fill="none" stroke="#fff" transform="rotate(-52.5)"/><circle cx="0" cy="0" r="34" fill="#fff"/></g></svg>
+fill="#fff"/><path d="m84 157V355l172 99 172-99V157L256 58m1 172a26 26 0 11-2 0" fill="#673ab8"/><path d="m217 299a58 151.5-52.5 10-5-4zm78 0a58 151.5 52.5 115-4z" fill="none" stroke="#fff" stroke-width="12"/></svg>
