@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Bluetooth" role="img"
-viewBox="0 0 512 512" fill="none"><rect
+viewBox="0 0 512 512"><rect
 width="512" height="512"
-fill="#fff"/><path fill="#0082fc" d="m256 460c89 0 150.4-42.3 150.4-204S345 52 256 52 105.6 94.4 105.6 256 167 460 256 460"/><path stroke="#fff" stroke-width="30" d="M174.1 172.2 327.2 325.6 258 395V117l69.2 69.4-152.9 153.1"/><path stroke="#0082fc" stroke-width="2" d="m389 428a15 15 0 101 0zm-3.2 23.5v-15.7h5a1 1 0 010 8h-4 3.2l4.3 7.6"/></svg>
+fill="#fff"/><path fill="#0082fc" d="m256 460c89 0 150.4-42.3 150.4-204S345 52 256 52 105.6 94.4 105.6 256 167 460 256 460"/><path fill="none" stroke="#fff" stroke-width="30" d="M174.1 172.2 327.2 325.6 258 395V117l69.2 69.4-152.9 153.1"/></svg>
