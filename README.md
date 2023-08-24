@@ -461,7 +461,7 @@ Say thanks!
 <tr>
 <td>taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="100" title="taiga.io"><br>742 bytes</td>
 <td>Teamspeak<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="100" title="Teamspeak"><br>927 bytes</td>
-<td>Telegram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="100" title="Telegram"><br>410 bytes</td>
+<td>Telegram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="100" title="Telegram"><br>485 bytes</td>
 <td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="100" title="Terraform"><br>294 bytes</td>
 <td>This American Life<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/thisamericanlife.svg" width="100" title="This American Life"><br>293 bytes</td>
 <td>Threads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threads.svg" width="100" title="Threads"><br>371 bytes</td>

@@ -14,7 +14,7 @@ Where possible this links to the organisation's brand guidelines page.
 | <img src="/images/svg/tumblr.svg" width="256" />	| <img src="/images/reference/tumblr.svg" width="256" />	| https://www.tumblr.com/logo	|
 | <img src="/images/svg/whatsapp.svg" width="256" />	| <img src="/images/reference/whatsapp.svg" width="256" />	| https://www.whatsappbrand.com/	|
 | <img src="/images/svg/dropbox.svg" width="256" />	| <img src="/images/reference/dropbox.svg" width="256" />	| https://www.dropbox.com/branding	|
-| <img src="/images/svg/telegram.svg" width="256" />	| <img src="/images/reference/telegram.png" width="256" />	| https://telegram.org/img/t_logo.png	|
+| <img src="/images/svg/telegram.svg" width="256" />	| <img src="/images/reference/telegram.svg" width="256" />	| https://telegram.org/img/t_logo.png	|
 | <img src="/images/svg/linkedin.svg" width="256" />	| <img src="/images/reference/linkedin.svg" width="256" />	| https://brand.linkedin.com/	|
 | <img src="/images/svg/stackoverflow.svg" width="256" />	| <img src="/images/reference/stackoverflow.svg" width="256" />	| https://stackoverflow.com/company/logos	|
 | <img src="/images/svg/instagram.svg" width="256" />	| <img src="/images/reference/instagram.svg" width="256" />	| https://en.instagram-brand.com/	|
