@@ -3,6 +3,7 @@
 
 A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo.
 Where possible this links to the organisation's brand guidelines page.
+Avoid using GIFs, as they ignore the `width` attribute on GitHub.
 
 Super Tiny SVG | Official Logo | Source
 ---------------|---------------|-------
@@ -97,7 +98,7 @@ Super Tiny SVG | Official Logo | Source
 <img src="/images/svg/opensource.svg" width="256" /> | <img src="/images/reference/opensource.png" width="256" /> | https://opensource.org/logo-usage-guidelines
 <img src="/images/svg/patreon.svg" width="256" /> | <img src="/images/reference/patreon.svg" width="256" /> | https://www.patreon.com/brand/guidelines
 <img src="/images/svg/trello.svg" width="256" /> | <img src="/images/reference/trello.svg" width="256" /> | https://www.atlassian.com/company/news/press-kit
-<img src="/images/svg/hp.svg" width="256" /> | <img src="/images/reference/hp.gif" width="256" /> | https://www.hp.com/
+<img src="/images/svg/hp.svg" width="256" /> | <img src="/images/reference/hp.png" width="256" /> | https://www.hp.com/
 <img src="/images/svg/intel.svg" width="256" /> | <img src="/images/reference/intel.png" width="256" /> | https://newsroom.intel.com/news/intel-accelerates-ai-innovation-3-new-intel-capital-investments/intel-logo-default/
 <img src="/images/svg/badoo.svg" width="256" /> | <img src="/images/reference/badoo.svg" width="256" /> | https://badoo.com/
 <img src="/images/svg/samsung_internet.svg" width="256" /> | <img src="/images/reference/samsung_internet.png" width="256" /> | http://www.samsung.com/global/galaxy/apps/samsung-internet/
@@ -155,7 +156,7 @@ Super Tiny SVG | Official Logo | Source
 <img src="/images/svg/sass.svg" width="256" /> | <img src="/images/reference/seal-color-aef0354c.png" width="256" /> | https://sass-lang.com/styleguide/brand
 <img src="/images/svg/duckduckgo.svg" width="256" /> | <img src="/images/reference/DuckDuckGoLogo-Dax-Solo.svg" width="256" /> | https://duckduckgo.com/press
 <img src="/images/svg/bing.svg" width="256" /> | <img src="/images/reference/bing.svg" width="256" /> | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1q9FS
-<img src="/images/svg/json.svg" width="256" /> | <img src="/images/reference/json.gif" width="256" /> | https://json.org/
+<img src="/images/svg/json.svg" width="256" /> | <img src="/images/reference/json.png" width="256" /> | https://json.org/
 <img src="/images/svg/unicode.svg" width="256" /> | <img src="/images/reference/Unicode_logo.svg" width="256" /> | https://www.unicode.org/policies/logo_policy.html
 <img src="/images/svg/linux.svg" width="256" /> | <img src="/images/reference/Classic_flat_look_v1.1.svg" width="256" /> | https://www.linuxfoundation.org/trademark-usage/
 <img src="/images/svg/imdb.svg" width="256" /> | <img src="/images/reference/imdb.svg" width="256" /> | https://imdb.com/
@@ -286,7 +287,7 @@ Super Tiny SVG | Official Logo | Source
 <img src="/images/svg/hulu.svg" width="256" /> | <img src="/images/reference/hulu-Green-digital.svg" width="256" /> | https://thisis.hulu.com/#hulu-logo
 <img src="/images/svg/guilded.svg" width="256" /> | <img src="/images/reference/guilded.png" width="256" /> | https://www.guilded.gg/brand
 <img src="/images/svg/citrix.svg" width="256" /> | <img src="/images/reference/citrix-logo.svg" width="256" /> | https://brand.citrix.com/brand-system/logo/
-<img src="/images/svg/citrix_compact.svg" width="256" /> | <img src="/images/reference/citrix-logo-compact.gif" width="256" /> | https://brand.citrix.com/brand-system/compact-mark/
+<img src="/images/svg/citrix_compact.svg" width="256" /> | <img src="/images/reference/citrix-compact.png" width="256" /> | https://brand.citrix.com/brand-system/compact-mark/
 <img src="/images/svg/i18next.svg" width="256" /> | <img src="/images/reference/i18next.png" width="256" /> | https://www.i18next.com/
 <img src="/images/svg/sogo.svg" width="256" /> | <img src="/images/reference/sogo.svg" width="256" /> | https://www.sogo.nu/
 <img src="/images/svg/todoist.svg" width="256" /> | <img src="/images/reference/todoist.png" width="256" /> | https://doist.com/press
@@ -311,7 +312,7 @@ Super Tiny SVG | Official Logo | Source
 <img src="/images/svg/activitypub.svg" width="256" /> | <img src="/images/reference/ActivityPub-logo.svg" width="256" /> | https://activitypub.rocks/
 <img src="/images/svg/blender.svg" width="256" /> | <img src="/images/reference/blender.svg" width="256" /> | https://www.blender.org/
 <img src="/images/svg/expressionengine.svg" width="256" /> | <img src="/images/reference/expressionengine.png" width="256" /> | https://expressionengine.com/about/trademark-use-policy
-<img src="/images/svg/vim.svg" width="256" /> | <img src="/images/reference/vim.gif" width="256" /> | https://www.vim.org/logos.php
+<img src="/images/svg/vim.svg" width="256" /> | <img src="/images/reference/vim.png" width="256" /> | https://www.vim.org/logos.php
 <img src="/images/svg/openstreetmap.svg" width="256" /> | <img src="/images/reference/openstreetmap.png" width="256" /> | https://wiki.openstreetmap.org/wiki/Logos#Other_logos
 <img src="/images/svg/bun.svg" width="256" /> | <img src="/images/reference/bun.svg" width="256" /> | https://bun.sh/
 <img src="/images/svg/powershell.svg" width="256" /> | <img src="/images/reference/powershell.svg" width="256" /> | https://learn.microsoft.com/en-us/powershell/scripting/community/digital-art?view=powershell-7.3
