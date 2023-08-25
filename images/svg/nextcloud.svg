@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="NextCloud" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-fill="#0082c9"/><g stroke="#fff" stroke-width="33" fill="none"><circle r="40" cy="256" cx="120"/><circle r="71" cy="256" cx="256"/><circle r="40" cy="256" cx="392"/></g></svg>
+viewBox="0 0 512 512" fill="#0082c9"><rect
+width="512" height="512"/><path stroke="#fff" stroke-width="33" d="m160 257a40 40 0 110-2zh25a71 71 0 100-2v2m167 0a40 40 0 100-2z"/></svg>
