@@ -3,10 +3,11 @@
 
 A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo.
 Where possible this links to the organisation's brand guidelines page.
-Avoid using GIFs, as they ignore the `width` attribute on GitHub.
 
-Super Tiny SVG | Official Logo | Source
----------------|---------------|-------
+> ⚠️ Contributors: Avoid using GIFs, as they ignore the `width` attribute on GitHub.
+
+<br>Super Tiny SVG<img width="128" height="0" /> | <br>Official Logo<img width="128" height="0" /> | <br>Source<br>&nbsp;
+:-:|:-:|-
 <img src="/images/svg/filestash.svg" width="256" /> | <img src="/images/reference/filestash.svg" width="256" /> | https://www.filestash.app/
 <img src="/images/svg/twitter.svg" width="256" /> | <img src="/images/reference/twitter.svg" width="256" /> | https://about.twitter.com/en/who-we-are/brand-toolkit
 <img src="/images/svg/hackernews.svg" width="256" /> | <img src="/images/reference/hackernews.png" width="256" /> | https://www.ycombinator.com/favicon.ico
