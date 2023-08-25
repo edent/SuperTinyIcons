@@ -6,7 +6,7 @@ Where possible this links to the organisation's brand guidelines page.
 
 > ⚠️ Contributors: Avoid using GIFs, as they ignore the `width` attribute on GitHub.
 
-<br>Super Tiny SVG<img width="128" height="0" /> | <br>Official Logo<img width="128" height="0" /> | <br>Source<br>&nbsp;
+Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 :-:|:-:|-
 <img src="/images/svg/filestash.svg" width="256" /> | <img src="/images/reference/filestash.svg" width="256" /> | https://www.filestash.app/
 <img src="/images/svg/twitter.svg" width="256" /> | <img src="/images/reference/twitter.svg" width="256" /> | https://about.twitter.com/en/who-we-are/brand-toolkit
