@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Samsung Internet" role="img"
-viewBox="0 0 512 512"><rect
+viewBox="0 0 512 512" fill="#fff"><rect
 width="512" height="512"
-fill="#706CF5"/><g fill="none" stroke="#fff" stroke-width="26"><circle cx="256" cy="256" r="179"/><path stroke="#706CF5" d="M46 221a228 80 15 10441 118"/><path d="M105 160a228 80 15 10331 87"/></g></svg>
+fill="#7882ff"/><circle cx="256" cy="256" r="172"/><path d="m152 149a199 76 20.8 10255 98" stroke="#4d5cc1" stroke-width="54"/><path d="m98 188a172 172 0 01321 123"/></svg>
