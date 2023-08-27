@@ -541,7 +541,7 @@ Say thanks!
 
 <tr>
 <td>XING<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xing.svg" width="100" title="XING"><br>353 bytes</td>
-<td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>671 bytes</td>
+<td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>732 bytes</td>
 <td>Yahoo!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="100" title="Yahoo!"><br>286 bytes</td>
 <td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="100" title="Yammer"><br>470 bytes</td>
 <td>Yarn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="100" title="Yarn"><br>506 bytes</td>
