@@ -332,3 +332,4 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="/images/svg/threads.svg" width="256" /> | <img src="/images/reference/threads.svg" width="256" /> | https://en.wikipedia.org/wiki/File:Threads_(app)_logo.svg
 <img src="/images/svg/1password.svg" width="256" /> | <img src="/images/reference/1password.png" width="256" /> | https://1password.social/@1password
 <img src="/images/svg/xmpp.svg" width="256" /> | <img src="/images/reference/xmpp.svg" width="256" /> | https://xmpp.org/about/press-kit/
+<img src="/images/svg/mysql.svg" width="256" /> | <img src="/images/reference/mysql.svg" width="256" /> | https://www.mysql.com/about/legal/logos.html
