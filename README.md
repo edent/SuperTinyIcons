@@ -427,7 +427,7 @@ Say thanks!
 <td>Signal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/signal.svg" width="100" title="Signal"><br>430 bytes</td>
 <td>Sketch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="100" title="Sketch"><br>359 bytes</td>
 <td>Skype<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="100" title="Skype"><br>478 bytes</td>
-<td>Slack<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="100" title="Slack"><br>522 bytes</td>
+<td>Slack<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="100" title="Slack"><br>390 bytes</td>
 <td>SlideShare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slideshare.svg" width="100" title="SlideShare"><br>652 bytes</td>
 </tr>
 
