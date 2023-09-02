@@ -227,7 +227,7 @@ Say thanks!
 <tr>
 <td>Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="100" title="Guacamole"><br>676 bytes</td>
 <td>Guilded<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guilded.svg" width="100" title="Guilded"><br>359 bytes</td>
-<td>Hacker News<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg" width="100" title="Hacker News"><br>220 bytes</td>
+<td>Hacker News<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackernews.svg" width="100" title="Hacker News"><br>219 bytes</td>
 <td>HackerOne<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hackerone.svg" width="100" title="HackerOne"><br>437 bytes</td>
 <td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="100" title="HAML"><br>928 bytes</td>
 <td>Heroku<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="100" title="Heroku"><br>441 bytes</td>
