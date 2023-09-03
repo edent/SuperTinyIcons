@@ -526,7 +526,7 @@ Say thanks!
 <td>WebMention<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webmention.svg" width="100" title="WebMention"><br>267 bytes</td>
 <td>WeChat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wechat.svg" width="100" title="WeChat"><br>631 bytes</td>
 <td>Wekan<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wekan.svg" width="100" title="Wekan"><br>972 bytes</td>
-<td>WhatsApp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="100" title="WhatsApp"><br>470 bytes</td>
+<td>WhatsApp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="100" title="WhatsApp"><br>442 bytes</td>
 <td>WHATWG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatwg.svg" width="100" title="WHATWG"><br>319 bytes</td>
 </tr>
 
