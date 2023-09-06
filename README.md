@@ -496,7 +496,7 @@ Say thanks!
 
 <tr>
 <td>Udemy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/udemy.svg" width="100" title="Udemy"><br>297 bytes</td>
-<td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="100" title="Unicode"><br>603 bytes</td>
+<td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="100" title="Unicode"><br>366 bytes</td>
 <td>Untappd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="100" title="Untappd"><br>401 bytes</td>
 <td>Uphold<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="100" title="Uphold"><br>810 bytes</td>
 <td>Uplay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="100" title="Uplay"><br>533 bytes</td>
