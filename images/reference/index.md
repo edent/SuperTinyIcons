@@ -100,7 +100,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="/images/svg/patreon.svg" width="256" /> | <img src="/images/reference/patreon.svg" width="256" /> | https://www.patreon.com/brand/guidelines
 <img src="/images/svg/trello.svg" width="256" /> | <img src="/images/reference/trello.svg" width="256" /> | https://www.atlassian.com/company/news/press-kit
 <img src="/images/svg/hp.svg" width="256" /> | <img src="/images/reference/hp.png" width="256" /> | https://www.hp.com/
-<img src="/images/svg/intel.svg" width="256" /> | <img src="/images/reference/intel.png" width="256" /> | https://newsroom.intel.com/news/intel-accelerates-ai-innovation-3-new-intel-capital-investments/intel-logo-default/
+<img src="/images/svg/intel.svg" width="256" /> | <img src="/images/reference/intel.svg" width="256" /> | https://www.intel.com/content/www/us/en/company-overview/visual-brand-identity.html
 <img src="/images/svg/badoo.svg" width="256" /> | <img src="/images/reference/badoo.svg" width="256" /> | https://badoo.com/
 <img src="/images/svg/samsung_internet.svg" width="256" /> | <img src="/images/reference/samsung_internet.svg" width="256" /> | https://commons.wikimedia.org/wiki/File:Samsung_Internet_logo.svg
 <img src="/images/svg/twilio.svg" width="256" /> | <img src="/images/reference/twilio.svg" width="256" /> | https://www.twilio.com/marketing/bundles/company-brand/resources/Twilio-Logos.zip
