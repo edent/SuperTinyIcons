@@ -72,7 +72,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Briar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/briar.svg" width="100" title="Briar"><br>565 bytes</td>
+<td>Briar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/briar.svg" width="100" title="Briar"><br>501 bytes</td>
 <td>Buffer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/buffer.svg" width="100" title="Buffer"><br>480 bytes</td>
 <td>Bugcrowd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bugcrowd.svg" width="100" title="Bugcrowd"><br>790 bytes</td>
 <td>Bun<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bun.svg" width="100" title="Bun"><br>1023 bytes</td>
