@@ -309,7 +309,7 @@ Say thanks!
 <td>Mail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="100" title="Mail"><br>563 bytes</td>
 <td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="100" title="Mailchimp"><br>990 bytes</td>
 <td>Malt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="100" title="Malt"><br>419 bytes</td>
-<td>Manjaro<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="100" title="Manjaro"><br>358 bytes</td>
+<td>Manjaro<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="100" title="Manjaro"><br>228 bytes</td>
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="100" title="Markdown"><br>440 bytes</td>
 <td>Mastodon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="100" title="Mastodon"><br>588 bytes</td>
 </tr>
