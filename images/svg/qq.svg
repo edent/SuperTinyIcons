@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="QQ" role="img"
 fill="#ffc107"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
 fill="#fff"/><path
 d="M261 398a57 32 0 00114 0 57 32 0 00-114 0zm-124 0a57 32 0 00114 0 57 32 0 00-114 0z"/><path
 fill="#37474f"

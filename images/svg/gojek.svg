@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Gojek" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
 fill="#fff"/><path fill="#0a1" d="m255 330a72 72 0 112 0m-73 106a36 36 0 0024-68 120 120 0 1196 0 36 36 0 0024 68 192 192 0 10-144 0"/></svg>

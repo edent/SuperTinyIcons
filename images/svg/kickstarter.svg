@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Kickstarter" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
 fill="#fff"/><path d="m188 169v174l47-85 89-89-89 89 89 85" stroke="#034752" stroke-linecap="round" stroke-linejoin="round" stroke-width="163"/></svg>
