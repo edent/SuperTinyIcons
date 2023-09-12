@@ -595,11 +595,10 @@ I'd _love_ you to submit something 😸 The rules are simple, your icon must:
 
 At a minimum, your icon needs these components:
 
-```
+```svg
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="..." role="img"
-viewBox="0 0 512 512">
-<path
+viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
 fill="#fff"/> ... </svg>
 ```
