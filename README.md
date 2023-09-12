@@ -600,7 +600,7 @@ At a minimum, your icon needs these components:
 aria-label="..." role="img"
 viewBox="0 0 512 512">
 <path
-d="m0 0H512v512H0"
+d="m0 0H512V512H0"
 fill="#fff"/> ... </svg>
 ```
 
