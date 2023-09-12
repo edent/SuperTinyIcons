@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Coderwall" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
 fill="#fff"/><path transform="scale(64)" stroke="#3e8dcc" stroke-linecap="round" d="m2 2zm2 0zm0 2zm2-2zm0 2zm0 2z"/></svg>

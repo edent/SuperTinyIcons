@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Bandcamp" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
 fill="#fff"/><path fill="#1DA0C3" d="M99 349h215l99-186H198"/></svg>

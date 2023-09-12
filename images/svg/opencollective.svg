@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Open Collective" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
 fill="#fff"/><path d="m316 148a123.5 123.5 0 100 216l49 50a192 192 0 110-316" fill="#7fadf2"/><path d="m364 196a124 124 0 010 120l50 49a192 192 0 000-218" fill="#b8d3f4"/></svg>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Wire" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
 fill="#fff"/><path fill="none" stroke="#000" stroke-width="19" d="M99 127v163a1 1 0 00186 0V157a1 1 0 00-58 0v133a1 1 0 00186 0V127"/></svg>
