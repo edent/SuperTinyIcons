@@ -182,7 +182,7 @@ Say thanks!
 <tr>
 <td>Ghost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="100" title="Ghost"><br>244 bytes</td>
 <td>Git<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="100" title="Git"><br>367 bytes</td>
-<td>Gitea<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitea.svg" width="100" title="Gitea"><br>756 bytes</td>
+<td>Gitea<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitea.svg" width="100" title="Gitea"><br>750 bytes</td>
 <td>GitHub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" title="GitHub"><br>527 bytes</td>
 <td>GitLab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitlab.svg" width="100" title="GitLab"><br>425 bytes</td>
 <td>Gitpod<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitpod.svg" width="100" title="Gitpod"><br>543 bytes</td>
@@ -211,7 +211,7 @@ Say thanks!
 <td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="100" title="Google Drive"><br>561 bytes</td>
 <td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="100" title="Google Drive"><br>298 bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="100" title="Google Maps"><br>554 bytes</td>
-<td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="100" title="Google Maps"><br>704 bytes</td>
+<td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="100" title="Google Maps"><br>686 bytes</td>
 <td>Google Meet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_meet.svg" width="100" title="Google Meet"><br>514 bytes</td>
 </tr>
 
@@ -307,7 +307,7 @@ Say thanks!
 
 <tr>
 <td>Mail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="100" title="Mail"><br>557 bytes</td>
-<td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="100" title="Mailchimp"><br>990 bytes</td>
+<td>Mailchimp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="100" title="Mailchimp"><br>983 bytes</td>
 <td>Malt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="100" title="Malt"><br>413 bytes</td>
 <td>Manjaro<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="100" title="Manjaro"><br>222 bytes</td>
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="100" title="Markdown"><br>434 bytes</td>
