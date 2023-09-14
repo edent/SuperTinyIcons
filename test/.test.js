@@ -6,7 +6,7 @@ import vnu from 'vnu-jar'
 const svgDir = 'images/svg/'
 
 
-printBold('\nGetting file sizes from README')
+console.log('Getting file sizes from README')
 
 const readmeLines = (await Bun.file('README.md').text()).split('\n')
 const readmeRegex = /<td>.*\/svg\/(.*\.svg).*<br>(\d+) bytes/
@@ -22,7 +22,7 @@ for (const line of readmeLines) {
 }
 
 
-printBold('\nValidating SVGs with the W3C validator (vnu)')
+console.log('Validating SVGs with the W3C validator (vnu)')
 
 const validationErrorsMap = new Map()
 
@@ -44,7 +44,7 @@ try {
 }
 
 
-printBold('\nRunning tests')
+console.log('Running tests')
 
 const files = readdirSync(svgDir)
 
@@ -77,7 +77,3 @@ files.forEach(filename => {
 test('all files in readme should exist', () => {
   expect(fileSizeMap).toBeEmpty()
 })
-
-function printBold(text) {
-  console.log('\x1b[1m%s\x1b[0m', text)
-}
