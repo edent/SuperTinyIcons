@@ -49,7 +49,7 @@ Say thanks!
 <td>Atom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="100" title="Atom"><br>347 bytes</td>
 <td>Auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="100" title="Auth0"><br>392 bytes</td>
 <td>Authy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="100" title="Authy"><br>332 bytes</td>
-<td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="100" title="Backbone"><br>448 bytes</td>
+<td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="100" title="Backbone"><br>337 bytes</td>
 <td>Badoo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/badoo.svg" width="100" title="Badoo"><br>298 bytes</td>
 </tr>
 
