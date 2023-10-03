@@ -333,3 +333,4 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="/images/svg/1password.svg" width="256" /> | <img src="/images/reference/1password.png" width="256" /> | https://1password.social/@1password
 <img src="/images/svg/xmpp.svg" width="256" /> | <img src="/images/reference/xmpp.svg" width="256" /> | https://xmpp.org/about/press-kit/
 <img src="/images/svg/mysql.svg" width="256" /> | <img src="/images/reference/mysql.svg" width="256" /> | https://www.mysql.com/about/legal/logos.html
+<img src="/images/svg/swift.svg" width="256" /> | <img src="/images/reference/swift.svg" width="256" /> | https://developer.apple.com/swift/resources/
