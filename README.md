@@ -482,7 +482,7 @@ Say thanks!
 
 <tr>
 <td>Trello<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/trello.svg" width="100" title="Trello"><br>261 bytes</td>
-<td>TripAdvisor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tripadvisor.svg" width="100" title="TripAdvisor"><br>697 bytes</td>        
+<td>TripAdvisor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tripadvisor.svg" width="100" title="TripAdvisor"><br>697 bytes</td>
 <td>Tumblr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tumblr.svg" width="100" title="Tumblr"><br>251 bytes</td>
 <td>TuneIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tunein.svg" width="100" title="TuneIn"><br>593 bytes</td>
 <td>Tutanota<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tutanota.svg" width="100" title="Tutanota"><br>561 bytes</td>
@@ -527,7 +527,7 @@ Say thanks!
 
 <tr>
 <td>W3C<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="100" title="W3C"><br>523 bytes</td>
-<td>WebAssembly<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="100" title="WebAssembly"><br>483 bytes</td>        
+<td>WebAssembly<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="100" title="WebAssembly"><br>483 bytes</td>
 <td>WebMention<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webmention.svg" width="100" title="WebMention"><br>261 bytes</td>
 <td>WeChat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wechat.svg" width="100" title="WeChat"><br>625 bytes</td>
 <td>Wekan<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wekan.svg" width="100" title="Wekan"><br>966 bytes</td>
@@ -562,6 +562,8 @@ Say thanks!
 </tr>
 
 </table>
+
+
 
 ## Why so smallious?
 
