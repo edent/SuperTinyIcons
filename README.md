@@ -459,6 +459,7 @@ Say thanks!
 <td>SubscribeStar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/subscribestar.svg" width="100" title="SubscribeStar"><br>584 bytes</td>  
 <td>Svelte<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svelte.svg" width="100" title="Svelte"><br>471 bytes</td>
 <td>SVG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svg.svg" width="100" title="SVG"><br>749 bytes</td>
+<td>Swift<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/swift.svg" width="100" title="Swift"><br>668 bytes</td>
 </tr>
 
 <tr>
