@@ -8,6 +8,7 @@ Where possible this links to the organisation's brand guidelines page.
 
 Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 -|-|-
+<img src="/images/svg/x.svg" width="256" /> | <img src="/images/reference/x.svg" width="256" /> | https://twitter.com/
 <img src="/images/svg/filestash.svg" width="256" /> | <img src="/images/reference/filestash.svg" width="256" /> | https://www.filestash.app/
 <img src="/images/svg/twitter.svg" width="256" /> | <img src="/images/reference/twitter.svg" width="256" /> | https://about.twitter.com/en/who-we-are/brand-toolkit
 <img src="/images/svg/hackernews.svg" width="256" /> | <img src="/images/reference/hackernews.png" width="256" /> | https://www.ycombinator.com/favicon.ico
