@@ -30,15 +30,15 @@ for svg in svg_list:
 if counter != 0 :
 		table += "</tr>\n\n"
 		
-table += "</table>\n"
+table += "</table>"
 
-summary_text = f"There are currently {len(svg_list)} icons the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
+summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
 
 with open('README.md','r+') as f: 
     file = f.read() 
 	
     file = re.sub(r"(?s)<table>.*?</table>", table, file)
-    file = re.sub("There are currently \d* icons and the average size is _under_ \d* bytes\!", summary_text, file  ) 
+    file = re.sub("There are currently \d* icons and the average size is _under_ \d* bytes\!", summary_text, file) 
 
     f.seek(0)  
     f.write(file)  
