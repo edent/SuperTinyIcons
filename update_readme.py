@@ -18,7 +18,7 @@ for svg in svg_list:
 		table += "<tr>\n"
 		
 	table += f"<td>{name}<br>"
-	table += f"<img src=\"https://edent.github.io/SuperTinyIcons/images/svg/\"{svg} width=\"100\" title=\"{name}\"><br>"
+	table += f"<img src=\"https://edent.github.io/SuperTinyIcons/images/svg/{svg}\" width=\"100\" title=\"{name}\"><br>"
 	table += f"{bytes} bytes</td>\n"
 	
 	counter +=1
