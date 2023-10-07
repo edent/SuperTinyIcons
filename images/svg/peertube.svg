@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="PeerTube" role="img"
+viewBox="0 0 512 512">
+<path d="M0 0h512v512H0" fill="#fff"/><path fill="#211f20" d="M 140.8,102.4 V 256 L 256,179.2"/><path fill="#737373" d="M 140.8,256 V 409.6 L 256,332.8"/><path fill="#f1680d" d="M 256,179.2 V 332.8 L 371,256"/></svg>
