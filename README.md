@@ -544,9 +544,11 @@ Say thanks!
 <td>WireGuard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wireguard.svg" width="100" title="WireGuard"><br>955 bytes</td>
 <td>WordPress<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wordpress.svg" width="100" title="WordPress"><br>488 bytes</td>
 <td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="100" title="Workato"><br>362 bytes</td>
+<td>X<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/x.svg" width="100" title="X"><br>289 bytes</td>
 <td>XING<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xing.svg" width="100" title="XING"><br>347 bytes</td>
 <td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>726 bytes</td>
 <td>Yahoo!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="100" title="Yahoo!"><br>280 bytes</td>
+<td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="100" title="Yammer"><br>464 bytes</td>
 </tr>
 
 <tr>
