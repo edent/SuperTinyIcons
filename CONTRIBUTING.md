@@ -49,11 +49,11 @@ This is the standard guideline. Use this to help with sizing your icons and they
 
 ## Edit Readme
 
-You will need to generate a new table for the README.  To do this, run:
+You will need to update the README.  To do this, run:
 
-`python3 generate_readme_table.py`
+`python3 update_readme.py`
 
-Copy the output and paste it over the old table.
+This will update the average file size at the top of the file as well as regenerate the table of icons.
 
 ## Reference Image
 
