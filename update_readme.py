@@ -6,20 +6,37 @@ table_length = 6
 counter = 0
 
 svg_list = sorted(os.listdir('images/svg/'))
+ref_list = sorted(os.listdir('images/reference/'))
+ref_files = {}
+
+for ref_file in ref_list:
+	name, filetype = ref_file.split('.')
+	ref_files[name] = { 'filetype': filetype }
+
 total_bytes = 0
 
 table = "<table>\n"
-for svg in svg_list:
-	name = ET.parse('images/svg/'+svg).getroot().attrib["aria-label"]
-	bytes = os.stat('images/svg/'+svg).st_size
+check_table = "-|-|-\n"
+missing_table = "| | ** No Reference Image Found **\n"
+for svg_file in svg_list:
+	svg = svg_file.split('.')[0]
+	name = ET.parse(f'images/svg/{svg_file}').getroot().attrib["aria-label"]
+	bytes = os.stat(f'images/svg/{svg_file}').st_size
 	total_bytes += bytes
+
+	if svg in ref_files:
+		ref_file = f"{svg}.{ref_files[svg]['filetype']}"
+		check_table += f'<img src="/images/svg/{svg_file}" width="256" /> | <img src="/images/svg/{svg_file}" width="256" style="border-radius: 50%" /> | <img src="/images/reference/{ref_file}" width="256">\n'
+	else:
+		missing_table += f'<img src="/images/svg/{svg_file}" width="256" /> | <img src="/images/svg/{svg_file}" width="256" style="border-radius: 50%" /> | \n'
+		print(f'No reference file found for: {name} [{svg}]')
 
 	if counter == 0 :
 		table += "<tr>\n"
 		
-	table += f"<td>{name}<br>"
-	table += f"<img src=\"https://edent.github.io/SuperTinyIcons/images/svg/{svg}\" width=\"100\" title=\"{name}\"><br>"
-	table += f"{bytes} bytes</td>\n"
+	table += f'<td>{name}<br>'
+	table += f'<img src="https://edent.github.io/SuperTinyIcons/images/svg/{svg_file}" width="100" title="{name}"><br>'
+	table += f'{bytes} bytes</td>\n'
 	
 	counter +=1
 
@@ -43,5 +60,17 @@ with open('README.md','r+') as f:
     f.seek(0)  
     f.write(file)  
     f.truncate()
-	
+
 print(f"README.md updated with {len(svg_list)} icons.")
+
+with open('CHECK.md','r+') as f: 
+    file = f.read() 
+	
+    file = re.sub(r"(?s)-\|-\|-.*", check_table, file)
+    file += missing_table
+
+    f.seek(0)  
+    f.write(file)  
+    f.truncate()
+	
+print(f"CHECK.md updated.")
