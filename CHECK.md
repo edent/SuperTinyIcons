@@ -5,7 +5,7 @@ Where possible this links to the organisation's brand guidelines page.
 
 > ⚠️ Contributors: Avoid using GIFs, as they ignore the `width` attribute on GitHub.
 
-Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp;
+Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp;
 -|-
 <img src="/images/svg/1password.svg" width="256" /> | <img src="/images/reference/1password.png" width="256">
 <img src="/images/svg/acast.svg" width="256" /> | <img src="/images/reference/acast.svg" width="256">
@@ -348,6 +348,31 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/yubico.svg" width="256" /> | <img src="/images/reference/yubico.png" width="256">
 <img src="/images/svg/zoom.svg" width="256" /> | <img src="/images/reference/zoom.png" width="256">
 <img src="/images/svg/zorinos.svg" width="256" /> | <img src="/images/reference/zorinos.png" width="256">
+| | ** No Reference Image Found **
+<img src="/images/svg/apple_music.svg" width="256" /> | **?** 
+<img src="/images/svg/calendar.svg" width="256" /> | **?** 
+<img src="/images/svg/datacamp.svg" width="256" /> | **?** 
+<img src="/images/svg/email.svg" width="256" /> | **?** 
+<img src="/images/svg/gmail_old.svg" width="256" /> | **?** 
+<img src="/images/svg/google_docs_editors.svg" width="256" /> | **?** 
+<img src="/images/svg/google_drive_old.svg" width="256" /> | **?** 
+<img src="/images/svg/google_maps_old.svg" width="256" /> | **?** 
+<img src="/images/svg/lock.svg" width="256" /> | **?** 
+<img src="/images/svg/mail.svg" width="256" /> | **?** 
+<img src="/images/svg/markdown.svg" width="256" /> | **?** 
+<img src="/images/svg/phone.svg" width="256" /> | **?** 
+<img src="/images/svg/samsung_s.svg" width="256" /> | **?** 
+<img src="/images/svg/samsung_swoop.svg" width="256" /> | **?** 
+<img src="/images/svg/signal.svg" width="256" /> | **?** 
+<img src="/images/svg/sublimetext.svg" width="256" /> | **?** 
+<img src="/images/svg/teamspeak.svg" width="256" /> | **?** 
+<img src="/images/svg/uplay.svg" width="256" /> | **?** 
+<img src="/images/svg/upwork.svg" width="256" /> | **?** 
+<img src="/images/svg/vegetarian.svg" width="256" /> | **?** 
+<img src="/images/svg/viber.svg" width="256" /> | **?** 
+<img src="/images/svg/webassembly.svg" width="256" /> | **?** 
+**Unused reference files**
+<img src="/images/svg/firefox1.svg" width="256" /> | firefox1.svg
 | ** No Reference Image Found **
 <img src="/images/svg/apple_music.svg" width="256" /> | **?** 
 <img src="/images/svg/calendar.svg" width="256" /> | **?** 
