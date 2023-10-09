@@ -24,7 +24,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/ansible.svg" width="256" /> | <img src="/images/svg/ansible.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/ansible.svg" width="256">
 <img src="/images/svg/apereo.svg" width="256" /> | <img src="/images/svg/apereo.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/apereo.png" width="256">
 <img src="/images/svg/apple.svg" width="256" /> | <img src="/images/svg/apple.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/apple.svg" width="256">
-<img src="/images/svg/apple_music.svg" width="256" /> | <img src="/images/svg/apple_music.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/arch_linux.svg" width="256" /> | <img src="/images/svg/arch_linux.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/arch_linux.svg" width="256">
 <img src="/images/svg/atom.svg" width="256" /> | <img src="/images/svg/atom.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/atom.png" width="256">
 <img src="/images/svg/auth0.svg" width="256" /> | <img src="/images/svg/auth0.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/auth0.svg" width="256">
@@ -48,7 +47,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/buffer.svg" width="256" /> | <img src="/images/svg/buffer.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/buffer.jpg" width="256">
 <img src="/images/svg/bugcrowd.svg" width="256" /> | <img src="/images/svg/bugcrowd.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/bugcrowd.png" width="256">
 <img src="/images/svg/bun.svg" width="256" /> | <img src="/images/svg/bun.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/bun.svg" width="256">
-<img src="/images/svg/calendar.svg" width="256" /> | <img src="/images/svg/calendar.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/centos.svg" width="256" /> | <img src="/images/svg/centos.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/centos.svg" width="256">
 <img src="/images/svg/chrome.svg" width="256" /> | <img src="/images/svg/chrome.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/chrome.svg" width="256">
 <img src="/images/svg/chromium.svg" width="256" /> | <img src="/images/svg/chromium.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/chromium.svg" width="256">
@@ -67,7 +65,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/crystal.svg" width="256" /> | <img src="/images/svg/crystal.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/crystal.svg" width="256">
 <img src="/images/svg/css3.svg" width="256" /> | <img src="/images/svg/css3.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/css3.svg" width="256">
 <img src="/images/svg/dart.svg" width="256" /> | <img src="/images/svg/dart.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/dart.png" width="256">
-<img src="/images/svg/datacamp.svg" width="256" /> | <img src="/images/svg/datacamp.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/debian.svg" width="256" /> | <img src="/images/svg/debian.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/debian.svg" width="256">
 <img src="/images/svg/deezer.svg" width="256" /> | <img src="/images/svg/deezer.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/deezer.svg" width="256">
 <img src="/images/svg/delicious.svg" width="256" /> | <img src="/images/svg/delicious.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/delicious.png" width="256">
@@ -91,7 +88,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/elastic.svg" width="256" /> | <img src="/images/svg/elastic.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/elastic.svg" width="256">
 <img src="/images/svg/element.svg" width="256" /> | <img src="/images/svg/element.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/element.svg" width="256">
 <img src="/images/svg/elementaryos.svg" width="256" /> | <img src="/images/svg/elementaryos.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/elementaryos.png" width="256">
-<img src="/images/svg/email.svg" width="256" /> | <img src="/images/svg/email.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/endeavouros.svg" width="256" /> | <img src="/images/svg/endeavouros.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/endeavouros.png" width="256">
 <img src="/images/svg/epub.svg" width="256" /> | <img src="/images/svg/epub.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/epub.svg" width="256">
 <img src="/images/svg/espressif.svg" width="256" /> | <img src="/images/svg/espressif.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/espressif.svg" width="256">
@@ -124,7 +120,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/gitpod.svg" width="256" /> | <img src="/images/svg/gitpod.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/gitpod.svg" width="256">
 <img src="/images/svg/glitch.svg" width="256" /> | <img src="/images/svg/glitch.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/glitch.svg" width="256">
 <img src="/images/svg/gmail.svg" width="256" /> | <img src="/images/svg/gmail.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/gmail.png" width="256">
-<img src="/images/svg/gmail_old.svg" width="256" /> | <img src="/images/svg/gmail_old.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/go.svg" width="256" /> | <img src="/images/svg/go.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/go.svg" width="256">
 <img src="/images/svg/godot.svg" width="256" /> | <img src="/images/svg/godot.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/godot.svg" width="256">
 <img src="/images/svg/gogcom.svg" width="256" /> | <img src="/images/svg/gogcom.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/gogcom.png" width="256">
@@ -134,11 +129,8 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/google_assistant.svg" width="256" /> | <img src="/images/svg/google_assistant.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/google_assistant.png" width="256">
 <img src="/images/svg/google_calendar.svg" width="256" /> | <img src="/images/svg/google_calendar.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/google_calendar.png" width="256">
 <img src="/images/svg/google_collaborative_content_tools.svg" width="256" /> | <img src="/images/svg/google_collaborative_content_tools.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/google_collaborative_content_tools.png" width="256">
-<img src="/images/svg/google_docs_editors.svg" width="256" /> | <img src="/images/svg/google_docs_editors.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/google_drive.svg" width="256" /> | <img src="/images/svg/google_drive.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/google_drive.png" width="256">
-<img src="/images/svg/google_drive_old.svg" width="256" /> | <img src="/images/svg/google_drive_old.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/google_maps.svg" width="256" /> | <img src="/images/svg/google_maps.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/google_maps.svg" width="256">
-<img src="/images/svg/google_maps_old.svg" width="256" /> | <img src="/images/svg/google_maps_old.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/google_meet.svg" width="256" /> | <img src="/images/svg/google_meet.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/google_meet.png" width="256">
 <img src="/images/svg/google_play.svg" width="256" /> | <img src="/images/svg/google_play.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/google_play.svg" width="256">
 <img src="/images/svg/google_plus.svg" width="256" /> | <img src="/images/svg/google_plus.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/google_plus.png" width="256">
@@ -196,15 +188,12 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/linux.svg" width="256" /> | <img src="/images/svg/linux.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/linux.svg" width="256">
 <img src="/images/svg/linux_mint.svg" width="256" /> | <img src="/images/svg/linux_mint.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/linux_mint.svg" width="256">
 <img src="/images/svg/lobsters.svg" width="256" /> | <img src="/images/svg/lobsters.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/lobsters.png" width="256">
-<img src="/images/svg/lock.svg" width="256" /> | <img src="/images/svg/lock.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/logitech.svg" width="256" /> | <img src="/images/svg/logitech.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/logitech.png" width="256">
 <img src="/images/svg/luckyframework.svg" width="256" /> | <img src="/images/svg/luckyframework.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/luckyframework.png" width="256">
 <img src="/images/svg/macos.svg" width="256" /> | <img src="/images/svg/macos.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/macos.svg" width="256">
-<img src="/images/svg/mail.svg" width="256" /> | <img src="/images/svg/mail.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/mailchimp.svg" width="256" /> | <img src="/images/svg/mailchimp.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/mailchimp.svg" width="256">
 <img src="/images/svg/malt.svg" width="256" /> | <img src="/images/svg/malt.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/malt.svg" width="256">
 <img src="/images/svg/manjaro.svg" width="256" /> | <img src="/images/svg/manjaro.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/manjaro.svg" width="256">
-<img src="/images/svg/markdown.svg" width="256" /> | <img src="/images/svg/markdown.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/mastodon.svg" width="256" /> | <img src="/images/svg/mastodon.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/mastodon.svg" width="256">
 <img src="/images/svg/matrix.svg" width="256" /> | <img src="/images/svg/matrix.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/matrix.svg" width="256">
 <img src="/images/svg/mattermost.svg" width="256" /> | <img src="/images/svg/mattermost.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/mattermost.png" width="256">
@@ -244,7 +233,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/paypal.svg" width="256" /> | <img src="/images/svg/paypal.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/paypal.png" width="256">
 <img src="/images/svg/pdf.svg" width="256" /> | <img src="/images/svg/pdf.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/pdf.svg" width="256">
 <img src="/images/svg/peertube.svg" width="256" /> | <img src="/images/svg/peertube.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/peertube.png" width="256">
-<img src="/images/svg/phone.svg" width="256" /> | <img src="/images/svg/phone.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/php.svg" width="256" /> | <img src="/images/svg/php.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/php.svg" width="256">
 <img src="/images/svg/pinboard.svg" width="256" /> | <img src="/images/svg/pinboard.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/pinboard.png" width="256">
 <img src="/images/svg/pinterest.svg" width="256" /> | <img src="/images/svg/pinterest.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/pinterest.svg" width="256">
@@ -275,12 +263,9 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/safari.svg" width="256" /> | <img src="/images/svg/safari.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/safari.svg" width="256">
 <img src="/images/svg/samsung.svg" width="256" /> | <img src="/images/svg/samsung.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/samsung.svg" width="256">
 <img src="/images/svg/samsung_internet.svg" width="256" /> | <img src="/images/svg/samsung_internet.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/samsung_internet.svg" width="256">
-<img src="/images/svg/samsung_s.svg" width="256" /> | <img src="/images/svg/samsung_s.svg" width="256" style="border-radius: 50%" /> | 
-<img src="/images/svg/samsung_swoop.svg" width="256" /> | <img src="/images/svg/samsung_swoop.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/sass.svg" width="256" /> | <img src="/images/svg/sass.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/sass.png" width="256">
 <img src="/images/svg/semaphoreci.svg" width="256" /> | <img src="/images/svg/semaphoreci.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/semaphoreci.png" width="256">
 <img src="/images/svg/sentry.svg" width="256" /> | <img src="/images/svg/sentry.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/sentry.svg" width="256">
-<img src="/images/svg/signal.svg" width="256" /> | <img src="/images/svg/signal.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/sketch.svg" width="256" /> | <img src="/images/svg/sketch.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/sketch.svg" width="256">
 <img src="/images/svg/skype.svg" width="256" /> | <img src="/images/svg/skype.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/skype.svg" width="256">
 <img src="/images/svg/slack.svg" width="256" /> | <img src="/images/svg/slack.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/slack.svg" width="256">
@@ -298,7 +283,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/strava.svg" width="256" /> | <img src="/images/svg/strava.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/strava.png" width="256">
 <img src="/images/svg/stumbleupon.svg" width="256" /> | <img src="/images/svg/stumbleupon.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/stumbleupon.png" width="256">
 <img src="/images/svg/sublimemerge.svg" width="256" /> | <img src="/images/svg/sublimemerge.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/sublimemerge.png" width="256">
-<img src="/images/svg/sublimetext.svg" width="256" /> | <img src="/images/svg/sublimetext.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/subscribestar.svg" width="256" /> | <img src="/images/svg/subscribestar.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/subscribestar.png" width="256">
 <img src="/images/svg/svelte.svg" width="256" /> | <img src="/images/svg/svelte.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/svelte.png" width="256">
 <img src="/images/svg/svg.svg" width="256" /> | <img src="/images/svg/svg.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/svg.svg" width="256">
@@ -306,7 +290,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/symantec.svg" width="256" /> | <img src="/images/svg/symantec.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/symantec.png" width="256">
 <img src="/images/svg/symfony.svg" width="256" /> | <img src="/images/svg/symfony.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/symfony.svg" width="256">
 <img src="/images/svg/taiga.svg" width="256" /> | <img src="/images/svg/taiga.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/taiga.svg" width="256">
-<img src="/images/svg/teamspeak.svg" width="256" /> | <img src="/images/svg/teamspeak.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/telegram.svg" width="256" /> | <img src="/images/svg/telegram.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/telegram.svg" width="256">
 <img src="/images/svg/terraform.svg" width="256" /> | <img src="/images/svg/terraform.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/terraform.svg" width="256">
 <img src="/images/svg/thisamericanlife.svg" width="256" /> | <img src="/images/svg/thisamericanlife.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/thisamericanlife.png" width="256">
@@ -332,12 +315,8 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/unicode.svg" width="256" /> | <img src="/images/svg/unicode.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/unicode.svg" width="256">
 <img src="/images/svg/untappd.svg" width="256" /> | <img src="/images/svg/untappd.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/untappd.svg" width="256">
 <img src="/images/svg/uphold.svg" width="256" /> | <img src="/images/svg/uphold.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/uphold.png" width="256">
-<img src="/images/svg/uplay.svg" width="256" /> | <img src="/images/svg/uplay.svg" width="256" style="border-radius: 50%" /> | 
-<img src="/images/svg/upwork.svg" width="256" /> | <img src="/images/svg/upwork.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/vagrant.svg" width="256" /> | <img src="/images/svg/vagrant.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/vagrant.png" width="256">
-<img src="/images/svg/vegetarian.svg" width="256" /> | <img src="/images/svg/vegetarian.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/venmo.svg" width="256" /> | <img src="/images/svg/venmo.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/venmo.svg" width="256">
-<img src="/images/svg/viber.svg" width="256" /> | <img src="/images/svg/viber.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/vim.svg" width="256" /> | <img src="/images/svg/vim.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/vim.png" width="256">
 <img src="/images/svg/vimeo.svg" width="256" /> | <img src="/images/svg/vimeo.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/vimeo.svg" width="256">
 <img src="/images/svg/visualstudiocode.svg" width="256" /> | <img src="/images/svg/visualstudiocode.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/visualstudiocode.svg" width="256">
@@ -346,7 +325,6 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/vlc.svg" width="256" /> | <img src="/images/svg/vlc.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/vlc.png" width="256">
 <img src="/images/svg/vue.svg" width="256" /> | <img src="/images/svg/vue.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/vue.svg" width="256">
 <img src="/images/svg/w3c.svg" width="256" /> | <img src="/images/svg/w3c.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/w3c.png" width="256">
-<img src="/images/svg/webassembly.svg" width="256" /> | <img src="/images/svg/webassembly.svg" width="256" style="border-radius: 50%" /> | 
 <img src="/images/svg/webmention.svg" width="256" /> | <img src="/images/svg/webmention.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/webmention.svg" width="256">
 <img src="/images/svg/wechat.svg" width="256" /> | <img src="/images/svg/wechat.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/wechat.svg" width="256">
 <img src="/images/svg/wekan.svg" width="256" /> | <img src="/images/svg/wekan.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/wekan.svg" width="256">
@@ -370,3 +348,26 @@ Super&nbsp;Tiny&nbsp;SVG | Super&nbsp;Tiny&nbsp;SVG Circular | &nbsp;&nbsp;Offic
 <img src="/images/svg/yubico.svg" width="256" /> | <img src="/images/svg/yubico.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/yubico.png" width="256">
 <img src="/images/svg/zoom.svg" width="256" /> | <img src="/images/svg/zoom.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/zoom.png" width="256">
 <img src="/images/svg/zorinos.svg" width="256" /> | <img src="/images/svg/zorinos.svg" width="256" style="border-radius: 50%" /> | <img src="/images/reference/zorinos.png" width="256">
+| | ** No Reference Image Found **
+<img src="/images/svg/apple_music.svg" width="256" /> | <img src="/images/svg/apple_music.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/calendar.svg" width="256" /> | <img src="/images/svg/calendar.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/datacamp.svg" width="256" /> | <img src="/images/svg/datacamp.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/email.svg" width="256" /> | <img src="/images/svg/email.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/gmail_old.svg" width="256" /> | <img src="/images/svg/gmail_old.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/google_docs_editors.svg" width="256" /> | <img src="/images/svg/google_docs_editors.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/google_drive_old.svg" width="256" /> | <img src="/images/svg/google_drive_old.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/google_maps_old.svg" width="256" /> | <img src="/images/svg/google_maps_old.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/lock.svg" width="256" /> | <img src="/images/svg/lock.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/mail.svg" width="256" /> | <img src="/images/svg/mail.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/markdown.svg" width="256" /> | <img src="/images/svg/markdown.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/phone.svg" width="256" /> | <img src="/images/svg/phone.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/samsung_s.svg" width="256" /> | <img src="/images/svg/samsung_s.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/samsung_swoop.svg" width="256" /> | <img src="/images/svg/samsung_swoop.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/signal.svg" width="256" /> | <img src="/images/svg/signal.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/sublimetext.svg" width="256" /> | <img src="/images/svg/sublimetext.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/teamspeak.svg" width="256" /> | <img src="/images/svg/teamspeak.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/uplay.svg" width="256" /> | <img src="/images/svg/uplay.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/upwork.svg" width="256" /> | <img src="/images/svg/upwork.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/vegetarian.svg" width="256" /> | <img src="/images/svg/vegetarian.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/viber.svg" width="256" /> | <img src="/images/svg/viber.svg" width="256" style="border-radius: 50%" /> | 
+<img src="/images/svg/webassembly.svg" width="256" /> | <img src="/images/svg/webassembly.svg" width="256" style="border-radius: 50%" /> | 
