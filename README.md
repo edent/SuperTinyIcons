@@ -27,12 +27,12 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Amazon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon.svg" width="100" title="Amazon"><br>642 bytes</td>
-<td>Amazon Alexa<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_alexa.svg" width="100" title="Amazon Alexa"><br>252 bytes</td>
-<td>Amazon Simple Storage Service<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amazon_s3.svg" width="100" title="Amazon Simple Storage Service"><br>527 bytes</td>
-<td>Amber Framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/amberframework.svg" width="100" title="Amber Framework"><br>415 bytes</td>
-<td>andOTP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/andotp.svg" width="100" title="andOTP"><br>253 bytes</td>
-<td>Android<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" width="100" title="Android"><br>372 bytes</td>
+<td>Amazon<br><img src="/images/svg/amazon.svg" width="100" title="Amazon"><br>642 bytes</td>
+<td>Amazon Alexa<br><img src="/images/svg/amazon_alexa.svg" width="100" title="Amazon Alexa"><br>252 bytes</td>
+<td>Amazon Simple Storage Service<br><img src="/images/svg/amazon_s3.svg" width="100" title="Amazon Simple Storage Service"><br>527 bytes</td>
+<td>Amber Framework<br><img src="/images/svg/amberframework.svg" width="100" title="Amber Framework"><br>415 bytes</td>
+<td>andOTP<br><img src="/images/svg/andotp.svg" width="100" title="andOTP"><br>253 bytes</td>
+<td>Android<br><img src="/images/svg/android.svg" width="100" title="Android"><br>372 bytes</td>
 </tr>
 
 <tr>
