@@ -29,7 +29,7 @@ for ref_file in ref_list:
 
 with open('images/reference/index.md','r') as f: 
     file = f.read()
-    match = re.findall(r'images/svg/(\w+)\.svg.*?\|.*?src=\".*?([\w.]+)\".*\|\s*(.*)\n', file, re.MULTILINE)
+    match = re.findall(r'images/svg/(\w+)\.svg.*?\|.*?src=\".*?([\w.]+)\".*\|\ *(.*)\n', file, re.MULTILINE)
     if match:
         for (svg, ref_file, source) in match:
             svg_data[svg]['source'] = source
