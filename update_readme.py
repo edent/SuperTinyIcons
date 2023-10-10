@@ -2,48 +2,72 @@ import os
 import xml.etree.ElementTree as ET
 import re
 
-table_length = 6
-counter = 0
+table_columns = 6
 
 svg_list = sorted(os.listdir('images/svg/'))
 ref_list = sorted(os.listdir('images/reference/'))
-ref_files = {}
+svg_data = {}
+total_bytes = 0
+
+for svg_file in svg_list:
+	if not svg_file.endswith('.svg'):
+		continue
+	svg = svg_file.split('.')[0]
+	svg_data[svg] = { 'svg_file' : svg_file }
+	svg_data[svg]['name'] = ET.parse(f'images/svg/{svg_file}').getroot().attrib["aria-label"]
+	bytes = os.stat(f'images/svg/{svg_file}').st_size
+	svg_data[svg]['bytes'] = bytes
+	total_bytes += bytes
 
 for ref_file in ref_list:
 	if ref_file.endswith('.md'):
 		continue
-	name, filetype = ref_file.split('.')
-	ref_files[name] = { 'filetype': filetype }
+	ref_name = ref_file.split('.')[0]
+	if ref_name in svg_data:
+		svg_data[ref_name]['ref_file'] = ref_file
 
-total_bytes = 0
+
+with open('images/reference/index.md','r') as f: 
+    file = f.read()
+    match = re.findall(r'images/svg/(\w+)\.svg.*?\|.*?src=\".*?([\w.]+)\".*\|\s*(.*)\n', file, re.MULTILINE)
+    if match:
+        for (svg, ref_file, source) in match:
+            svg_data[svg]['source'] = source
+            if 'ref_file' not in svg_data[svg]:
+                svg_data[svg]['ref_file'] = ref_file
+
 
 table = "<table>\n"
-check_table = "-|-\n"
-missing_table = "| ** No Reference Image Found **\n"
-for svg_file in svg_list:
-	svg = svg_file.split('.')[0]
-	name = ET.parse(f'images/svg/{svg_file}').getroot().attrib["aria-label"]
-	bytes = os.stat(f'images/svg/{svg_file}').st_size
-	total_bytes += bytes
+reference_table = "-|-|-\n"
+missing_table = "&nbsp; | ** No Reference Image Found ** | &nbsp;\n"
 
-	if svg in ref_files:
-		ref_file = f"{svg}.{ref_files[svg]['filetype']}"
-		check_table += f'<img src="/images/svg/{svg_file}" width="256" /> | <img src="/images/reference/{ref_file}" width="256">\n'
-		ref_files.pop(svg)
+counter = 0
+for svg in svg_data:
+	svg_file = svg_data[svg]['svg_file']
+	name = svg_data[svg]['name']
+	bytes = svg_data[svg]['bytes']
+
+	if 'ref_file' in svg_data[svg]:
+		ref_file = svg_data[svg]['ref_file']
+		reference_table += f'<img src="images/svg/{svg_file}" width="256" /> | <img src="images/reference/{ref_file}" width="256"> | '
+		if 'source' in svg_data[svg]:
+			reference_table += svg_data[svg]['source']
+
+		reference_table += '\n'
 	else:
-		missing_table += f'<img src="/images/svg/{svg_file}" width="256" /> | **?** \n'
-		print(f'No reference file found for: {name} [{svg}]')
+		missing_table += f'<img src="images/svg/{svg_file}" width="256" /> | {name} <br/>*[{svg}]* | \n'
+
 
 	if counter == 0 :
 		table += "<tr>\n"
 		
 	table += f'<td>{name}<br>'
-	table += f'<img src="/images/svg/{svg_file}" width="100" title="{name}"><br>'
+	table += f'<img src="images/svg/{svg_file}" width="100" title="{name}"><br>'
 	table += f'{bytes} bytes</td>\n'
 	
 	counter +=1
 
-	if counter == 6 :
+	if counter == table_columns:
 		table += "</tr>\n\n"
 		counter = 0
 		
@@ -51,6 +75,7 @@ if counter != 0 :
 		table += "</tr>\n\n"
 		
 table += "</table>"
+
 
 summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
 
@@ -66,19 +91,14 @@ with open('README.md','r+') as f:
 
 print(f"README.md updated with {len(svg_list)} icons.")
 
-with open('CHECK.md','r+') as f: 
+with open('REFERENCE.md','r+') as f: 
     file = f.read() 
 	
-    file = re.sub(r"(?s)-\|-\|-.*", check_table, file)
+    file = re.sub(r"(?s)-\|-\|-.*", reference_table, file)
     file += missing_table
-
-    file += "**Unused reference files**\n"
-    for key in ref_files:
-        ref_file = f"{key}.{ref_files[key]['filetype']}"
-        file += f'{ref_file} | <img src="/images/svg/{ref_file}" width="256" />\n'
 
     f.seek(0)  
     f.write(file)  
     f.truncate()
 	
-print(f"CHECK.md updated.")
+print(f"REFERENCE.md updated.")
