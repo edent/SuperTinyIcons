@@ -1,3 +1,4 @@
+<!-- Add your reference image details and source to the end of images/reference/index.md and then run `python3 update_readme.py` to update this file -->
 # Reference Images
 
 A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo.

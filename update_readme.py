@@ -37,7 +37,8 @@ with open('images/reference/index.md','r') as f:
                 svg_data[svg]['ref_file'] = ref_file
 
 
-table = "<table>\n"
+readme_table = "<table>\n"
+check_table = '<table style="1px solid #dfe2e5;"><tr><th>SVG Icon</th><th>SVG Icon<br/>with border=50%</th><th>Reference Image</th><th>Source</th></tr>\n'
 reference_table = "-|-|-\n"
 missing_table = "&nbsp; | ** No Reference Image Found ** | &nbsp;\n"
 
@@ -47,43 +48,53 @@ for svg in svg_data:
 	name = svg_data[svg]['name']
 	bytes = svg_data[svg]['bytes']
 
+	check_table += f'<tr><td><img src="images/svg/{svg_file}" width="100" /></td><td><img src="images/svg/{svg_file}" width="100" style="border-radius: 50%;"></td>'
+
 	if 'ref_file' in svg_data[svg]:
 		ref_file = svg_data[svg]['ref_file']
 		reference_table += f'<img src="images/svg/{svg_file}" width="256" /> | <img src="images/reference/{ref_file}" width="256"> | '
+		check_table += f'<td><img src="images/reference/{ref_file}" width="100"></td>'
+
 		if 'source' in svg_data[svg]:
-			reference_table += svg_data[svg]['source']
+			source = svg_data[svg]['source']
+			reference_table += source
+			check_table += f'<td>{source}</td>'
+
 
 		reference_table += '\n'
 	else:
 		missing_table += f'<img src="images/svg/{svg_file}" width="256" /> | {name} <br/>*[{svg}]* | \n'
 
+	check_table += '</tr>\n'
+
 
 	if counter == 0 :
-		table += "<tr>\n"
+		readme_table += "<tr>\n"
 		
-	table += f'<td>{name}<br>'
-	table += f'<img src="images/svg/{svg_file}" width="100" title="{name}"><br>'
-	table += f'{bytes} bytes</td>\n'
+	readme_table += f'<td>{name}<br>'
+	readme_table += f'<img src="images/svg/{svg_file}" width="100" title="{name}"><br>'
+	readme_table += f'{bytes} bytes</td>\n'
 	
 	counter +=1
 
 	if counter == table_columns:
-		table += "</tr>\n\n"
+		readme_table += "</tr>\n\n"
 		counter = 0
 		
 if counter != 0 :
-		table += "</tr>\n\n"
+		readme_table += "</tr>\n\n"
 		
-table += "</table>"
+readme_table += "</table>"
+check_table += "</table>"
 
 
-summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
+readme_summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
 
 with open('README.md','r+') as f: 
     file = f.read() 
 	
-    file = re.sub(r"(?s)<table>.*?</table>", table, file)
-    file = re.sub("There are currently \d* icons and the average size is _under_ \d* bytes\!", summary_text, file) 
+    file = re.sub(r"(?s)<table>.*?</table>", readme_table, file)
+    file = re.sub("There are currently \d* icons and the average size is _under_ \d* bytes\!", readme_summary_text, file) 
 
     f.seek(0)  
     f.write(file)  
@@ -102,3 +113,14 @@ with open('REFERENCE.md','r+') as f:
     f.truncate()
 	
 print(f"REFERENCE.md updated.")
+
+with open('CHECK.html','r+') as f: 
+    file = f.read() 
+	
+    file = re.sub(r"(?s)<table>.*?</table>", check_table, file)
+
+    f.seek(0)  
+    f.write(file)  
+    f.truncate()
+
+print(f"CHECK.html updated.")
