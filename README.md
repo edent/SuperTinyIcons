@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 363 icons and the average size is _under_ 519 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 363 icons and the average size is _under_ 521 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -47,7 +47,7 @@ Say thanks!
 <tr>
 <td>Arch Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="100" title="Arch Linux"><br>310 bytes</td>
 <td>Atom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="100" title="Atom"><br>347 bytes</td>
-<td>Auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="100" title="Auth0"><br>392 bytes</td>
+<td>auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="100" title="auth0"><br>951 bytes</td>
 <td>Authy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="100" title="Authy"><br>332 bytes</td>
 <td>Azure<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/azure.svg" width="100" title="Azure"><br>847 bytes</td>
 <td>Backbone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/backbone.svg" width="100" title="Backbone"><br>337 bytes</td>
