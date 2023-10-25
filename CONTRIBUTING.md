@@ -1,9 +1,9 @@
 Thanks for submitting or fixing an icon! Here is a helpful guide to what you need to include.
 
-- [ ] New file which is *under* 1,024 bytes
-
+- [ ] New file which is _under_ 1,024 bytes
 
 Additionally, you can do these helpful things if you have time:
+
 - [ ] Edit Readme
 - [ ] Add reference image
 - [ ] Edit reference page
@@ -28,10 +28,13 @@ fill="#fff"/>...</svg>
 
 Please keep the whitespace as-is. This makes viewing diffs easier. Please use UNIX line-endings `LF` rather than Windows-style `CRLF`.
 
+You can use this website to convert [`Convert LF to CRLF`](https://app.execeratics.com/LFandCRLFonline/?l=en)
+
 If you can, remove the end of line at the end of the file:
-* VIm: `:set noeol` (optionally `:set nofixendofline`)
-* perl: `perl -pi -e 'chomp if eof' $filename`
-* shell: `printf %s "$(cat $filename)" > filename-without-nl.svg`
+
+- VIm: `:set noeol` (optionally `:set nofixendofline`)
+- perl: `perl -pi -e 'chomp if eof' $filename`
+- shell: `printf %s "$(cat $filename)" > filename-without-nl.svg`
 
 Please remove any trailing newlines from the file with:
 
@@ -49,7 +52,7 @@ This is the standard guideline. Use this to help with sizing your icons and they
 
 ## Edit Readme
 
-You will need to update the README.  To do this, run:
+You will need to update the README. To do this, run:
 
 `python3 update_readme.py`
 
@@ -57,20 +60,20 @@ This will update the average file size at the top of the file as well as regener
 
 ## Reference Image
 
-* Find an *official* logo.
-* Add it to `/images/reference/`
+- Find an _official_ logo.
+- Add it to `/images/reference/`
 
 ## Reference Page
 
-* Edit the file [`images/reference/index.md`](images/reference/index.md)
-* Add a link to the *official* style guide or brand guidelines.
-* For example `| <img src="/images/svg/nameofservice.svg" width="256" />	| <img src="/images/reference/nameofservice.jpg" width="256" />	| https://example.com/press |`
+- Edit the file [`images/reference/index.md`](images/reference/index.md)
+- Add a link to the _official_ style guide or brand guidelines.
+- For example `| <img src="/images/svg/nameofservice.svg" width="256" />	| <img src="/images/reference/nameofservice.jpg" width="256" />	| https://example.com/press |`
 
 ## (Optional) Create Android Version
 
 To convert in Android Studio, go to Tools ➡ Resource Manager ➡ Drawable ➡ + ➡ Import Drawables ➡ then select the SVGs.
 
-*Note* Android Studio doesn't like rounded corners with a percentage length value. Before importing, run `sed -i '/rx\=\"15\%\"/d' ./*.svg` to remove the corner or `sed -i -e '/rx\=/s/\"15\%\"/\"77\"/' ./*.svg` to replace the percentage length value with a corresponding fixed length value.
+_Note_ Android Studio doesn't like rounded corners with a percentage length value. Before importing, run `sed -i '/rx\=\"15\%\"/d' ./*.svg` to remove the corner or `sed -i -e '/rx\=/s/\"15\%\"/\"77\"/' ./*.svg` to replace the percentage length value with a corresponding fixed length value.
 
 See: https://issuetracker.google.com/issues/176694227
 
