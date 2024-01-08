@@ -45,7 +45,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Apple Podcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_podcasts.svg" width="100" title="Apple Podcasts"><br>936 bytes</td>
+<td>Apple Podcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_podcasts.svg" width="100" title="Apple Podcasts"><br>947 bytes</td>
 <td>Arch Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="100" title="Arch Linux"><br>310 bytes</td>
 <td>Atom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="100" title="Atom"><br>347 bytes</td>
 <td>Auth0<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="100" title="Auth0"><br>392 bytes</td>
