@@ -21,9 +21,9 @@ At a minimum, your icon needs these components, in this layout:
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="..." role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-fill="#fff"/>...</svg>
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/> ... </svg>
 ```
 
 Please keep the whitespace as-is. This makes viewing diffs easier. Please use UNIX line-endings `LF` rather than Windows-style `CRLF`.
