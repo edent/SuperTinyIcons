@@ -345,7 +345,7 @@ Say thanks!
 <td>NixOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nixos.svg" width="100" title="NixOS"><br>528 bytes</td>
 <td>Node.js<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="100" title="Node.js"><br>653 bytes</td>
 <td>npm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="100" title="npm"><br>277 bytes</td>
-<td>OK.ru<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ok.svg" width="100" title="OK.ru"><br>615 bytes</td>
+<td>OK.ru<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ok.svg" width="100" title="OK.ru"><br>351 bytes</td>
 <td>Olympic Rings<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/olympics.svg" width="100" title="Olympic Rings"><br>663 bytes</td>
 <td>OpenBenches<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/openbenches.svg" width="100" title="OpenBenches"><br>613 bytes</td>
 </tr>
