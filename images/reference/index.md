@@ -340,3 +340,4 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="/images/svg/justgiving.svg" width="256" /> | <img src="/images/reference/justgiving.png" width="256" /> | https://justgiving-developer.zendesk.com/hc/en-us/articles/14308756536337
 <img src="/images/svg/applepodcasts.svg" width="256" /> | <img src="/images/reference/applepodcasts.svg" width="256" /> | https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html
 <img src="/images/svg/bluesky.svg" width="256" /> | <img src="/images/reference/bluesky.png" width="256" /> | https://docs.bsky.app/
+<img src="/images/svg/h-entry.svg" width="256" /> | <img src="/images/reference/h-entry.svg" width="256" /> | https://indieweb.org/IndieWebCamp:Copyrights
