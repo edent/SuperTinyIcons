@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="h-feed" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><rect id="s" x="99.5" y="170" width="211.2" height="211.2" fill="#a3cc00" rx="41.5" stroke="#fff" stroke-width="19.2"/><use href="#s" x="76.75" y="-63.75"/><circle cx="240.25" cy="253.5" r="16" fill="#fff"/><path d="M224.25 204c36.5 0 65 29.5 65.45 65.45M224.25 165.5c61 0 104 50 104 104" fill="none" stroke="#fff" stroke-width="22.25"/></svg>
