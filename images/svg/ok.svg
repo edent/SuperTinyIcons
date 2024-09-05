@@ -4,4 +4,4 @@ viewBox="0 0 512 512">
 <path
 d="m0 0H512V512H0"
 fill="#f58220"/>
-<path fill="none" stroke-width="51.5" stroke="#fff" stroke-linecap="round" d="M318.25 173.5a57.25 57.25 0 10-124.5 0 57.25 57.25 0 10124.5 0M182.5 290.5a137 137 0 00146.5 0M189.25 401l66.25-66.25 66.25 66.25"/></svg>
+<path fill="none" stroke-width="51.5" stroke="#fff" stroke-linecap="round" d="M321.75 401 255.5 334.75 189.25 401M329 290.5a137 137 0 01-146.5 0m135.75-117a57.25 57.25 0 11-124.5 0 57.25 57.25 0 11124.5 0"/></svg>
