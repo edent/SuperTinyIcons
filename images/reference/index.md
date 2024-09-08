@@ -343,3 +343,5 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="/images/svg/h-entry.svg" width="256" /> | <img src="/images/reference/h-entry.svg" width="256" /> | https://indieweb.org/IndieWebCamp:Copyrights
 <img src="/images/svg/h-card.svg" width="256" /> | <img src="/images/reference/h-card.svg" width="256" /> | https://indieweb.org/IndieWebCamp:Copyrights
 <img src="/images/svg/h-feed.svg" width="256" /> | <img src="/images/reference/h-feed.svg" width="256" /> | https://indieweb.org/IndieWebCamp:Copyrights
+<img src="/images/svg/netbsd.svg" width="256" /> | <img src="/images/reference/netbsd.png" width="256" /> | https://www.netbsd.org/gallery/logos.html
+<img src="/images/svg/x11.svg" width="256" /> | <img src="/images/reference/x11.png" width="256" /> | https://www.netbsd.org/gallery/logos.html
