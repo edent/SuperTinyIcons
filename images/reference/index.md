@@ -342,3 +342,4 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="/images/svg/bluesky.svg" width="256" /> | <img src="/images/reference/bluesky.png" width="256" /> | https://docs.bsky.app/
 <img src="/images/svg/h-entry.svg" width="256" /> | <img src="/images/reference/h-entry.svg" width="256" /> | https://indieweb.org/IndieWebCamp:Copyrights
 <img src="/images/svg/h-card.svg" width="256" /> | <img src="/images/reference/h-card.svg" width="256" /> | https://indieweb.org/IndieWebCamp:Copyrights
+<img src="/images/svg/h-feed.svg" width="256" /> | <img src="/images/reference/h-feed.svg" width="256" /> | https://indieweb.org/IndieWebCamp:Copyrights
