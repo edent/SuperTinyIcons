@@ -2,4 +2,4 @@
 aria-label="Stack Overflow" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#f58025"/><path stroke="#fff" stroke-width="30" fill="none" d="m293 89 90 120m-28 27-115-97m-41 65 136 64m-11 36-148-31m-6 68h150m46-44V402H125V297"/></svg>
+fill="#f58025"/><path stroke="#fff" stroke-width="30" fill="none" d="M125 297V402H366V297m-46 44H170m6-68 148 31m11-36-136-64m41-65 115 97m28-27L293 89"/></svg>

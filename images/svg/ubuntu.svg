@@ -2,4 +2,4 @@
 aria-label="Ubuntu" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#e65e17"/><circle cx="265" cy="256" r="124" fill="none" stroke="#fff" stroke-width="51"/><g fill="#fff" stroke="#e65e17" stroke-width="10"><circle cx="90" cy="257" r="41"/><circle cx="353" cy="409" r="41"/><circle cx="353" cy="104" r="41"/><path stroke-width="19" d="M185,118l82,138m0,0h155h-155l-84,140"/></g></svg>
+fill="#e65e17"/><circle cx="265" cy="256" r="124" fill="none" stroke="#fff" stroke-width="51"/><g fill="#fff" stroke="#e65e17" stroke-width="10"><circle cx="90" cy="257" r="41"/><circle cx="353" cy="409" r="41"/><circle cx="353" cy="104" r="41"/><path stroke-width="19" d="M183 396l84-140H422 267m0 0-82-138"/></g></svg>

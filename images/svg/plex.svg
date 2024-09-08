@@ -2,4 +2,4 @@
 aria-label="Plex" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#282a2d"/><path d="m256 70h-108l108 186-108 186h108l108-186z" fill="#e5a00d"/></svg>
+fill="#282a2d"/><path d="m256 70H148l108 186-108 186h108l108-186z" fill="#e5a00d"/></svg>

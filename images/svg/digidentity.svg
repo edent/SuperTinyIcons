@@ -3,4 +3,4 @@ aria-label="Digidentity" role="img"
 stroke-linecap="round" stroke-width="25" stroke-linejoin="round"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><path stroke="#00e864" d="M213 296l-96 95zm43-40h.1"/><path stroke="#000" d="M256 63v135m0 116v135M63 256h135m116 0h135M119 119l96 96m82 82l96 96m0-274l-96 96"/></svg>
+fill="#fff"/><path stroke="#00e864" d="m213 296-96 95zm43-40h.1"/><path stroke="#000" d="M256 63v135m0 116v135M63 256h135m116 0h135M119 119l96 96m82 82 96 96m0-274-96 96"/></svg>
