@@ -2,4 +2,4 @@
 aria-label="Email" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="teal"/><rect width="356" height="256" x="78" y="128" fill="#fff" rx="8%"/><path fill="none" stroke="teal" stroke-width="20" d="M434 128L269 292c-7 8-19 8-26 0L78 128m0 256l129-128m227 128L305 256"/></svg>
+fill="teal"/><rect width="356" height="256" x="78" y="128" fill="#fff" rx="8%"/><path fill="none" stroke="teal" stroke-width="20" d="M305 256 434 384M207 256 78 384m0-256L243 292c7 8 19 8 26 0L434 128"/></svg>

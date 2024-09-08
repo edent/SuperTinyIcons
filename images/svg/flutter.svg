@@ -2,4 +2,4 @@
 aria-label="Flutter" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><linearGradient id="a" y1="1"><stop offset="0" stop-color="#204792"/><stop offset=".6" stop-color="#225a9d"/></linearGradient><path fill="#225a9d" d="m270 340h-56v56l42 42h112"/><path d="m214 312v84l72-25" fill="url(#a)"/><path fill="#5cc8f8" d="m130 312-56-56L256 74h112m-98 266h-56v-56l42-42h112"/><path fill="#43b9f6" d="m158 340 56-56 56 56-56 56"/></svg>
+fill="#fff"/><linearGradient id="a" y1="1"><stop offset="0" stop-color="#204792"/><stop offset=".6" stop-color="#225a9d"/></linearGradient><path fill="#225a9d" d="m270 340h-56v56l42 42h112"/><path d="m214 312v84l72-25" fill="url(#a)"/><path fill="#5cc8f8" d="M368 242H256l-42 42v56h56M368 74H256L74 256l56 56"/><path fill="#43b9f6" d="m158 340 56-56 56 56-56 56"/></svg>

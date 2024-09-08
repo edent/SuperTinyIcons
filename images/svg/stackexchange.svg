@@ -3,4 +3,4 @@ aria-label="Stack Exchange" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
 fill="#fff"
-/><path fill="#91d8f4" d="m156,71q-50,0 -50,50v16h300v-16q0,-50 -50,-50"/><path fill="#4ca2da" d="m106,157v60h300v-60"/><path fill="#376db6" d="m106,239v60h300v-60"/><path fill="#1e5397" d="M406,319H106v16q0,50 50,50h123v65l65,-65h12q50,0 50,-50"/></svg>
+/><path fill="#91d8f4" d="M356 71q50 0 50 50v16H106V121q0-50 50-50"/><path fill="#4ca2da" d="m106,157v60h300v-60"/><path fill="#376db6" d="m106,239v60h300v-60"/><path fill="#1e5397" d="M406 319H106v16q0 50 50 50h123v65l65-65h12q50 0 50-50"/></svg>
