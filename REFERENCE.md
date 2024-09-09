@@ -25,6 +25,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="images/svg/ansible.svg" width="256" /> | <img src="images/reference/ansible.svg" width="256"> | https://www.ansible.com/logos
 <img src="images/svg/apereo.svg" width="256" /> | <img src="images/reference/apereo.png" width="256"> | https://www.apereo.org
 <img src="images/svg/apple.svg" width="256" /> | <img src="images/reference/apple.svg" width="256"> | https://developer.apple.com/softwarelicensing/agreements/pdf/mac_logo_gdlns.pdf
+<img src="images/svg/applepodcasts.svg" width="256" /> | <img src="images/reference/applepodcasts.svg" width="256"> | https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html
 <img src="images/svg/arch_linux.svg" width="256" /> | <img src="images/reference/arch_linux.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg
 <img src="images/svg/atom.svg" width="256" /> | <img src="images/reference/atom.png" width="256"> | https://atom.io/
 <img src="images/svg/auth0.svg" width="256" /> | <img src="images/reference/auth0.svg" width="256"> | 
@@ -42,6 +43,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="images/svg/bitwarden.svg" width="256" /> | <img src="images/reference/bitwarden.png" width="256"> | https://github.com/bitwarden/brand
 <img src="images/svg/blender.svg" width="256" /> | <img src="images/reference/blender.svg" width="256"> | https://www.blender.org/
 <img src="images/svg/blogger.svg" width="256" /> | <img src="images/reference/blogger.png" width="256"> | https://www.blogger.com/img/blogger-logotype-color-black-2x.png
+<img src="images/svg/bluesky.svg" width="256" /> | <img src="images/reference/bluesky.png" width="256"> | https://docs.bsky.app/
 <img src="images/svg/bluetooth.svg" width="256" /> | <img src="images/reference/bluetooth.svg" width="256"> | https://www.bluetooth.com/develop-with-bluetooth/marketing-branding
 <img src="images/svg/brave.svg" width="256" /> | <img src="images/reference/brave.svg" width="256"> | https://brave.com/brave-branding-assets/
 <img src="images/svg/briar.svg" width="256" /> | <img src="images/reference/briar.png" width="256"> | 
@@ -141,6 +143,9 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="images/svg/grafana.svg" width="256" /> | <img src="images/reference/grafana.svg" width="256"> | https://github.com/grafana/grafana/blob/master/public/img/grafana_icon.svg
 <img src="images/svg/guacamole.svg" width="256" /> | <img src="images/reference/guacamole.svg" width="256"> | https://www.apache.org/logos/?#guacamole
 <img src="images/svg/guilded.svg" width="256" /> | <img src="images/reference/guilded.png" width="256"> | https://www.guilded.gg/brand
+<img src="images/svg/h-card.svg" width="256" /> | <img src="images/reference/h-card.svg" width="256"> | 
+<img src="images/svg/h-entry.svg" width="256" /> | <img src="images/reference/h-entry.svg" width="256"> | 
+<img src="images/svg/h-feed.svg" width="256" /> | <img src="images/reference/h-feed.svg" width="256"> | 
 <img src="images/svg/hackernews.svg" width="256" /> | <img src="images/reference/hackernews.png" width="256"> | https://www.ycombinator.com/favicon.ico
 <img src="images/svg/hackerone.svg" width="256" /> | <img src="images/reference/hackerone.png" width="256"> | https://www.hackerone.com/branding
 <img src="images/svg/haml.svg" width="256" /> | <img src="images/reference/haml.svg" width="256"> | https://github.com/haml/haml/issues/819
@@ -170,6 +175,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="images/svg/json.svg" width="256" /> | <img src="images/reference/json.png" width="256"> | https://json.org/
 <img src="images/svg/jsonfeed.svg" width="256" /> | <img src="images/reference/jsonfeed.svg" width="256"> | https://www.jsonfeed.org/
 <img src="images/svg/julia.svg" width="256" /> | <img src="images/reference/julia.svg" width="256"> | https://julialang.org
+<img src="images/svg/justgiving.svg" width="256" /> | <img src="images/reference/justgiving.png" width="256"> | https://justgiving-developer.zendesk.com/hc/en-us/articles/14308756536337
 <img src="images/svg/kaggle.svg" width="256" /> | <img src="images/reference/kaggle.png" width="256"> | https://www.kaggle.com/
 <img src="images/svg/keepassdx.svg" width="256" /> | <img src="images/reference/keepassdx.svg" width="256"> | https://www.keepassdx.com/
 <img src="images/svg/kemal.svg" width="256" /> | <img src="images/reference/kemal.png" width="256"> | https://raw.githubusercontent.com/kemalcr/kemalcr.com/master/img/kemal.png
@@ -207,6 +213,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="images/svg/mongodb.svg" width="256" /> | <img src="images/reference/mongodb.svg" width="256"> | https://www.mongodb.com/brand-resources
 <img src="images/svg/mysql.svg" width="256" /> | <img src="images/reference/mysql.svg" width="256"> | https://www.mysql.com/about/legal/logos.html
 <img src="images/svg/netbeans.svg" width="256" /> | <img src="images/reference/netbeans.png" width="256"> | https://www.apache.org/logos/res/netbeans/netbeans.png
+<img src="images/svg/netbsd.svg" width="256" /> | <img src="images/reference/netbsd.png" width="256"> | https://www.netbsd.org/gallery/logos.html
 <img src="images/svg/netflix.svg" width="256" /> | <img src="images/reference/netflix.png" width="256"> | https://brand.netflix.com/en/assets/brand-symbol/
 <img src="images/svg/nextcloud.svg" width="256" /> | <img src="images/reference/nextcloud.svg" width="256"> | https://nextcloud.com/press/
 <img src="images/svg/nginx.svg" width="256" /> | <img src="images/reference/nginx.svg" width="256"> | https://www.nginx.com/
@@ -233,7 +240,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="images/svg/patreon.svg" width="256" /> | <img src="images/reference/patreon.svg" width="256"> | https://www.patreon.com/brand/guidelines
 <img src="images/svg/paypal.svg" width="256" /> | <img src="images/reference/paypal.png" width="256"> | https://www.paypal-marketing.com/html/partner/na/pdf/PayPal_Cobranding_guidelines_dec_2013.pdf
 <img src="images/svg/pdf.svg" width="256" /> | <img src="images/reference/pdf.svg" width="256"> | https://www.adobe.com/content/dam/acom/en/legal/documents/Adobe_Trademark_Guidelines_11012014.pdf
-<img src="images/svg/peertube.svg" width="256" /> | <img src="images/reference/peertube.png" width="256"> | 
+<img src="images/svg/peertube.svg" width="256" /> | <img src="images/reference/peertube.png" width="256"> | https://joinpeertube.org
 <img src="images/svg/php.svg" width="256" /> | <img src="images/reference/php.svg" width="256"> | https://secure.php.net/download-logos.php
 <img src="images/svg/pinboard.svg" width="256" /> | <img src="images/reference/pinboard.png" width="256"> | https://twitter.com/pinboard
 <img src="images/svg/pinterest.svg" width="256" /> | <img src="images/reference/pinterest.svg" width="256"> | https://business.pinterest.com/en-gb/brand-guidelines
@@ -329,6 +336,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="images/svg/vue.svg" width="256" /> | <img src="images/reference/vue.svg" width="256"> | https://github.com/vuejs/art/blob/master/logo.svg
 <img src="images/svg/w3c.svg" width="256" /> | <img src="images/reference/w3c.png" width="256"> | https://www.w3.org/Consortium/Legal/logo-usage-20000308
 <img src="images/svg/webmention.svg" width="256" /> | <img src="images/reference/webmention.svg" width="256"> | https://indieweb.org/File:webmention-logo.svg
+<img src="images/svg/webtoons.svg" width="256" /> | <img src="images/reference/webtoons.jpg" width="256"> | https://www.webtoons.com/en
 <img src="images/svg/wechat.svg" width="256" /> | <img src="images/reference/wechat.svg" width="256"> | https://wechat.design/?locale=en_US
 <img src="images/svg/wekan.svg" width="256" /> | <img src="images/reference/wekan.svg" width="256"> | https://github.com/wekan/wekan/blob/master/public/wekan-logo-150.svg
 <img src="images/svg/whatsapp.svg" width="256" /> | <img src="images/reference/whatsapp.svg" width="256"> | https://www.whatsappbrand.com/
@@ -341,6 +349,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="images/svg/wordpress.svg" width="256" /> | <img src="images/reference/wordpress.svg" width="256"> | https://wordpress.org/about/logos/
 <img src="images/svg/workato.svg" width="256" /> | <img src="images/reference/workato.svg" width="256"> | https://workato.com
 <img src="images/svg/x.svg" width="256" /> | <img src="images/reference/x.svg" width="256"> | https://about.twitter.com/en/who-we-are/brand-toolkit
+<img src="images/svg/x11.svg" width="256" /> | <img src="images/reference/x11.png" width="256"> | https://www.netbsd.org/gallery/logos.html
 <img src="images/svg/xing.svg" width="256" /> | <img src="images/reference/xing.png" width="256"> | https://dev.xing.com/logo_rules
 <img src="images/svg/xmpp.svg" width="256" /> | <img src="images/reference/xmpp.svg" width="256"> | https://xmpp.org/about/press-kit/
 <img src="images/svg/yahoo.svg" width="256" /> | <img src="images/reference/yahoo.jpg" width="256"> | https://www.pentagram.com/work/yahoo/story
