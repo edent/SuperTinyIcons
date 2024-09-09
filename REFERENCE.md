@@ -360,7 +360,7 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zorinos.png" width="256"> | https://zorin.com/press/
 
 
-&nbsp; | ** No Reference Image Found ** | &nbsp;
+-| ** No Reference Image Found ** |-
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="256" /> | Apple Music <br/>*[apple_music.svg]* | 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | Calendar <br/>*[calendar.svg]* | 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="256" /> | DataCamp <br/>*[datacamp.svg]* | 
