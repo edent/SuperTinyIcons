@@ -358,7 +358,10 @@ YouTube | <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.sv
 Yubico | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yubico.png" width="256"> | https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png
 Zoom | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zoom.png" width="256"> | https://www.zoom.us/
 Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zorinos.png" width="256"> | https://zorin.com/press/
-<h2>No Reference Image Found</h2> Name | Icon | Filename
+<h2>No Reference Image Found</h2>
+
+Name | Icon | Filename
+-|-|-
 Apple Music | <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="256" /> | apple_music.svg 
 Calendar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | calendar.svg 
 DataCamp | <img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="256" /> | datacamp.svg 
