@@ -359,7 +359,6 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zoom.png" width="256"> | https://www.zoom.us/
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zorinos.png" width="256"> | https://zorin.com/press/
 
-
 -| ** No Reference Image Found ** |-
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="256" /> | Apple Music <br/>*[apple_music.svg]* | 
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | Calendar <br/>*[calendar.svg]* | 
