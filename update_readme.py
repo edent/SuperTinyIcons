@@ -34,9 +34,9 @@ for ref_url in ref_list:
 			svg_data[ref_name]['source'] = open("images/reference/" + ref_url, "r").readline()
 
 readme_table = "<table>\n"
-check_table = '<table><tr><th>SVG Icon</th><th>Circle Icon</th><th>Reference</th><th>Source</th></tr>\n'
-reference_table = "-|-|-\n"
-missing_table = "&nbsp; | <h2>No Reference Image Found</h2> | &nbsp;\n"
+check_table = '<table><tr><th>Name</th><th>SVG Icon</th><th>Circle Icon</th><th>Reference</th><th>Source</th></tr>\n'
+reference_table = "-|-|-|-\n"
+missing_table = "<h2>No Reference Image Found</h2> | &nbsp;  | &nbsp; | &nbsp;\n"
 
 counter = 0
 for svg in svg_data:
@@ -44,11 +44,11 @@ for svg in svg_data:
 	name = svg_data[svg]['name']
 	bytes = svg_data[svg]['bytes']
 
-	check_table += f'<tr><td><img src="{img_domain}images/svg/{svg_file}" width="100" /></td><td><img src="{img_domain}images/svg/{svg_file}" width="100" style="border-radius: 50%;"></td>'
+	check_table += f'<tr><td>{name}</td><td><img src="{img_domain}images/svg/{svg_file}" width="100" /></td><td><img src="{img_domain}images/svg/{svg_file}" width="100" style="border-radius: 50%;"></td>'
 
 	if 'ref_file' in svg_data[svg]:
 		ref_file = svg_data[svg]['ref_file']
-		reference_table += f'<img src="{img_domain}images/svg/{svg_file}" width="256" /> | <img src="{img_domain}images/reference/{ref_file}" width="256"> | '
+		reference_table += f'{name} | <img src="{img_domain}images/svg/{svg_file}" width="256" /> | <img src="{img_domain}images/reference/{ref_file}" width="256"> | '
 		check_table += f'<td><img src="{img_domain}images/reference/{ref_file}" width="100"></td>'
 
 		if 'source' in svg_data[svg]:
@@ -58,7 +58,7 @@ for svg in svg_data:
 
 		reference_table += '\n'
 	else:
-		missing_table += f'<img src="{img_domain}images/svg/{svg_file}" width="256" /> | {name} <br/>*[{svg}.svg]* | \n'
+		missing_table += f'{name} | <img src="{img_domain}images/svg/{svg_file}" width="256" /> | {name} <br/>*[{svg}.svg]* | \n'
 
 	check_table += '</tr>\n'
 
