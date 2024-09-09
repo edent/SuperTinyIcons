@@ -358,26 +358,28 @@ Super&nbsp;Tiny&nbsp;SVG | &nbsp;&nbsp;Official&nbsp;Logo&nbsp;&nbsp; | Source
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yubico.png" width="256"> | https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zoom.png" width="256"> | https://www.zoom.us/
 <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zorinos.png" width="256"> | https://zorin.com/press/
+
+
 &nbsp; | ** No Reference Image Found ** | &nbsp;
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="256" /> | Apple Music <br/>*[apple_music]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | Calendar <br/>*[calendar]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="256" /> | DataCamp <br/>*[datacamp]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="256" /> | Email <br/>*[email]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="256" /> | Gmail <br/>*[gmail_old]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="256" /> | Google Docs Editors <br/>*[google_docs_editors]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="256" /> | Google Drive <br/>*[google_drive_old]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | Google Maps <br/>*[google_maps_old]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/lock.svg" width="256" /> | Lock <br/>*[lock]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="256" /> | Mail <br/>*[mail]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="256" /> | Markdown <br/>*[markdown]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="256" /> | Phone <br/>*[phone]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_s.svg" width="256" /> | Samsung <br/>*[samsung_s]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="256" /> | Samsung <br/>*[samsung_swoop]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/signal.svg" width="256" /> | Signal <br/>*[signal]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="256" /> | Sublime Text <br/>*[sublimetext]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="256" /> | Teamspeak <br/>*[teamspeak]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | Uplay <br/>*[uplay]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | Upwork <br/>*[upwork]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="256" /> | Vegetarian <br/>*[vegetarian]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="256" /> | Viber <br/>*[viber]* | 
-<img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="256" /> | WebAssembly <br/>*[webassembly]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="256" /> | Apple Music <br/>*[apple_music.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | Calendar <br/>*[calendar.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="256" /> | DataCamp <br/>*[datacamp.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="256" /> | Email <br/>*[email.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="256" /> | Gmail <br/>*[gmail_old.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="256" /> | Google Docs Editors <br/>*[google_docs_editors.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="256" /> | Google Drive <br/>*[google_drive_old.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | Google Maps <br/>*[google_maps_old.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/lock.svg" width="256" /> | Lock <br/>*[lock.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="256" /> | Mail <br/>*[mail.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="256" /> | Markdown <br/>*[markdown.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="256" /> | Phone <br/>*[phone.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_s.svg" width="256" /> | Samsung <br/>*[samsung_s.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="256" /> | Samsung <br/>*[samsung_swoop.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/signal.svg" width="256" /> | Signal <br/>*[signal.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="256" /> | Sublime Text <br/>*[sublimetext.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="256" /> | Teamspeak <br/>*[teamspeak.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | Uplay <br/>*[uplay.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | Upwork <br/>*[upwork.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="256" /> | Vegetarian <br/>*[vegetarian.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="256" /> | Viber <br/>*[viber.svg]* | 
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="256" /> | WebAssembly <br/>*[webassembly.svg]* | 
