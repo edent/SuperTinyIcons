@@ -6,7 +6,7 @@ Thanks for submitting or fixing an icon! Here is a helpful guide to what you nee
 Additionally, you can do these helpful things if you have time:
 - [ ] Edit Readme
 - [ ] Add reference image
-- [ ] Edit reference page
+- [ ] Add official brand guidelines URl 
 - [ ] Android Image
 
 ## New File
@@ -59,12 +59,10 @@ This will update the average file size at the top of the file as well as regener
 
 * Find an *official* logo.
 * Add it to `/images/reference/`
-
-## Reference Page
-
-* Edit the file [`images/reference/index.md`](images/reference/index.md)
-* Add a link to the *official* style guide or brand guidelines.
-* For example `| <img src="/images/svg/nameofservice.svg" width="256" />	| <img src="/images/reference/nameofservice.jpg" width="256" />	| https://example.com/press |`
+* It must have the same filename as the image you added to `/images/svg/`
+   * It's OK if it has a different extension. `nameofservice.png` is fine.
+* Add the brand guidelines URl in a new file within `/images/svg/`
+   * For example, create a file called `/images/reference/nameofservice.url` with the contents `https://example.com/brand-guidelines`
 
 ## (Optional) Create Android Version
 

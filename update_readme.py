@@ -36,7 +36,7 @@ for ref_url in ref_list:
 readme_table = "<table>\n"
 check_table = '<table><tr><th>SVG Icon</th><th>Circle Icon</th><th>Reference</th><th>Source</th></tr>\n'
 reference_table = "-|-|-\n"
-missing_table = "&nbsp; | ** No Reference Image Found ** | &nbsp;\n"
+missing_table = "\n\n&nbsp; | ** No Reference Image Found ** | &nbsp;\n"
 
 counter = 0
 for svg in svg_data:
@@ -58,7 +58,7 @@ for svg in svg_data:
 
 		reference_table += '\n'
 	else:
-		missing_table += f'<img src="{img_domain}images/svg/{svg_file}" width="256" /> | {name} <br/>*[{svg}]* | \n'
+		missing_table += f'<img src="{img_domain}images/svg/{svg_file}" width="256" /> | {name} <br/>*[{svg}.svg]* | \n'
 
 	check_table += '</tr>\n'
 
