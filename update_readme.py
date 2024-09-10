@@ -10,16 +10,30 @@ ref_list = sorted(os.listdir('images/reference/'))
 svg_data = {}
 total_bytes = 0
 
+#	Loop through all the SVGs
 for svg_file in svg_list:
+	#	Ignore anything which isn't an .svg
 	if not svg_file.endswith('.svg'):
 		continue
+	#	Replace Windows line endings (CRLF) with Unix (LF)
+	with open( 'images/svg/' + svg_file, 'rb' ) as open_file:
+		content = open_file.read()
+		content = content.replace(  b'\r\n', b'\n')
+		#	Remove trailing newline
+		content = content.strip()
+	with open( 'images/svg/' + svg_file, 'wb' ) as open_file:
+		open_file.write(content)
+	#	Get the filename of the service. E.g. service.svg
 	svg = svg_file.split('.')[0]
 	svg_data[svg] = { 'svg_file' : svg_file }
+	#	Get the name of the service from the ARIA label
 	svg_data[svg]['name'] = ET.parse(f'images/svg/{svg_file}').getroot().attrib["aria-label"]
+	#	Get the file size
 	bytes = os.stat(f'images/svg/{svg_file}').st_size
 	svg_data[svg]['bytes'] = bytes
 	total_bytes += bytes
 
+#	Get all reference images
 for ref_file in ref_list:
 	if ref_file.endswith('.url'):
 		continue
@@ -27,12 +41,14 @@ for ref_file in ref_list:
 	if ref_name in svg_data:
 		svg_data[ref_name]['ref_file'] = ref_file
 
+#	Get all the reference URls
 for ref_url in ref_list:
 	if ref_url.endswith('.url'):
 		ref_name = ref_url.split('.')[0]
 		if ref_name in svg_data:
 			svg_data[ref_name]['source'] = open("images/reference/" + ref_url, "r").readline()
 
+#	Set up the tables
 readme_table = "<table>\n"
 check_table = '<table><tr><th>Name</th><th>SVG Icon</th><th>Circle Icon</th><th>Reference</th><th>Source</th></tr>\n'
 reference_table = "-|-|-|-\n"
@@ -40,13 +56,16 @@ missing_table = "<h2>No Reference Image Found</h2>\n\n"
 missing_table += "Name | Icon | Filename\n-|-|-\n"
 
 counter = 0
+#	Loop through all the SVG data
 for svg in svg_data:
 	svg_file = svg_data[svg]['svg_file']
-	name = svg_data[svg]['name']
-	bytes = svg_data[svg]['bytes']
+	name     = svg_data[svg]['name']
+	bytes    = svg_data[svg]['bytes']
 
+	#	Add it to the check table
 	check_table += f'<tr><td>{name}</td><td><img src="{img_domain}images/svg/{svg_file}" width="100" /></td><td><img src="{img_domain}images/svg/{svg_file}" width="100" style="border-radius: 50%;"></td>'
 
+	#	If a reference image exists, add it to the reference table and check table
 	if 'ref_file' in svg_data[svg]:
 		ref_file = svg_data[svg]['ref_file']
 		reference_table += f'{name} | <img src="{img_domain}images/svg/{svg_file}" width="256" /> | <img src="{img_domain}images/reference/{ref_file}" width="256"> | '
@@ -59,6 +78,7 @@ for svg in svg_data:
 
 		reference_table += '\n'
 	else:
+		#	No reference image. Add it to the missing table
 		missing_table += f'{name} | <img src="{img_domain}images/svg/{svg_file}" width="256" /> | {svg}.svg \n'
 
 	check_table += '</tr>\n'
@@ -83,9 +103,10 @@ if counter != 0 :
 readme_table += "</table>"
 check_table += "</table>"
 
-
+#	Calculate the number of icons and average size
 readme_summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
 
+#	Replace the table in README with the new one
 with open('README.md','r+') as f: 
     file = f.read() 
 	
@@ -98,6 +119,7 @@ with open('README.md','r+') as f:
 
 print(f"README.md updated with {len(svg_list)} icons.")
 
+#	Replace the tables in the REFERENCE document
 with open('REFERENCE.md','r+') as f: 
     file = f.read() 
 	
@@ -110,6 +132,7 @@ with open('REFERENCE.md','r+') as f:
 	
 print(f"REFERENCE.md updated.")
 
+#	Replace the table in the CHECK document
 with open('CHECK.html','r+') as f: 
     file = f.read() 
 	
