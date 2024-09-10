@@ -72,7 +72,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>Bluesky<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluesky.svg" width="100" title="Bluesky"><br>398 bytes</td>
+<td>Bluesky<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluesky.svg" width="100" title="Bluesky"><br>397 bytes</td>
 <td>Bluetooth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="100" title="Bluetooth"><br>366 bytes</td>
 <td>Brave<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/brave.svg" width="100" title="Brave"><br>996 bytes</td>
 <td>Briar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/briar.svg" width="100" title="Briar"><br>491 bytes</td>
@@ -280,7 +280,7 @@ Say thanks!
 
 <tr>
 <td>Julia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/julia.svg" width="100" title="Julia"><br>283 bytes</td>
-<td>JustGiving<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/justgiving.svg" width="100" title="JustGiving"><br>352 bytes</td>
+<td>JustGiving<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/justgiving.svg" width="100" title="JustGiving"><br>351 bytes</td>
 <td>Kaggle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kaggle.svg" width="100" title="Kaggle"><br>297 bytes</td>
 <td>KeePassDX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/keepassdx.svg" width="100" title="KeePassDX"><br>516 bytes</td>
 <td>Kemal Framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kemal.svg" width="100" title="Kemal Framework"><br>325 bytes</td>
@@ -342,7 +342,7 @@ Say thanks!
 </tr>
 
 <tr>
-<td>NetBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netbsd.svg" width="100" title="NetBSD"><br>420 bytes</td>
+<td>NetBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netbsd.svg" width="100" title="NetBSD"><br>419 bytes</td>
 <td>Netflix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/netflix.svg" width="100" title="Netflix"><br>435 bytes</td>
 <td>NextCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nextcloud.svg" width="100" title="NextCloud"><br>250 bytes</td>
 <td>NGINX<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nginx.svg" width="100" title="NGINX"><br>450 bytes</td>
