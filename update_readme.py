@@ -4,9 +4,11 @@ import re
 
 table_columns = 6
 img_domain = "https://edent.github.io/SuperTinyIcons/"
+svg_dir = "images/svg/"
+ref_dir = "images/reference/"
 
-svg_list = sorted(os.listdir('images/svg/'))
-ref_list = sorted(os.listdir('images/reference/'))
+svg_list = sorted(os.listdir( svg_dir ))
+ref_list = sorted(os.listdir( ref_dir ))
 svg_data = {}
 total_bytes = 0
 
@@ -16,20 +18,20 @@ for svg_file in svg_list:
 	if not svg_file.endswith('.svg'):
 		continue
 	#	Replace Windows line endings (CRLF) with Unix (LF)
-	with open( 'images/svg/' + svg_file, 'rb' ) as open_file:
+	with open( svg_dir + svg_file, 'rb' ) as open_file:
 		content = open_file.read()
 		content = content.replace(  b'\r\n', b'\n')
 		#	Remove trailing newline
 		content = content.strip()
-	with open( 'images/svg/' + svg_file, 'wb' ) as open_file:
+	with open( svg_dir + svg_file, 'wb' ) as open_file:
 		open_file.write(content)
 	#	Get the filename of the service. E.g. service.svg
 	svg = svg_file.split('.')[0]
 	svg_data[svg] = { 'svg_file' : svg_file }
 	#	Get the name of the service from the ARIA label
-	svg_data[svg]['name'] = ET.parse(f'images/svg/{svg_file}').getroot().attrib["aria-label"]
+	svg_data[svg]['name'] = ET.parse(f'{svg_dir}{svg_file}').getroot().attrib["aria-label"]
 	#	Get the file size
-	bytes = os.stat(f'images/svg/{svg_file}').st_size
+	bytes = os.stat(f'{svg_dir}{svg_file}').st_size
 	svg_data[svg]['bytes'] = bytes
 	total_bytes += bytes
 
@@ -46,7 +48,7 @@ for ref_url in ref_list:
 	if ref_url.endswith('.url'):
 		ref_name = ref_url.split('.')[0]
 		if ref_name in svg_data:
-			svg_data[ref_name]['source'] = open("images/reference/" + ref_url, "r").readline()
+			svg_data[ref_name]['source'] = open(ref_dir + ref_url, "r").readline()
 
 #	Set up the tables
 readme_table = "<table>\n"
@@ -63,13 +65,13 @@ for svg in svg_data:
 	bytes    = svg_data[svg]['bytes']
 
 	#	Add it to the check table
-	check_table += f'<tr><td>{name}</td><td><img src="{img_domain}images/svg/{svg_file}" width="100" /></td><td><img src="{img_domain}images/svg/{svg_file}" width="100" style="border-radius: 50%;"></td>'
+	check_table += f'<tr><td>{name}</td><td><img src="{img_domain}{svg_dir}{svg_file}" width="100" /></td><td><img src="{img_domain}{svg_dir}{svg_file}" width="100" style="border-radius: 50%;"></td>'
 
 	#	If a reference image exists, add it to the reference table and check table
 	if 'ref_file' in svg_data[svg]:
 		ref_file = svg_data[svg]['ref_file']
-		reference_table += f'{name} | <img src="{img_domain}images/svg/{svg_file}" width="256" /> | <img src="{img_domain}images/reference/{ref_file}" width="256"> | '
-		check_table += f'<td><img src="{img_domain}images/reference/{ref_file}" width="100"></td>'
+		reference_table += f'{name} | <img src="{img_domain}{svg_dir}{svg_file}" width="256" /> | <img src="{img_domain}{ref_dir}{ref_file}" width="256"> | '
+		check_table += f'<td><img src="{img_domain}{ref_dir}{ref_file}" width="100"></td>'
 
 		if 'source' in svg_data[svg]:
 			source = svg_data[svg]['source']
@@ -79,7 +81,7 @@ for svg in svg_data:
 		reference_table += '\n'
 	else:
 		#	No reference image. Add it to the missing table
-		missing_table += f'{name} | <img src="{img_domain}images/svg/{svg_file}" width="256" /> | {svg}.svg \n'
+		missing_table += f'{name} | <img src="{img_domain}{svg_dir}{svg_file}" width="256" /> | {svg}.svg \n'
 
 	check_table += '</tr>\n'
 
@@ -88,7 +90,7 @@ for svg in svg_data:
 		readme_table += "<tr>\n"
 		
 	readme_table += f'<td>{name}<br>'
-	readme_table += f'<img src="{img_domain}images/svg/{svg_file}" width="100" title="{name}"><br>'
+	readme_table += f'<img src="{img_domain}{svg_dir}{svg_file}" width="100" title="{name}"><br>'
 	readme_table += f'{bytes} bytes</td>\n'
 	
 	counter +=1
