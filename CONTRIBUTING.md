@@ -4,9 +4,9 @@ Thanks for submitting or fixing an icon! Here is a helpful guide to what you nee
 
 
 Additionally, you can do these helpful things if you have time:
-- [ ] Edit Readme
 - [ ] Add reference image
-- [ ] Add official brand guidelines URl 
+- [ ] Add official brand guidelines URl
+- [ ] Update README using the python script
 - [ ] Android Image
 
 ## New File
@@ -47,15 +47,7 @@ This is the standard guideline. Use this to help with sizing your icons and they
 - **Yellow** is like a road shoulder, it is there if more space is needed. It should be used for protruding elements, like corners or ornaments.
 - **Red** is off limits. It should not be touched by the icons. Red is also how a circular icon would look.
 
-## Edit Readme
-
-You will need to update the README.  To do this, run:
-
-`python3 update_readme.py`
-
-This will update the average file size at the top of the file as well as regenerate the table of icons.
-
-## Reference Image
+## Reference Image and Brand Guidelines URl
 
 * Find an *official* logo.
 * Add it to `/images/reference/`
@@ -63,6 +55,15 @@ This will update the average file size at the top of the file as well as regener
    * It's OK if it has a different extension. `nameofservice.png` is fine.
 * Add the brand guidelines URl in a new file within `/images/svg/`
    * For example, create a file called `/images/reference/nameofservice.url` with the contents `https://example.com/brand-guidelines`
+
+## Edit Readme
+
+You will need to update the README. To do this, run:
+
+`python3 update_readme.py`
+
+This will update the average file size at the top of the file as well as regenerate the table of icons.
+It will also update the REFERENCE.md and CHECK.html files.
 
 ## (Optional) Create Android Version
 
