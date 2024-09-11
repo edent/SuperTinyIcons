@@ -4,10 +4,10 @@
     android:viewportWidth="512"
     android:viewportHeight="512">
   <path
-      android:pathData="M0,0h512v512h-512z"
+      android:pathData="m0,0H512V512H0"
       android:fillColor="#fff"/>
   <path
-      android:pathData="m310,215a52,48 0,1 1,-1 0"
+      android:pathData="M309,215a52,48 0,1 0,1 0"
       android:fillColor="#265787"/>
   <path
       android:pathData="m175,273a134,123 -5,1 0,220 -92L274,88q-14,-10 -30,0 -14,11 -2,23l50,41L138,152q-23,2 -27,19c-3,11 7,20 19,20h78L75,293q-29,21 -16,42 16,19 44,-3zM308,190a82,75 2,1 1,-1 0z"

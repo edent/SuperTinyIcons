@@ -4,17 +4,17 @@
     android:viewportWidth="512"
     android:viewportHeight="512">
   <path
-      android:pathData="M0,0h512v512h-512z"
+      android:pathData="m0,0H512V512H0"
       android:fillColor="#fff"/>
   <path
       android:pathData="M120,392V151.07h272V392"
       android:fillColor="#f2f2f2"/>
   <path
       android:fillColor="#FF000000"
-      android:pathData="M256,285L120,392l-4,-212"
+      android:pathData="M116,180l4,212L256,285"
       android:fillAlpha="0.05"/>
   <path
-      android:pathData="M120,392H97c-12,0 -22,-10 -22,-23V143h45z"
+      android:pathData="M120,143H75V369c0,13 10,23 22,23h23Z"
       android:fillColor="#d54c3f"/>
   <path
       android:fillColor="#FF000000"

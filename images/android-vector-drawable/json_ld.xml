@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:pathData="m0,0H512V512H0"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="m264,191c0.9,18.9 -42.5,41.8 -60.1,35.4a40.3,40.3 0,1 0,4.4 67.2c15,-9.9 60,14.1 60.8,32.1a40.3,40.3 0,1 0,56.8 -35.6c-13.4,-7.7 -14.8,-61.4 -0.9,-69.4A40.3,40.3 0,1 0,264 191zM281.7,219.9a40,40 0,0 0,10.6 5c12,11.4 12.9,55.1 0.2,65.4a40,40 0,0 0,-9.5 6.1c-11.3,5.7 -56.3,-15.3 -58.6,-34.2a40,40 0,0 0,-0.5 -7.4c0,-11.9 40.5,-41.3 57.8,-34.9z"
+      android:fillColor="#0c479c"/>
+  <path
+      android:pathData="M279,206c-8,-9 -3,-22 0,-27 1,-1 3,-3 5,-2a9,9 0,0 0,10 -14c8,-5 20,-9 29,-3 -14,-12 -33,-7 -43,4s-13,32 -1,43"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M286,347c-8,-9 -3,-22 0,-27 1,-1 3,-3 5,-2a9,9 0,0 0,10 -14c8,-5 20,-9 29,-3 -14,-12 -33,-7 -43,4s-13,32 -1,43"
+      android:fillColor="#fff"/>
+  <path
+      android:pathData="M160,282c-8,-9 -3,-22 0,-27 1,-1 3,-3 5,-2a9,9 0,0 0,10 -14c8,-5 20,-9 29,-3 -14,-12 -33,-7 -43,4s-13,32 -1,43"
+      android:fillColor="#fff"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m55,256v11c27,0 47,-1 47,41v37c0,49 15,56 74,56v-22c-15,0 -33,0 -39,-6 -5,-7 -6,-14 -6,-29v-38c0,-22 -3,-43 -31,-50H55z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m55,256l0,-11c27,-0 47,1 47,-41l0,-37c0,-49 15,-56 74,-56l0,22c-15,-0 -33,-0 -39,6 -5,7 -6,14 -6,29l0,38c0,22 -3,43 -31,50L55,256z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m457,256l-0,11c-27,0 -47,-1 -47,41l-0,37c-0,49 -15,56 -74,56l-0,-22c15,0 33,0 39,-6 5,-7 6,-14 6,-29l-0,-38c-0,-22 3,-43 31,-50L457,256z"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m457,256l-0,-11c-27,-0 -47,1 -47,-41l-0,-37c-0,-49 -15,-56 -74,-56l-0,22c15,-0 33,-0 39,6 5,7 6,14 6,29l-0,38c-0,22 3,43 31,50L457,256z"/>
+</vector>
