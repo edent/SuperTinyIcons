@@ -4,29 +4,28 @@
     android:viewportWidth="512"
     android:viewportHeight="512">
   <path
-      android:pathData="M0,0h512v512h-512z"
+      android:pathData="m0,0H512V512H0"
       android:fillColor="#fff"/>
   <path
-      android:pathData="M100,340h74V174H340v-74H137Q100,100 100,135"
+      android:pathData="M100,135q0,-35 37,-35H340v74H174V340H100"
       android:fillColor="#4285f4"/>
   <path
-      android:pathData="M338,100v76h74v-41q0,-35 -35,-35"
+      android:pathData="m338,100v76h74v-41q0,-35 -35,-35"
       android:fillColor="#1967d2"/>
   <path
-      android:pathData="M338,174h74V338h-74"
-      android:fillColor="#fbbc04"/>
-  <path
-      android:pathData="M100,338v39q0,35 35,35h41v-74"
+      android:pathData="m100,338v39q0,35 35,35h41v-74"
       android:fillColor="#188038"/>
   <path
-      android:pathData="M174,338H338v74H174"
+      android:pathData="M348,338H174v74H338"
       android:fillColor="#34a853"/>
+  <path
+      android:pathData="m338,339V174h74V338"
+      android:fillColor="#fbbc04"/>
   <path
       android:pathData="M338,412v-74h74"
       android:fillColor="#ea4335"/>
   <path
-      android:pathData="M204,229a25,22 1,1 1,25 27h-9h9a25,22 1,1 1,-25 27M270,231l27,-19h4v-7V308"
-      android:strokeLineJoin="bevel"
+      android:pathData="m204,229a25,22 1,1 1,25 27h-9,9a25,22 1,1 1,-25 27m66,-52 l27,-19h4v96"
       android:strokeWidth="15"
       android:fillColor="#00000000"
       android:strokeColor="#4285f4"/>

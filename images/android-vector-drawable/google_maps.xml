@@ -4,38 +4,35 @@
     android:viewportWidth="512"
     android:viewportHeight="512">
   <path
-      android:pathData="M0,0h512v512h-512z"
+      android:pathData="m0,0H512V512H0"
       android:fillColor="#fff"/>
   <group>
     <clip-path
-        android:pathData="M375,136a133,133 0,0 0,-79 -66,136 136,0 0,0 -40,-6 133,133 0,0 0,-103 48,133 133,0 0,0 -31,86c0,38 13,64 13,64 15,32 42,61 61,86a399,399 0,0 1,30 45,222 222,0 0,1 17,42c3,10 6,13 13,13s11,-5 13,-13a228,228 0,0 1,16 -41,472 472,0 0,1 45,-63c5,-6 32,-39 45,-64 0,0 15,-29 15,-68 0,-37 -15,-63 -15,-63z"/>
+        android:pathData="m122,198c0,70 40,105 77,154s40,73 44,83 6,13 13,13 10,-3 13,-13 7,-34 44,-83 77,-84 77,-153a1,1 0,0 0,-268 -2m83,0a51,51 0,1 1,0 2"/>
     <path
-        android:fillColor="#FF000000"
-        android:pathData="M104,379l152,-181"
+        android:pathData="m104,379 l152,-181"
         android:strokeWidth="130"
+        android:fillColor="#fff"
         android:strokeColor="#fbbc04"/>
     <path
-        android:fillColor="#FF000000"
         android:pathData="M256,198L378,53"
         android:strokeWidth="130"
+        android:fillColor="#fff"
         android:strokeColor="#4285f4"/>
     <path
-        android:fillColor="#FF000000"
-        android:pathData="M189,459l243,-290"
+        android:pathData="m189,459 l243,-290"
         android:strokeWidth="130"
+        android:fillColor="#fff"
         android:strokeColor="#34a853"/>
     <path
-        android:fillColor="#FF000000"
-        android:pathData="M255,120l-79,-67"
+        android:pathData="M176,53l79,67"
         android:strokeWidth="130"
+        android:fillColor="#fff"
         android:strokeColor="#1a73e8"/>
     <path
-        android:fillColor="#FF000000"
-        android:pathData="M76,232l91,-109"
+        android:pathData="m76,232 l91,-109"
         android:strokeWidth="130"
+        android:fillColor="#fff"
         android:strokeColor="#ea4335"/>
   </group>
-  <path
-      android:pathData="M256,198m-51,0a51,51 0,1 1,102 0a51,51 0,1 1,-102 0"
-      android:fillColor="#fff"/>
 </vector>
