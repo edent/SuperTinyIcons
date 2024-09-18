@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Semaphore CI" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><path id="a" d="M381.5 167.8v-.1a105.7 105.7 0 00-149.5 0l-66.5 67.7 26.1 26.5a19.4 19.4 0 0027.5 0l52.7-53.6a49.3 49.3 0 0169.7 0L408 276l40-40.6Z"/><use xlink:href="#a" transform="rotate(180,255.9,256.1)" fill="#F16332"/><use xlink:href="#a" fill="#029D75"/></svg>
+fill="#fff"/><path id="a" d="M381.5 167.8v-.1a105.7 105.7 0 00-149.5 0l-66.5 67.7 26.1 26.5a19.4 19.4 0 0027.5 0l52.7-53.6a49.3 49.3 0 0169.7 0L408 276l40-40.6Z"/><use href="#a" transform="rotate(180,255.9,256.1)" fill="#F16332"/><use href="#a" fill="#029D75"/></svg>
