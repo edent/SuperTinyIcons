@@ -1,4 +1,3 @@
-import io
 import os
 import xml.etree.ElementTree as ET
 import re
@@ -110,7 +109,7 @@ check_table += "</table>"
 readme_summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
 
 #	Replace the table in README with the new one
-with io.open('README.md','r+', encoding="utf-8") as f: 
+with open('README.md','r+', encoding="utf-8") as f: 
     file = f.read() 
 	
     file = re.sub(r"(?s)<table>.*?</table>", readme_table, file)
@@ -123,7 +122,7 @@ with io.open('README.md','r+', encoding="utf-8") as f:
 print(f"README.md updated with {len(svg_list)} icons.")
 
 #	Replace the tables in the REFERENCE document
-with io.open('README.md','r+', encoding="utf-8") as f: 
+with open('README.md','r+', encoding="utf-8") as f: 
     file = f.read() 
 	
     file = re.sub(r"(?s)-\|-\|-.*", reference_table, file)
@@ -136,7 +135,7 @@ with io.open('README.md','r+', encoding="utf-8") as f:
 print(f"REFERENCE.md updated.")
 
 #	Replace the table in the CHECK document
-with io.open('README.md','r+', encoding="utf-8") as f: 
+with open('README.md','r+', encoding="utf-8") as f: 
     file = f.read() 
 	
     file = re.sub(r"(?s)<table>.*?</table>", check_table, file)
