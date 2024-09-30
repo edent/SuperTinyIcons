@@ -135,7 +135,7 @@ with open('REFERENCE.md','r+', encoding="utf-8") as f:
 print(f"REFERENCE.md updated.")
 
 #	Replace the table in the CHECK document
-with open('CHECK.md','r+', encoding="utf-8") as f: 
+with open('CHECK.html','r+', encoding="utf-8") as f: 
     file = f.read() 
 	
     file = re.sub(r"(?s)<table>.*?</table>", check_table, file)
