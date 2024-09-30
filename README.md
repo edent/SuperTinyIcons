@@ -24,6 +24,7 @@ Say thanks!
 <td>ActivityPub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/activitypub.svg" width="100" title="ActivityPub"><br>337 bytes</td>
 <td>Adobe<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/adobe.svg" width="100" title="Adobe"><br>220 bytes</td>
 <td>Airbnb<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/airbnb.svg" width="100" title="Airbnb"><br>356 bytes</td>
+<td>LeetCode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/LeetCode.svg" width="100" title="LeetCode"><br>512 bytes</td>
 </tr>
 
 <tr>
