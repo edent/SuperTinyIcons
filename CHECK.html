@@ -5,13 +5,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Super Tiny Icons | SuperTinyIcons</title>
     <style>
-        td {
-            border: 1px solid #000;
-            text-align: center;
-        }
-        table {
-            border-collapse: collapse;
-        }
+         .icon-table {
+            perspective: 1000px;
+            background-color: #f0f0f0; /* Light gray background */
+          }
+          
+          .icon-row {
+            transition: transform 0.3s;
+            background: rgba(255,255,255,0.8);
+            border: 1px solid #ccc;
+            transition: all 0.3s;
+          }
+          
+          .icon-row:hover {
+            transform: rotateX(10deg) scale(1.05);
+            z-index: 1;
+            box-shadow: 0 0 20px rgba(0,0,0,0.2); /* Shadow on hover */
+          }
+          
+          .icon-cell {
+            padding: 10px;
+            background: rgba(255,255,255,0.8);
+            border: 1px solid #ccc;
+            transition: all 0.3s;
+          }
+          
+          .icon-cell:hover {
+            transform: translateZ(20px);
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+          }
+          
+          .icon-img {
+            transition: transform 0.3s;
+          }
+          
+          .icon-img:hover {
+            transform: rotate(10deg) scale(1.1);
+          }
     </style>
 </head>
 <body>
@@ -396,5 +426,30 @@
 <tr><td>Zorinos</td><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="100" /></td><td><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="100" style="border-radius: 50%;"></td><td><img src="https://edent.github.io/SuperTinyIcons/images/reference/zorinos.png" width="100"></td><td><a href="https://zorin.com/press/">https://zorin.com/press/</a></td></tr>
 </table>
 </div>
+    <script>
+     document.querySelectorAll('.icon-row').forEach(row => {
+        row.addEventListener('mousemove', (e) => {
+          const rect = row.getBoundingClientRect();
+          const x = e.clientX - rect.left; 
+          const y = e.clientY - rect.top;
+          
+          const rotateX = (y / rect.height - 0.5) * 10;
+          const rotateY = (x / rect.width - 0.5) * -10;
+          
+          row.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+        });
+        
+        row.addEventListener('mouseleave', () => {
+          row.style.transform = 'none';
+        });
+      });
+      
+      // Adding a smooth scrolling effect
+      document.body.addEventListener('wheel', function(event) {
+        event.preventDefault();
+        document.body.scrollLeft += event.deltaX * 2;
+        document.body.scrollTop += event.deltaY * 2;
+      }, { passive: true });
+    </script>
 </body>
 </html>
