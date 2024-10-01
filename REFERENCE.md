@@ -324,6 +324,7 @@ Unicode | <img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.sv
 Untappd | <img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/untappd.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Untappd.svg
 Uphold | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/uphold.png" width="256"> | https://uphold.com/en/press-media
 Vagrant | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vagrant.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vagrant.png" width="256"> | https://www.vagrantup.com/files/press-kit.zip
+Vegetarian | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vegetarian.svg" width="256"> | https://commons.wikimedia.org/wiki/Category:V-Label#/media/File:Vegetarian-mark.svg
 Venmo | <img src="https://edent.github.io/SuperTinyIcons/images/svg/venmo.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/venmo.svg" width="256"> | https://venmo.com/about/brand
 Vim | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vim.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vim.png" width="256"> | https://www.vim.org/logos.php
 Vimeo | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vimeo.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vimeo.svg" width="256"> | https://press.vimeo.com/brand-guidelines
@@ -381,6 +382,5 @@ Sublime Text | <img src="https://edent.github.io/SuperTinyIcons/images/svg/subli
 Teamspeak | <img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="256" /> | teamspeak.svg 
 Uplay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | uplay.svg 
 Upwork | <img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | upwork.svg 
-Vegetarian | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="256" /> | vegetarian.svg 
 Viber | <img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="256" /> | viber.svg 
 WebAssembly | <img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="256" /> | webassembly.svg 
