@@ -25,6 +25,7 @@ Angular | <img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.sv
 Ansible | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ansible.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ansible.svg" width="256"> | https://www.ansible.com/logos
 Apereo Foundation | <img src="https://edent.github.io/SuperTinyIcons/images/svg/apereo.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/apereo.png" width="256"> | https://www.apereo.org
 Apple | <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/apple.svg" width="256"> | https://developer.apple.com/softwarelicensing/agreements/pdf/mac_logo_gdlns.pdf
+Apple Music | <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/apple_music.png" width="256"> | https://www.apple.com/in/apple-music/
 Apple Podcasts | <img src="https://edent.github.io/SuperTinyIcons/images/svg/applepodcasts.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/applepodcasts.svg" width="256"> | https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html
 Arch Linux | <img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/arch_linux.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg
 Atom | <img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/atom.png" width="256"> | https://atom.io/
@@ -40,7 +41,7 @@ Behance | <img src="https://edent.github.io/SuperTinyIcons/images/svg/behance.sv
 Bing | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bing.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/bing.svg" width="256"> | https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE1q9FS
 Bitbucket | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bitbucket.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/bitbucket.svg" width="256"> | https://www.atlassian.com/company/news/press-kit
 Bitcoin | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bitcoin.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/bitcoin.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Bitcoin.svg
-Bitwarden | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bitwarden.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/bitwarden.png" width="256"> | https://github.com/bitwarden/brand
+Bitwarden | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bitwarden.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/bitwarden.svg" width="256"> | https://github.com/bitwarden/brand
 Blender | <img src="https://edent.github.io/SuperTinyIcons/images/svg/blender.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/blender.svg" width="256"> | https://www.blender.org/
 Blogger | <img src="https://edent.github.io/SuperTinyIcons/images/svg/blogger.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/blogger.png" width="256"> | https://www.blogger.com/img/blogger-logotype-color-black-2x.png
 Bluesky | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bluesky.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/bluesky.png" width="256"> | https://docs.bsky.app/
@@ -50,6 +51,7 @@ Briar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/briar.svg" w
 Buffer | <img src="https://edent.github.io/SuperTinyIcons/images/svg/buffer.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/buffer.jpg" width="256"> | https://buffer.com/press
 Bugcrowd | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bugcrowd.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/bugcrowd.png" width="256"> | 
 Bun | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bun.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/bun.svg" width="256"> | https://bun.sh/
+Calendar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/calendar.png" width="256"> | https://medium.com/@theunitedindian200/2024-a-leap-year-e71c01bd293f
 CentOS | <img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/centos.svg" width="256"> | https://wiki.centos.org/ArtWork/Brand/Logo
 Chrome | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/chrome.svg" width="256"> | https://www.google.com/chrome/static/images/chrome-logo.svg
 Chromium | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/chromium.svg" width="256"> | https://www.chromium.org/
@@ -68,6 +70,8 @@ C++ | <img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg"
 Crystal | <img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/crystal.svg" width="256"> | https://crystal-lang.org/media/
 CSS3 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/css3.svg" width="256"> | 
 Dart | <img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/dart.png" width="256"> | https://dart.dev/brand
+DataCamp | <img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/datacamp.png" width="256"> | https://www.datacamp.com/
+
 Debian | <img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/debian.svg" width="256"> | https://www.debian.org/logos/
 Deezer | <img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/deezer.png" width="256"> | https://deezerbrand.com/
 Delicious | <img src="https://edent.github.io/SuperTinyIcons/images/svg/delicious.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/delicious.png" width="256"> | https://del.icio.us/static/img/logo_delicious_sprite.png
@@ -91,6 +95,7 @@ Edge | <img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" wid
 elastic | <img src="https://edent.github.io/SuperTinyIcons/images/svg/elastic.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/elastic.svg" width="256"> | https://www.elastic.co
 Element | <img src="https://edent.github.io/SuperTinyIcons/images/svg/element.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/element.svg" width="256"> | https://element.io/images/logo-mark-primary.svg
 Elementary OS | <img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/elementaryos.png" width="256"> | https://elementary.io/images/brand/logomark.png
+Email | <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/email.png" width="256"> | https://commons.wikimedia.org/wiki/File:Mail_%28iOS%29.svg
 Endeavour OS | <img src="https://edent.github.io/SuperTinyIcons/images/svg/endeavouros.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/endeavouros.png" width="256"> | https://github.com/endeavouros-team/endeavouros-theming
 ePub | <img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/epub.svg" width="256"> | http://idpf.org/sites/default/files/epub-logo.gif
 Espressif | <img src="https://edent.github.io/SuperTinyIcons/images/svg/espressif.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/espressif.svg" width="256"> | 
@@ -195,12 +200,15 @@ LinkedIn | <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.
 Linux | <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/linux.svg" width="256"> | https://www.linuxfoundation.org/trademark-usage/
 Linux Mint | <img src="https://edent.github.io/SuperTinyIcons/images/svg/linux_mint.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/linux_mint.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Linux_Mint_logo_without_wordmark.svg
 Lobste.rs | <img src="https://edent.github.io/SuperTinyIcons/images/svg/lobsters.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/lobsters.png" width="256"> | https://lobste.rs/
+Lock | <img src="https://edent.github.io/SuperTinyIcons/images/svg/lock.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/lock.png" width="256"> | https://www.freepik.com/icon/lock_449932
 Logitech | <img src="https://edent.github.io/SuperTinyIcons/images/svg/logitech.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/logitech.png" width="256"> | https://www.logitech.com/en-au
 Lucky Framework | <img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/luckyframework.png" width="256"> | https://luckyframework.org/
 macOS | <img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/macos.svg" width="256"> | https://www.apple.com/mac/
+Mail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/mail.png" width="256"> | https://www.flaticon.com/free-icon/at-sign_9192388
 Mailchimp | <img src="https://edent.github.io/SuperTinyIcons/images/svg/mailchimp.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/mailchimp.svg" width="256"> | https://mailchimp.com/about/brand-assets/
 Malt | <img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/malt.svg" width="256"> | 
 Manjaro | <img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/manjaro.svg" width="256"> | https://manjaro.org/img/logo.svg
+Markdown | <img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/markdown.png" width="256"> | https://www.markdownguide.org/
 Mastodon | <img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/mastodon.svg" width="256"> | https://github.com/tootsuite/joinmastodon/blob/master/public/press-kit.zip
 matrix | <img src="https://edent.github.io/SuperTinyIcons/images/svg/matrix.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/matrix.svg" width="256"> | 
 Mattermost | <img src="https://edent.github.io/SuperTinyIcons/images/svg/mattermost.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/mattermost.png" width="256"> | https://www.mattermost.org/brand-guidelines/
@@ -241,6 +249,7 @@ Patreon | <img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.sv
 PayPal | <img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/paypal.png" width="256"> | https://www.paypal-marketing.com/html/partner/na/pdf/PayPal_Cobranding_guidelines_dec_2013.pdf
 PDF | <img src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/pdf.svg" width="256"> | https://www.adobe.com/content/dam/acom/en/legal/documents/Adobe_Trademark_Guidelines_11012014.pdf
 PeerTube | <img src="https://edent.github.io/SuperTinyIcons/images/svg/peertube.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/peertube.png" width="256"> | https://joinpeertube.org
+Phone | <img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/phone.png" width="256"> | https://iconscout.com/free-icon/apple-phone-2
 PHP | <img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/php.svg" width="256"> | https://secure.php.net/download-logos.php
 Pinboard | <img src="https://edent.github.io/SuperTinyIcons/images/svg/pinboard.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/pinboard.png" width="256"> | https://twitter.com/pinboard
 Pinterest | <img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/pinterest.svg" width="256"> | https://business.pinterest.com/en-gb/brand-guidelines
@@ -271,9 +280,12 @@ Rust | <img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" wid
 Safari | <img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/safari.svg" width="256"> | https://www.apple.com/uk/safari/
 Samsung | <img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/samsung.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Samsung_Logo.svg
 Samsung Internet | <img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_internet.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/samsung_internet.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Samsung_Internet_logo.svg
+Samsung | <img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_s.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/samsung_s.svg" width="256"> | https://www.svgrepo.com/svg/349501/samsung-s
+Samsung | <img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/samsung_swoop.png" width="256"> | https://www.samsung.com/in/?srsltid=AfmBOorcWZ_DcTEx1whMJ4bv9Y6BTBISGULV7GzsMNk5GvF1PWDxyrrj
 Sass | <img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/sass.png" width="256"> | https://sass-lang.com/styleguide/brand
 Semaphore CI | <img src="https://edent.github.io/SuperTinyIcons/images/svg/semaphoreci.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/semaphoreci.png" width="256"> | https://twitter.com/semaphoreci
 Sentry | <img src="https://edent.github.io/SuperTinyIcons/images/svg/sentry.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/sentry.svg" width="256"> | https://sentry.io/branding/
+Signal | <img src="https://edent.github.io/SuperTinyIcons/images/svg/signal.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/signal.png" width="256"> | https://signal.org/
 Sketch | <img src="https://edent.github.io/SuperTinyIcons/images/svg/sketch.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/sketch.svg" width="256"> | https://www.sketchapp.com/
 Skype | <img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/skype.svg" width="256"> | https://www.skype.com/en/legal/brand-guidelines/
 Slack | <img src="https://edent.github.io/SuperTinyIcons/images/svg/slack.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/slack.svg" width="256"> | https://slack.com/media-kit
@@ -291,6 +303,7 @@ Stitcher | <img src="https://edent.github.io/SuperTinyIcons/images/svg/stitcher.
 Strava | <img src="https://edent.github.io/SuperTinyIcons/images/svg/strava.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/strava.png" width="256"> | https://www.strava.com/settings/badges
 StumbleUpon | <img src="https://edent.github.io/SuperTinyIcons/images/svg/stumbleupon.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/stumbleupon.png" width="256"> | https://en.wikipedia.org/wiki/StumbleUpon#/media/File:StumbleUpon_Logo.svg
 Sublime Merge | <img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimemerge.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/sublimemerge.png" width="256"> | https://www.sublimehq.com/
+Sublime Text | <img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/sublimetext.png" width="256"> | https://www.sublimetext.com/
 SubscribeStar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/subscribestar.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/subscribestar.png" width="256"> | https://www.subscribestar.com/brand
 Svelte | <img src="https://edent.github.io/SuperTinyIcons/images/svg/svelte.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/svelte.png" width="256"> | https://github.com/sveltejs/branding
 SVG | <img src="https://edent.github.io/SuperTinyIcons/images/svg/svg.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/svg.svg" width="256"> | https://www.w3.org/Graphics/SVG/
@@ -298,6 +311,8 @@ Swift | <img src="https://edent.github.io/SuperTinyIcons/images/svg/swift.svg" w
 Symantec | <img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/symantec.png" width="256"> | https://www.symantec.com/about/newsroom/digital-asset-gallery/logos
 Symfony | <img src="https://edent.github.io/SuperTinyIcons/images/svg/symfony.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/symfony.svg" width="256"> | https://symfony.com/logo
 taiga.io | <img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/taiga.svg" width="256"> | 
+Teamspeak | <img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/teamspeak.png" width="256"> | https://www.teamspeak.com/en/
+
 Telegram | <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/telegram.svg" width="256"> | https://telegram.org/tour/screenshots
 Terraform | <img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/terraform.svg" width="256"> | https://www.terraform.io/logos.html
 This American Life | <img src="https://edent.github.io/SuperTinyIcons/images/svg/thisamericanlife.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/thisamericanlife.png" width="256"> | https://www.npr.org/about-npr/179876898/terms-of-use
@@ -317,14 +332,16 @@ Twitter | <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.sv
 TypeScript | <img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/typescript.svg" width="256"> | 
 Uber | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uber.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/uber.jpg" width="256"> | https://brand.uber.com/guide#logo-clearspace
 Ubiquiti | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubiquiti.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ubiquiti.jpg" width="256"> | https://pbs.twimg.com/profile_images/862701781368713216/B7oW421__400x400.jpg
-Ubisoft | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubisoft.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ubisoft.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Ubisoft_logo.svg
+Ubisoft | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubisoft.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ubisoft.png" width="256"> | https://icon-icons.com/download/136078/PNG/512/
 Ubuntu | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ubuntu.svg" width="256"> | https://design.ubuntu.com/brand/ubuntu-logo/
 Udemy | <img src="https://edent.github.io/SuperTinyIcons/images/svg/udemy.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/udemy.png" width="256"> | 
 Unicode | <img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/unicode.svg" width="256"> | https://www.unicode.org/policies/logo_policy.html
 Untappd | <img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/untappd.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Untappd.svg
 Uphold | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/uphold.png" width="256"> | https://uphold.com/en/press-media
 Vagrant | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vagrant.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vagrant.png" width="256"> | https://www.vagrantup.com/files/press-kit.zip
+Vegetarian | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vegetarian.png" width="256"> | https://www.pngegg.com/en/png-pmaye/download
 Venmo | <img src="https://edent.github.io/SuperTinyIcons/images/svg/venmo.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/venmo.svg" width="256"> | https://venmo.com/about/brand
+Viber | <img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/viber.png" width="256"> | https://www.viber.com/en/
 Vim | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vim.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vim.png" width="256"> | https://www.vim.org/logos.php
 Vimeo | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vimeo.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vimeo.svg" width="256"> | https://press.vimeo.com/brand-guidelines
 Visual Studio Code | <img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/visualstudiocode.svg" width="256"> | https://code.visualstudio.com/brand
@@ -333,6 +350,7 @@ VK | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vk.svg" width="
 VLC | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vlc.png" width="256"> | https://www.videolan.org/
 Vue | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vue.svg" width="256"> | https://github.com/vuejs/art/blob/master/logo.svg
 W3C | <img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/w3c.png" width="256"> | https://www.w3.org/Consortium/Legal/logo-usage-20000308
+WebAssembly | <img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/webassembly.png" width="256"> | https://webassembly.org/
 WebMention | <img src="https://edent.github.io/SuperTinyIcons/images/svg/webmention.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/webmention.svg" width="256"> | https://indieweb.org/File:webmention-logo.svg
 WebToons | <img src="https://edent.github.io/SuperTinyIcons/images/svg/webtoons.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/webtoons.jpg" width="256"> | https://www.webtoons.com/en
 WeChat | <img src="https://edent.github.io/SuperTinyIcons/images/svg/wechat.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/wechat.svg" width="256"> | https://wechat.design/?locale=en_US
@@ -362,25 +380,9 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
-Apple Music | <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="256" /> | apple_music.svg 
-Calendar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | calendar.svg 
-DataCamp | <img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="256" /> | datacamp.svg 
-Email | <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="256" /> | email.svg 
 Gmail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="256" /> | gmail_old.svg 
 Google Docs Editors | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="256" /> | google_docs_editors.svg 
 Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="256" /> | google_drive_old.svg 
 Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | google_maps_old.svg 
-Lock | <img src="https://edent.github.io/SuperTinyIcons/images/svg/lock.svg" width="256" /> | lock.svg 
-Mail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/mail.svg" width="256" /> | mail.svg 
-Markdown | <img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="256" /> | markdown.svg 
-Phone | <img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="256" /> | phone.svg 
-Samsung | <img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_s.svg" width="256" /> | samsung_s.svg 
-Samsung | <img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="256" /> | samsung_swoop.svg 
-Signal | <img src="https://edent.github.io/SuperTinyIcons/images/svg/signal.svg" width="256" /> | signal.svg 
-Sublime Text | <img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="256" /> | sublimetext.svg 
-Teamspeak | <img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="256" /> | teamspeak.svg 
 Uplay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | uplay.svg 
 Upwork | <img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | upwork.svg 
-Vegetarian | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="256" /> | vegetarian.svg 
-Viber | <img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="256" /> | viber.svg 
-WebAssembly | <img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="256" /> | webassembly.svg 
