@@ -48,7 +48,7 @@ for ref_url in ref_list:
 	if ref_url.endswith('.url'):
 		ref_name = ref_url.split('.')[0]
 		if ref_name in svg_data:
-			svg_data[ref_name]['source'] = open(ref_dir + ref_url, "r").readline()
+			svg_data[ref_name]['source'] = open(ref_dir + ref_url, "r").readline().rstrip()
 
 #	Set up the tables
 readme_table = "<table>\n"

@@ -71,7 +71,6 @@ Crystal | <img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.sv
 CSS3 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/css3.svg" width="256"> | 
 Dart | <img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/dart.png" width="256"> | https://dart.dev/brand
 DataCamp | <img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/datacamp.png" width="256"> | https://www.datacamp.com/
-
 Debian | <img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/debian.svg" width="256"> | https://www.debian.org/logos/
 Deezer | <img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/deezer.png" width="256"> | https://deezerbrand.com/
 Delicious | <img src="https://edent.github.io/SuperTinyIcons/images/svg/delicious.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/delicious.png" width="256"> | https://del.icio.us/static/img/logo_delicious_sprite.png
@@ -312,7 +311,6 @@ Symantec | <img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.
 Symfony | <img src="https://edent.github.io/SuperTinyIcons/images/svg/symfony.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/symfony.svg" width="256"> | https://symfony.com/logo
 taiga.io | <img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/taiga.svg" width="256"> | 
 Teamspeak | <img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/teamspeak.png" width="256"> | https://www.teamspeak.com/en/
-
 Telegram | <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/telegram.svg" width="256"> | https://telegram.org/tour/screenshots
 Terraform | <img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/terraform.svg" width="256"> | https://www.terraform.io/logos.html
 This American Life | <img src="https://edent.github.io/SuperTinyIcons/images/svg/thisamericanlife.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/thisamericanlife.png" width="256"> | https://www.npr.org/about-npr/179876898/terms-of-use
