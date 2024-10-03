@@ -594,7 +594,7 @@ Think you can make them smaller? Tell me by raising an issue!
 
 Want more icons? Tell me by raising an issue!
 
-Think the icons look wrong? [Compare them against the official logos](https://github.com/edent/SuperTinyIcons/blob/master/images/reference/index.md). If they still look wrong, tell me by raising an issue!
+Think the icons look wrong? [Compare them against the official logos](https://github.com/edent/SuperTinyIcons/blob/master/REFERENCE.md). If they still look wrong, tell me by raising an issue!
 
 ## Android Vector Drawables
 
