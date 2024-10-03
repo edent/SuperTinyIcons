@@ -2,6 +2,7 @@ Thanks for submitting or fixing an icon! Here is a helpful guide to what you nee
 
 - [ ] New file which is *under* 1,024 bytes
 
+You can shrink the file size uusing tools like [Yann Armelin's SVG Path Editor](https://yqnn.github.io/svg-path-editor/), or [svgo](https://github.com/svg/svgo), or [svgcleaner](https://github.com/RazrFalcon/svgcleaner).
 
 Additionally, you can do these helpful things if you have time:
 - [ ] Add reference image
