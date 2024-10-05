@@ -1,7 +1,7 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 373 icons and the average size is _under_ 518 bytes!
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 372 icons and the average size is _under_ 517 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 373 icons and the average size is _under_ 517 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 373 icons and the average size is _under_ 517 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -481,7 +481,7 @@ Say thanks!
 <td>Teamspeak<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="100" title="Teamspeak"><br>921 bytes</td>
 <td>Telegram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="100" title="Telegram"><br>476 bytes</td>
 <td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="100" title="Terraform"><br>284 bytes</td>
-<td>tezoslogo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tezoslogo.svg" width="100" title="tezoslogo"><br>1123 bytes</td>
+<td>Tezos<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tezoslogo.svg" width="100" title="Tezos"><br>544 bytes</td>
 <td>This American Life<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/thisamericanlife.svg" width="100" title="This American Life"><br>277 bytes</td>
 <td>Threads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threads.svg" width="100" title="Threads"><br>365 bytes</td>
 </tr>
@@ -520,11 +520,10 @@ Say thanks!
 <td>Uplay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="100" title="Uplay"><br>517 bytes</td>
 <td>Upwork<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="100" title="Upwork"><br>484 bytes</td>
 <td>Vagrant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vagrant.svg" width="100" title="Vagrant"><br>537 bytes</td>
-<td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="100" title="Vegetarian"><br>668 bytes</td>
 </tr>
 
 <tr>
-<td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="100" title="Vegetarian"><br>249 bytes</td>
+<td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="100" title="Vegetarian"><br>668 bytes</td>
 <td>Venmo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/venmo.svg" width="100" title="Venmo"><br>271 bytes</td>
 <td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="100" title="Viber"><br>692 bytes</td>
 <td>Vim<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vim.svg" width="100" title="Vim"><br>754 bytes</td>
