@@ -29,7 +29,8 @@ for svg_file in svg_list:
 	svg = svg_file.split('.')[0]
 	svg_data[svg] = { 'svg_file' : svg_file }
 	#	Get the name of the service from the ARIA label
-	svg_data[svg]['name'] = ET.parse(f'{svg_dir}{svg_file}').getroot().attrib["aria-label"]
+	root = ET.parse(f'{svg_dir}{svg_file}').getroot()
+	svg_data[svg]['name'] = root.attrib.get("aria-label", svg)  # Use filename if aria-label is missing
 	#	Get the file size
 	bytes = os.stat(f'{svg_dir}{svg_file}').st_size
 	svg_data[svg]['bytes'] = bytes
@@ -113,7 +114,7 @@ with open('README.md','r+', encoding="utf-8") as f:
     file = f.read() 
 	
     file = re.sub(r"(?s)<table>.*?</table>", readme_table, file)
-    file = re.sub("There are currently \d* icons and the average size is _under_ \d* bytes\!", readme_summary_text, file) 
+    file = re.sub(r"There are currently \d* icons and the average size is _under_ \d* bytes!", readme_summary_text, file) 
 
     f.seek(0)  
     f.write(file)  
