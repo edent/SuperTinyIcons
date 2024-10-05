@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 372 icons and the average size is _under_ 517 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 373 icons and the average size is _under_ 518 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -535,43 +535,47 @@ Say thanks!
 <td>VLC<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="100" title="VLC"><br>636 bytes</td>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="100" title="Vue"><br>257 bytes</td>
 <td>W3C<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="100" title="W3C"><br>523 bytes</td>
+<td>Wayland<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wayland.svg" width="100" title="Wayland"><br>905 bytes</td>
 <td>WebAssembly<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="100" title="WebAssembly"><br>475 bytes</td>
-<td>WebMention<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webmention.svg" width="100" title="WebMention"><br>261 bytes</td>
 </tr>
 
 <tr>
+<td>WebMention<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webmention.svg" width="100" title="WebMention"><br>261 bytes</td>
 <td>WebToons<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webtoons.svg" width="100" title="WebToons"><br>973 bytes</td>
 <td>WeChat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wechat.svg" width="100" title="WeChat"><br>606 bytes</td>
 <td>Wekan<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wekan.svg" width="100" title="Wekan"><br>966 bytes</td>
 <td>WhatsApp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="100" title="WhatsApp"><br>435 bytes</td>
 <td>WHATWG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatwg.svg" width="100" title="WHATWG"><br>313 bytes</td>
-<td>WiFi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wifi.svg" width="100" title="WiFi"><br>562 bytes</td>
 </tr>
 
 <tr>
+<td>WiFi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wifi.svg" width="100" title="WiFi"><br>562 bytes</td>
 <td>Wikipedia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wikipedia.svg" width="100" title="Wikipedia"><br>563 bytes</td>
 <td>Windows<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="100" title="Windows"><br>226 bytes</td>
 <td>Wire<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="100" title="Wire"><br>256 bytes</td>
 <td>WireGuard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wireguard.svg" width="100" title="WireGuard"><br>948 bytes</td>
 <td>WordPress<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wordpress.svg" width="100" title="WordPress"><br>488 bytes</td>
-<td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="100" title="Workato"><br>362 bytes</td>
 </tr>
 
 <tr>
+<td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="100" title="Workato"><br>362 bytes</td>
 <td>X<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/x.svg" width="100" title="X"><br>287 bytes</td>
 <td>X11<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/x11.svg" width="100" title="X11"><br>756 bytes</td>
 <td>XING<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xing.svg" width="100" title="XING"><br>347 bytes</td>
 <td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>726 bytes</td>
 <td>Yahoo!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="100" title="Yahoo!"><br>280 bytes</td>
-<td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="100" title="Yammer"><br>464 bytes</td>
 </tr>
 
 <tr>
+<td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="100" title="Yammer"><br>464 bytes</td>
 <td>Yarn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="100" title="Yarn"><br>497 bytes</td>
 <td>Yelp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="100" title="Yelp"><br>448 bytes</td>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="100" title="YouTube"><br>333 bytes</td>
 <td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="100" title="Yubico"><br>250 bytes</td>
 <td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="100" title="Zoom"><br>515 bytes</td>
+</tr>
+
+<tr>
 <td>Zorinos<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="100" title="Zorinos"><br>254 bytes</td>
 </tr>
 
