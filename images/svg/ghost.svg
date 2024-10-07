@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Ghost" role="img"
-viewBox="0 0 512 512"><path
-d="m0 0H512V512H0"
-fill="#e8e9eb"/><path stroke="#3d515b" stroke-width="61" d="M101 134h187zm246 0h61zM101 257h310zm0 121h123zm187 0h123z"/></svg>
+viewBox="0 0 16 16"><path
+d="m0 0H16V16H0"
+fill="#e8e9eb"/><path stroke="#3d515b"
+stroke-width="2" d="M3,4 h6z m8,0 h2Z m2,4 H3Z M3,12 h4z m6,0 h4Z"/></svg>
