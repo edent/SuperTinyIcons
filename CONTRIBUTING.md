@@ -10,6 +10,12 @@ Additionally, you can do these helpful things if you have time:
 - [ ] Update README using the python script
 - [ ] Android Image
 
+## Hacktoberfest - Important!
+
+You do not need to be assigned to an issue. You can start working on it right now 😃
+
+If you send an inappropriate PR, you will be marked as spam. If you have questions, please ask *before* sending a PR.
+
 ## New File
 
 Filename should be `nameofservice.svg` - all in lower-case.
