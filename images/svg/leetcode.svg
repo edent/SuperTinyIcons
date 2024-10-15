@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="LeetCode Logo" viewBox="0 0 512 512"  role="img" >
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="LeetCode Logo" role="img" viewBox="0 0 512 512">
   <path d="M0 0h512v512H0" fill="#fff"/>
   <path d="M382 269c0-12-8-21-19-21H213c-10 0-19 9-19 21s9 19 19 19h150c11 0 19-9 19-19Z" fill="#b3b1b0"/>
   <path d="m106 325 64 65c15 14 34 22 57 22s42-8 57-22l39-37c7-8 7-21 0-30a22 22 0 0 0-31 0l-38 38a36 36 0 0 1-27 11c-10 0-21-3-27-11l-64-64a39 39 0 0 1-11-28c0-11 4-20 11-27l64-69c6-7 15-9 27-9s19 3 27 9l40 39c8 8 19 8 29 0 7-8 7-21 0-30l-39-37a80 80 0 0 0-36-20l36-37c7-8 7-21 0-28-8-8-21-6-29 0L106 209a80 80 0 0 0-22 60c0 21 7 42 22 56Z" fill="#e7a41f"/>
