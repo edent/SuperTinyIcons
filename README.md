@@ -479,6 +479,7 @@ Say thanks!
 <tr>
 <td>Symfony<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/symfony.svg" width="100" title="Symfony"><br>609 bytes</td>
 <td>taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="100" title="taiga.io"><br>731 bytes</td>
+<td>TailwindCss<br><img src="https://github.com/Hit1000/SuperTinyIcons/blob/master/images/svg/tailwindCss.svg" width="100" title="TailwindCss"><br>537 bytes</td>
 <td>Teamspeak<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="100" title="Teamspeak"><br>921 bytes</td>
 <td>Telegram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="100" title="Telegram"><br>476 bytes</td>
 <td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="100" title="Terraform"><br>284 bytes</td>
