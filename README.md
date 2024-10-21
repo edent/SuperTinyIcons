@@ -577,6 +577,7 @@ Say thanks!
 
 <tr>
 <td>Yelp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="100" title="Yelp"><br>448 bytes</td>
+<td>Yii3<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yii3.svg" width="100" title="Yii3"><br>1383 bytes</td>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="100" title="YouTube"><br>333 bytes</td>
 <td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="100" title="Yubico"><br>250 bytes</td>
 <td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="100" title="Zoom"><br>515 bytes</td>
@@ -766,6 +767,7 @@ The majority of these vector logos are based on someone else's work.
 - [Threema.](https://threema.ch/de/press)
 - [CoreUI](https://github.com/coreui/coreui-icons) - CC-BY
 - [NixOS](https://github.com/NixOS/nixos-artwork) - CC-BY
+- [Yii PHP Framework](https://www.yiiframework.com/logo) - CC BY-ND 3.0
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
