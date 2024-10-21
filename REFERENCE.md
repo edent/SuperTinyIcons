@@ -389,3 +389,4 @@ Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/googl
 Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | google_maps_old.svg 
 Uplay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | uplay.svg 
 Upwork | <img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | upwork.svg 
+Yii3 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yii3.svg" width="256" /> | yii3.svg 
