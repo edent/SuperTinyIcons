@@ -577,7 +577,7 @@ Say thanks!
 
 <tr>
 <td>Yelp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="100" title="Yelp"><br>448 bytes</td>
-<td>Yii3<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yii3.svg" width="100" title="Yii3"><br>897 bytes</td>
+<td>Yii<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yii.svg" width="100" title="Yii"><br>763 bytes</td>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="100" title="YouTube"><br>333 bytes</td>
 <td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="100" title="Yubico"><br>250 bytes</td>
 <td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="100" title="Zoom"><br>515 bytes</td>

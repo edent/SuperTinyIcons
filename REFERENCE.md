@@ -375,6 +375,7 @@ Yahoo! | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" 
 Yammer | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yammer.svg" width="256"> | https://yammerassets.blob.core.windows.net/assets/sites/12/2014/07/Yammer_BrandIdentityGuidelines-1.pdf
 Yarn | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yarn.svg" width="256"> | https://yarnpkg.com/en/
 Yelp | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yelp.png" width="256"> | https://www.yelp.co.uk/brand
+Yii | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yii.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yii.svg" width="256"> | https://www.yiiframework.com/logo
 YouTube | <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/youtube.svg" width="256"> | https://www.youtube.com/intl/en/yt/about/brand-resources/#logos-icons-colors
 Yubico | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yubico.png" width="256"> | https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png
 Zoom | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zoom.png" width="256"> | https://www.zoom.us/
@@ -389,4 +390,3 @@ Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/googl
 Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | google_maps_old.svg 
 Uplay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | uplay.svg 
 Upwork | <img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | upwork.svg 
-Yii3 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yii3.svg" width="256" /> | yii3.svg 
