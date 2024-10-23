@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 378 icons and the average size is _under_ 520 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 378 icons and the average size is _under_ 521 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -578,6 +578,7 @@ Say thanks!
 <tr>
 <td>Yarn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" width="100" title="Yarn"><br>497 bytes</td>
 <td>Yelp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="100" title="Yelp"><br>448 bytes</td>
+<td>Yii<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yii.svg" width="100" title="Yii"><br>763 bytes</td>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="100" title="YouTube"><br>333 bytes</td>
 <td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="100" title="Yubico"><br>250 bytes</td>
 <td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="100" title="Zoom"><br>515 bytes</td>
@@ -767,6 +768,7 @@ The majority of these vector logos are based on someone else's work.
 - [Threema.](https://threema.ch/de/press)
 - [CoreUI](https://github.com/coreui/coreui-icons) - CC-BY
 - [NixOS](https://github.com/NixOS/nixos-artwork) - CC-BY
+- [Yii PHP Framework](https://www.yiiframework.com/logo) - CC BY-ND 3.0
 
 From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 
