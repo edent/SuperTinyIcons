@@ -1,14 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="graphql" role="img" viewBox="-100 -100 712 712" width="100" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="graphql" role="img" viewBox="0 0 512 512">
+  <!-- White background -->
   <path d="M0 0H512V512H0" fill="#fff"/>
-  <path fill="#e8457c" d="M256,470.455L73,361.095V150.905L256,41.545l183,109.36v210.19L256,470.455z M103,352.41l153,90.453l153-90.453V159.59L256,69.137L103,159.59V352.41z"/>
-  <circle cx="256" cy="51.2" r="42.667" fill="#e8457c"/>
-  <circle cx="256" cy="460.8" r="42.667" fill="#e8457c"/>
-  <circle cx="85.333" cy="352" r="42.667" fill="#e8457c"/>
-  <circle cx="426.667" cy="352" r="42.667" fill="#e8457c"/>
-  <circle cx="85.333" cy="160" r="42.667" fill="#e8457c"/>
-  <circle cx="426.667" cy="160" r="42.667" fill="#e8457c"/>
-  <path fill="#e8457c" d="M437.056,362.667H74.944L256,20.122l181.056,342.545z M108.267,346.667h295.467L256,42.005L108.267,346.667z"/>
+  
+  <!-- GraphQL logo paths, slightly increased height -->
+  <g transform="translate(56, 36) scale(0.85, 0.9)">
+    <path fill="#e8457c" d="M256,370.661L149,309.32V202.68L256,141.339L363,202.68v106.64L256,370.661z M166,297.18l90,52.159L346,297.18V212.82L256,160.661L166,212.82V297.18z"/>
+    <circle cx="256" cy="156" r="22" fill="#e8457c"/>
+    <circle cx="256" cy="356" r="22" fill="#e8457c"/>
+    <circle cx="144" cy="297" r="22" fill="#e8457c"/>
+    <circle cx="368" cy="297" r="22" fill="#e8457c"/>
+    <circle cx="144" cy="215" r="22" fill="#e8457c"/>
+    <circle cx="368" cy="215" r="22" fill="#e8457c"/>
+    <path fill="#e8457c" d="M378.72,304.5H133.28L256,140.478L378.72,304.5z M146.72,292.5h218.56L256,158.522L146.72,292.5z"/>
+  </g>
 </svg>
+
+
+
 
 
 
