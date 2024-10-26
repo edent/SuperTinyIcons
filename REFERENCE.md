@@ -157,7 +157,6 @@ HAML | <img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" wid
 Heroku | <img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/heroku.png" width="256"> | https://brand.heroku.com/
 Homekit | <img src="https://edent.github.io/SuperTinyIcons/images/svg/homekit.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/homekit.svg" width="256"> | https://developer.apple.com/design/human-interface-guidelines/homekit/overview/icons/
 HP | <img src="https://edent.github.io/SuperTinyIcons/images/svg/hp.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/hp.png" width="256"> | https://www.hp.com/
-HTML5 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/html5.svg" width="256"> | https://www.w3.org/html/logo/
 Hulu | <img src="https://edent.github.io/SuperTinyIcons/images/svg/hulu.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/hulu.svg" width="256"> | https://thisis.hulu.com/#hulu-logo
 Humble Bundle | <img src="https://edent.github.io/SuperTinyIcons/images/svg/humblebundle.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/humblebundle.svg" width="256"> | https://cdn.worldvectorlogo.com/logos/humblebundle.svg
 i18next | <img src="https://edent.github.io/SuperTinyIcons/images/svg/i18next.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/i18next.png" width="256"> | https://www.i18next.com/
@@ -388,9 +387,11 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+HTML5 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/HTML.svg" width="256" /> | HTML.svg 
 Gmail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="256" /> | gmail_old.svg 
 Google Docs Editors | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="256" /> | google_docs_editors.svg 
 Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="256" /> | google_drive_old.svg 
 Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | google_maps_old.svg 
+GraphQL | <img src="https://edent.github.io/SuperTinyIcons/images/svg/graphql.svg" width="256" /> | graphql.svg 
 Uplay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | uplay.svg 
 Upwork | <img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | upwork.svg 
