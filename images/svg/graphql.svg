@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="graphql" role="img" viewBox="0 0 512 512"><path
-d="m0 0H512V512H0"
-fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="graphql" role="img" viewBox="0 0 512 512" width="50" height="50">
+ 
   <path fill="#e8457c" d="M256,470.455L73,361.095V150.905L256,41.545l183,109.36v210.19L256,470.455z M103,352.41l153,90.453l153-90.453V159.59L256,69.137L103,159.59V352.41z"/>
   <circle cx="256" cy="51.2" r="42.667" fill="#e8457c"/>
   <circle cx="256" cy="460.8" r="42.667" fill="#e8457c"/>
