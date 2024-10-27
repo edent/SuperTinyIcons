@@ -146,6 +146,7 @@ Google Podcasts | <img src="https://edent.github.io/SuperTinyIcons/images/svg/go
 Google Scholar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_scholar.ico" width="256"> | https://scholar.google.com/
 Gradle | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/gradle.svg" width="256"> | 
 Grafana | <img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/grafana.svg" width="256"> | https://github.com/grafana/grafana/blob/master/public/img/grafana_icon.svg
+... | <img src="https://edent.github.io/SuperTinyIcons/images/svg/graphql.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/graphql.png" width="256"> | 
 Guacamole | <img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/guacamole.svg" width="256"> | https://www.apache.org/logos/?#guacamole
 Guilded | <img src="https://edent.github.io/SuperTinyIcons/images/svg/guilded.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/guilded.png" width="256"> | https://www.guilded.gg/brand
 h-card | <img src="https://edent.github.io/SuperTinyIcons/images/svg/h-card.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/h-card.svg" width="256"> | https://indieweb.org/IndieWebCamp:Copyrights
@@ -392,6 +393,5 @@ Gmail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.sv
 Google Docs Editors | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="256" /> | google_docs_editors.svg 
 Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="256" /> | google_drive_old.svg 
 Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | google_maps_old.svg 
-GraphQL | <img src="https://edent.github.io/SuperTinyIcons/images/svg/graphql.svg" width="256" /> | graphql.svg 
 Uplay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | uplay.svg 
 Upwork | <img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | upwork.svg 

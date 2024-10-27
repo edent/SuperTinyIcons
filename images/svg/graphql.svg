@@ -1,12 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="200" height="200" aria-label="GraphQL" role="img">
-  
-  <circle fill="#E10098" cx="57.5" cy="282.5" r="32.5"/>
-  <circle fill="#E10098" cx="57.5" cy="117.5" r="32.5"/>
-  <circle fill="#E10098" cx="200" cy="32.5" r="32.5"/>
-  <circle fill="#E10098" cx="342.5" cy="117.5" r="32.5"/>
-  <circle fill="#E10098" cx="342.5" cy="282.5" r="32.5"/>
-  <circle fill="#E10098" cx="200" cy="367.5" r="32.5"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="..." role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/> 
+     <g fill="#e10098" stroke="#e10098" stroke-width="12">
+    <circle cx="200" cy="42.7" r="42.7"/>
+    <circle cx="200" cy="357.3" r="42.7"/>
+    <circle cx="48.8" cy="119.4" r="42.7"/>
+    <circle cx="351.2" cy="119.4" r="42.7"/>
+    <circle cx="48.8" cy="280.6" r="42.7"/>
+    <circle cx="351.2" cy="280.6" r="42.7"/>
+  </g>
+  <g stroke="#e10098" stroke-width="12">
+    <line x1="200" y1="42.7" x2="20.8" y2="319.4"/>
+    <line x1="200" y1="42.7" x2="335.2" y2="290.4"/>
+    <line x1="48.8" y1="119.4" x2="48.8" y2="280.6"/>
+    <line x1="351.2" y1="119.4" x2="351.2" y2="280.6"/>
+    <line x1="48.8" y1="280.6" x2="200" y2="357.3"/>
+    <line x1="351.2" y1="280.6" x2="20" y2="285.3"/>
+  </g>
+  <polygon fill="none" stroke="#e10098" stroke-width="12" points="200,42.7 351.2,119.4 351.2,280.6 200,357.3 48.8,280.6 48.8,119.4"/>
+  <text x="50%" y="90%" font-size="60" text-anchor="middle" fill="#e10098" font-family="Arial">GraphQL</text>
 
-  <!-- Pink Lines -->
-  <path fill="#E10098" d="M72.6 269.1L181.5 326.4l-12.2 21.2-108.9-57.3zM81.4 130.9l11.2 19.3L301 55.5l-11.2-19.3zM189.6 60.2l122.5 211.6-21.1 12.3L168.5 72.5zM341.5 140.2v119.6h24.5V140.2zM189.6 339.8L67.1 128.2l21.1-12.3 122.5 211.6zM75.5 140.2v119.6H51V140.2zM81.4 269.1L292.9 60.2l12.2 21.2L93.6 290.3zM309.7 322.9L72.5 148.7l12.2-21.2L321.9 301.7z"/>
 </svg>

@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 383 icons and the average size is _under_ 522 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 383 icons and the average size is _under_ 523 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -230,7 +230,7 @@ Say thanks!
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="100" title="Google Scholar"><br>517 bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="100" title="Gradle"><br>654 bytes</td>
 <td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="100" title="Grafana"><br>674 bytes</td>
-<td>GraphQL<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/graphql.svg" width="100" title="GraphQL"><br>849 bytes</td>
+<td>...<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/graphql.svg" width="100" title="..."><br>1079 bytes</td>
 </tr>
 
 <tr>
