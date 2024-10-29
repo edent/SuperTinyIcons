@@ -543,7 +543,7 @@ Say thanks!
 <td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="100" title="Viber"><br>692 bytes</td>
 <td>Vim<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vim.svg" width="100" title="Vim"><br>754 bytes</td>
 <td>Vimeo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vimeo.svg" width="100" title="Vimeo"><br>332 bytes</td>
-<td>visa<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visa.svg" width="100" title="visa"><br>650 bytes</td>
+<td>visa<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visa.svg" width="100" title="visa"><br>623 bytes</td>
 <td>Visual Studio Code<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/visualstudiocode.svg" width="100" title="Visual Studio Code"><br>895 bytes</td>
 <td>Vivino<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vivino.svg" width="100" title="Vivino"><br>279 bytes</td>
 </tr>
