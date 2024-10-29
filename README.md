@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 385 icons and the average size is _under_ 523 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 385 icons and the average size is _under_ 522 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -327,7 +327,7 @@ Say thanks!
 <td>Malt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="100" title="Malt"><br>412 bytes</td>
 <td>Manjaro<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="100" title="Manjaro"><br>222 bytes</td>
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="100" title="Markdown"><br>418 bytes</td>
-<td>mastercard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastercard.svg" width="100" title="mastercard"><br>599 bytes</td>
+<td>mastercard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastercard.svg" width="100" title="mastercard"><br>363 bytes</td>
 <td>Mastodon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="100" title="Mastodon"><br>574 bytes</td>
 <td>matrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/matrix.svg" width="100" title="matrix"><br>641 bytes</td>
 </tr>
