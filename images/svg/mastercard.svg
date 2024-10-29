@@ -2,4 +2,4 @@
 aria-label="mastercard" role="img"
 viewBox="0 0 512 512"><path
 d="M0 0h512v512H0"
-fill="#fff"/><circle cx="180" cy="256" fill="#EB001B" r="120"/><circle cx="332" cy="256" fill="#F79E1B" r="120"/><path d="M 256 349 A 120 120 0 0 1 256 163" fill="#FF5A00"/><path d="M 256 163 A 120 120 180 0 1 256 349" fill="#FF5A00"/></svg>
+fill="#fff"/><circle cx="180" cy="256" fill="#EB001B" r="120"/><circle cx="332" cy="256" fill="#F79E1B" r="120"/><path d="M256 349a120 120 0 0 1 0-186m0 0a120 120 180 0 1 0 186" fill="#FF5A00"/></svg>
