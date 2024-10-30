@@ -328,6 +328,7 @@ Say thanks!
 <td>Malt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/malt.svg" width="100" title="Malt"><br>412 bytes</td>
 <td>Manjaro<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/manjaro.svg" width="100" title="Manjaro"><br>222 bytes</td>
 <td>Markdown<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/markdown.svg" width="100" title="Markdown"><br>418 bytes</td>
+<td>mastercard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastercard.svg" width="100" title="mastercard"><br>322 bytes</td>
 <td>Mastodon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mastodon.svg" width="100" title="Mastodon"><br>574 bytes</td>
 <td>matrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/matrix.svg" width="100" title="matrix"><br>641 bytes</td>
 </tr>
