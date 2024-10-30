@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="GeeksForGeeks" role="img" viewBox="0 0 512 512" background="">
-<path d='m0 0H512V512H0' fill="#fff" /> 
-<circle r="75" cx="166" cy="256" fill="#ffffff00" style="stroke:#2f8d46;stroke-width:32"/> <circle r="75" cx="346" cy="256" fill="#ffffff00" style="stroke:#2f8d46;stroke-width:32"/><line x1="77" y1="256" x2="435" y2="256" style="stroke:#2f8d46;stroke-width:32"/><polygon points="76,158 76,240 150,240" fill="#fff"/><polygon points="440,158 366,240 440,240" fill="#fff"/>
+<path d='m0 0H512V512H0' fill="#fff"/><circle r="75" cx="166" cy="256" fill="#ffffff00" style="stroke:#2f8d46;stroke-width:32"/> <circle r="75" cx="346" cy="256" fill="#ffffff00" style="stroke:#2f8d46;stroke-width:32"/><line x1="78" y1="262" x2="434" y2="262" style="stroke:#2f8d46;stroke-width:32"/><polygon points="75,164 75,246 150,246" fill="#fff"/><polygon points="437,164 366,246 437,246" fill="#fff"/>
 </svg>
