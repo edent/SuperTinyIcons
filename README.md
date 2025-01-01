@@ -399,7 +399,7 @@ Say thanks!
 <td>Pinboard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinboard.svg" width="100" title="Pinboard"><br>241 bytes</td>
 <td>Pinterest<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="100" title="Pinterest"><br>508 bytes</td>
 <td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="100" title="Pixelfed"><br>971 bytes</td>
-<td>PlayStation<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/playstation.svg" width="100" title="PlayStation"><br>703 bytes</td>
+<td>PlayStation<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/playstation.svg" width="100" title="PlayStation"><br>515 bytes</td>
 <td>Plex<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/plex.svg" width="100" title="Plex"><br>205 bytes</td>
 <td>Pocket<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocket.svg" width="100" title="Pocket"><br>293 bytes</td>
 </tr>
