@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="TensorFlow" role="img"
 viewBox="0 0 512 512"><defs><linearGradient id="g"><stop
+offset="0"
 stop-color="#ff7200"/><stop
 stop-color="#ffa200"
 offset="1"/></linearGradient></defs><path
