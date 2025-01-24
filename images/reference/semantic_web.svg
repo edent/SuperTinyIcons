@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' version='1.1' overflow='visible' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 139.623 160.953'>
+  <title>Semantic Web cube</title>
+  <desc>A cube whose top part is slightly peeled off</desc>
+  <metadata>
+	<rdf:RDF 
+		xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' 
+		xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+		xmlns:cc='http://creativecommons.org/ns#'
+		xmlns:dc='http://purl.org/dc/elements/1.1/'>
+		<cc:Work rdf:about="">
+	        <dc:title>Semantic Web cube</dc:title>
+	        <dc:format>image/svg+xml</dc:format>
+			<rdfs:seeAlso rdf:resource="http://www.w3.org/2007/10/sw-logos.html"/>
+	        <dc:date>2007-11-01</dc:date>
+			<cc:license rdf:resource='http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231'/>
+			<cc:morePermissions rdf:resource='http://www.w3.org/2007/10/sw-logos.html#LogoWithoutW3C'/>
+			<cc:attributionURL rdf:reource='http://www.w3.org/2001/sw/'/>
+			<dc:description>A cube whose top part is slightly peeled off</dc:description>
+		</cc:Work>
+	</rdf:RDF>
+  </metadata>
+
+  <g shape-rendering='geometricPrecision' text-rendering='geometricPrecision' image-rendering='optimizeQuality'>
+    <g>
+      <path d='M77.088,17.833C123.979,38.963,134.203,0,134.203,0s-8.906,48.871-50.02,68.834   c-8.377,4.073-13.579,6.256-13.579,6.256L3.252,42.259l67.353-27.62C70.604,14.639,68.979,14.179,77.088,17.833z' fill='#86BA0C'/>
+      <polygon points='62.756,160.953 0,126.977 0,56.906 62.756,88.805  ' fill='#EF7C00'/>
+      <polygon points='76.871,160.953 139.623,126.977 139.623,56.906 76.871,88.805  ' fill='#BD1789'/>
+    </g>
+  </g>
+</svg>
