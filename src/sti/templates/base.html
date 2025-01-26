@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{% endblock %}SuperTinyIcons</title>
+  <style>{% block style %}
+  html {
+   display: grid;
+   min-height: 100%;
+   color: #000;
+   background:#fff;
+   font-family: sans-serif;
+  }
+  body > header {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 1em;
+   align-items: first baseline;
+  }
+  body > header h1 {
+  white-space: pre;
+  }
+  body > header p {
+  font-size:.8rem;
+  }
+  main {
+   max-width: 1200px;
+   margin: 0 auto;
+  }
+  a {
+   text-decoration: none;
+  }
+
+  nav {
+   margin:2em 10%;
+   padding:0 1ex;
+   display:flex;
+   flex-flow:row wrap;
+   justify-content:space-around;
+  }
+  nav a {
+   text-align: center;
+   padding: 1ex 1em;
+   box-sizing: border-box;
+   align-self: flex-end;
+  }
+  /* https://ianlunn.github.io/Hover/: Sweep To Bottom */
+  nav a {
+   display: inline-block;
+   vertical-align: middle;
+   transform: perspective(1px) translateZ(0);
+   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+   position: relative;
+   transition-property: color;
+   transition-duration: 0.3s;
+   color: #2098D1;
+  }
+  nav a:before {
+   content: "";
+   position: absolute;
+   z-index: -1;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   background: #2098D1;
+   transform: scaleY(0);
+   transform-origin: 50% 0;
+   transition-property: transform;
+   transition-duration: 0.3s;
+   transition-timing-function: ease-out;
+  }
+  nav a:hover, nav a:focus, nav a:active {
+   color: white;
+  }
+  nav a:hover:before, nav a:focus:before, nav a:active:before {
+   transform: scaleY(1);
+  }
+
+  footer {
+   margin:2em 10%;
+   padding:1ex;
+   display:flex;
+   flex-flow:row wrap;
+   justify-content:space-around;
+   border-radius:1ex;
+   background:#ddd;
+  }
+  footer a {
+   filter:saturate(0);
+   opacity:.5;
+   transition:all .25s ease-in;
+   padding:1ex;
+  }
+  footer a:focus,
+  footer a:hover {
+   filter:saturate(1);
+   opacity:1;
+  }
+  {% endblock %}
+  </style>
+ </head>
+ <body{% if pagename %} id="{{ pagename }}"{% endif %}>
+ <header>
+  <h1>Super Tiny Icons</h1>
+  <p>
+   <var>{{ icons | length }}</var> icons, ranging from <samp>{{ size_min }}&nbsp;B</samp> to <samp>{{ size_max }}&nbsp;B</samp> with an average size of <samp>{{ "{:.2f}".format(size_avg) }} bytes</samp>
+  </p>
+ </header>
+ <nav>
+  <a href="index.html">Home</a>
+  <a href="list.html">What's available so far</a>
+  <a href="reference.html">Reference</a>
+  <a href="https://github.com/edent/SuperTinyIcons/">This project on GitHub</a>
+ </nav>
+ <main>
+  {% block content %}{% endblock %}
+ </main>
+ <footer>
+   <a href="https://github.com/edent/SuperTinyIcons/" title="Fork me on GitHub!">
+    <svg aria-label="GitHub" role="img" viewBox="0 0 512 512" height="32" xmlns="http://www.w3.org/2000/svg"><circle r="256" cx="256" cy="256" fill="#181717"></circle><path fill="#fff" d="M335 499c-13 0-16-6-16-12l1-70c0-24-8-40-18-48 57-6 117-28 117-126 0-28-10-51-26-69 3-6 11-32-3-67 0 0-21-7-70 26-42-12-86-12-128 0-49-33-70-26-70-26-14 35-6 61-3 67-16 18-26 41-26 69 0 98 59 120 116 126-7 7-14 18-16 35-15 6-52 17-74-22 0 0-14-24-40-26 0 0-25 0-1 16 0 0 16 7 28 37 0 0 15 50 86 34l1 44c0 6-3 12-16 12-14 0-12 17-12 17H347s2-17-12-17Z"></path></svg>
+   </a>
+   <a href="https://ko-fi.com/edent" rel="nofollow">
+    <img src="https://www.ko-fi.com/img/donate_sm.png" title="Buy me a coffee" alt="Say thanks">
+   </a>
+ </footer>
+ </body>
+</html>

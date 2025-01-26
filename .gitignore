@@ -7,3 +7,11 @@ Thumbs.db
 
 # Other files #
 /node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+dist/
+sdist/
+*.egg-info/
+*.egg

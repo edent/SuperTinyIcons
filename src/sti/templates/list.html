@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+<style>{% block style %}
+ {{ super() }}
+ section {
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+ }
+section div {
+ text-align: center;
+ padding: 1.5em 1em;
+ box-sizing: border-box;
+ width:128px;
+ align-self: flex-end;
+}
+section img {
+ width:100px;
+}
+section span {
+ font-family: monospace;
+}
+{% endblock %}
+</style>
+{% block content %}
+<h2>What's Available so far?</h2>
+
+<section>
+{% for _, icon in icons | dictsort -%}
+ <div class="thumb" data-name="{{ icon.name }}" data-size="{{ icon.size }}">
+  <strong>{{ icon.label }}</strong>
+  <img src="images/svg/{{ icon.name }}.svg" alt="">
+  <span>{{ icon.size }} Bytes</span>
+ </div>
+{% endfor %}
+</section>
+
+{% endblock %}
