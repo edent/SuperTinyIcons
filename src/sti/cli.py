@@ -3,7 +3,6 @@
 # stdlib
 from argparse import ArgumentParser
 from pathlib import Path
-from os.path import commonprefix
 import logging
 import sys
 
@@ -11,6 +10,7 @@ import sys
 from jinja2 import Environment, FileSystemLoader
 
 # local
+from .atlas import Atlas
 from .utils import get_icons_from, get_refs_from
 
 
@@ -60,7 +60,17 @@ def main():
     if git_root in out.parents and not out.exists():
         out.mkdir(parents=True)
 
-    for template_name in ("index", "list", "reference"):
+    atlas = Atlas()
+    for entry in Path(__file__).parents[1].with_name("images").glob("svg/*.svg"):
+        atlas.add(entry)
+
+    for writer in filter(lambda _:_.startswith('write_'), dir(atlas)):
+        with (Path(args.output) / f"atlas.{writer.removeprefix('write_')}").open(
+                "w", encoding="utf8"
+            ) as out:
+            getattr(atlas, writer)(out)
+
+    for template_name in ("index", "libraries", "list", "reference"):
         template = tpl_env.get_template(name=f"{template_name}.html")
         with (Path(args.output) / f"{template_name}.html").open(
                 "w", encoding="utf8"

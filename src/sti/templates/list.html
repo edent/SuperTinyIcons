@@ -9,24 +9,98 @@
   align-items: center;
   justify-content: center;
  }
-section div {
- text-align: center;
- padding: 1.5em 1em;
- box-sizing: border-box;
- width:128px;
- align-self: flex-end;
-}
-section img {
- width:100px;
-}
-section span {
- font-family: monospace;
-}
+ section div {
+  text-align: center;
+  padding: 1.5em 1em;
+  box-sizing: border-box;
+  width:128px;
+  align-self: flex-end;
+ }
+ section img {
+  width:100px;
+ }
+ section span {
+  font-family: monospace;
+ }
+
+ #map {
+  background:#eee;
+  display:flex;
+  flex-wrap:wrap;
+  gap:1px;
+ }
+ #map i {
+  display:inline-block;
+  padding:2px;
+  background-color:hsl(var(--a) 100% 50%);
+  opacity: .25;
+ }
+ #map i:hover {
+ opacity:1;
+ }
+ .thumb.selected img {
+  box-shadow: 0 0 1em #2098D1;
+ }
 {% endblock %}
 </style>
+
+{% block script %}<script>
+ function save(filename, data, mime) {
+  const blob = new Blob([data], {type: mime || "application/octet-stream"});
+  if(window.navigator.msSaveOrOpenBlob) {
+   window.navigator.msSaveBlob(blob, filename);
+  }
+  else{
+   const elem = window.document.createElement('a');
+   elem.href = window.URL.createObjectURL(blob);
+   elem.download = filename;
+   document.body.appendChild(elem);
+   elem.click();
+   document.body.removeChild(elem);
+  }
+ }
+
+ document.addEventListener("DOMContentLoaded", function(){
+  let tpl='';
+  document.querySelectorAll('.thumb').forEach(function(e){
+   let size = parseInt(e.dataset.size);
+   let percent = size/1024;
+   let angle = 360*percent;
+   tpl += '<i style="--s:' + size + '; --p:'+ percent + '; --a:' + (angle) +'" title="'+ e.dataset.name + ': ' + size +' B"></i>';
+   e.addEventListener('click', function() { e.classList.toggle("selected") }, false);
+   fetch(e.querySelector("img").src)
+    .then((response) => response.text())
+    .then((text) => {
+     localStorage.setItem(e.querySelector("img").src, text);
+    });
+  });
+  document.querySelector('#map').innerHTML = tpl;
+
+  document.querySelector(".download .drawio").addEventListener('click', function() {
+   let lib = [];
+   document.querySelectorAll('.thumb.selected').forEach(function (e) {
+     lib.push({
+      title: e.querySelector("strong").textContent,
+      data: "data:image/svg+xml;base64," + btoa(localStorage.getItem(e.querySelector("img").src)),
+      aspect: "fixed",
+      h: 32,
+      w: 32,
+    });
+   });
+   if (lib.length) {save("STILib.xml", "<mxlibrary>" + JSON.stringify(lib) + "</mxlibrary>");}
+  });
+ });
+</script>
+{% endblock %}
+
 {% block content %}
 <h2>What's Available so far?</h2>
-
+<aside id="map"></aside>
+<div class="download">
+ <h3>Download selected for</h3>
+ <button class="drawio">Draw.io</button>
+ <button class="svg">SVG</button>
+</div>
 <section>
 {% for _, icon in icons | dictsort -%}
  <div class="thumb" data-name="{{ icon.name }}" data-size="{{ icon.size }}">

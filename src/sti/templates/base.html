@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}{% endblock %}SuperTinyIcons</title>
+  <link rel="icon" href="favicon.ico">
   <style>{% block style %}
   html {
    display: grid;
@@ -100,6 +101,7 @@
   }
   {% endblock %}
   </style>
+  {% block script %}{% endblock %}
  </head>
  <body{% if pagename %} id="{{ pagename }}"{% endif %}>
  <header>
@@ -112,6 +114,7 @@
   <a href="index.html">Home</a>
   <a href="list.html">What's available so far</a>
   <a href="reference.html">Reference</a>
+  <a href="libraries.html">Libraries</a>
   <a href="https://github.com/edent/SuperTinyIcons/">This project on GitHub</a>
  </nav>
  <main>

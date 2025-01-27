@@ -19,6 +19,7 @@ dev = [
 [project.scripts]
 sti = "sti:main"
 serve = "sti.app:app.run"
+atlas = "sti.atlas:main"
 
 [build-system]
 requires = ["hatchling"]
