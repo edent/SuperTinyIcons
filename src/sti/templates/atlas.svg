@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<style>
+svg>svg:target~svg:last-child, svg>svg { display:none; }
+svg>:last-child, svg>svg:target { display:inline; }
+</style>
+{% for entry in library -%}
+{{ entry.as_atlas_unit(loop.index) | safe}}
+{% endfor -%}
+</svg>
