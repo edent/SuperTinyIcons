@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+<style>
+ {%  block style %}{{ super() }}
+ /* reference */
+ @property --rotate {
+  syntax: '<angle>';
+  initial-value: 0deg;
+  inherits: false;
+ }
+ @keyframes rotate-gradient {
+  from { --rotate: 0deg; }
+  to { --rotate: 360deg; }
+ }
+ body#reference section div {
+  display: grid;
+  grid-template-columns: 200px 100px 100px 1fr 1fr;
+  gap:1ex;
+  align-items: center;
+  border-bottom:3px ridge skyblue;
+  padding: 1ex;
+  margin-bottom:1em;
+  min-height:100px;
+ }
+ body#reference section div:last-of-type {
+  border:none;
+ }
+
+ img.svg-icon, img.svg-circle, img.reference {
+  max-height: 100px;
+  padding:2px;
+ }
+ img.svg-circle {
+  border-radius: 50%;
+ }
+ body#reference section img[class|="svg"]:hover {
+  animation: rotate-gradient linear 3s infinite;
+  background-image: linear-gradient(var(--rotate), #fff 50%, #000 50%);
+ }
+ body#reference section a.url {
+  text-align:right;
+ }
+ {% endblock %}
+</style>
+
+
+{% block content %}
+ <h2>Reference Images</h2>
+ <p>
+  A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo.<br>
+  Where possible this links to the organisation's brand guidelines page.
+ </p>
+
+ <section>
+  {% for _, icon in icons | dictsort -%}
+   <div>
+    <strong>{{ icon.label }}</strong>
+    <img alt="" class="svg-icon" src="images/svg/{{ icon.name }}.svg">
+    <img alt="" class="svg-circle" src="images/svg/{{ icon.name }}.svg">
+    {% if refs[ icon.name ] %}
+     {% with ref = refs[ icon.name ] %}
+      <img alt="" class="reference" src="images/reference/{{ ref.filename }}">
+      {% if ref.url %}<a class="url" href="{{ ref.url }}">{{ ref.url }}</a>{% endif %}
+     {% endwith %}
+    {% endif %}
+   </div>
+  {% endfor %}
+ </section>
+
+{% endblock %}

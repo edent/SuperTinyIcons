@@ -1,0 +1,26 @@
+[project]
+name = "sti"
+version = "0.1.0"
+description = "Tooling for SuperTinyIcons"
+authors = [
+    { name = "Romain Dartigues", email = "romain.dartigues@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "jinja2>=3.1.5",
+]
+
+[dependency-groups]
+dev = [
+    "flask>=3.1.0",
+    "ruff>=0.9.3",
+]
+
+[project.scripts]
+sti = "sti:main"
+serve = "sti.app:app.run"
+atlas = "sti.atlas:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
