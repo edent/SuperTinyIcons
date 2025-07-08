@@ -138,7 +138,7 @@ Say thanks!
 <td>Dropbox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dropbox.svg" width="100" title="Dropbox"><br>246 bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="100" title="Drupal"><br>858 bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/druplicon.svg" width="100" title="Drupal"><br>842 bytes</td>
-<td>DuckDuckGo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/duckduckgo.svg" width="100" title="DuckDuckGo"><br>879 bytes</td>
+<td>DuckDuckGo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/duckduckgo.svg" width="100" title="DuckDuckGo"><br>877 bytes</td>
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="100" title="Electronic Arts"><br>279 bytes</td>
 <td>eBay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ebay.svg" width="100" title="eBay"><br>800 bytes</td>
 </tr>
