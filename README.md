@@ -175,12 +175,12 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
+<td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="100" title="Etsy"><br>462 bytes</td>
 <td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="100" title="Evernote"><br>613 bytes</td>
 <td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="100" title="ExpressionEngine"><br>628 bytes</td>
 <td>F-Droid<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/f-droid.svg" width="100" title="F-Droid"><br>960 bytes</td>
 <td>Facebook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="100" title="Facebook"><br>258 bytes</td>
 <td>Fediverse<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fediverse.svg" width="100" title="Fediverse"><br>1003 bytes</td>
-<td>Filestash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/filestash.svg" width="100" title="Filestash"><br>267 bytes</td>
 </tr>
 
 <tr>
@@ -193,6 +193,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
+<td>Flutter<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flutter.svg" width="100" title="Flutter"><br>491 bytes</td>
 <td>foobar2000<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/foobar2000.svg" width="100" title="foobar2000"><br>455 bytes</td>
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="100" title="FreeBSD"><br>700 bytes</td>
 <td>freeCodeCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freecodecamp.svg" width="100" title="freeCodeCamp"><br>701 bytes</td>
@@ -364,6 +365,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
+<td>Messenger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="100" title="Messenger"><br>679 bytes</td>
 <td>Messenger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="100" title="Messenger"><br>679 bytes</td>
 <td>microformats<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microformats.svg" width="100" title="microformats"><br>783 bytes</td>
 <td>micropython<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/micropython.svg" width="100" title="micropython"><br>260 bytes</td>
@@ -598,6 +600,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
+<td>WeChat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wechat.svg" width="100" title="WeChat"><br>625 bytes</td>
 <td>Wekan<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wekan.svg" width="100" title="Wekan"><br>966 bytes</td>
 <td>WhatsApp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="100" title="WhatsApp"><br>435 bytes</td>
 <td>WHATWG<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/whatwg.svg" width="100" title="WHATWG"><br>313 bytes</td>
@@ -607,6 +610,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
+<td>Windows<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="100" title="Windows"><br>226 bytes</td>
 <td>Wire<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wire.svg" width="100" title="Wire"><br>256 bytes</td>
 <td>WireGuard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wireguard.svg" width="100" title="WireGuard"><br>948 bytes</td>
 <td>WordPress<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wordpress.svg" width="100" title="WordPress"><br>488 bytes</td>
