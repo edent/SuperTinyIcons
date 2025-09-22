@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   viewBox="0 0 216 198.8"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Rockstar NYC.svg">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="1.1871227"
+     inkscape:cx="108"
+     inkscape:cy="99.400002"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     d="m 214.5,197.4 c -1,1 -2.1,1.5 -3.5,1.5 -1.4,0 -2.5,-0.5 -3.5,-1.5 -1,-1 -1.4,-2.1 -1.4,-3.5 0,-1.4 0.5,-2.5 1.4,-3.5 1,-1 2.1,-1.4 3.5,-1.4 1.4,0 2.5,0.5 3.5,1.4 1,1 1.5,2.1 1.5,3.5 0,1.3 -0.5,2.5 -1.5,3.5 z m -6.5,-6.5 c -0.8,0.8 -1.2,1.8 -1.2,3 0,1.2 0.4,2.2 1.2,3 0.8,0.8 1.8,1.3 3,1.3 1.2,0 2.2,-0.4 3,-1.3 0.8,-0.8 1.2,-1.8 1.2,-3 0,-1.2 -0.4,-2.2 -1.2,-3 -0.8,-0.8 -1.8,-1.2 -3,-1.2 -1.1,-0.1 -2.1,0.3 -3,1.2 z m 3,0.2 c 0.7,0 1.2,0.1 1.5,0.2 0.6,0.2 0.8,0.7 0.8,1.4 0,0.5 -0.2,0.8 -0.5,1.1 -0.2,0.1 -0.5,0.2 -0.8,0.3 0.4,0.1 0.7,0.2 0.9,0.5 0.2,0.3 0.3,0.6 0.3,0.8 l 0,1.2 -0.9,0 0,-0.7 c 0,-0.6 -0.2,-1 -0.5,-1.2 -0.2,-0.1 -0.6,-0.2 -1.1,-0.2 l -0.7,0 0,2.1 -1,0 0,-5.4 2,0 z m 1,0.9 c -0.2,-0.1 -0.6,-0.2 -1.2,-0.2 l -0.8,0 0,1.9 0.9,0 c 0.4,0 0.7,0 0.9,-0.1 0.4,-0.1 0.6,-0.4 0.6,-0.8 0,-0.4 -0.2,-0.6 -0.4,-0.8 z"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 178.4,0 38.3,0 C 17.2,0 0,16.7 0,37.1 l 0,124.5 c 0,20.7 16.6,37 37.9,37 l 140.2,0 c 21.3,0 37.9,-16.3 37.9,-37 L 216,37.1 C 216,16.3 199.5,0 178.4,0 m 33.3,161.6 c 0,18.4 -14.8,32.7 -33.7,32.7 l -140.1,0 C 19,194.4 4.3,180 4.3,161.6 L 4.3,37.1 C 4.3,18.7 19.2,4.2 38.3,4.2 l 140.2,0 c 18.7,0 33.3,14.4 33.3,32.9 l 0,124.5 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#040301" />
+  <path
+     d="m 211.7,161.6 c 0,18.4 -14.8,32.7 -33.7,32.7 l -140.1,0 C 19,194.4 4.3,180 4.3,161.6 L 4.3,37.1 C 4.3,18.7 19.2,4.2 38.3,4.2 l 140.2,0 c 18.7,0 33.3,14.4 33.3,32.9 l 0,124.5 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#ffab00" />
+  <path
+     d="m 173,122.1 -17.9,0 -3.1,-19.5 -11.5,19.3 -18.1,0 11,11.6 -9,19.5 19.8,-11.8 15.5,12 -2.9,-19.7"
+     id="path10"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff" />
+  <path
+     d="m 185.5,118.2 -27.1,0 -4.3,-27 -15.8,26.8 -3,0 c -1.8,-3.1 -2.5,-7.6 -2.5,-10.4 0,-4.6 0.3,-9.1 0.3,-15 0,-7.8 -2.3,-11.9 -8.4,-13.4 l 0,-0.2 c 12.9,-1.8 18.8,-10.4 18.8,-22.4 0,-17.1 -11.4,-20.8 -26.3,-20.8 l -40.1,0 -17,80.4 21.3,0 6.2,-29.3 14.2,0 c 7.6,0 10.7,3.7 10.7,10.8 0,5.4 -0.6,9.7 -0.6,13.8 0,1.5 0.3,5.1 1.4,6.5 l 15.4,16.3 -13.3,28.5 28.4,-16.9 21.2,16.3 -3.9,-26.9 24.4,-17.1 z m -77.3,-46.3 -17,0 4.1,-19.4 15.8,0 c 5.6,0 11.5,1.5 11.5,8.3 0,8.7 -6.7,11.1 -14.4,11.1 m 36,69.3 -19.8,11.8 9.1,-19.4 -11,-11.6 18.1,0 11.4,-19.3 3.1,19.5 18,0 -16.2,11.3 2.9,19.8 -15.6,-12.1 z"
+     id="path12"
+     inkscape:connector-curvature="0"
+     style="fill:#040301" />
+</svg>

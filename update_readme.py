@@ -48,7 +48,7 @@ for ref_url in ref_list:
 	if ref_url.endswith('.url'):
 		ref_name = ref_url.split('.')[0]
 		if ref_name in svg_data:
-			svg_data[ref_name]['source'] = open(ref_dir + ref_url, "r").readline()
+			svg_data[ref_name]['source'] = open(ref_dir + ref_url, "r").readline().rstrip()
 
 #	Set up the tables
 readme_table = "<table>\n"
@@ -109,7 +109,7 @@ check_table += "</table>"
 readme_summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
 
 #	Replace the table in README with the new one
-with open('README.md','r+') as f: 
+with open('README.md','r+', encoding="utf-8") as f: 
     file = f.read() 
 	
     file = re.sub(r"(?s)<table>.*?</table>", readme_table, file)
@@ -122,7 +122,7 @@ with open('README.md','r+') as f:
 print(f"README.md updated with {len(svg_list)} icons.")
 
 #	Replace the tables in the REFERENCE document
-with open('REFERENCE.md','r+') as f: 
+with open('REFERENCE.md','r+', encoding="utf-8") as f: 
     file = f.read() 
 	
     file = re.sub(r"(?s)-\|-\|-.*", reference_table, file)
@@ -135,7 +135,7 @@ with open('REFERENCE.md','r+') as f:
 print(f"REFERENCE.md updated.")
 
 #	Replace the table in the CHECK document
-with open('CHECK.html','r+') as f: 
+with open('CHECK.html','r+', encoding="utf-8") as f: 
     file = f.read() 
 	
     file = re.sub(r"(?s)<table>.*?</table>", check_table, file)

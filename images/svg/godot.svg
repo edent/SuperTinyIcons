@@ -1,5 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Godot" role="img"
-viewBox="0 0 512 512"><path
+<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 512 512"
+aria-label="Godot"><path
 d="m0 0H512V512H0"
-fill="#fff"/><g id="a"><path d="m257 435c-83 0-168-23-169.5-87V218Q77 205 64 184.5q13-22 34.4-45.1 18 9 34.1 19.8 19-17 36.5-26.6-2.6-18-3.2-42.1Q189 79 217 73q10 17 19 37 9-1.7 21-1.6v135.3a12 11 0 00-13 11v34.5a12 11 0 0013 11m-90-78.6a37.6 37.6 0 101 0" fill="#478cbf"/><circle cx="171.1" cy="261.4" r="25" fill="#414042"/><path d="m86.7 326.3 63 6.1 2.3 33.3 66.4 4.8 4.7-31.6h35" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="13.4"/></g><use href="#a" transform="matrix(-1 0 0 1 512 0)"/></svg>
+fill="#fff"/><g id="a"><path
+d="M168 221a38 37 0 11-1 0m90 79a12 11 0 01-13-11V254a12 11 0 0113-11V108q-12 0-21 2-9-20-19-37-28 6-52 17 0 24 3 42-17 10-36 27-16-11-34-20-21 23-34 45 13 21 24 34V348c1 64 86 87 169 87"
+fill="#478cbf"/><circle
+cx="171"
+cy="261"
+r="25"
+fill="#414042"/><path
+d="m87 326 63 6 2 33 66 5 5-32h35"
+fill="none"
+stroke="#fff"
+stroke-linejoin="round"
+stroke-width="13"/></g><use
+href="#a"
+x="-512" transform="scale(-1,1)"/></svg>
