@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 402 icons and the average size is _under_ 524 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 402 icons and the average size is _under_ 521 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -90,15 +90,15 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Bluesky<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluesky.svg" width="100" title="Bluesky"><br>397 bytes</td>
 <td>Bluetooth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bluetooth.svg" width="100" title="Bluetooth"><br>366 bytes</td>
 <td>Brave<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/brave.svg" width="100" title="Brave"><br>996 bytes</td>
-<td>Briar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/briar.svg" width="100" title="Briar"><br>491 bytes</td>
+<td>Briar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/briar.svg" width="100" title="Briar"><br>436 bytes</td>
 </tr>
 
 <tr>
-<td>Buffer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/buffer.svg" width="100" title="Buffer"><br>471 bytes</td>
+<td>Buffer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/buffer.svg" width="100" title="Buffer"><br>422 bytes</td>
 <td>Bugcrowd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bugcrowd.svg" width="100" title="Bugcrowd"><br>774 bytes</td>
 <td>Bun<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/bun.svg" width="100" title="Bun"><br>1016 bytes</td>
 <td>Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="100" title="Calendar"><br>744 bytes</td>
-<td>CentOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="100" title="CentOS"><br>728 bytes</td>
+<td>CentOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="100" title="CentOS"><br>722 bytes</td>
 <td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="100" title="Chrome"><br>401 bytes</td>
 </tr>
 
@@ -177,7 +177,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="100" title="Evernote"><br>613 bytes</td>
 <td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="100" title="ExpressionEngine"><br>628 bytes</td>
-<td>F-Droid<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/f-droid.svg" width="100" title="F-Droid"><br>1015 bytes</td>
+<td>F-Droid<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/f-droid.svg" width="100" title="F-Droid"><br>960 bytes</td>
 <td>Facebook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="100" title="Facebook"><br>258 bytes</td>
 <td>Fediverse<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fediverse.svg" width="100" title="Fediverse"><br>1003 bytes</td>
 <td>Filestash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/filestash.svg" width="100" title="Filestash"><br>267 bytes</td>
@@ -197,12 +197,12 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>FreeBSD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freebsd.svg" width="100" title="FreeBSD"><br>700 bytes</td>
 <td>freeCodeCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/freecodecamp.svg" width="100" title="freeCodeCamp"><br>701 bytes</td>
 <td>Friendica<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/friendica.svg" width="100" title="Friendica"><br>821 bytes</td>
-<td>Fritz!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fritz.svg" width="100" title="Fritz!"><br>616 bytes</td>
+<td>Fritz!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fritz.svg" width="100" title="Fritz!"><br>567 bytes</td>
 <td>Gandi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gandi.svg" width="100" title="Gandi"><br>749 bytes</td>
 </tr>
 
 <tr>
-<td>GateHub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gatehub.svg" width="100" title="GateHub"><br>447 bytes</td>
+<td>GateHub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gatehub.svg" width="100" title="GateHub"><br>392 bytes</td>
 <td>GeeksForGeeks<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/geeksForGeeks.svg" width="100" title="GeeksForGeeks"><br>530 bytes</td>
 <td>Gemini<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gemini.svg" width="100" title="Gemini"><br>615 bytes</td>
 <td>Ghost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="100" title="Ghost"><br>244 bytes</td>
@@ -214,7 +214,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>GitHub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" title="GitHub"><br>514 bytes</td>
 <td>GitLab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitlab.svg" width="100" title="GitLab"><br>425 bytes</td>
 <td>Gitpod<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitpod.svg" width="100" title="Gitpod"><br>543 bytes</td>
-<td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="100" title="Glitch"><br>1017 bytes</td>
+<td>Glitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="100" title="Glitch"><br>962 bytes</td>
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="100" title="Gmail"><br>442 bytes</td>
 <td>Gmail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="100" title="Gmail"><br>567 bytes</td>
 </tr>
@@ -222,7 +222,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Go<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="100" title="Go"><br>566 bytes</td>
 <td>Godot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="100" title="Godot"><br>568 bytes</td>
-<td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="100" title="GOG.com"><br>703 bytes</td>
+<td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="100" title="GOG.com"><br>648 bytes</td>
 <td>Gojek<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gojek.svg" width="100" title="Gojek"><br>258 bytes</td>
 <td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="100" title="Goodreads"><br>370 bytes</td>
 <td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="100" title="Google"><br>447 bytes</td>
@@ -239,7 +239,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="100" title="Google Maps"><br>553 bytes</td>
-<td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="100" title="Google Maps"><br>683 bytes</td>
+<td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="100" title="Google Maps"><br>634 bytes</td>
 <td>Google Meet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_meet.svg" width="100" title="Google Meet"><br>513 bytes</td>
 <td>Google Play<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="100" title="Google Play"><br>420 bytes</td>
 <td>Google+<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="100" title="Google+"><br>380 bytes</td>
@@ -265,7 +265,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
-<td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="100" title="HAML"><br>922 bytes</td>
+<td>HAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/haml.svg" width="100" title="HAML"><br>873 bytes</td>
 <td>Heroku<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/heroku.svg" width="100" title="Heroku"><br>435 bytes</td>
 <td>Homekit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/homekit.svg" width="100" title="Homekit"><br>732 bytes</td>
 <td>HP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hp.svg" width="100" title="HP"><br>471 bytes</td>
@@ -277,13 +277,13 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Humble Bundle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/humblebundle.svg" width="100" title="Humble Bundle"><br>952 bytes</td>
 <td>i18next<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/i18next.svg" width="100" title="i18next"><br>713 bytes</td>
 <td>IBM<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ibm.svg" width="100" title="IBM"><br>477 bytes</td>
-<td>iHeartRadio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/iheartradio.svg" width="100" title="iHeartRadio"><br>817 bytes</td>
+<td>iHeartRadio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/iheartradio.svg" width="100" title="iHeartRadio"><br>768 bytes</td>
 <td>IMDb<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imdb.svg" width="100" title="IMDb"><br>506 bytes</td>
 <td>Imgur<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/imgur.svg" width="100" title="Imgur"><br>263 bytes</td>
 </tr>
 
 <tr>
-<td>Instagram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="100" title="Instagram"><br>752 bytes</td>
+<td>Instagram<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="100" title="Instagram"><br>697 bytes</td>
 <td>Intel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intel.svg" width="100" title="Intel"><br>553 bytes</td>
 <td>Intercom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/intercom.svg" width="100" title="Intercom"><br>414 bytes</td>
 <td>Internet Archive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/internet_archive.svg" width="100" title="Internet Archive"><br>800 bytes</td>
@@ -295,7 +295,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Jacobin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jacobin.svg" width="100" title="Jacobin"><br>226 bytes</td>
 <td>Java<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="100" title="Java"><br>779 bytes</td>
 <td>JavaScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="100" title="JavaScript"><br>404 bytes</td>
-<td>Jellyfin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jellyfin.svg" width="100" title="Jellyfin"><br>655 bytes</td>
+<td>Jellyfin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jellyfin.svg" width="100" title="Jellyfin"><br>612 bytes</td>
 <td>jQuery<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jquery.svg" width="100" title="jQuery"><br>1006 bytes</td>
 <td>JSON-LD<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/json-ld.svg" width="100" title="JSON-LD"><br>890 bytes</td>
 </tr>
@@ -340,7 +340,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>LinuxContainers<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linuxcontainers.svg" width="100" title="LinuxContainers"><br>548 bytes</td>
 <td>Lobste.rs<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lobsters.svg" width="100" title="Lobste.rs"><br>504 bytes</td>
 <td>Lock<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lock.svg" width="100" title="Lock"><br>377 bytes</td>
-<td>Logitech<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/logitech.svg" width="100" title="Logitech"><br>352 bytes</td>
+<td>Logitech<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/logitech.svg" width="100" title="Logitech"><br>309 bytes</td>
 <td>Lucky Framework<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/luckyframework.svg" width="100" title="Lucky Framework"><br>471 bytes</td>
 <td>macOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/macos.svg" width="100" title="macOS"><br>754 bytes</td>
 </tr>
@@ -368,7 +368,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>microformats<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microformats.svg" width="100" title="microformats"><br>783 bytes</td>
 <td>micropython<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/micropython.svg" width="100" title="micropython"><br>260 bytes</td>
 <td>Microsoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microsoft.svg" width="100" title="Microsoft"><br>321 bytes</td>
-<td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="100" title="Minecraft"><br>1002 bytes</td>
+<td>Minecraft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/minecraft.svg" width="100" title="Minecraft"><br>953 bytes</td>
 <td>MongoDB<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mongodb.svg" width="100" title="MongoDB"><br>353 bytes</td>
 </tr>
 
@@ -420,7 +420,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>PeerTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/peertube.svg" width="100" title="PeerTube"><br>278 bytes</td>
 <td>Phone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="100" title="Phone"><br>574 bytes</td>
-<td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="100" title="PHP"><br>573 bytes</td>
+<td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="100" title="PHP"><br>524 bytes</td>
 <td>Pinboard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinboard.svg" width="100" title="Pinboard"><br>241 bytes</td>
 <td>Pinterest<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="100" title="Pinterest"><br>508 bytes</td>
 <td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="100" title="Pixelfed"><br>971 bytes</td>
@@ -438,18 +438,18 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Pornhub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pornhub.svg" width="100" title="Pornhub"><br>811 bytes</td>
 <td>Postman<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/postman.svg" width="100" title="Postman"><br>730 bytes</td>
-<td>PowerShell<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/powershell.svg" width="100" title="PowerShell"><br>992 bytes</td>
+<td>PowerShell<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/powershell.svg" width="100" title="PowerShell"><br>943 bytes</td>
 <td>Preact<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/preact.svg" width="100" title="Preact"><br>333 bytes</td>
 <td>Printer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/print.svg" width="100" title="Printer"><br>272 bytes</td>
 <td>Proton Mail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/protonmail.svg" width="100" title="Proton Mail"><br>628 bytes</td>
 </tr>
 
 <tr>
-<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"><br>544 bytes</td>
+<td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"><br>495 bytes</td>
 <td>QQ<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/qq.svg" width="100" title="QQ"><br>924 bytes</td>
 <td>quora<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/quora.svg" width="100" title="quora"><br>264 bytes</td>
 <td>R<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/r.svg" width="100" title="R"><br>952 bytes</td>
-<td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="100" title="Raspberry Pi"><br>954 bytes</td>
+<td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="100" title="Raspberry Pi"><br>905 bytes</td>
 <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React"><br>339 bytes</td>
 </tr>
 
@@ -466,7 +466,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Ruby<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="100" title="Ruby"><br>941 bytes</td>
 <td>Ruby Gems<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubygems.svg" width="100" title="Ruby Gems"><br>271 bytes</td>
 <td>Ruby On Rails<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rubyonrails.svg" width="100" title="Ruby On Rails"><br>447 bytes</td>
-<td>Rust<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="100" title="Rust"><br>985 bytes</td>
+<td>Rust<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rust.svg" width="100" title="Rust"><br>900 bytes</td>
 <td>Safari<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="100" title="Safari"><br>685 bytes</td>
 <td>Samsung<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung.svg" width="100" title="Samsung"><br>830 bytes</td>
 </tr>
@@ -477,7 +477,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Samsung<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/samsung_swoop.svg" width="100" title="Samsung"><br>867 bytes</td>
 <td>Sass<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sass.svg" width="100" title="Sass"><br>501 bytes</td>
 <td>Semantic Web<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/semantic_web.svg" width="100" title="Semantic Web"><br>411 bytes</td>
-<td>Semaphore CI<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/semaphoreci.svg" width="100" title="Semaphore CI"><br>446 bytes</td>
+<td>Semaphore CI<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/semaphoreci.svg" width="100" title="Semaphore CI"><br>391 bytes</td>
 </tr>
 
 <tr>
@@ -536,11 +536,11 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>Threema<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threema.svg" width="100" title="Threema"><br>381 bytes</td>
-<td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="100" title="TikTok"><br>388 bytes</td>
+<td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="100" title="TikTok"><br>339 bytes</td>
 <td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="100" title="Todoist"><br>737 bytes</td>
 <td>Tox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tox.svg" width="100" title="Tox"><br>479 bytes</td>
 <td>Trello<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/trello.svg" width="100" title="Trello"><br>261 bytes</td>
-<td>TripAdvisor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tripadvisor.svg" width="100" title="TripAdvisor"><br>691 bytes</td>
+<td>TripAdvisor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tripadvisor.svg" width="100" title="TripAdvisor"><br>642 bytes</td>
 </tr>
 
 <tr>
@@ -575,7 +575,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Venmo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/venmo.svg" width="100" title="Venmo"><br>271 bytes</td>
 <td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="100" title="Viber"><br>692 bytes</td>
 <td>VictoriaMetrics<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/victoriametrics.svg" width="100" title="VictoriaMetrics"><br>372 bytes</td>
-<td>Vim<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vim.svg" width="100" title="Vim"><br>754 bytes</td>
+<td>Vim<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vim.svg" width="100" title="Vim"><br>742 bytes</td>
 <td>Vimeo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vimeo.svg" width="100" title="Vimeo"><br>332 bytes</td>
 </tr>
 
@@ -617,7 +617,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>XING<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xing.svg" width="100" title="XING"><br>347 bytes</td>
-<td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>726 bytes</td>
+<td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>677 bytes</td>
 <td>Yahoo!<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yahoo.svg" width="100" title="Yahoo!"><br>280 bytes</td>
 <td>YAML<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yaml.svg" width="100" title="YAML"><br>396 bytes</td>
 <td>Yammer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yammer.svg" width="100" title="Yammer"><br>464 bytes</td>
