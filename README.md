@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 400 icons and the average size is _under_ 523 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 400 icons and the average size is _under_ 524 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -423,6 +423,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Pinboard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinboard.svg" width="100" title="Pinboard"><br>241 bytes</td>
 <td>Pinterest<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="100" title="Pinterest"><br>508 bytes</td>
 <td>Pixelfed<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pixelfed.svg" width="100" title="Pixelfed"><br>971 bytes</td>
+<td>Plausible<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/plausible.svg" width="100" title="Plausible"><br>960 bytes</td>
 <td>PlayStation<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/playstation.svg" width="100" title="PlayStation"><br>515 bytes</td>
 </tr>
 
