@@ -407,6 +407,7 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+GeeksForGeeks | <img src="https://edent.github.io/SuperTinyIcons/images/svg/geeksForGeeks.svg" width="256" /> | geeksForGeeks.svg 
 Gmail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="256" /> | gmail_old.svg 
 Google Docs Editors | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="256" /> | google_docs_editors.svg 
 Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="256" /> | google_drive_old.svg 
