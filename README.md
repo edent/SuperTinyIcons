@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 404 icons and the average size is _under_ 520 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 404 icons and the average size is _under_ 522 bytes!
 
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
@@ -439,7 +439,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Pop!_OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/popos.svg" width="100" title="Pop!_OS"><br>427 bytes</td>
 <td>Pornhub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pornhub.svg" width="100" title="Pornhub"><br>811 bytes</td>
-<td>portronics<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/portronics.svg" width="100" title="portronics"><br>842 bytes</td>
+<td>portronics<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/portronics.svg" width="100" title="portronics"><br>838 bytes</td>
 <td>Postman<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/postman.svg" width="100" title="Postman"><br>730 bytes</td>
 <td>PowerShell<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/powershell.svg" width="100" title="PowerShell"><br>943 bytes</td>
 <td>Preact<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/preact.svg" width="100" title="Preact"><br>333 bytes</td>
