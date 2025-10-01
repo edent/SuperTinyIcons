@@ -567,7 +567,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Ubuntu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ubuntu.svg" width="100" title="Ubuntu"><br>438 bytes</td>
 <td>Udemy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/udemy.svg" width="100" title="Udemy"><br>289 bytes</td>
 <td>Unicode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="100" title="Unicode"><br>360 bytes</td>
-<td>Unreal Engine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unreal.svg" width="100" title="Unreal Engine"><br>954 bytes</td>
+<td>Unreal Engine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unreal.svg" width="100" title="Unreal Engine"><br>953 bytes</td>
 <td>Untappd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="100" title="Untappd"><br>395 bytes</td>
 </tr>
 
