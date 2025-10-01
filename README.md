@@ -125,6 +125,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Google Colab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/colaboratory.svg" width="100" title="Google Colab"><br>373 bytes</td>
 <td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="100" title="C++"><br>666 bytes</td>
 <td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="100" title="Crystal"><br>214 bytes</td>
+<td>Cursor<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cursor.svg" width="100" title="Cursor"><br>453 bytes</td>
 <td>CSS3<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="100" title="CSS3"><br>384 bytes</td>
 <td>Dart<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="100" title="Dart"><br>545 bytes</td>
 <td>DataCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="100" title="DataCamp"><br>476 bytes</td>
