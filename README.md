@@ -387,7 +387,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>NHS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nhs.svg" width="100" title="NHS"><br>474 bytes</td>
 <td>NixOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nixos.svg" width="100" title="NixOS"><br>528 bytes</td>
 <td>Node.js<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="100" title="Node.js"><br>651 bytes</td>
-<td>NordVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nordvpn.svg" width="100" title="NordVPN"><br>389 bytes</td>
+<td>NordVPN<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/nordvpn.svg" width="100" title="NordVPN"><br>382 bytes</td>
 <td>npm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="100" title="npm"><br>277 bytes</td>
 </tr>
 
