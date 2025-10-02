@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Cursor" role="img"
-viewBox="0 0 24 24">
-  <path fill="#f5f3f0" d="M0 0h24v24H0z"/>
-  <path fill="#808080" d="M11.925 24L22.35 18 11.925 12 1.5 18 11.925 24Z"/>
-  <path fill="#000000" d="M22.35 18V6L11.925 0v12L22.35 18Z"/>
-  <path fill="#2b2b2b" d="M11.925 0L1.5 6v12l10.425-6V0Z"/>
-  <path fill="#d9d9d9" d="M22.35 6L11.925 24V12L22.35 6Z"/>
-  <path fill="#ffffff" d="M22.35 6L11.925 12 1.5 6h20.85Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Cursor" viewBox="0 0 24 24"><path fill="#f3f1ee" d="M0 0h24v24H0z"/><path fill="#7a7a7a" d="m11.925 24 10.425-6-10.425-6L1.5 18z"/><path fill="#2f2f2f" d="M22.35 18V6L11.925 0v12z"/><path fill="#4a4a4a" d="M11.925 0 1.5 6v12l10.425-6z"/><path fill="#e9e8e6" d="M22.35 6 11.925 24V12z"/><path fill="#fff" d="m22.35 6-10.425 6L1.5 6z"/></svg>
