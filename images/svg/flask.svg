@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Flask" role="img" viewBox="0 0 300 300">
+  <path fill="url(#a)" d="M300 30v240c0 17-13 30-30 30H30c-17 0-30-13-30-30V30C0 13 13 0 30 0h240c17 0 30 13 30 30"/>
+  <path fill="#3b808b" d="M300 239v31c0 17-13 30-30 30h-56L111 198a90 90 0 0 0 29 18c21 7 47 8 80-5l1 1q0 2 3 1l5-2q3-2 2-3l7-3q3 0 1-5l-4-7h-3l-5 2-3-1-5 2-1 2v1a59 59 0 0 1-62-35l-50 25-8-6 54-28-6-21-59 26-7-7 64-28-4-46zM67 128h4l1 5z"/>
+  <path fill="#fff" d="m141 82-1-3h-3l-74 32-3 2v3l6 11 1 1h4q3 13 9 25l64-28zm5 52-62 28q5 11 14 21l54-28zm93 66-4-7h-3l-5 2-3-1-5 2-1 2v1a59 59 0 0 1-62-35l-52 26q14 17 36 26c21 7 47 8 80-5l1 1q0 2 3 1l5-2q3-1 2-3l7-3q3 0 1-5"/>
+  <defs>
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 80 80)scale(300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdddeb"/>
+      <stop offset="1" stop-color="#53a9d1"/>
+    </linearGradient>
+  </defs>
+</svg>
