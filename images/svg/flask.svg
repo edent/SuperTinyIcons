@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="Flask" role="img" viewBox="0 0 300 300">
-  <path fill="url(#a)" d="M300 30v240c0 17-13 30-30 30H30c-17 0-30-13-30-30V30C0 13 13 0 30 0h240c17 0 30 13 30 30"/>
-  <path fill="#3b808b" d="M300 239v31c0 17-13 30-30 30h-56L111 198a90 90 0 0 0 29 18c21 7 47 8 80-5l1 1q0 2 3 1l5-2q3-2 2-3l7-3q3 0 1-5l-4-7h-3l-5 2-3-1-5 2-1 2v1a59 59 0 0 1-62-35l-50 25-8-6 54-28-6-21-59 26-7-7 64-28-4-46zM67 128h4l1 5z"/>
-  <path fill="#fff" d="m141 82-1-3h-3l-74 32-3 2v3l6 11 1 1h4q3 13 9 25l64-28zm5 52-62 28q5 11 14 21l54-28zm93 66-4-7h-3l-5 2-3-1-5 2-1 2v1a59 59 0 0 1-62-35l-52 26q14 17 36 26c21 7 47 8 80-5l1 1q0 2 3 1l5-2q3-1 2-3l7-3q3 0 1-5"/>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Flask" viewBox="0 0 512 512">
+  <path fill="url(#a)" d="M512 51v410c0 29-22 51-51 51H51c-29 0-51-22-51-51V51C0 22 22 0 51 0h410c29 0 51 22 51 51"/>
+  <path fill="#3b808b" d="M512 408v53c0 29-22 51-51 51h-96L189 338a154 154 0 0 0 50 31c36 12 80 13 136-9l2 2q0 3 5 2l9-4q5-3 3-5l12-5q5 0 2-9l-7-12h-5l-9 4-5-2-8 4-2 3v2a101 101 0 0 1-106-60l-85 43-14-11 92-47-10-36-101 44-11-12 109-48-7-78zM114 218h7l2 9z"/>
+  <path fill="#fff" d="m241 140-2-5h-5l-126 54-6 4v5l11 19 1 1h7q5 23 16 43l109-48zm8 89-106 47q9 19 24 36l92-47zm159 112-7-12h-5l-9 4-5-2-8 4-2 3v2a101 101 0 0 1-106-60l-89 44q24 29 62 45c36 12 80 13 136-9l2 2q0 3 5 2l9-4q5-2 3-5l12-5q5 0 2-9"/>
   <defs>
-    <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="rotate(90 80 80)scale(300)" gradientUnits="userSpaceOnUse">
+    <linearGradient id="a" x1="0" x2="1" y1="0" y2="0" gradientTransform="matrix(0 512 -512 0 273 0)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#bdddeb"/>
       <stop offset="1" stop-color="#53a9d1"/>
     </linearGradient>
