@@ -124,6 +124,7 @@ Friendica | <img src="https://edent.github.io/SuperTinyIcons/images/svg/friendic
 Fritz! | <img src="https://edent.github.io/SuperTinyIcons/images/svg/fritz.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/fritz.svg" width="256"> | https://en.wikipedia.org/wiki/Fritz!Box#/media/File:Fritz!.svg
 Gandi | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gandi.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/gandi.png" width="256"> | https://v4.gandi.net/static/images/illustrations/press/Gandi_LogoGuidelines_EN.pdf
 GateHub | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gatehub.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/gatehub.png" width="256"> | https://gatehub.net/
+GeeksForGeeks | <img src="https://edent.github.io/SuperTinyIcons/images/svg/geeksForGeeks.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/geeksForGeeks.svg" width="256"> | https://www.geeksforgeeks.org/
 Gemini | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gemini.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/gemini.svg" width="256"> | https://deepmind.google/technologies/gemini/
 Ghost | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ghost.svg" width="256"> | https://ghost.org/design/
 Git | <img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/git.svg" width="256"> | https://git-scm.com/downloads/logos
@@ -133,6 +134,7 @@ GitLab | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gitlab.svg"
 Gitpod | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gitpod.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/gitpod.svg" width="256"> | https://www.gitpod.io/media-kit
 Glitch | <img src="https://edent.github.io/SuperTinyIcons/images/svg/glitch.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/glitch.svg" width="256"> | https://glitch.com/about/press/
 Gmail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/gmail.png" width="256"> | https://www.blog.google/press/
+Gmail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/gmail_old.svg" width="256"> | https://developers.google.com/gmail/design/logo-guidelines
 Go | <img src="https://edent.github.io/SuperTinyIcons/images/svg/go.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/go.svg" width="256"> | https://blog.golang.org/go-brand
 Godot | <img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/godot.svg" width="256"> | https://godotengine.org/press/
 GOG.com | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/gogcom.png" width="256"> | https://www.cdprojekt.com/en/media/logotypes/
@@ -142,8 +144,11 @@ Google | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg"
 Google Assistant | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_assistant.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_assistant.png" width="256"> | https://www.blog.google/press/
 Google Calendar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_calendar.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_calendar.png" width="256"> | https://www.blog.google/press/
 Google Collaborative content tools | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_collaborative_content_tools.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_collaborative_content_tools.png" width="256"> | https://www.blog.google/press/
+Google Docs Editors | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_docs_editors.png" width="256"> | https://logos.fandom.com/wiki/Google_Docs
 Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_drive.png" width="256"> | https://developers.google.com/drive/api/v2/branding
+Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_drive_old.svg" width="256"> | https://developers.google.com/drive/api/guides/branding
 Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_maps.svg" width="256"> | https://www.google.com/maps/about/
+Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_maps_old.svg" width="256"> | https://developers.google.com/maps/brand-guidelines
 Google Meet | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_meet.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_meet.png" width="256"> | https://www.blog.google/press/
 Google Play | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_play.svg" width="256"> | https://play.google.com/intl/en_us/badges/
 Google+ | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_plus.png" width="256"> | https://plus.google.com/+googleplus
@@ -361,6 +366,8 @@ Udemy | <img src="https://edent.github.io/SuperTinyIcons/images/svg/udemy.svg" w
 Unicode | <img src="https://edent.github.io/SuperTinyIcons/images/svg/unicode.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/unicode.svg" width="256"> | https://www.unicode.org/policies/logo_policy.html
 Untappd | <img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/untappd.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Untappd.svg
 Uphold | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/uphold.png" width="256"> | https://uphold.com/en/press-media
+Uplay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/uplay.svg" width="256"> | https://www.ubisoft.com/en-us/help/account/article/creating-a-uplay-account/000060269
+Upwork | <img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/upwork.svg" width="256"> | https://www.upwork.com/press/media-kit
 Vagrant | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vagrant.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vagrant.png" width="256"> | https://www.vagrantup.com/files/press-kit.zip
 Vegetarian | <img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/vegetarian.png" width="256"> | https://www.v-label.com/
 Venmo | <img src="https://edent.github.io/SuperTinyIcons/images/svg/venmo.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/venmo.svg" width="256"> | https://venmo.com/about/brand
@@ -408,10 +415,3 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
-GeeksForGeeks | <img src="https://edent.github.io/SuperTinyIcons/images/svg/geeksForGeeks.svg" width="256" /> | geeksForGeeks.svg 
-Gmail | <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail_old.svg" width="256" /> | gmail_old.svg 
-Google Docs Editors | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="256" /> | google_docs_editors.svg 
-Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="256" /> | google_drive_old.svg 
-Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | google_maps_old.svg 
-Uplay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="256" /> | uplay.svg 
-Upwork | <img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="256" /> | upwork.svg 
