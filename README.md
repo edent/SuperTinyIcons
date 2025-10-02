@@ -188,7 +188,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Filestash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/filestash.svg" width="100" title="Filestash"><br>267 bytes</td>
 <td>Finder<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/finder.svg" width="100" title="Finder"><br>661 bytes</td>
 <td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="100" title="Firefox"><br>1005 bytes</td>
-<td>Flask<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flask.svg" width="100" title="Flask"><br>980 bytes</td>
+<td>Flask<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flask.svg" width="100" title="Flask"><br>991 bytes</td>
 <td>Flattr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flattr.svg" width="100" title="Flattr"><br>331 bytes</td>
 <td>Flickr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" title="Flickr"><br>235 bytes</td>
 </tr>
