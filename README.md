@@ -581,7 +581,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
-<td>Vercel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vercel.svg" width="100" title="Vercel"><br>187 bytes</td>
+<td>Vercel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vercel.svg" width="100" title="Vercel"><br>180 bytes</td>
 <td>Viber<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/viber.svg" width="100" title="Viber"><br>692 bytes</td>
 <td>VictoriaMetrics<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/victoriametrics.svg" width="100" title="VictoriaMetrics"><br>372 bytes</td>
 <td>Vim<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vim.svg" width="100" title="Vim"><br>742 bytes</td>
