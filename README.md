@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 405 icons and the average size is _under_ 524 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 405 icons and the average size is _under_ 522 bytes!
 
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
@@ -447,7 +447,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>Printer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/print.svg" width="100" title="Printer"><br>272 bytes</td>
-<td>Prometheus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/prometheus.svg" width="100" title="Prometheus"><br>1008 bytes</td>
+<td>Prometheus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/prometheus.svg" width="100" title="Prometheus"><br>523 bytes</td>
 <td>Proton Mail<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/protonmail.svg" width="100" title="Proton Mail"><br>628 bytes</td>
 <td>Python<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="100" title="Python"><br>495 bytes</td>
 <td>QQ<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/qq.svg" width="100" title="QQ"><br>924 bytes</td>
