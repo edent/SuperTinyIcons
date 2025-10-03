@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Livello_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 287.5 250"
+	 enable-background="new 0 0 287.5 250" xml:space="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="250" width="287.5" x="-131.8" y="-113"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M190.7,0H96.8L0,168.8L45.8,250h195.9l45.8-81.2C287.5,168.8,190.7,0,190.7,0z M92.9,168.8l50.9-87.8
+				l50.9,87.8H92.9z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<path fill="#4285F4" d="M45.8,168.8V250h195.9l45.8-81.2H45.8z"/>
+			
+				<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="6263.6924" y1="-4322.291" x2="6831.4297" y2="-4630.3159" gradientTransform="matrix(0.125 0 0 -0.125 -713.3438 -330.75)">
+				<stop  offset="0" style="stop-color:#1A237E;stop-opacity:0.2"/>
+				<stop  offset="1" style="stop-color:#1A237E;stop-opacity:2.000000e-02"/>
+			</linearGradient>
+			<path fill="url(#SVGID_3_)" d="M92.9,168.8L140,250H45.8L92.9,168.8z"/>
+			<path fill="#FFFFFF" fill-opacity="0.2" d="M92,170.3h192.9l2.7-1.6H92.9L92,170.3z"/>
+			<path fill="#1A237E" fill-opacity="0.2" d="M284.8,170.3l-44,78.1H46.7l-0.9,1.6h195.9l45.8-81.2L284.8,170.3z"/>
+			<path fill="#1A237E" fill-opacity="5.000000e-02" d="M93.8,170.3l-0.9-1.6L45.8,250h1.8L93.8,170.3z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_4_" d="M190.7,0H96.8L0,168.8L45.8,250h195.9l45.8-81.2C287.5,168.8,190.7,0,190.7,0z M92.9,168.8l50.9-87.8
+				l50.9,87.8H92.9z"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_4_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_5_)">
+			<path fill="#0F9D58" d="M96.8,0L0,168.8L45.8,250L156.2,59.4L96.8,0z"/>
+			<path fill="#263238" fill-opacity="0.1" d="M96.8,0l0.9,4.6l44.2,76.3L45.8,246.8l-44-78.1H0L45.8,250l98-169.1L96.8,0z"/>
+			<path fill="#FFFFFF" fill-opacity="0.2" d="M1.8,168.8l96-167.2L96.8,0L0,168.8H1.8z"/>
+		</g>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_6_" d="M190.7,0H96.8L0,168.8L45.8,250h195.9l45.8-81.2C287.5,168.8,190.7,0,190.7,0z M92.9,168.8l50.9-87.8
+				l50.9,87.8H92.9z"/>
+		</defs>
+		<clipPath id="SVGID_7_">
+			<use xlink:href="#SVGID_6_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_7_)">
+			<path fill="#FFCD40" d="M190.7,0H96.8l97.8,168.8h92.9L190.7,0z"/>
+			<path fill="#FFFFFF" fill-opacity="0.2" d="M190.7,0H96.8l2.7,1.6h90.2l96,167.2h1.8L190.7,0z"/>
+			<path fill="#BF360C" fill-opacity="0.1" d="M195.5,167.2L99.5,1.6L96.8,0l97.8,168.8L195.5,167.2z"/>
+		</g>
+	</g>
+	
+		<radialGradient id="SVGID_8_" cx="6486.3501" cy="-2666.2124" r="2290.675" gradientTransform="matrix(0.125 0 0 -0.125 -713.3438 -330.75)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</radialGradient>
+	<path fill="url(#SVGID_8_)" d="M190.7,0H96.8L0,168.8L45.8,250h195.9l45.8-81.2C287.5,168.8,190.7,0,190.7,0z M92.9,168.8
+		l50.9-87.8l50.9,87.8H92.9z"/>
+</g>
+</svg>
