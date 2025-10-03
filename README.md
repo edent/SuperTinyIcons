@@ -1,7 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 408 icons and the average size is _under_ 523 bytes!
-
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 408 icons and the average size is _under_ 522 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -233,6 +232,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="100" title="Goodreads"><br>370 bytes</td>
 <td>Google<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="100" title="Google"><br>447 bytes</td>
 <td>Google Assistant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_assistant.svg" width="100" title="Google Assistant"><br>366 bytes</td>
+<td>Google Authenticator<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_authenticator.svg" width="100" title="Google Authenticator"><br>640 bytes</td>
 <td>Google Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_calendar.svg" width="100" title="Google Calendar"><br>579 bytes</td>
 <td>Google Collaborative content tools<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_collaborative_content_tools.svg" width="100" title="Google Collaborative content tools"><br>485 bytes</td>
 <td>Google Docs Editors<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="100" title="Google Docs Editors"><br>470 bytes</td>
