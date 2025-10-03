@@ -10,18 +10,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Get changed files
-        id : changed-files
+        id: changed-files
         uses: tj-actions/changed-files@v47
         with:
           files: |
             images/svg/**.svg
       - name: List all changed SVG files
         env:
-          CHANGED-FILES: $${{ steps.changed-files.outputs.all_changed_files }}
+          CHANGED-FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          for file in ${ALL_CHANGED_FILES}; do
+          for file in ${CHANGED-FILES}; do
             echo "$file was changed"
           done
       - uses: actions/setup-node@v3
       - run: npm install
       - run: npm test
+        env:
+          CHANGED-FILES: ${{ steps.changed-files.outputs.all_changed_files }}
