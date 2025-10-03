@@ -6,7 +6,10 @@ const svgDir = __dirname + "/../images/svg/"
 const readme = __dirname + "/../README.md"
 
 const readmeLines = fs.readFileSync(readme).toString().split("\n")
-const files = fs.readdirSync(svgDir)
+
+const changedFiles = process.env.CHANGED_FILES ? process.env.CHANGED_FILES.split(' ') : null;
+
+const files= changedFiles ? changedFiles.filter(file.endswith('.svg')).map(file => file.split('/').pop()) : fs.readdirSync(svgDir);
 
 const readmeRegex = new RegExp("<br>(\\d{1,4}) Bytes<\/td>")
 
@@ -15,6 +18,10 @@ const delay = ms => new Promise(res => setTimeout(res, ms));
 files.forEach((filename, i) => {
     if (! filename.endsWith(".svg")) {return}
     const filepath = svgDir + filename
+    if(!fs.existsSync(filepath)) {
+        console.log(`Skipping deleted file: ${filename}`);
+        return;
+    }
     describe(filename, async () => {
         it("should exists", () => {
             console.log("  ", i + 1, "/", files.length)
