@@ -17,8 +17,8 @@ jobs:
         with:
           files: |
             images/svg/**.svg
+        env:
+          CHANGED-FILES: $${{ steps.changed-files.outputs.all_changed_files }}
       - uses: actions/setup-node@v3
       - run: npm install
       - run: npm test
-        env:
-          CHANGED-FILES: $${{ steps.changed-files.outputs.all_changed_files }}
