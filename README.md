@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 416 icons and the average size is _under_ 525 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 416 icons and the average size is _under_ 524 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -61,7 +61,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Apple<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="100" title="Apple"><br>354 bytes</td>
 <td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="100" title="Apple Music"><br>490 bytes</td>
 <td>Apple Podcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/applepodcasts.svg" width="100" title="Apple Podcasts"><br>940 bytes</td>
-<td>appwrite<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/appwrite.svg" width="100" title="appwrite"><br>768 bytes</td>
+<td>appwrite<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/appwrite.svg" width="100" title="appwrite"><br>724 bytes</td>
 <td>Arch Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="100" title="Arch Linux"><br>308 bytes</td>
 <td>Atom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="100" title="Atom"><br>347 bytes</td>
 </tr>
