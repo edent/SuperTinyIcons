@@ -9,7 +9,7 @@ const readmeLines = fs.readFileSync(readme).toString().split("\n")
 
 const changedFiles = process.env.CHANGED_FILES ? process.env.CHANGED_FILES.split(' ') : null;
 
-const files= changedFiles ? changedFiles.filter(file.endswith('.svg')).map(file => file.split('/').pop()) : fs.readdirSync(svgDir);
+const files= changedFiles ? changedFiles.filter(file.endsWith('.svg')).map(file => file.split('/').pop()) : fs.readdirSync(svgDir);
 
 const readmeRegex = new RegExp("<br>(\\d{1,4}) Bytes<\/td>")
 
