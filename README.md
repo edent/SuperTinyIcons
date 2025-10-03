@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 411 icons and the average size is _under_ 524 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 411 icons and the average size is _under_ 523 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -502,6 +502,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>SlideShare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/slideshare.svg" width="100" title="SlideShare"><br>646 bytes</td>
 <td>Snapchat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="100" title="Snapchat"><br>633 bytes</td>
 <td>SOGo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sogo.svg" width="100" title="SOGo"><br>824 bytes</td>
+<td>solana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solana.svg" width="100" title="solana"><br>458 bytes</td>
 <td>Solidity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="100" title="Solidity"><br>548 bytes</td>
 <td>SoundCloud<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="100" title="SoundCloud"><br>944 bytes</td>
 <td>SPARQL<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sparql.svg" width="100" title="SPARQL"><br>784 bytes</td>
