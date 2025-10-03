@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" 
 aria-label="solana" role="img" 
-viewBox="0 0 512 512"><path 
-d="m0 0H512V512H0" 
-fill="#fff"/><g transform="scale(0.7962675)"><path fill="#00ffad" d="M0 0h643v643H0Z"/><path fill="#000" d="M447 247q-3 3-8 3H156c-10 0-15-12-8-19l47-48q3-4 8-4h284c10 0 15 12 8 20zm0 214q-3 4-8 4H156c-10 0-15-12-8-19l47-47q3-3 8-4h284c10 0 15 12 8 19zm0-171q-3-3-8-3H156c-10 0-15 12-8 19l47 47q3 3 8 3h284c10 0 15-12 8-19z"/></g></svg>
+viewBox="0 0 512 512"><path  
+d="m0 0H512v512H0"
+fill="#fff"/><path fill="#00ffad" d="M0 0h512v512H0Z"/><path d="M356 197q-2 2-6 2H124a9 9 0 0 1-6-15l37-38q3-3 7-3h226c8 0 12 9 6 15zm0 170q-2 3-6 3H124a9 9 0 0 1-6-15l37-37q3-3 7-3h226c8 0 12 9 6 15zm0-136q-2-2-6-2H124a9 9 0 0 0-6 15l37 37q3 2 7 2h226c8 0 12-9 6-15z"/></svg>
