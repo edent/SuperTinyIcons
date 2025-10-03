@@ -10,6 +10,8 @@ const files = fs.readdirSync(svgDir)
 
 const readmeRegex = new RegExp("<br>(\\d{1,4}) Bytes<\/td>")
 
+const delay = ms => new Promise(res => setTimeout(res, ms));
+
 files.forEach((filename, i) => {
     if (! filename.endsWith(".svg")) {return}
     const filepath = svgDir + filename
@@ -24,6 +26,7 @@ files.forEach((filename, i) => {
         })
 
         it("should be validated by the w3c validator", async () => {
+            await delay(200);
             await fetch("https://validator.w3.org/nu/?out=gnu", {
                     method: "POST",
                     body: fs.readFileSync(filepath, "utf8").replace(/aria-label="[^"]+"/g, ""),
