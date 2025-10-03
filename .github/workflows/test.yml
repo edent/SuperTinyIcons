@@ -10,6 +10,15 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      
+      - name: Get changed files
+        id : changed-files
+        uses: tj-actions/changed-files@v44
+        with:
+          files: |
+            images/svg/**.svg
       - uses: actions/setup-node@v3
       - run: npm install
       - run: npm test
+        env:
+          CHANGED-FILES: $${{ steps.changed-files.outputs.all_changed_files }}
