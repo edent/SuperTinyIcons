@@ -17,13 +17,13 @@ jobs:
             images/svg/**.svg
       - name: List all changed SVG files
         env:
-          CHANGED-FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+          CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
         run: |
-          for file in ${CHANGED-FILES}; do
+          for file in ${CHANGED_FILES}; do
             echo "$file was changed"
           done
       - uses: actions/setup-node@v3
       - run: npm install
       - run: npm test
         env:
-          CHANGED-FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+          CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
