@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Flickr" role="img"
-viewBox="0 0 512 512"><path
-d="m0 0H512V512H0"
+viewBox="0 0 12 12"><path
+d="m0 0H12V12H0"
 fill="#fff"/><circle
-cx="157" cy="256" fill="#0063dc" r="79"/><circle
-cx="355" cy="256" fill="#ff0084" r="79"/></svg>
+cx="3" cy="6" fill="#0063dc" r="2"/><circle
+cx="8" cy="6" fill="#ff0084" r="2"/></svg>
