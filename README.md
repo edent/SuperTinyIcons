@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 417 icons and the average size is _under_ 525 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 417 icons and the average size is _under_ 625 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -610,7 +610,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>VK<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vk.svg" width="100" title="VK"><br>519 bytes</td>
 <td>VLC<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vlc.svg" width="100" title="VLC"><br>636 bytes</td>
 <td>Vue<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vue.svg" width="100" title="Vue"><br>257 bytes</td>
-<td>W3C<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="100" title="W3C"><br>523 bytes</td>
+<td>w3c<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/w3c.svg" width="100" title="w3c"><br>42432 bytes</td>
 <td>Wayland<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wayland.svg" width="100" title="Wayland"><br>905 bytes</td>
 <td>WebAssembly<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/webassembly.svg" width="100" title="WebAssembly"><br>475 bytes</td>
 </tr>
