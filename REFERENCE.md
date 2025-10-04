@@ -429,3 +429,4 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+mcafee | <img src="https://edent.github.io/SuperTinyIcons/images/svg/mcafee.svg" width="256" /> | mcafee.svg 
