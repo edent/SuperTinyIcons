@@ -377,7 +377,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Meetup<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/meetup.svg" width="100" title="Meetup"><br>502 bytes</td>
 <td>Messenger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="100" title="Messenger"><br>679 bytes</td>
 <td>microformats<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microformats.svg" width="100" title="microformats"><br>783 bytes</td>
-<td>micropython<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/micropython.svg" width="100" title="micropython"><br>257 bytes</td>
+<td>micropython<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/micropython.svg" width="100" title="micropython"><br>256 bytes</td>
 <td>Microsoft<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microsoft.svg" width="100" title="Microsoft"><br>321 bytes</td>
 </tr>
 

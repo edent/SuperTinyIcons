@@ -17,13 +17,18 @@ for svg_file in svg_list:
 	#	Ignore anything which isn't an .svg
 	if not svg_file.endswith('.svg'):
 		continue
-	#	Replace Windows line endings (CRLF) with Unix (LF)
-	with open( svg_dir + svg_file, 'rb' ) as open_file:
+	#	Check for commonwhitespace issues.
+	with open( svg_dir + svg_file, 'r', encoding="utf-8" ) as open_file:
 		content = open_file.read()
-		content = content.replace(  b'\r\n', b'\n')
+		#	Replace Windows line endings (CRLF) with Unix (LF)
+		content = content.replace('\r\n', '\n')
+		#	Replace double spaces with single space.
+		content = content.replace('  ', ' ')
+		#	Replace space newline with newline
+		content = content.replace(' \n', '\n')
 		#	Remove trailing newline
 		content = content.strip()
-	with open( svg_dir + svg_file, 'wb' ) as open_file:
+	with open( svg_dir + svg_file, 'w' ) as open_file:
 		open_file.write(content)
 	#	Get the filename of the service. E.g. service.svg
 	svg = svg_file.split('.')[0]
