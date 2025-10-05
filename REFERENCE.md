@@ -432,3 +432,4 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+Notion | <img src="https://edent.github.io/SuperTinyIcons/images/svg/notion.svg" width="256" /> | notion.svg 
