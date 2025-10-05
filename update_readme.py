@@ -1,6 +1,13 @@
 import os
 import xml.etree.ElementTree as ET
 import re
+import sys
+
+#	Colour for console text.
+class terminal:
+    OK   = '\033[92m'
+    WARN = '\033[93m'
+    FAIL = '\033[91m'
 
 table_columns = 6
 img_domain = "https://edent.github.io/SuperTinyIcons/"
@@ -17,7 +24,7 @@ for svg_file in svg_list:
 	#	Ignore anything which isn't an .svg
 	if not svg_file.endswith('.svg'):
 		continue
-	#	Check for commonwhitespace issues.
+	#	Check for common whitespace issues.
 	with open( svg_dir + svg_file, 'r', encoding="utf-8" ) as open_file:
 		content = open_file.read()
 		#	Replace Windows line endings (CRLF) with Unix (LF)
@@ -28,6 +35,14 @@ for svg_file in svg_list:
 		content = content.replace(' \n', '\n')
 		#	Remove trailing newline
 		content = content.strip()
+		#	Check the file contents are in the right order.
+		lines = content.splitlines()
+		#	Check aria-label.
+		if ( lines[1].startswith("aria") is False ):
+			print(f"{terminal.WARN}⚠️  Layout: {svg_file} aria-label not in expected place.")
+		#	Check viewBox (exception for DuckDuckGo).
+		if ( lines[2].startswith('viewBox="0 0 512 512"') is False and svg_file != "duckduckgo.svg"):
+			print(f"{terminal.WARN}⚠️  Layout: {svg_file} viewBox not in expected format.")
 	with open( svg_dir + svg_file, 'w' ) as open_file:
 		open_file.write(content)
 	#	Get the filename of the service. E.g. service.svg
@@ -38,6 +53,9 @@ for svg_file in svg_list:
 	#	Get the file size
 	bytes = os.stat(f'{svg_dir}{svg_file}').st_size
 	svg_data[svg]['bytes'] = bytes
+	if (bytes > 1023):
+		print( f"{terminal.FAIL}❌ {svg_file} is {bytes} bytes. Files must be under 1024 bytes.")
+		sys.exit()
 	total_bytes += bytes
 
 #	Get all reference images
@@ -124,7 +142,7 @@ with open('README.md','r+', encoding="utf-8") as f:
     f.write(file)  
     f.truncate()
 
-print(f"README.md updated with {len(svg_list)} icons.")
+print(f"{terminal.OK}✅ README.md updated with {len(svg_list)} icons.")
 
 #	Replace the tables in the REFERENCE document
 with open('REFERENCE.md','r+', encoding="utf-8") as f: 
@@ -137,7 +155,7 @@ with open('REFERENCE.md','r+', encoding="utf-8") as f:
     f.write(file)  
     f.truncate()
 	
-print(f"REFERENCE.md updated.")
+print(f"{terminal.OK}✅ REFERENCE.md updated.")
 
 #	Replace the table in the CHECK document
 with open('CHECK.html','r+', encoding="utf-8") as f: 
@@ -149,4 +167,4 @@ with open('CHECK.html','r+', encoding="utf-8") as f:
     f.write(file)  
     f.truncate()
 
-print(f"CHECK.html updated.")
+print(f"{terminal.OK}✅ CHECK.html updated.")
