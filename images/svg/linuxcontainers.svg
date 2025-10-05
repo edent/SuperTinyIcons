@@ -1,7 +1,7 @@
 <svg aria-label="LinuxContainers" role="img" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"
 stroke="#fff" stroke-width="2.5"><path
 d="m0 0H512V512H0"
-fill="#fff"/><path
+fill="none"/><path
 d="M49 256v72l207 120 207-120v-72"
 fill="#dd4814"/><path
 d="M152 124 255 64 463 184v72L360 316"

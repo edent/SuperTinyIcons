@@ -5,7 +5,7 @@ x1="249.3" x2="330.1" y1="215.3" y2="356.8"
 gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#909cf7"/><stop offset="1" stop-color="#4b38d8"/></linearGradient><linearGradient id="b"
 x1="205.4" x2="288.7" y1="62.3" y2="208.1" href="#a"/></defs><path
 d="m0 0H512V512H0"
-fill="#fff"/><path
+fill="none"/><path
 fill="url(#a)"
 d="M311.1 333.4h-26v60.2a61 61 0 0 1-60.4 61.4h-51.2c-9.6 0-19.2-9.6-19.2-19.2v-128l32-44.8a21.5 21.5 0 0 1 25.6-7.3l18.4 7.7c9.2 3.8 19.9.8 25.7-7.4l43-60.2a21.5 21.5 0 0 1 25.6-7.3l35.3 14.8c9.3 3.9 20 .9 25.8-7.3l41.6-57.6c12.8 23 23.6 54.4 12.8 97.6-11.9 48.3-61.8 97.4-129 97.4z"/><path
 fill="url(#b)"

@@ -2,6 +2,6 @@
 aria-label="Flickr" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><circle
+fill="none"/><circle
 cx="157" cy="256" fill="#0063dc" r="79"/><circle
 cx="355" cy="256" fill="#ff0084" r="79"/></svg>
