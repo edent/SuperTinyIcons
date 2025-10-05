@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 512 512"
-aria-label="GraphQL"
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="GraphQL" role="img"
+viewBox="0 0 512 512"
 fill="#e10098"><path
 d="m0 0H512V512H0"
 fill="none"/><g

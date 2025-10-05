@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-role="img" aria-label="Filestash"
+aria-label="Filestash" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
 fill="#7ec4e7"/><path d="m256 282a81 79 0 110-2za81 79 0 1181 78H175m0-158a81 79 0 11162 0" fill="none" stroke="#f2f3f5" stroke-width="35"/></svg>

@@ -1,4 +1,6 @@
-<svg aria-label="LinuxContainers" role="img" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="LinuxContainers" role="img"
+viewBox="0 0 512 512"
 stroke="#fff" stroke-width="2.5"><path
 d="m0 0H512V512H0"
 fill="none"/><path

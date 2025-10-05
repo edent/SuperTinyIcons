@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 512 512"
-aria-label="SPARQL"><path
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="SPARQL" role="img"
+viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
 fill="none"/><path
 id="a" fill="#0C479C"
