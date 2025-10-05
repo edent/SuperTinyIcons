@@ -433,3 +433,4 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+ProductHunt | <img src="https://edent.github.io/SuperTinyIcons/images/svg/producthunt.svg" width="256" /> | producthunt.svg 
