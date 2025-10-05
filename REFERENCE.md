@@ -255,6 +255,7 @@ NixOS | <img src="https://edent.github.io/SuperTinyIcons/images/svg/nixos.svg" w
 nobara | <img src="https://edent.github.io/SuperTinyIcons/images/svg/nobara.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/nobara.png" width="256"> | https://github.com/Nobara-Project
 Node.js | <img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/nodejs.svg" width="256"> | https://nodejs.org/static/documents/foundation-visual-guidelines.pdf
 NordVPN | <img src="https://edent.github.io/SuperTinyIcons/images/svg/nordvpn.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/nordvpn.svg" width="256"> | https://res.cloudinary.com/nordsec/image/upload/v1683793368/nord-security-web/trademark-policy/Nord_Security-Trademark_Guidelines_.pdf
+Notion | <img src="https://edent.github.io/SuperTinyIcons/images/svg/notion.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/notion.svg" width="256"> | https://www.notion.com/about
 npm | <img src="https://edent.github.io/SuperTinyIcons/images/svg/npm.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/npm.svg" width="256"> | https://github.com/npm/logos
 obs-logo | <img src="https://edent.github.io/SuperTinyIcons/images/svg/obs.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/obs.png" width="256"> | https://obsproject.com/
 OK.ru | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ok.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ok.png" width="256"> | https://insideok.ru/brandbook
@@ -432,4 +433,3 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
-Notion | <img src="https://edent.github.io/SuperTinyIcons/images/svg/notion.svg" width="256" /> | notion.svg 
