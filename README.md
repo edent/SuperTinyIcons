@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 422 icons and the average size is _under_ 526 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 422 icons and the average size is _under_ 525 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -333,7 +333,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Kotlin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/kotlin.svg" width="100" title="Kotlin"><br>236 bytes</td>
 <td>Laravel<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/laravel.svg" width="100" title="Laravel"><br>384 bytes</td>
 <td>LastPass<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/lastpass.svg" width="100" title="LastPass"><br>281 bytes</td>
-<td>LeetCode Logo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/leetcode.svg" width="100" title="LeetCode Logo"><br>829 bytes</td>
+<td>LeetCode<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/leetcode.svg" width="100" title="LeetCode"><br>553 bytes</td>
 </tr>
 
 <tr>
