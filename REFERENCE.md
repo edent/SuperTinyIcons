@@ -57,6 +57,7 @@ Bun | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bun.svg" width
 C | <img src="https://edent.github.io/SuperTinyIcons/images/svg/c.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/c.png" width="256"> | 
 Calendar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/calendar.png" width="256"> | https://medium.com/@theunitedindian200/2024-a-leap-year-e71c01bd293f
 CentOS | <img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/centos.svg" width="256"> | https://wiki.centos.org/ArtWork/Brand/Logo
+ChatGPT | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chatgpt.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/chatgpt.svg" width="256"> | https://openai.com/brand/
 Chrome | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/chrome.svg" width="256"> | https://www.google.com/chrome/static/images/chrome-logo.svg
 Chromium | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/chromium.svg" width="256"> | https://www.chromium.org/
 Citrix | <img src="https://edent.github.io/SuperTinyIcons/images/svg/citrix.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/citrix.svg" width="256"> | https://brand.citrix.com/brand-system/logo/
@@ -433,4 +434,3 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
-ChatGPT | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chatgpt.svg" width="256" /> | chatgpt.svg 
