@@ -343,6 +343,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>LINE<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/line.svg" width="100" title="LINE"><br>454 bytes</td>
 <td>Linear<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linearapp.svg" width="100" title="Linear"><br>390 bytes</td>
 <td>LinkedIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="100" title="LinkedIn"><br>355 bytes</td>
+<td>Linux Foundation<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/linux-foundation.svg" width="100" title="Linux Foundation"><br>290 bytes</td>
 </tr>
 
 <tr>
