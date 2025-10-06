@@ -432,7 +432,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Outlook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/outlook.svg" width="100" title="Outlook"><br>876 bytes</td>
 <td>Overcast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overcast.svg" width="100" title="Overcast"><br>760 bytes</td>
 <td>Overleaf<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overleaf.svg" width="100" title="Overleaf"><br>437 bytes</td>
-<td>ParrotOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/parrotos.svg" width="100" title="ParrotOS"><br>501 bytes</td>
+<td>ParrotOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/parrotos.svg" width="100" title="ParrotOS"><br>512 bytes</td>
 </tr>
 
 <tr>
