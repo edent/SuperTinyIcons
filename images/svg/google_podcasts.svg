@@ -3,4 +3,4 @@ aria-label="Google Podcasts" role="img"
 viewBox="0 0 512 512"
 stroke-linecap="round" stroke-linejoin="round" stroke-width="43"><path
 d="m0 0H512V512H0"
-fill="#fff"/><path stroke="#fab908" d="m256 109v22m0 64v122m0 64v22"/><path stroke="#ea4335" d="m181 176v75m0 64v21"/><path stroke="#34a853" d="m331 176v21m0 64v75"/><path stroke="#4285f4" d="m405 245v22"/><path stroke="#0066d9" d="m107 245v22"/></svg>
+fill="none"/><path stroke="#fab908" d="m256 109v22m0 64v122m0 64v22"/><path stroke="#ea4335" d="m181 176v75m0 64v21"/><path stroke="#34a853" d="m331 176v21m0 64v75"/><path stroke="#4285f4" d="m405 245v22"/><path stroke="#0066d9" d="m107 245v22"/></svg>

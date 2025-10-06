@@ -6,6 +6,6 @@ stop-color="#ff7200"/><stop
 stop-color="#ffa200"
 offset="1"/></linearGradient></defs><path
 d="m0 0H512V512H0"
-fill="#fff"/><path
+fill="none"/><path
 fill="url(#g)"
 d="M248.64 64 84.44 157.7v85l98.68-57V409.95l65.52 38V64Zm14.73 0V448l65.29-38V302l49.5 28.61v-73.9l-49.2-28.1V185.7l98.7 57v-85L263.36 64Z"/></svg>

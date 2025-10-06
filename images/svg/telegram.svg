@@ -2,4 +2,4 @@
 aria-label="Telegram" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><linearGradient id="a" x2="0" y2="1"><stop offset="0" stop-color="#2aabee"/><stop offset="1" stop-color="#229ed9"/></linearGradient><path d="M291 220q6-4 8-1t-3 8c-31 32-54 50-67 65q-9 10 5 20l62 42c25 17 33 3 36-14q17-91 24-151c2-15-3-23-22-17q-27 8-194 81c-21 8-17 17-5 21s21 7 33 10 20 4 34-5M257 64a192 192 0 11-2 0" fill="url(#a)"/></svg>
+fill="none"/><linearGradient id="a" x2="0" y2="1"><stop offset="0" stop-color="#2aabee"/><stop offset="1" stop-color="#229ed9"/></linearGradient><path d="M291 220q6-4 8-1t-3 8c-31 32-54 50-67 65q-9 10 5 20l62 42c25 17 33 3 36-14q17-91 24-151c2-15-3-23-22-17q-27 8-194 81c-21 8-17 17-5 21s21 7 33 10 20 4 34-5M257 64a192 192 0 11-2 0" fill="url(#a)"/></svg>

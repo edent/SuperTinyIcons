@@ -2,4 +2,4 @@
 aria-label="React" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><circle cx="256" cy="256" r="36" fill="#61dafb"/><path stroke="#61dafb" stroke-width="18" fill="none" d="M255.95 326.95a183 71 0 11.1 0Zm-61.42-35.52a183 71 60 11.05.09Zm122.89.09a71 183 30 11.05-.09Z"/></svg>
+fill="none"/><circle cx="256" cy="256" r="36" fill="#61dafb"/><path stroke="#61dafb" stroke-width="18" fill="none" d="M255.95 326.95a183 71 0 11.1 0Zm-61.42-35.52a183 71 60 11.05.09Zm122.89.09a71 183 30 11.05-.09Z"/></svg>
