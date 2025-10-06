@@ -104,7 +104,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>CentOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="100" title="CentOS"><br>684 bytes</td>
-<td>ChatGPT<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chatgpt.svg" width="100" title="ChatGPT"><br>869 bytes</td>
+<td>ChatGPT<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chatgpt.svg" width="100" title="ChatGPT"><br>767 bytes</td>
 <td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="100" title="Chrome"><br>405 bytes</td>
 <td>Chromium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="100" title="Chromium"><br>407 bytes</td>
 <td>Citrix<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/citrix.svg" width="100" title="Citrix"><br>747 bytes</td>
