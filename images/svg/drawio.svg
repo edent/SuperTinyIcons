@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Draw.io" role="img"
+viewBox="0 0 512 512" fill="#fff"><path fill="#f08705" d="M0 0h512v512H0"/><path fill="#df6c0c" d="M512 512H176L72 406 324 70l187 194"/><g id="b"><path d="m236 188-58 98h-32l58-98"/><use href="#a" transform="translate(-117 226)"/></g><use href="#b" transform="matrix(-1 0 0 1 512 0)"/><rect id="a" width="151" height="129" x="181" y="60" rx="28"/></svg>

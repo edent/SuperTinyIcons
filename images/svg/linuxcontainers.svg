@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="LinuxContainers" role="img"
+viewBox="0 0 512 512"
+stroke="#fff" stroke-width="2.5"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path
+d="M49 256v72l207 120 207-120v-72"
+fill="#dd4814"/><path
+d="M152 124 255 64 463 184v72L360 316"
+fill="#333"/><path
+d="m49 220v36l208 120 103-60V280l-105-60"
+fill="#888"/><path
+d="m152 124-103 60v36l103 60 103-60v-36z"
+fill="#cdcdcd"/><path
+d="M463 184 360 244 255 184 152 244v36l105 60 103-60v-36 72M152 244 49 184v36l103-60v-36 36l103 60m2 120v108"
+fill="none"/></svg>

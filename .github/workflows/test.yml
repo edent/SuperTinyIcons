@@ -5,11 +5,25 @@ on:
 
 jobs:
   test:
-
     runs-on: ubuntu-latest
-
+    name: Test new SVG files
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v47
+        with:
+          files: |
+            images/svg/**.svg
+      - name: List all changed SVG files
+        env:
+          CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
+        run: |
+          for file in ${CHANGED_FILES}; do
+            echo "$file was changed"
+          done
       - uses: actions/setup-node@v3
       - run: npm install
       - run: npm test
+        env:
+          CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
