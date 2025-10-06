@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="People-per-hour" role="img"
+viewBox="0 0 512 512">
+<path d="m0 0H512V512H0" fill="#fff"/>
+<circle cx="256" cy="256" r="172" fill="none" stroke="url(#grad)" stroke-width="40"/>
+<circle cx="199" cy="210" r="30" fill="url(#grad)"/>
+<circle cx="313" cy="210" r="30" fill="url(#grad)"/>
+<defs>
+ <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#ff5f00"/>
+  <stop offset="100%" stop-color="#ff006a"/>
+ </linearGradient>
+</defs>
+</svg>
