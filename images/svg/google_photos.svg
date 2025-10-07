@@ -1,16 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-viewBox="0 0 512 512"
-aria-label="Google Photos" role="img">
-<path d="m0 0H512V512H0" fill="#fff"/>
-
-<defs>
-<g id="a">
-<path d="M45.59 14.75C45.59 6.604 38.987 0 30.84 0 30.1 0 29.5.6 29.5 1.34V29.5h1.34c8.147 0 14.75-6.604 14.75-14.75Z"/></g>
-</defs>
-
-<use href="#a" fill="#EA4335"/>
-<use href="#a" fill="#FBBC04" transform="rotate(90,29.5,29.5)"/>
-<use href="#a" fill="#4285F4" transform="rotate(180,29.5,29.5)"/>
-<use href="#a" fill="#34A853" transform="rotate(270,29.5,29.5)"/>
-
-</svg>
+aria-label="Google Photos" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path id="a" d="M360.5 160.1c0-53-42.9-95.9-95.8-95.9-4.8 0-8.7 3.9-8.7 8.7V256h8.7c53 0 95.9-42.9 95.9-95.9Z"/><use href="#a" fill="#EA4335"/><use href="#a" fill="#4285F4" transform="rotate(90,256,256)"/><use href="#a" fill="#34A853" transform="rotate(180,256,256)"/><use href="#a" fill="#FBBC04" transform="rotate(270,256,256)"/></svg>
