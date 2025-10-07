@@ -57,7 +57,6 @@ Bun | <img src="https://edent.github.io/SuperTinyIcons/images/svg/bun.svg" width
 C | <img src="https://edent.github.io/SuperTinyIcons/images/svg/c.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/c.png" width="256"> | 
 Calendar | <img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/calendar.png" width="256"> | https://medium.com/@theunitedindian200/2024-a-leap-year-e71c01bd293f
 CentOS | <img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/centos.svg" width="256"> | https://wiki.centos.org/ArtWork/Brand/Logo
-ChatGPT | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chatgpt.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/chatgpt.svg" width="256"> | https://openai.com/brand/
 Chrome | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/chrome.svg" width="256"> | https://www.google.com/chrome/static/images/chrome-logo.svg
 Chromium | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/chromium.svg" width="256"> | https://www.chromium.org/
 Citrix | <img src="https://edent.github.io/SuperTinyIcons/images/svg/citrix.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/citrix.svg" width="256"> | https://brand.citrix.com/brand-system/logo/
@@ -157,6 +156,7 @@ Google Drive | <img src="https://edent.github.io/SuperTinyIcons/images/svg/googl
 Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_maps.svg" width="256"> | https://www.google.com/maps/about/
 Google Maps | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_maps_old.svg" width="256"> | https://logos.fandom.com/wiki/Google_Maps
 Google Meet | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_meet.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_meet.png" width="256"> | https://www.blog.google/press/
+GPay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_pay_old.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_pay_old.webp" width="256"> | https://about.google/brand-resource-center/logos-list/
 Google Play | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_play.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_play.svg" width="256"> | https://play.google.com/intl/en_us/badges/
 Google+ | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_plus.png" width="256"> | https://plus.google.com/+googleplus
 Google Podcasts | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_podcasts.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/google_podcasts.png" width="256"> | https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=en_GB
@@ -434,5 +434,3 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
-ChatGPT | <img src="https://edent.github.io/SuperTinyIcons/images/svg/chatgpt.svg" width="256" /> | chatgpt.svg 
-GPay | <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_pay.svg" width="256" /> | google_pay.svg 
