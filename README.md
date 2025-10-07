@@ -563,7 +563,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>Terraform<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/terraform.svg" width="100" title="Terraform"><br>288 bytes</td>
-<td>Tezos<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tezos.svg" width="100" title="Tezos"><br>515 bytes</td>
+<td>Tezos<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tezos.svg" width="100" title="Tezos"><br>494 bytes</td>
 <td>This American Life<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/thisamericanlife.svg" width="100" title="This American Life"><br>282 bytes</td>
 <td>Threads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threads.svg" width="100" title="Threads"><br>368 bytes</td>
 <td>Threema<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threema.svg" width="100" title="Threema"><br>385 bytes</td>
