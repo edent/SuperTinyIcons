@@ -437,3 +437,4 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+ytmusic | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="256" /> | ytmusic.svg 
