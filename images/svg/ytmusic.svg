@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-aria-label="ytmusic" role="img"
+aria-label="..." role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
 fill="#fff"/>
-<circle cx="256" cy="256" r="256" fill="red"/>
-<path fill="#fff" d="M256 133.818c67.2 0 122.182 54.691 122.182 122.182s-54.691 122.182-122.182 122.182-122.182-54.691-122.182-122.182 54.982-122.182 122.182-122.182m0-11.636c-73.891 0-133.818 59.927-133.818 133.818s59.927 133.818 133.818 133.818 133.818-59.927 133.818-133.818-59.927-133.818-133.818-133.818"/>
-<path fill="#fff" d="m209.455 322.909 113.455-69.818-113.455-64z"/>
+<g transform="scale(2.909)">
+<circle cx="88" cy="88" r="88" fill="red"/>
+<circle cx="88" cy="88" r="44" stroke="white" stroke-width="4" fill="none"/>
+<polygon fill="#fff" points="72,111 111,87 72,65"/>
+</g>
 </svg>

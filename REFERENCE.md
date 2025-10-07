@@ -430,6 +430,7 @@ Yarn | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yarn.svg" wid
 Yelp | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yelp.png" width="256"> | https://www.yelp.co.uk/brand
 Yii | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yii.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yii.svg" width="256"> | https://www.yiiframework.com/logo
 YouTube | <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/youtube.svg" width="256"> | https://www.youtube.com/intl/en/yt/about/brand-resources/#logos-icons-colors
+... | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ytmusic.png" width="256"> | https://brand.youtube/#youtubeicon
 Yubico | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yubico.png" width="256"> | https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png
 Zoom | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zoom.png" width="256"> | https://www.zoom.us/
 Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zorinos.png" width="256"> | https://zorin.com/press/
@@ -437,4 +438,3 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
-ytmusic | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="256" /> | ytmusic.svg 
