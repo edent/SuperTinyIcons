@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="ParrotOS" role="img"
+viewBox="0 0 512 512"><path
+d="M0 0h512v512H0"
+fill="#fff"/><circle cx="256" cy="256" r="256" fill="#12dbe8"/><path d="m322 407-89-161 39-48 143-59-143 3 93-49-177 28-15 72-71 5-13 61 36-29 111 112 88 98-29-62Z"/><linearGradient id="a" x1="-.04" y1=".33" x2=".55" y2=".25"><stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#0000"/></linearGradient><path fill="url(#a)" d="m173 231 151 209 40 47a230 246 0 00107-369z"/></svg>
