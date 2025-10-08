@@ -358,6 +358,7 @@ Symantec | <img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.
 Symfony | <img src="https://edent.github.io/SuperTinyIcons/images/svg/symfony.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/symfony.svg" width="256"> | https://symfony.com/logo
 taiga.io | <img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/taiga.svg" width="256"> | 
 tailwindCss | <img src="https://edent.github.io/SuperTinyIcons/images/svg/tailwindCss.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/tailwindCss.svg" width="256"> | https://tailwindcss.com/brand
+Target | <img src="https://edent.github.io/SuperTinyIcons/images/svg/target.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/target.png" width="256"> | https://corporate.target.com/media/collection/b-roll-and-press-materials/target-logos
 TATA | <img src="https://edent.github.io/SuperTinyIcons/images/svg/tata.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/tata.png" width="256"> | https://www.tata.com/
 Teamspeak | <img src="https://edent.github.io/SuperTinyIcons/images/svg/teamspeak.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/teamspeak.png" width="256"> | https://www.teamspeak.com/en/
 Telegram | <img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/telegram.svg" width="256"> | https://telegram.org/tour/screenshots
@@ -437,4 +438,3 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
-Target | <img src="https://edent.github.io/SuperTinyIcons/images/svg/target.svg" width="256" /> | target.svg 
