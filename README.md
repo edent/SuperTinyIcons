@@ -646,7 +646,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="100" title="Workato"><br>362 bytes</td>
 <td>X<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/x.svg" width="100" title="X"><br>287 bytes</td>
 <td>X11<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/x11.svg" width="100" title="X11"><br>756 bytes</td>
-<td>Xbox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xbox.svg" width="100" title="Xbox"><br>746 bytes</td>
+<td>Xbox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xbox.svg" width="100" title="Xbox"><br>493 bytes</td>
 <td>XING<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xing.svg" width="100" title="XING"><br>347 bytes</td>
 <td>XMPP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/xmpp.svg" width="100" title="XMPP"><br>677 bytes</td>
 </tr>
