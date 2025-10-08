@@ -437,3 +437,4 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+Target | <img src="https://edent.github.io/SuperTinyIcons/images/svg/target.svg" width="256" /> | target.svg 

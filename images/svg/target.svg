@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Target" role="img"
+viewBox="0 0 512 512">
+<path d="m0 0H512V512H0" fill="#fff"/>
+<circle cx="256" cy="256" r="256" fill="#c00"/>
+<circle cx="256" cy="256" r="171" fill="#fff"/>
+<circle cx="256" cy="256" r="85" fill="#c00"/>
+</svg>
