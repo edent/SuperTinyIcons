@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Google Photos" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path id="a" d="M360.5 160.1c0-53-42.9-95.9-95.8-95.9-4.8 0-8.7 3.9-8.7 8.7V256h8.7c53 0 95.9-42.9 95.9-95.9Z"/><use href="#a" fill="#EA4335"/><use href="#a" fill="#4285F4" transform="rotate(90,256,256)"/><use href="#a" fill="#34A853" transform="rotate(180,256,256)"/><use href="#a" fill="#FBBC04" transform="rotate(270,256,256)"/></svg>
