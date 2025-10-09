@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="socket_io" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/>
+<g transform="scale(2)">
+<circle cx="128" cy="128" r="114" fill="none" stroke="#010101" stroke-width="20"/>
+<path fill="#010101" d="M98 122q40-35 82-67l-45 67zm23 12h37q-40 35-82 67z"/>
+</g>
+</svg>
