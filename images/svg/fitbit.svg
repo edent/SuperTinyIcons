@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Fitbit" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#FFF"/>
+<circle id="a" cx="96" cy="256" r="23.2" fill="#bbb"/>
+<circle id="b" cx="176" cy="256" r="27.1" fill="#bbb"/>
+<circle id="c" cx="256" cy="256" r="30.9" fill="#bbb"/>
+<circle id="d" cx="334.7" cy="256" r="34.8" fill="#bbb"/>
+<circle id="e" cx="415.9" cy="256" r="38.7" fill="#bbb"/>
+
+<use href="#b" transform="translate(0,-81.2)"/>
+<use href="#b" transform="translate(0,80)"/>
+
+<use href="#c" transform="translate(0,-165.1)"/>
+<use href="#c" transform="translate(0,-81.2)"/>
+<use href="#c" transform="translate(0,80)"/>
+<use href="#c" transform="translate(0,161.3)"/>
+
+<use href="#d" transform="translate(0,-81.2)"/>
+<use href="#d" transform="translate(0,80)"/>
+</svg>
