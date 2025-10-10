@@ -250,7 +250,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Google Docs Editors<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_docs_editors.svg" width="100" title="Google Docs Editors"><br>474 bytes</td>
 <td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive.svg" width="100" title="Google Drive"><br>564 bytes</td>
 <td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="100" title="Google Drive"><br>304 bytes</td>
-<td>Google Fit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_fit.svg" width="100" title="Google Fit"><br>896 bytes</td>
+<td>Google Fit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_fit.svg" width="100" title="Google Fit"><br>897 bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="100" title="Google Maps"><br>556 bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="100" title="Google Maps"><br>638 bytes</td>
 </tr>
