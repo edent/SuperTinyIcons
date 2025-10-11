@@ -195,7 +195,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Firebase<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firebase.svg" width="100" title="Firebase"><br>692 bytes</td>
 <td>Firefox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/firefox.svg" width="100" title="Firefox"><br>1009 bytes</td>
-<td>Fitbit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fitbit.svg" width="100" title="Fitbit"><br>719 bytes</td>
+<td>Fitbit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fitbit.svg" width="100" title="Fitbit"><br>604 bytes</td>
 <td>Flask<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flask.svg" width="100" title="Flask"><br>881 bytes</td>
 <td>Flatpak<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flatpak.svg" width="100" title="Flatpak"><br>565 bytes</td>
 <td>Flattr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/flattr.svg" width="100" title="Flattr"><br>335 bytes</td>
