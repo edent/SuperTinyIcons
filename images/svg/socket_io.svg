@@ -2,7 +2,4 @@
 aria-label="socket_io" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/>
-<circle cx="256" cy="256" r="228" fill="none" stroke="#010101" stroke-width="40"/>
-<path fill="#010101" d="M196 244q80-70 164-134l-90 134zm46 24h74q-80 70-164 134z"/>
-</svg>
+fill="#fff"/><circle cx="256" cy="256" r="228" fill="none" stroke="#010101" stroke-width="40"/><path fill="#010101" d="M196 244q80-70 164-134l-90 134zm46 24h74q-80 70-164 134z"/></svg>
