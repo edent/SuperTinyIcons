@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="socketio" role="img" 
+viewBox="0 0 512 512"><path 
+d="M0 0h512v512H0z"
+fill="#fff"/><circle cx="256" cy="256" r="228" fill="none" stroke="#010101" stroke-width="40"/><path fill="#010101" d="M195 243c55-44 108-90 164-134l-88 135-76-1zm46 25 76 1c-55 44-108 91-164 134l88-135z"/></svg>
