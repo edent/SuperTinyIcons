@@ -444,3 +444,4 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+arduino | <img src="https://edent.github.io/SuperTinyIcons/images/svg/arduino.svg" width="256" /> | arduino.svg 
