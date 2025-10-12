@@ -527,7 +527,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>Snapchat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="100" title="Snapchat"><br>633 bytes</td>
-<td>socket_io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/socket_io.svg" width="100" title="socket_io"><br>308 bytes</td>
+<td>socket_io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/socket_io.svg" width="100" title="socket_io"><br>305 bytes</td>
 <td>SOGo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sogo.svg" width="100" title="SOGo"><br>824 bytes</td>
 <td>solana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solana.svg" width="100" title="solana"><br>394 bytes</td>
 <td>Solidity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/solidity.svg" width="100" title="Solidity"><br>548 bytes</td>
