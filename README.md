@@ -63,7 +63,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Apple Podcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/applepodcasts.svg" width="100" title="Apple Podcasts"><br>945 bytes</td>
 <td>appwrite<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/appwrite.svg" width="100" title="appwrite"><br>728 bytes</td>
 <td>Arch Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="100" title="Arch Linux"><br>312 bytes</td>
-<td>arduino<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arduino.svg" width="100" title="arduino"><br>881 bytes</td>
+<td>arduino<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arduino.svg" width="100" title="arduino"><br>844 bytes</td>
 </tr>
 
 <tr>
