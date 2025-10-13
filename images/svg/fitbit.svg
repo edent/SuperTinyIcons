@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Fitbit" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><g fill="#00b0b9"><circle cx="87.4" cy="256" r="23.4"/><circle cx="168" cy="256" r="27.3"/><circle cx="248.3" cy="256" r="31.1"/><circle cx="327.7" cy="256" r="35"/><circle cx="409.2" cy="256" r="38.8"/><circle cx="248.3" cy="92.8" r="28.8"/><circle cx="248.3" cy="419.3" r="28.8"/><g id="a"><circle cx="168" cy="174.4" r="26.1"/><circle cx="248.3" cy="174.4" r="30"/><circle cx="327.7" cy="174.4" r="33.8"/></g><use href="#a" transform="translate(0,163.2)"/></g></svg>
