@@ -170,7 +170,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="100" title="Elementary OS"><br>451 bytes</td>
 <td>Email<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="100" title="Email"><br>326 bytes</td>
 <td>Endeavour OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/endeavouros.svg" width="100" title="Endeavour OS"><br>622 bytes</td>
-<td>Ente Auth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ente_auth.svg" width="100" title="Ente Auth"><br>563 bytes</td>
+<td>Ente Auth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ente_auth.svg" width="100" title="Ente Auth"><br>574 bytes</td>
 <td>ePub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="100" title="ePub"><br>308 bytes</td>
 </tr>
 
