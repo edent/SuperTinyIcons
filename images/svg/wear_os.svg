@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Wear OS" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/>
+<path d="M87 121c19-7 41 1 49 21l84 199c9 18 0 41-19 49s-41-1-49-20L67 170c-8-19 1-40 20-49Z" id="a"/><use href="#a" fill="#4285F4"/><use href="#a" fill="#FABD05" transform="translate(120)"/><circle cx="409" cy="158" r="39" fill="#EA4336"/><circle cx="371" cy="245" r="39" fill="#34A853"/></svg>
