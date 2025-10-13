@@ -31,6 +31,7 @@ Apple Music | <img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_
 Apple Podcasts | <img src="https://edent.github.io/SuperTinyIcons/images/svg/applepodcasts.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/applepodcasts.svg" width="256"> | https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html
 appwrite | <img src="https://edent.github.io/SuperTinyIcons/images/svg/appwrite.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/appwrite.svg" width="256"> | https://appwrite.io/assets
 Arch Linux | <img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/arch_linux.svg" width="256"> | https://commons.wikimedia.org/wiki/File:Archlinux-icon-crystal-64.svg
+arduino | <img src="https://edent.github.io/SuperTinyIcons/images/svg/arduino.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/arduino.jpg" width="256"> | https://www.arduino.cc/en/trademark/
 Atom | <img src="https://edent.github.io/SuperTinyIcons/images/svg/atom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/atom.png" width="256"> | https://atom.io/
 Auth0 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/auth0.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/auth0.svg" width="256"> | https://auth0.com/blog/branding-updates/
 Authy | <img src="https://edent.github.io/SuperTinyIcons/images/svg/authy.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/authy.svg" width="256"> | https://support.authy.com/hc/en-us#
@@ -445,4 +446,3 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
-arduino | <img src="https://edent.github.io/SuperTinyIcons/images/svg/arduino.svg" width="256" /> | arduino.svg 
