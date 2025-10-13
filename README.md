@@ -123,7 +123,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>CoffeeScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coffeescript.svg" width="100" title="CoffeeScript"><br>513 bytes</td>
 <td>Coil<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coil.svg" width="100" title="Coil"><br>500 bytes</td>
-<td>coinpot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coinpot.svg" width="100" title="coinpot"><br>710 bytes</td>
+<td>coinpot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coinpot.svg" width="100" title="coinpot"><br>722 bytes</td>
 <td>Google Colab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/colaboratory.svg" width="100" title="Google Colab"><br>373 bytes</td>
 <td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="100" title="C++"><br>666 bytes</td>
 <td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="100" title="Crystal"><br>214 bytes</td>
@@ -222,7 +222,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>GeeksForGeeks<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/geeksForGeeks.svg" width="100" title="GeeksForGeeks"><br>514 bytes</td>
 <td>Gemini<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gemini.svg" width="100" title="Gemini"><br>614 bytes</td>
-<td>Ghost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="100" title="Ghost"><br>244 bytes</td>
+<td>Ghost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ghost.svg" width="100" title="Ghost"><br>256 bytes</td>
 <td>Git<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/git.svg" width="100" title="Git"><br>365 bytes</td>
 <td>Gitea<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gitea.svg" width="100" title="Gitea"><br>748 bytes</td>
 <td>GitHub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" title="GitHub"><br>514 bytes</td>
