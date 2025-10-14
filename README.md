@@ -591,7 +591,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Tumblr<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tumblr.svg" width="100" title="Tumblr"><br>255 bytes</td>
 <td>TuneIn<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tunein.svg" width="100" title="TuneIn"><br>574 bytes</td>
-<td>TutaLogo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tuta.svg" width="100" title="TutaLogo"><br>325 bytes</td>
+<td>Tuta<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tuta.svg" width="100" title="Tuta"><br>321 bytes</td>
 <td>Tutanota<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tutanota.svg" width="100" title="Tutanota"><br>526 bytes</td>
 <td>Twilio<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twilio.svg" width="100" title="Twilio"><br>315 bytes</td>
 <td>Twitch<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/twitch.svg" width="100" title="Twitch"><br>275 bytes</td>
