@@ -612,7 +612,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Unreal Engine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/unreal.svg" width="100" title="Unreal Engine"><br>959 bytes</td>
 <td>Untappd<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/untappd.svg" width="100" title="Untappd"><br>399 bytes</td>
 <td>Uphold<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uphold.svg" width="100" title="Uphold"><br>803 bytes</td>
-<td>UPI<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/upi.svg" width="100" title="UPI"><br>251 bytes</td>
+<td>UPI<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/upi.svg" width="100" title="UPI"><br>246 bytes</td>
 </tr>
 
 <tr>
