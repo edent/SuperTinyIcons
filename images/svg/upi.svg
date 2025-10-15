@@ -1,4 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="UPI">
- <polygon fill="#388e3c" points="309,42 192,470 426,256"/>
- <polygon fill="#f57c00" points="223,32 106,460 340,246"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="UPI" role="img"
+viewBox="0 0 512 512"><path d="M309 42 L192 470 L426 256 Z" fill="#388e3c"/><path d="M223 32 L106 460 L340 246 Z" fill="#f57c00"/></svg>
