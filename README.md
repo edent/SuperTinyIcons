@@ -269,7 +269,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Google+<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_plus.svg" width="100" title="Google+"><br>384 bytes</td>
 <td>Google Podcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_podcasts.svg" width="100" title="Google Podcasts"><br>449 bytes</td>
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="100" title="Google Scholar"><br>521 bytes</td>
-<td>Google Wallet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_wallet.svg" width="100" title="Google Wallet"><br>515 bytes</td>
+<td>Google Wallet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_wallet.svg" width="100" title="Google Wallet"><br>514 bytes</td>
 <td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="100" title="Gradle"><br>658 bytes</td>
 </tr>
 
