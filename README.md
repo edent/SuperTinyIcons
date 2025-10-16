@@ -666,7 +666,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>WordPress<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/wordpress.svg" width="100" title="WordPress"><br>488 bytes</td>
 <td>Workato<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/workato.svg" width="100" title="Workato"><br>362 bytes</td>
 <td>X<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/x.svg" width="100" title="X"><br>287 bytes</td>
-<td>X11<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/x11.svg" width="100" title="X11"><br>756 bytes</td>
+<td>X11<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/x11.svg" width="100" title="X11"><br>659 bytes</td>
 </tr>
 
 <tr>
