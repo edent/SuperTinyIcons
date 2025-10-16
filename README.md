@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 437 icons and the average size is _under_ 531 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 437 icons and the average size is _under_ 530 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -495,7 +495,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>RedHat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redhat.svg" width="100" title="RedHat"><br>538 bytes</td>
 <td>Replit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/replit.svg" width="100" title="Replit"><br>535 bytes</td>
 <td>Research Gate<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="100" title="Research Gate"><br>870 bytes</td>
-<td>Centered Logo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/riot.svg" width="100" title="Centered Logo"><br>637 bytes</td>
+<td>Riot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/riot.svg" width="100" title="Riot"><br>389 bytes</td>
 </tr>
 
 <tr>
