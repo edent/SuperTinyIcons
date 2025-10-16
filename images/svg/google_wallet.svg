@@ -2,4 +2,4 @@
 aria-label="Google Wallet" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><path id="a" d="M446 195c0 7-4 12-10 12H75c-6 0-11-6-11-12V131c0-37 27-67 61-67H385c34 0 61 30 61 67v64"/><use href="#a" fill="#34a853"/><use href="#a" transform="translate(0,56)" fill="#fbbc04"/><use href="#a" transform="translate(0,112)" fill="#ea4335"/><path d="M307 276c28 7 58 0 81-18l58-47v143c0 37-27 67-61 67H125c-34 0-61-30-61-67V214l243 62" fill="#4285f4"/></svg>
+fill="#fff"/><path id="a" d="M413 217c0 6-3 10-8 10h-296c-5 0-9-5-9-10V165c0-30 22-55 50-55H363c28 0 50 25 50 55v52"/><use href="#a" fill="#34a853"/><use href="#a" transform="translate(0,56)" fill="#fbbc04"/><use href="#a" transform="translate(0,112)" fill="#ea4335"/><path d="M299 283c23 6 48 0 66-15l48-38v117c0 30-22 55-50 55H149c-28 0-50-25-50-55V233l200 51" fill="#4285f4"/></svg>
