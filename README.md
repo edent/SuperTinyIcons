@@ -257,7 +257,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="100" title="Google Drive"><br>298 bytes</td>
-<td>Google Find Hub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_findhub.svg" width="100" title="Google Find Hub"><br>776 bytes</td>
+<td>Google Find Hub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_findhub.svg" width="100" title="Google Find Hub"><br>775 bytes</td>
 <td>Google Fit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_fit.svg" width="100" title="Google Fit"><br>893 bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="100" title="Google Maps"><br>553 bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="100" title="Google Maps"><br>634 bytes</td>
