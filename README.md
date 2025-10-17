@@ -1,10 +1,6 @@
 # Super Tiny Icons
 
-<<<<<<< HEAD
 Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 444 icons and the average size is _under_ 524 bytes!
-=======
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 444 icons and the average size is _under_ 524 bytes!
->>>>>>> upstream/master
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -18,16 +14,16 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 
 ## Hacktoberfest!
 
-This project welcomes Hacktoberfest participants.  All we ask is that you:
+This project welcomes Hacktoberfest participants. All we ask is that you:
 
-* ✅ Make your logo *under* 1,024 bytes.
-* ✅ Follow the [Contributing Guidance](CONTRIBUTING.md).
-* ✅ Be friendly to other participants.
-* ✅ Choose a logo which is highly recognisable.
-* ❌ Don't use AI. That means no ChatGPT, Gemini, Claude, etc. This is your opportunity to learn.
-* ❌ Don't [change the HTML](https://github.com/edent/SuperTinyIcons/pull/870)
-* ❌ Don't send [broken logos](https://github.com/edent/SuperTinyIcons/pull/868)
-* ❌ Don't [ignore the guidelines](https://github.com/edent/SuperTinyIcons/pull/809)
+- ✅ Make your logo _under_ 1,024 bytes.
+- ✅ Follow the [Contributing Guidance](CONTRIBUTING.md).
+- ✅ Be friendly to other participants.
+- ✅ Choose a logo which is highly recognisable.
+- ❌ Don't use AI. That means no ChatGPT, Gemini, Claude, etc. This is your opportunity to learn.
+- ❌ Don't [change the HTML](https://github.com/edent/SuperTinyIcons/pull/870)
+- ❌ Don't send [broken logos](https://github.com/edent/SuperTinyIcons/pull/868)
+- ❌ Don't [ignore the guidelines](https://github.com/edent/SuperTinyIcons/pull/809)
 
 If you do not follow the instructions, your contribution will be marked as spam and you will be disqualified from Hacktoberfest.
 
