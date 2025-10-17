@@ -451,3 +451,4 @@ Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.sv
 
 Name | Icon | Filename
 -|-|-
+Google Find Hub | <img src="https://edent.github.io/SuperTinyIcons/images/svg/googlefindhub.svg" width="256" /> | googlefindhub.svg 
