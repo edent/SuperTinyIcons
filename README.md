@@ -1,6 +1,10 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 443 icons and the average size is _under_ 525 bytes!
+<<<<<<< HEAD
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 444 icons and the average size is _under_ 524 bytes!
+=======
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 444 icons and the average size is _under_ 524 bytes!
+>>>>>>> upstream/master
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -257,7 +261,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>Google Drive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_drive_old.svg" width="100" title="Google Drive"><br>298 bytes</td>
-<td>Google Find Hub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_findhub.svg" width="100" title="Google Find Hub"><br>775 bytes</td>
+<td>Google Find Hub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_findhub.svg" width="100" title="Google Find Hub"><br>684 bytes</td>
 <td>Google Fit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_fit.svg" width="100" title="Google Fit"><br>893 bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps.svg" width="100" title="Google Maps"><br>553 bytes</td>
 <td>Google Maps<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_maps_old.svg" width="100" title="Google Maps"><br>634 bytes</td>
@@ -690,8 +694,9 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Yii<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yii.svg" width="100" title="Yii"><br>763 bytes</td>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="100" title="YouTube"><br>333 bytes</td>
+<td>Youtube Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="100" title="Youtube Music"><br>346 bytes</td>
 <td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="100" title="Yubico"><br>250 bytes</td>
-<td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="100" title="Zoom"><br>515 bytes</td>
+<td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="100" title="Zoom"><br>635 bytes</td>
 <td>Zorinos<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="100" title="Zorinos"><br>254 bytes</td>
 </tr>
 
