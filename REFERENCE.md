@@ -449,7 +449,7 @@ Yii | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yii.svg" width
 YouTube | <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/youtube.svg" width="256"> | https://www.youtube.com/intl/en/yt/about/brand-resources/#logos-icons-colors
 Youtube Music | <img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/ytmusic.png" width="256"> | https://music.youtube.com/img/on_platform_logo_dark.svg
 Yubico | <img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/yubico.png" width="256"> | https://github.com/Yubico/yubikey-manager-qt/blob/master/resources/icons/ykman.png
-Zoom | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zoom.png" width="256"> | https://www.zoom.us/
+Zoom | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zoom.png" width="256"> | https://brand.zoom.com/
 Zorinos | <img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="256" /> | <img src="https://edent.github.io/SuperTinyIcons/images/reference/zorinos.png" width="256"> | https://zorin.com/press/
 <h2>No Reference Image Found</h2>
 
