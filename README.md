@@ -467,7 +467,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Plausible<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/plausible.svg" width="100" title="Plausible"><br>960 bytes</td>
 <td>PlayStation<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/playstation.svg" width="100" title="PlayStation"><br>515 bytes</td>
 <td>Plex<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/plex.svg" width="100" title="Plex"><br>205 bytes</td>
-<td>Pnpm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pnpm.svg" width="100" title="Pnpm"><br>1018 bytes</td>
+<td>Pnpm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pnpm.svg" width="100" title="Pnpm"><br>903 bytes</td>
 <td>Pocket<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocket.svg" width="100" title="Pocket"><br>293 bytes</td>
 </tr>
 
