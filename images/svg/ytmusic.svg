@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Youtube Music" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><g transform="scale(2.909)"><circle cx="88" cy="88" r="88" fill="red"/><circle cx="88" cy="88" r="44" stroke="white" stroke-width="4" fill="none"/><polygon fill="#fff" points="72,111 111,87 72,65"/></g></svg>
