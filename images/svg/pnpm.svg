@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Pnpm" role="img"
 viewBox="0 0 512 512"><path
-d="M66 66 h120 v120 h-120 Z"
-fill="#F9AD00"/><path d="M196 66 h120 v120 h-120 Z" fill="#F9AD00"/><path d="M326 66 h120 v120 h-120 Z" fill="#F9AD00"/><path d="M196 196 h120 v120 h-120 Z" fill="#4E4E4E"/><path d="M326 196 h120 v120 h-120 Z" fill="#F9AD00"/><path d="M66 326 h120 v120 h-120 Z" fill="#4E4E4E"/><path d="M196 326 h120 v120 h-120 Z" fill="#4E4E4E"/><path d="M326 326 h120 v120 h-120 Z" fill="#4E4E4E"/></svg>
+d="M66 66h120v120H66Z M196 66h120v120H196Z M326 66h120v120H326Z M326 196h120v120H326Z"
+fill="#F9AD00"/><path fill="#4E4E4E" d="M196 196h120v120H196Z M66 326h120v120H66Z M196 326h120v120H196Z M326 326h120v120H326Z"/></svg>
