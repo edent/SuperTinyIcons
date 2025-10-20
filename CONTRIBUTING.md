@@ -29,15 +29,6 @@ fill="#fff"/> ... </svg>
 
 You can shrink the file size using tools like [Yann Armelin's SVG Path Editor](https://yqnn.github.io/svg-path-editor/), or [svgo](https://github.com/svg/svgo), or [svgcleaner](https://github.com/RazrFalcon/svgcleaner).
 
-## Edit Readme
-
-You will need to update the README. To do this, run:
-
-`python3 update_readme.py`
-
-This will update the average file size at the top of the file as well as regenerate the table of icons.
-It will also update the REFERENCE.md and CHECK.html files.
-
 ## Other files
 
 Additionally, you can do these helpful things if you have time:
