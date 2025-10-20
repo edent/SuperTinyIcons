@@ -52,10 +52,10 @@ Say thanks!<br>
   {% for samp in 'firefox', 'flickr', 'github', 'jsonfeed', 'safari', 'twitter' %}
    <div>
     <span><img alt="" src="images/reference/{{ refs[samp].filename }}"></span>
-    <samp>{{ refs[samp].filename.rpartition(".")[-1].upper() }} {{ "{:_}".format(refs[samp].size).replace("_", "\u2009") }}&nbsp;B</samp>
+    <samp>{{ refs[samp].filename.rpartition(".")[-1].upper() }} {{ "{:_}".format(refs[samp].size).replace("_", ",") }}&nbsp;Bytes</samp>
     <span><img alt="" src="images/svg/{{ icons[samp].name }}.svg"></span>
-    <samp>{{ "{:_}".format(icons[samp].size).replace("_", "\u2009") }}&nbsp;B</samp>
-    <span><var>{{ "{:.2f}".format(icons[samp].size / refs[samp].size * 100) }}&nbsp;%</var> of the original<br><var>{{ "{:_}".format(refs[samp].size - icons[samp].size).replace("_", "\u2009") }}&nbsp;B</var> saved</span>
+    <samp>{{ "{:_}".format(icons[samp].size).replace("_", ",") }}&nbsp;Bytes</samp>
+    <span><var>{{ "{:.2f}".format(icons[samp].size / refs[samp].size * 100) }}&nbsp;%</var> of the original<br><var>{{ "{:_}".format(refs[samp].size - icons[samp].size).replace("_", ",") }}&nbsp;Bytes</var> saved</span>
    </div>
  {%  endfor %}
   </div>

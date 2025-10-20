@@ -14,11 +14,11 @@
   fetch("atlas.svg", { cache: "force-cache" })
    .then((response) => response.text())
    .then((data) => {
-    let size = Number(data.length).toString().replace(/\B(?=(\d{3})+(?!\d))/g, "\u2009");
+    let size = Number(data.length).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
     const container = document.querySelector(".atlas");
     const parser = new DOMParser();
     let tiles = parser.parseFromString(data, "image/svg+xml").querySelectorAll("svg svg");
-    container.querySelector("p").insertAdjacentHTML("afterend", `<p>The <a href="atlas.svg"><b>whole</b> library</a> weight only <var>${size}&nbsp;B</var> (uncompressed) for <var>${tiles.length}</var> icons!</p>`);
+    container.querySelector("p").insertAdjacentHTML("afterend", `<p>The <a href="atlas.svg"><b>whole</b> library</a> weight only <var>${size}&nbsp;Bytes</var> (uncompressed) for <var>${tiles.length}</var> icons!</p>`);
     let table = container.querySelector("table tbody");
     for (let i = 0; i < 10; ++i) {
      let tile = tiles[Math.floor(Math.random()*tiles.length)];
