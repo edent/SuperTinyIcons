@@ -502,7 +502,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React"><br>339 bytes</td>
 <td>Reddit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="100" title="Reddit"><br>592 bytes</td>
 <td>RedHat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redhat.svg" width="100" title="RedHat"><br>534 bytes</td>
-<td>Redis<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redis.svg" width="100" title="Redis"><br>463 bytes</td>
+<td>Redis<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redis.svg" width="100" title="Redis"><br>511 bytes</td>
 <td>Replit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/replit.svg" width="100" title="Replit"><br>531 bytes</td>
 <td>Research Gate<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="100" title="Research Gate"><br>866 bytes</td>
 </tr>
