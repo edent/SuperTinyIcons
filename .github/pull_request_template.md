@@ -1,6 +1,7 @@
 Thank you for your contribution!  Before sending this Pull Request, please confirm the following:
 
-* [ ] You have read [the contributing guidelines](https://github.com/edent/SuperTinyIcons/blob/master/CONTRIBUTING.md)
+* [ ] I have read [the contributing guidelines](https://github.com/edent/SuperTinyIcons/blob/master/CONTRIBUTING.md)
+* [ ] I have run `python check.py` and received a ✅
 * [ ] The icon's size is *under* 1,024 Bytes
 * [ ] The layout of the SVG looks like this *including* newlines
 ```svg

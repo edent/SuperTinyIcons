@@ -126,64 +126,65 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Coil<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coil.svg" width="100" title="Coil"><br>500 bytes</td>
 <td>coinpot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coinpot.svg" width="100" title="coinpot"><br>722 bytes</td>
 <td>Google Colab<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/colaboratory.svg" width="100" title="Google Colab"><br>373 bytes</td>
-<td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="100" title="C++"><br>666 bytes</td>
+<td>Coursera<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/coursera.svg" width="100" title="Coursera"><br>295 bytes</td>
 </tr>
 
 <tr>
+<td>C++<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="100" title="C++"><br>666 bytes</td>
 <td>Crystal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/crystal.svg" width="100" title="Crystal"><br>214 bytes</td>
 <td>CSS3<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="100" title="CSS3"><br>384 bytes</td>
 <td>Dart<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dart.svg" width="100" title="Dart"><br>545 bytes</td>
 <td>DataCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="100" title="DataCamp"><br>476 bytes</td>
 <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="100" title="Debian"><br>922 bytes</td>
-<td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="100" title="Deezer"><br>679 bytes</td>
 </tr>
 
 <tr>
+<td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="100" title="Deezer"><br>679 bytes</td>
 <td>Delicious<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/delicious.svg" width="100" title="Delicious"><br>259 bytes</td>
 <td>dev.to<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="100" title="dev.to"><br>521 bytes</td>
 <td>DeviantArt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deviantart.svg" width="100" title="DeviantArt"><br>263 bytes</td>
 <td>Digidentity<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/digidentity.svg" width="100" title="Digidentity"><br>366 bytes</td>
 <td>DigitalOcean<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/digitalocean.svg" width="100" title="DigitalOcean"><br>244 bytes</td>
-<td>Discord<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="100" title="Discord"><br>345 bytes</td>
 </tr>
 
 <tr>
+<td>Discord<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="100" title="Discord"><br>345 bytes</td>
 <td>Disqus<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/disqus.svg" width="100" title="Disqus"><br>259 bytes</td>
 <td>Django Project<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/djangoproject.svg" width="100" title="Django Project"><br>428 bytes</td>
 <td>Docker<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/docker.svg" width="100" title="Docker"><br>416 bytes</td>
 <td>Draw.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drawio.svg" width="100" title="Draw.io"><br>425 bytes</td>
 <td>Dribble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="100" title="Dribble"><br>365 bytes</td>
-<td>Drone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drone.svg" width="100" title="Drone"><br>291 bytes</td>
 </tr>
 
 <tr>
+<td>Drone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drone.svg" width="100" title="Drone"><br>291 bytes</td>
 <td>Dropbox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dropbox.svg" width="100" title="Dropbox"><br>246 bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drupal.svg" width="100" title="Drupal"><br>857 bytes</td>
 <td>Drupal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/druplicon.svg" width="100" title="Drupal"><br>842 bytes</td>
 <td>DuckDuckGo<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/duckduckgo.svg" width="100" title="DuckDuckGo"><br>877 bytes</td>
 <td>Electronic Arts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ea.svg" width="100" title="Electronic Arts"><br>279 bytes</td>
-<td>eBay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ebay.svg" width="100" title="eBay"><br>800 bytes</td>
 </tr>
 
 <tr>
+<td>eBay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ebay.svg" width="100" title="eBay"><br>800 bytes</td>
 <td>Ecosia<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ecosia.svg" width="100" title="Ecosia"><br>776 bytes</td>
 <td>Edge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/edge.svg" width="100" title="Edge"><br>1013 bytes</td>
 <td>elastic<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elastic.svg" width="100" title="elastic"><br>695 bytes</td>
 <td>Element<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/element.svg" width="100" title="Element"><br>414 bytes</td>
 <td>Elementary OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/elementaryos.svg" width="100" title="Elementary OS"><br>451 bytes</td>
-<td>Email<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="100" title="Email"><br>326 bytes</td>
 </tr>
 
 <tr>
+<td>Email<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="100" title="Email"><br>326 bytes</td>
 <td>Endeavour OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/endeavouros.svg" width="100" title="Endeavour OS"><br>622 bytes</td>
 <td>Ente Auth<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ente_auth.svg" width="100" title="Ente Auth"><br>574 bytes</td>
 <td>ePub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/epub.svg" width="100" title="ePub"><br>308 bytes</td>
 <td>Espressif<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/espressif.svg" width="100" title="Espressif"><br>577 bytes</td>
 <td>Ethereum<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="100" title="Ethereum"><br>381 bytes</td>
-<td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="100" title="Etsy"><br>462 bytes</td>
 </tr>
 
 <tr>
+<td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="100" title="Etsy"><br>462 bytes</td>
 <td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="100" title="Evernote"><br>613 bytes</td>
 <td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="100" title="ExpressionEngine"><br>628 bytes</td>
 <td>Express Js<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressjs.svg" width="100" title="Express Js"><br>633 bytes</td>
