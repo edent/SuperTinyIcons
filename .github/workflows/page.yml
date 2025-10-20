@@ -36,13 +36,15 @@ jobs:
       - name: "Set up Python"
         uses: actions/setup-python@v6
         with:
-          python-version-file: ".python-version"
+          python-version-file: ".github/.python-version"
       - name: Generate pages
         run: uv run -- sti -o _site
       - name: Copy images
         run: cp -at _site/ images
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
+      - name: Generate Readme
+        run: uv run .github/generate_readme.py
 
   # Deployment job
   deploy:
