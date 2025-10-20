@@ -711,7 +711,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Yelp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yelp.svg" width="100" title="Yelp"><br>448 bytes</td>
 <td>Yii<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yii.svg" width="100" title="Yii"><br>763 bytes</td>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="100" title="YouTube"><br>333 bytes</td>
-<td>Youtube Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="100" title="Youtube Music"><br>346 bytes</td>
+<td>Youtube Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="100" title="Youtube Music"><br>324 bytes</td>
 </tr>
 
 <tr>
