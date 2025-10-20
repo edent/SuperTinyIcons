@@ -566,7 +566,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Sublime Merge<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimemerge.svg" width="100" title="Sublime Merge"><br>551 bytes</td>
 <td>Sublime Text<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/sublimetext.svg" width="100" title="Sublime Text"><br>589 bytes</td>
 <td>SubscribeStar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/subscribestar.svg" width="100" title="SubscribeStar"><br>584 bytes</td>
-<td>Supabase<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/supabase.svg" width="100" title="Supabase"><br>845 bytes</td>
+<td>Supabase<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/supabase.svg" width="100" title="Supabase"><br>776 bytes</td>
 <td>Svelte<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/svelte.svg" width="100" title="Svelte"><br>470 bytes</td>
 </tr>
 
