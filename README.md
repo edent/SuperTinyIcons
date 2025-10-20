@@ -472,7 +472,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
-<td>Pnpm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pnpm.svg" width="100" title="Pnpm"><br>318 bytes</td>
+<td>Pnpm<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pnpm.svg" width="100" title="Pnpm"><br>455 bytes</td>
 <td>Pocket<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocket.svg" width="100" title="Pocket"><br>293 bytes</td>
 <td>Pocket Casts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pocketcasts.svg" width="100" title="Pocket Casts"><br>263 bytes</td>
 <td>Pop!_OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/popos.svg" width="100" title="Pop!_OS"><br>427 bytes</td>
