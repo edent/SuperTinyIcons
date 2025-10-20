@@ -24,6 +24,8 @@ for svg_file in svg_list:
 	bytes    = os.stat(f'{svg_dir}{svg_file}').st_size
 	total_bytes += bytes
 
+	print(f"{name} {bytes}")
+
 	if counter == 0 :
 		readme_table += "<tr>\n"
 		
@@ -44,6 +46,8 @@ readme_table += "</table>"
 
 #	Calculate the number of icons and average size
 readme_summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
+
+print(readme_summary_text)
 
 #	Replace the table in README with the new one
 with open(f"{parent_dir}/README.md",'r+', encoding="utf-8") as f: 
