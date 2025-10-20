@@ -1,7 +1,7 @@
 Thanks for submitting or fixing an icon! Here is a helpful guide to what you need to include.
 
 - [ ] New file which is *under* 1,024 bytes
-- [ ] Run `python3 update_readme.py`
+- [ ] Which matches the guidelines
 
 ## Hacktoberfest - Important!
 
