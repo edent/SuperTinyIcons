@@ -2,14 +2,15 @@ import os
 import xml.etree.ElementTree as ET
 import re
 import sys
+from pathlib import Path
 
 table_columns = 6
 img_domain = "https://edent.github.io/SuperTinyIcons/images/svg/"
-svg_dir = "../images/svg/"
-print(svg_dir)
+parent_dir = Path(".").parent.absolute()
+svg_dir = f"{parent_dir}/images/svg/"
+print(f"Getting SVGs from {svg_dir}")
 
 svg_list = sorted(os.listdir( svg_dir ))
-print( svg_list )
 svg_data = {}
 total_bytes = 0
 
@@ -22,7 +23,6 @@ for svg_file in svg_list:
 	name     = ET.parse(f'{svg_dir}{svg_file}').getroot().attrib["aria-label"]
 	bytes    = os.stat(f'{svg_dir}{svg_file}').st_size
 	total_bytes += bytes
-	print(f"{name} {bytes}")
 
 	if counter == 0 :
 		readme_table += "<tr>\n"
@@ -46,7 +46,7 @@ readme_table += "</table>"
 readme_summary_text = f"There are currently {len(svg_list)} icons and the average size is _under_ {round(total_bytes / len(svg_list))} bytes!"
 
 #	Replace the table in README with the new one
-with open('../README.md','r+', encoding="utf-8") as f: 
+with open(f"{parent_dir}/README.md",'r+', encoding="utf-8") as f: 
 	file = f.read() 
 	
 	file = re.sub(r"(?s)<table>.*?</table>", readme_table, file)
