@@ -45,6 +45,13 @@ jobs:
         uses: actions/upload-pages-artifact@v4
       - name: Generate Readme
         run: uv run .github/generate_readme.py
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README [skip ci]" || echo "No changes to commit"
+          git push
 
   # Deployment job
   deploy:
