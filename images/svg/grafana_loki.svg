@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Loki" role="img"
+viewBox="0 0 512 512"><defs><linearGradient
+id="g"
+x2="0" y2="1"><stop
+offset="0" stop-color="#f05f2d"/><stop
+offset="1" stop-color="#f8d420"/></linearGradient></defs><path
+d="m0 0H512V512H0"
+fill="#fff"/><path
+fill="url(#g)"
+transform="rotate(-8.7, 256, 256)"
+d="M162 406h-26v-26h26m15 0v26h26v-26m15 0v26h26v-26m15 0h116v26H259m0-41h116v-26H259m-15 0v26h-26v-26m-15 0v26h-26v-26m-15 0v26h-26v-26m0-15V114h11v210m4 0V99h11v225m15 0V85h10v239m4 0V107h10v217m15 0V131h10v193m4 0V124h10v200"/></svg>
