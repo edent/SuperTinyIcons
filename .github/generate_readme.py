@@ -49,12 +49,13 @@ readme_summary_text = f"There are currently {len(svg_list)} icons and the averag
 
 print(readme_summary_text)
 
-#	Replace the table in README with the new one
+#	Replace the table and desciption in README with the new ones
 with open(f"{parent_dir}/README.md",'r+', encoding="utf-8") as f: 
 	file = f.read() 
 	
-	file = re.sub(r"(?s)<table>.*?</table>", readme_table, file)
 	file = re.sub(r"There are currently \d* icons and the average size is _under_ \d* bytes\!", readme_summary_text, file) 
+
+	file = re.sub(r"(?s)<table>.*?</table>", readme_table, file)
 
 	f.seek(0)
 	f.write(file)

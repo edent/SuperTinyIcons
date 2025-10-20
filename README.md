@@ -8,8 +8,8 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 
 ## How Small?
 
-| 527 Bytes SVG                                                                          | 3,328 Bytes PNG                                                                        | 352 Bytes SVG                                                                           | 2,987 Bytes PNG                                                                         | 235 Bytes SVG                                                                          | 1,615 Bytes PNG                                                                        |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 527 Bytes SVG | 3,328 Bytes PNG | 352 Bytes SVG | 2,987 Bytes PNG | 235 Bytes SVG | 1,615 Bytes PNG |
+| ------------- | --------------- | ------------- | --------------- | ------------- | --------------- |
 | <img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/github.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/twitter.png" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/svg/flickr.svg" width="100" /> | <img src="https://edent.github.io/SuperTinyIcons/images/png/flickr.png" width="100" /> |
 
 ## Hacktoberfest!
