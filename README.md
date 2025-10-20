@@ -116,7 +116,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Clojure<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/clojure.svg" width="100" title="Clojure"><br>560 bytes</td>
 <td>Cloudflare<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cloudflare.svg" width="100" title="Cloudflare"><br>478 bytes</td>
 <td>Codeberg<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codeberg.svg" width="100" title="Codeberg"><br>463 bytes</td>
-<td>Codeforces<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codeforces.svg" width="100" title="Codeforces"><br>501 bytes</td>
+<td>Codeforces<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codeforces.svg" width="100" title="Codeforces"><br>487 bytes</td>
 <td>CodePen<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/codepen.svg" width="100" title="CodePen"><br>303 bytes</td>
 </tr>
 
