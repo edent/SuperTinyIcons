@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 447 icons and the average size is _under_ 525 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 447 icons and the average size is _under_ 526 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -187,6 +187,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="100" title="Etsy"><br>462 bytes</td>
 <td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="100" title="Evernote"><br>613 bytes</td>
 <td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="100" title="ExpressionEngine"><br>628 bytes</td>
+<td>Express Js<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressjs.svg" width="100" title="Express Js"><br>633 bytes</td>
 <td>F-Droid<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/f-droid.svg" width="100" title="F-Droid"><br>960 bytes</td>
 <td>Facebook<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="100" title="Facebook"><br>258 bytes</td>
 <td>Fediverse<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/fediverse.svg" width="100" title="Fediverse"><br>1003 bytes</td>
