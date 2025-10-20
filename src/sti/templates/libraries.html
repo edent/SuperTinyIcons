@@ -22,7 +22,7 @@
     let table = container.querySelector("table tbody");
     for (let i = 0; i < 10; ++i) {
      let tile = tiles[Math.floor(Math.random()*tiles.length)];
-     let sample = `<img alt="${tile.ariaLabel}" height="32" width="32" src="atlas.svg#${tile.id}">\n`;
+     let sample = `<img alt="${tile.ariaLabel}" height="64" width="64" src="atlas.svg#${tile.id}">\n`;
      table.insertAdjacentHTML("beforeend", `<tr><td><code>${sample.replace(/</g, "&lt;")}</code></td><td>${sample}</td></tr>\n`)
     }
   });
@@ -44,8 +44,8 @@
   </thead>
   <tbody>
   <tr>
-   <td><code>&lt;img alt="Acast" height="32" src="atlas.svg#acast"&gt;</code></td>
-   <td><img alt="Acast" height="32" width="32" src="atlas.svg#acast"></td>
+   <td><code>&lt;img alt="Acast" height="64" src="atlas.svg#acast"&gt;</code></td>
+   <td><img alt="Acast" height="64" width="64" src="atlas.svg#acast"></td>
   </tr>
   </tbody>
  </table>
