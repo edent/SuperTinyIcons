@@ -1,7 +1,10 @@
 Thanks for submitting or fixing an icon! Here is a helpful guide to what you need to include.
 
-- [ ] New file which is *under* 1,024 bytes
-- [ ] Run `python3 update_readme.py`
+- [ ] New file which is *under* 1,024 bytes.
+- [ ] Which matches the guidelines.
+- [ ] Add reference image.
+- [ ] Add official brand guidelines URl.
+- [ ] Run `python check.py` to makes sure everything is correct.
 
 ## Hacktoberfest - Important!
 
@@ -27,23 +30,11 @@ fill="#fff"/> ... </svg>
 
 ## Shrinking
 
-You can shrink the file size using tools like [Yann Armelin's SVG Path Editor](https://yqnn.github.io/svg-path-editor/), or [svgo](https://github.com/svg/svgo), or [svgcleaner](https://github.com/RazrFalcon/svgcleaner).
-
-## Edit Readme
-
-You will need to update the README. To do this, run:
-
-`python3 update_readme.py`
-
-This will update the average file size at the top of the file as well as regenerate the table of icons.
-It will also update the REFERENCE.md and CHECK.html files.
-
-## Other files
-
-Additionally, you can do these helpful things if you have time:
-- [ ] Add reference image
-- [ ] Add official brand guidelines URl
-- [ ] Android Image
+You can shrink the file size using tools like:
+* [Yann Armelin's SVG Path Editor](https://yqnn.github.io/svg-path-editor/).
+* [svgo](https://svgo.dev/).
+* [svgcleaner](https://github.com/RazrFalcon/svgcleaner).
+* [SVGOMG](https://svgomg.net/).
 
 ### Guidelines
 
@@ -64,7 +55,6 @@ This is the standard guideline. Use this to help with sizing your icons and they
 * Add the brand guidelines URl in a new file within `/images/svg/`
    * For example, create a file called `/images/reference/nameofservice.url` with the contents `https://example.com/brand-guidelines`
 
-
 ## (Optional) Create Android Version
 
 To convert in Android Studio, go to Tools ➡ Resource Manager ➡ Drawable ➡ + ➡ Import Drawables ➡ then select the SVGs.
@@ -76,16 +66,3 @@ See: https://issuetracker.google.com/issues/176694227
 Or, use https://inloop.github.io/svg2android/ to create an Android-compatible XML file.
 
 Add the file to `/images/android-vector-drawable/`
-
-## Technical
-
-Please keep the whitespace as-is. This makes viewing diffs easier. Please use UNIX line-endings `LF` rather than Windows-style `CRLF`.
-
-If you can, remove the end of line at the end of the file:
-* VIm: `:set noeol` (optionally `:set nofixendofline`)
-* perl: `perl -pi -e 'chomp if eof' $filename`
-* shell: `printf %s "$(cat $filename)" > filename-without-nl.svg`
-
-Please remove any trailing newlines from the file with:
-
-`sed -i -z s/\\n$// filename.svg`
