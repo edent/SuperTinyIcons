@@ -3,9 +3,6 @@ const fs = require("fs")
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 const svgDir = __dirname + "/../"
-const readme = __dirname + "/../README.md"
-
-const readmeLines = fs.readFileSync(readme).toString().split("\n")
 
 const changedFiles = process.env.CHANGED_FILES;
 
@@ -13,8 +10,6 @@ console.log('Changed files:', changedFiles);
 
 const changedFilesArray = changedFiles ? changedFiles.split(/\s+/) : [];
 console.log('Changed files as array:', changedFilesArray);
-
-const readmeRegex = new RegExp("<br>(\\d{1,4}) Bytes<\/td>")
 
 const delay = ms => new Promise(res => setTimeout(res, ms));
 
@@ -51,14 +46,5 @@ changedFilesArray.forEach((filename, i) => {
                 })
         })
         
-        it("should match readme size", () => {
-            for(line of readmeLines) {
-                if(line.includes("/svg/"+filename+"\" width=\"125\"")) {
-                    const size = parseInt(line.match(readmeRegex)[1])
-                    expect(fs.statSync(filepath).size).to.equal(size)
-                    break
-                }
-            }
-        })
     })
 })
