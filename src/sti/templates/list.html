@@ -55,16 +55,6 @@
 {% endblock %}
 </style>
 
-{% block script %}<script>
-	const radiusInput = document.getElementById("radius");
-
-	radiusInput.addEventListener("input", (event) => {
-		document.documentElement.style.setProperty("--border-radius",  radiusInput.value + "%");
-	}); 
-	
-</script>
-{% endblock %}
-
 {% block content %}
 <h2>What's Available so far?</h2>
 <div>
@@ -81,4 +71,13 @@
 	{% endfor %}
 </section>
 
+{% endblock %}
+
+{% block script %}<script>
+	const radiusInput = document.getElementById("radius");
+
+	radiusInput.addEventListener("input", (event) => {
+		document.documentElement.style.setProperty("--border-radius",  radiusInput.value + "%");
+	}); 
+</script>
 {% endblock %}
