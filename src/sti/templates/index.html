@@ -2,30 +2,30 @@
 
 <style>
  {%  block style %}{{ super() }}
- article > div > div {
-  align-items:center;
-  display:grid;
-  grid-template-columns: 100px 1fr 100px 1fr 2fr;
-  gap:1ex 1em;
-  padding: 1ex;
-  min-height:100px;
- }
- article > div > div:first-of-type {
-  text-align:center;
-  min-height: auto;
- }
- article > div > div:first-of-type :first-child {
-  grid-column-start: 1;
-  grid-column-end: 3;
- }
- article > div > div:first-of-type :nth-child(2) {
-  grid-column-start: 3;
-  grid-column-end: 5;
- }
+	article > div > div {
+	align-items:center;
+	display:grid;
+	grid-template-columns: 100px 1fr 100px 1fr 2fr;
+	gap:1ex 1em;
+	padding: 1ex;
+	min-height:100px;
+	}
+	article > div > div:first-of-type {
+	text-align:center;
+	min-height: auto;
+	}
+	article > div > div:first-of-type :first-child {
+	grid-column-start: 1;
+	grid-column-end: 3;
+	}
+	article > div > div:first-of-type :nth-child(2) {
+	grid-column-start: 3;
+	grid-column-end: 5;
+	}
 
- article > div > div img {
-  height:100px;
- }
+	article > div > div img {
+	height:100px;
+	}
  {% endblock %}
 </style>
 
