@@ -3,5 +3,3 @@ aria-label="Supabase" role="img"
 viewBox="0 0 512 512"><path
 d="M0 0h512v512H0z"
 fill="#fff"/><defs><linearGradient id="a" x1="258.4" x2="402.4" y1="248" y2="311.2" gradientUnits="userSpaceOnUse"><stop stop-color="#249361"/><stop offset="1" stop-color="#3ECF8E"/></linearGradient><linearGradient id="b" x1="193.6" x2="260.2" y1="162.2" y2="286" gradientUnits="userSpaceOnUse"><stop/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path fill="url(#a)" d="M294 448a18 18 0 0 1-32-11l-4-241h162a36 36 0 0 1 29 58L294 448Z"/><path fill="url(#b)" fill-opacity=".2" d="M294 448a18 18 0 0 1-32-11l-4-241h162a36 36 0 0 1 29 58L294 448Z"/><path fill="#3ECF8E" d="M226 59a18 18 0 0 1 32 11l4 241H100a36 36 0 0 1-29-57L226 59Z"/></svg>
-
-
