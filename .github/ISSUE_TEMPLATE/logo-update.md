@@ -2,7 +2,7 @@
 name: Logo update
 about: Update to an existing icon
 title: "[Update]"
-labels: update
+labels: Update
 assignees: ''
 
 ---
