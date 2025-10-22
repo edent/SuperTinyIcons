@@ -59,9 +59,6 @@ Where possible this links to the organisation's brand guidelines page.</p>
 		{% if refs[ icon.name ] %}
 			{% with ref = refs[ icon.name ] %}
 		<img alt="" class="reference" src="images/reference/{{ ref.filename }}">
-				{% if ref.url %}
-		<a class="url" href="{{ ref.url }}">{{ ref.url }}</a>
-				{% endif %}
 			{% endwith %}
 		{% endif %}
 	</div>
