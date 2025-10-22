@@ -187,7 +187,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Espressif<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/espressif.svg" width="100" title="Espressif"><br>577 bytes</td>
 <td>Ethereum<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ethereum.svg" width="100" title="Ethereum"><br>381 bytes</td>
 <td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="100" title="Etsy"><br>462 bytes</td>
-<td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="100" title="Evernote"><br>613 bytes</td>
+<td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="100" title="Evernote"><br>610 bytes</td>
 <td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="100" title="ExpressionEngine"><br>628 bytes</td>
 <td>Express.js<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressjs.svg" width="100" title="Express.js"><br>633 bytes</td>
 </tr>
