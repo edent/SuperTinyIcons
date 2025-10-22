@@ -189,7 +189,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Etsy<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/etsy.svg" width="100" title="Etsy"><br>462 bytes</td>
 <td>Evernote<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/evernote.svg" width="100" title="Evernote"><br>613 bytes</td>
 <td>ExpressionEngine<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressionengine.svg" width="100" title="ExpressionEngine"><br>628 bytes</td>
-<td>Express.js<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressjs.svg" width="100" title="Express.js"><br>634 bytes</td>
+<td>Express.js<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/expressjs.svg" width="100" title="Express.js"><br>633 bytes</td>
 </tr>
 
 <tr>
@@ -594,7 +594,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Symantec<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.svg" width="100" title="Symantec"><br>596 bytes</td>
 <td>Symfony<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/symfony.svg" width="100" title="Symfony"><br>609 bytes</td>
 <td>taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="100" title="taiga.io"><br>731 bytes</td>
-<td>Tailwind CSS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tailwindCss.svg" width="100" title="Tailwind CSS"><br>537 bytes</td>
+<td>Tailwind CSS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tailwindCss.svg" width="100" title="Tailwind CSS"><br>536 bytes</td>
 </tr>
 
 <tr>
