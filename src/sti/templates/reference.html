@@ -5,7 +5,7 @@
 
 	body#reference section div {
 		display: grid;
-		grid-template-columns: 15em 10em 1fr 1fr;
+		grid-template-columns: 25em 10em 1fr;
 		gap: 1em;
 		align-items: center;
 		border-bottom: 3px ridge skyblue;
@@ -22,9 +22,16 @@
 		padding: 2px;
 	}
 	
-	body#reference section a.url {
+	.url {
 		text-align: left;
 		word-break: break-word;
+	}
+
+	.info {
+		text-align: right;
+	}
+	.label {
+		font-weight: bold;
 	}
 {% endblock %}
 </style>
@@ -32,13 +39,22 @@
 
 {% block content %}
 <h2>Reference Images</h2>
-<p>A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official SVG logo.<br>
+<p>A visual guide to check if the Super Tiny Icons match the shape and colour of organisation's official logo.<br>
 Where possible this links to the organisation's brand guidelines page.</p>
 
 <section>
 	{% for _, icon in icons | dictsort -%}
 	<div>
-		<strong>{{ icon.label }}</strong>
+		<div class="info">
+			<span class="label">{{ icon.label }}</span><br>
+			{% if refs[ icon.name ] %}
+				{% with ref = refs[ icon.name ] %}
+					{% if ref.url %}
+			<a class="url" href="{{ ref.url }}">{{ ref.url }}</a>
+					{% endif %}
+				{% endwith %}
+			{% endif %}
+		</div>
 		<img alt="" class="svg-icon" src="images/svg/{{ icon.name }}.svg">
 		{% if refs[ icon.name ] %}
 			{% with ref = refs[ icon.name ] %}
