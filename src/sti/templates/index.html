@@ -36,6 +36,13 @@
 	#radius {
 		vertical-align: middle;
 	}
+
+	#sticky {
+		position: sticky;
+		top: 0;
+		background: #eee;
+		padding-bottom: 1em;
+	}
  {% endblock %}
 </style>
 
@@ -45,8 +52,8 @@ There are currently <b>{{ icons | length }}</b> icons and the average size is <b
 
 <p>The logos have a 512×512 view box, they will fit in a circle with radius 256. They will scale up and down to suit your needs.</p>
 
-<h2>What's Available so far?</h2>
-<div>
+<div id="sticky">
+	<h2>What's Available so far?</h2>
 	<label for="radius">Change border-radius</label>
 	<input  id="radius" type="range" min="0" max="100" value="0">
 </div>
