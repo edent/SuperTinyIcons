@@ -1,8 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg"
 aria-label="Dolibarr" role="img"
-viewBox="0 0 128 128"><path
+viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
 fill="#263c5c"/><path
-d="M26 23H58C70 23 105 23 105 68 105 99 73 106 62 106H55V82H58C73 82 80 75 80 64 80 53 73 47 58 47H51V106H26Z"
-fill="#fff"/><circle cx="95" cy="33" r="11"
+d="M109 418h96V190h37c74 3 77 45 77 66s-3 73-99 67v95h33c17 0 166-11 164-165S255 99 243 99H109"
+fill="#fff"/><circle
+cx="375"
+cy="136"
+r="42.5"
 fill="#60bbc1"/></svg>
