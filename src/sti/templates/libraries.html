@@ -26,8 +26,8 @@
 			for (let i = 0; i < 10; ++i) {
 				let rand = Math.floor(Math.random()*tiles.length);
 				let tile = tiles[rand];
-				//	Prevent duplicates.
-				tiles.splice(rand,1);
+				//	Prevent duplicates. Doesn't work on NodeList :-(
+				// tiles.splice(rand,1);
 				let sample = `<img alt="${tile.ariaLabel}" height="64" width="64" src="atlas.svg#${tile.id}">\n`;
 				table.insertAdjacentHTML("beforeend", `<tr><td><code>${sample.replace(/</g, "&lt;")}</code></td><td>${sample}</td></tr>\n`)
 			}
