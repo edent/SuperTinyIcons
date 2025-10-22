@@ -70,7 +70,7 @@ def main():
             ) as out:
             getattr(atlas, writer)(out)
 
-    for template_name in ("index", "libraries", "list", "reference"):
+    for template_name in ("index", "libraries", "reference"):
         template = tpl_env.get_template(name=f"{template_name}.html")
         with (Path(args.output) / f"{template_name}.html").open(
                 "w", encoding="utf8"
