@@ -594,7 +594,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Symantec<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/symantec.svg" width="100" title="Symantec"><br>596 bytes</td>
 <td>Symfony<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/symfony.svg" width="100" title="Symfony"><br>609 bytes</td>
 <td>taiga.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/taiga.svg" width="100" title="taiga.io"><br>731 bytes</td>
-<td>tailwindCss<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tailwindCss.svg" width="100" title="tailwindCss"><br>535 bytes</td>
+<td>Tailwind CSS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tailwindCss.svg" width="100" title="Tailwind CSS"><br>537 bytes</td>
 </tr>
 
 <tr>
