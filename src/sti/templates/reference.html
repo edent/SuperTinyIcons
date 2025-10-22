@@ -3,7 +3,7 @@
 <style>
 	{%  block style %}{{ super() }}
 
-	body#reference section div {
+	reference-grid {
 		display: grid;
 		grid-template-columns: 25em 10em 1fr;
 		gap: 1em;
@@ -12,9 +12,6 @@
 		padding: 1em;
 		margin-bottom: 1em;
 		min-height: 10em;
-	}
-	body#reference section div:last-of-type {
-		border: none;
 	}
 
 	img.svg-icon, img.reference {
@@ -44,7 +41,7 @@ Where possible this links to the organisation's brand guidelines page.</p>
 
 <section>
 	{% for _, icon in icons | dictsort -%}
-	<div>
+	<div id="reference-grid">
 		<div class="info">
 			<span class="label">{{ icon.label }}</span><br>
 			{% if refs[ icon.name ] %}
