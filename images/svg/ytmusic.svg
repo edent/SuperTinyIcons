@@ -2,4 +2,4 @@
 aria-label="Youtube Music" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><g transform="scale(2.909)"><circle cx="88" cy="88" r="88" fill="red"/><circle cx="88" cy="88" r="44" stroke="white" stroke-width="4" fill="none"/><polygon fill="#fff" points="72,111 111,87 72,65"/></g></svg>
+fill="#fff"/><circle cx="256" cy="256" r="256" fill="red"/><circle cx="256" cy="256" r="128" fill="none" stroke="#fff" stroke-width="11"/><polygon fill="#fff" points="210,323 323,253 210,189"/></svg>

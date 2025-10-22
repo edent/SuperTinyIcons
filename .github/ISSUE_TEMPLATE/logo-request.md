@@ -15,4 +15,4 @@ The icon I want is:
 * Website: 
 * Link to icon: 
 * Link to SVG version of icon: 
-* Link to brand guidelines:
+* Link to brand guidelines: 

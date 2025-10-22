@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+<style>{% block style %}
+	{{ super() }}
+	:root {
+		--border-radius: 0%;
+	}
+
+	section {
+		display: flex;
+		flex-wrap: wrap;
+		box-sizing: border-box;
+		align-items: center;
+		justify-content: center;
+	}
+	section div {
+		text-align: center;
+		padding: 1.5em 1em;
+		box-sizing: border-box;
+		width:10em;
+		align-self: flex-end;
+	}
+
+	.thumb img {
+		border-radius: var(--border-radius);
+	}
+
+	.thumb span {
+		font-family: monospace;
+	}
+
+	#map {
+		background:#eee;
+		display:flex;
+		flex-wrap:wrap;
+		gap:1px;
+	}
+	#map i {
+		display:inline-block;
+		padding:2px;
+		background-color:hsl(var(--a) 100% 50%);
+		opacity: .25;
+	}
+	#map i:hover {
+		opacity:1;
+	}
+
+	.thumb.selected img {
+		box-shadow: 0 0 1em #2098D1;
+	}
+
+	#radius {
+		vertical-align: middle;
+	}
+{% endblock %}
+</style>
+
+{% block content %}
+<h2>What's Available so far?</h2>
+<div>
+	<label for="radius">Change border-radius</label>
+	<input  id="radius" type="range" min="0" max="100" value="0">
+</div>
+<section>
+	{% for _, icon in icons | dictsort -%}
+		<div class="thumb" data-name="{{ icon.name }}" data-size="{{ icon.size }}">
+			<strong>{{ icon.label }}</strong>
+			<img src="images/svg/{{ icon.name }}.svg" alt="">
+			<span>{{ icon.size }} Bytes</span>
+		</div>
+	{% endfor %}
+</section>
+<script>
+	const radiusInput = document.getElementById("radius");
+
+	radiusInput.addEventListener("input", (event) => {
+		document.documentElement.style.setProperty("--border-radius",  radiusInput.value + "%");
+	}); 
+</script>
+{% endblock %}

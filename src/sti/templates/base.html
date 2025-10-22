@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{% block title %}{% endblock %}SuperTinyIcons</title>
+	<link rel="icon" href="favicon.ico">
+	<style>{% block style %}
+		html{
+			background:#eee;
+			color: #111;
+		}
+
+		body {
+			font-family: sans-serif;
+			max-width: 80em;
+			margin: 0 auto;
+			padding: 1em;
+		}
+		
+		header {
+			text-align: center;
+			text-wrap: balance;
+		}
+
+		h1 {
+			margin: 0;
+		}
+
+		nav {
+			display:flex;
+			flex-flow:row wrap;
+			justify-content:space-around;
+		}
+		
+		footer {
+			padding:1ex;
+			display:flex;
+			flex-flow:row wrap;
+			justify-content:space-around;
+			border-radius:1ex;
+			background:#ddd;
+		}
+
+		{% endblock %}
+	</style>
+	{% block script %}{% endblock %}
+</head>
+<body{% if pagename %} id="{{ pagename }}"{% endif %}>
+	<header>
+		<h1>Super Tiny Icons</h1>
+		<p>{{ icons | length }} icons, ranging from {{ size_min }}&nbsp;Bytes to {{ size_max }}&nbsp;Bytes with an average size of {{ "{:.0f}".format(size_avg) }}&nbsp;Bytes</p>
+	</header>
+	<nav>
+		<a href="index">Home</a>
+		<a href="list">What's available so far</a>
+		<a href="reference">Reference</a>
+		<a href="libraries">Libraries</a>
+		<a href="https://github.com/edent/SuperTinyIcons/">This project on GitHub</a>
+	</nav>
+	<main>
+		{% block content %}{% endblock %}
+	</main>
+	<footer>
+		<a href="https://github.com/edent/SuperTinyIcons/" title="Fork me on GitHub!">
+			<svg aria-label="GitHub" role="img" viewBox="0 0 512 512" height="32" xmlns="http://www.w3.org/2000/svg"><circle r="256" cx="256" cy="256" fill="#181717"></circle><path fill="#fff" d="M335 499c-13 0-16-6-16-12l1-70c0-24-8-40-18-48 57-6 117-28 117-126 0-28-10-51-26-69 3-6 11-32-3-67 0 0-21-7-70 26-42-12-86-12-128 0-49-33-70-26-70-26-14 35-6 61-3 67-16 18-26 41-26 69 0 98 59 120 116 126-7 7-14 18-16 35-15 6-52 17-74-22 0 0-14-24-40-26 0 0-25 0-1 16 0 0 16 7 28 37 0 0 15 50 86 34l1 44c0 6-3 12-16 12-14 0-12 17-12 17H347s2-17-12-17Z"></path></svg>
+		</a>
+	</footer>
+</body>
+</html>

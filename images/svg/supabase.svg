@@ -2,4 +2,6 @@
 aria-label="Supabase" role="img"
 viewBox="0 0 512 512"><path
 d="M0 0h512v512H0z"
-fill="#fff"/><g transform="matrix(3.6 0 0 3.6 64 52)"><defs><linearGradient id="a" x1="54" x2="94" y1="55" y2="72" gradientUnits="userSpaceOnUse"><stop stop-color="#249361"/><stop offset="1" stop-color="#3ECF8E"/></linearGradient><linearGradient id="b" x1="36" x2="54.5" y1="30.6" y2="65" gradientUnits="userSpaceOnUse"><stop/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path fill="url(#a)" d="M64 110a5 5 0 0 1-9-3l-1-67h45a10 10 0 0 1 8 16l-43 54Z"/><path fill="url(#b)" fill-opacity=".2" d="M64 110a5 5 0 0 1-9-3l-1-67h45a10 10 0 0 1 8 16l-43 54Z"/><path fill="#3ECF8E" d="M45 2a5 5 0 0 1 9 3l1 67H10a10 10 0 0 1-8-16L45 2Z"/></g></svg>
+fill="#fff"/><defs><linearGradient id="a" x1="258.4" x2="402.4" y1="248" y2="311.2" gradientUnits="userSpaceOnUse"><stop stop-color="#249361"/><stop offset="1" stop-color="#3ECF8E"/></linearGradient><linearGradient id="b" x1="193.6" x2="260.2" y1="162.2" y2="286" gradientUnits="userSpaceOnUse"><stop/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path fill="url(#a)" d="M294 448a18 18 0 0 1-32-11l-4-241h162a36 36 0 0 1 29 58L294 448Z"/><path fill="url(#b)" fill-opacity=".2" d="M294 448a18 18 0 0 1-32-11l-4-241h162a36 36 0 0 1 29 58L294 448Z"/><path fill="#3ECF8E" d="M226 59a18 18 0 0 1 32 11l4 241H100a36 36 0 0 1-29-57L226 59Z"/></svg>
+
+

@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+<style>{% block style %}
+	{{ super() }}
+	h3 img {
+		height:1em;
+		width:1em;
+		padding-right:1ex;
+		vertical-align:text-bottom;
+	}
+	{% endblock %}
+</style>
+
+{% block script %}
+<script>
+	var tiles;
+	fetch("atlas.svg", { cache: "force-cache" })
+		.then((response) => response.text())
+		.then((data) => {
+			let size = Number(data.length).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+			const container = document.querySelector(".atlas");
+			const parser = new DOMParser();
+			let tiles = parser.parseFromString(data, "image/svg+xml").querySelectorAll("svg svg");
+			container.querySelector("p").insertAdjacentHTML("afterend", `<p>The <a href="atlas.svg"><b>whole</b> library</a> weight only <var>${size}&nbsp;Bytes</var> (uncompressed) for <var>${tiles.length}</var> icons!</p>`);
+			let table = container.querySelector("table tbody");
+			for (let i = 0; i < 10; ++i) {
+				let rand = Math.floor(Math.random()*tiles.length);
+				let tile = tiles[rand];
+				//	Prevent duplicates.
+				tiles.splice(rand,1);
+				let sample = `<img alt="${tile.ariaLabel}" height="64" width="64" src="atlas.svg#${tile.id}">\n`;
+				table.insertAdjacentHTML("beforeend", `<tr><td><code>${sample.replace(/</g, "&lt;")}</code></td><td>${sample}</td></tr>\n`)
+			}
+		});
+</script>
+{% endblock %}
+
+{% block content %}
+<h2>Libraries</h2>
+<section class="atlas">
+	<h3><img alt="" src="atlas.svg#svg">SVG texture atlas (a.k.a. spritesheet)</h3>
+	<p>A single file containing the icons; this limit the requests to the server and can improve the page load time.</p>
+	<p>Example:</p>
+	<table>
+		<thead>
+			<tr>
+				<th>HTML</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><code>&lt;img alt="Acast" height="64" src="atlas.svg#acast"&gt;</code></td>
+				<td><img alt="Acast" height="64" width="64" src="atlas.svg#acast"></td>
+			</tr>
+		</tbody>
+	</table>
+</section>
+
+<section>
+	<h3><img alt="" src="atlas.svg#drawio">Draw.io</h3>
+	<p>Are you using <a href="https://draw.io">Draw.io</a>?</p>
+	<p>Feeling you are missing some icons for your charts?</p>
+	<p><a href="atlas.drawio">Download Super Tiny Icons as a graphic library for Draw.io</a>!</p>
+	<p>File ▸ Open Library from ▸ URL...</p>
+</section>
+{% endblock %}
