@@ -2,4 +2,4 @@
 aria-label="Jacobin" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#fff"/><path fill="none" stroke="#000" stroke-width="34" d="m166 326a84 84 0 10170 0V124H158"/></svg>
+fill="#fff"/><path fill="red" d="M349 337V81H163v105l103-32v170c0 34-11 43-42 43h-61v71h83c68 0 103-25 103-101"/></svg>
