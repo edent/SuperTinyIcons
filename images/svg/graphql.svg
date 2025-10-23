@@ -3,18 +3,4 @@ aria-label="GraphQL" role="img"
 viewBox="0 0 512 512"
 fill="#e10098"><path
 d="m0 0H512V512H0"
-fill="#fff"/><g
-id="b" stroke="#e10098"><g
-id="a"><path
-fill="none"
-stroke-width="11"
-d="m256 151-91 52"/><circle
-cx="256"
-cy="150.8"
-r="22"/></g><use
-href="#a" transform="rotate(60 256 256)"/><path
-fill="none"
-stroke-width="11"
-d="m256 151-94 162"/></g><use
-href="#b" transform="rotate(120 256 256)"/><use
-href="#b" transform="rotate(-120 256 256)"/></svg>
+fill="#fff"/><g id="b" stroke="#e10098" transform="translate(-127 -127) scale(1.5)"><g id="a"><path stroke-width="11" d="m256 151-91 52"/><circle cx="256" cy="151" r="22"/></g><use href="#a" transform="rotate(60 256 256)"/><path stroke-width="11" d="m256 151-94 162"/></g><use href="#b" transform="rotate(120 256 256)"/><use href="#b" transform="rotate(-120 256 256)"/></svg>
