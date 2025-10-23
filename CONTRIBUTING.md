@@ -54,6 +54,7 @@ This is the standard guideline. Use this to help with sizing your icons and they
    * It's OK if it has a different extension. `nameofservice.png` is fine.
 * Add the brand guidelines URl in a new file within `/images/svg/`
    * For example, create a file called `/images/reference/nameofservice.url` with the contents `https://example.com/brand-guidelines`
+   * The aim of this is to find an *official* source of the logo. Ideally with information about colours etc. If not, a link to the homepage or favicon will do.
 
 ## (Optional) Create Android Version
 
