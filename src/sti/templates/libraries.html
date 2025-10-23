@@ -21,7 +21,7 @@
 			const container = document.querySelector(".atlas");
 			const parser = new DOMParser();
 			let tiles = parser.parseFromString(data, "image/svg+xml").querySelectorAll("svg svg");
-			container.querySelector("p").insertAdjacentHTML("afterend", `<p>The <a href="atlas.svg"><b>whole</b> library</a> weight only <var>${size}&nbsp;Bytes</var> (uncompressed) for <var>${tiles.length}</var> icons!</p>`);
+			container.querySelector("p").insertAdjacentHTML("afterend", `<p>The <a href="atlas.svg"><b>whole</b> library</a> weighs only ${size}&nbsp;Bytes (uncompressed) for ${tiles.length} icons!</p>`);
 			let table = container.querySelector("table tbody");
 			for (let i = 0; i < 10; ++i) {
 				let rand = Math.floor(Math.random()*tiles.length);
@@ -39,7 +39,7 @@
 <h2>Libraries</h2>
 <section class="atlas">
 	<h3><img alt="" src="atlas.svg#svg">SVG texture atlas (a.k.a. spritesheet)</h3>
-	<p>A single file containing the icons; this limit the requests to the server and can improve the page load time.</p>
+	<p>A single file containing <em>all</em> the icons. This limits the number of requests to the server and can improve the page load time.</p>
 	<p>Example:</p>
 	<table>
 		<thead>
