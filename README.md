@@ -293,7 +293,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>GrapheneOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grapheneos.svg" width="100" title="GrapheneOS"><br>748 bytes</td>
-<td>GraphQL<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/graphql.svg" width="100" title="GraphQL"><br>491 bytes</td>
+<td>GraphQL<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/graphql.svg" width="100" title="GraphQL"><br>509 bytes</td>
 <td>Grok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grok.svg" width="100" title="Grok"><br>552 bytes</td>
 <td>Guacamole<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guacamole.svg" width="100" title="Guacamole"><br>655 bytes</td>
 <td>Guilded<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/guilded.svg" width="100" title="Guilded"><br>330 bytes</td>
