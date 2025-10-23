@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Bubble_Solid_1_);}
-	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-</style>
-<g id="Messenger_4_">
-	<linearGradient id="Bubble_Solid_1_" gradientUnits="userSpaceOnUse" x1="512" y1="11.5" x2="512" y2="1005.4999">
-		<stop  offset="0" style="stop-color:#00B2FF"/>
-		<stop  offset="1" style="stop-color:#006AFF"/>
-	</linearGradient>
-	<path id="Bubble_Solid_3_" class="st0" d="M512,11.5c-280,0-497,205.1-497,482.1c0,144.9,59.4,270.1,156.1,356.6
-		c8.1,7.3,13,17.4,13.4,28.3l2.7,88.4c0.9,28.2,30,46.5,55.8,35.2l98.6-43.5c8.4-3.7,17.7-4.4,26.5-2
-		c45.3,12.5,93.6,19.1,143.9,19.1c280,0,497-205.1,497-482.1S792,11.5,512,11.5z"/>
-	<path id="Bolt_4_" class="st1" d="M213.6,634.6l146-231.6c23.2-36.8,73-46,107.8-19.9l116.1,87.1c10.7,8,25.3,7.9,35.9-0.1
-		l156.8-119c20.9-15.9,48.3,9.2,34.2,31.4L664.5,614c-23.2,36.8-73,46-107.8,19.9l-116.1-87.1c-10.7-8-25.3-7.9-35.9,0.1L247.8,666
-		C226.9,681.9,199.5,656.8,213.6,634.6z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 502 502">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #0866ff;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M501,243.5c0,139.34-109.17,242.5-250,242.5-25.29,0-49.56-3.34-72.37-9.61-4.43-1.23-9.14-.88-13.35.97l-49.62,21.91c-12.98,5.73-27.63-3.5-28.06-17.68l-1.36-44.48c-.17-5.48-2.63-10.6-6.72-14.25C30.87,379.36,1,316.39,1,243.5,1,104.16,110.17,1,251,1s250,103.16,250,242.5Z"/>
+  <path class="cls-1" d="M318.88,313.31l87.04-134.52c8.75-13.52-7.46-29.26-20.72-20.11l-90.86,62.67c-3.06,2.11-7.1,2.17-10.22.15l-80.65-52.18c-6.83-4.42-15.94-2.46-20.35,4.36l-87.05,134.52c-8.75,13.52,7.46,29.26,20.72,20.11l90.88-62.68c3.06-2.11,7.1-2.17,10.22-.15l80.63,52.17c6.83,4.42,15.94,2.46,20.36-4.36Z"/>
 </svg>
