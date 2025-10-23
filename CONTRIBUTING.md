@@ -19,6 +19,8 @@ If you send an inappropriate PR, you will be marked as spam. If you have questio
    * For example `arch_linux.svg`
 * Place the file in `/images/svg/`
 * At a minimum, your icon needs these components, in this layout:
+  * The first `...` should be `nameofservice`
+  * The second `...` should be the SVG paths/objects that make up the logo
 
 ```svg
 <svg xmlns="http://www.w3.org/2000/svg"
