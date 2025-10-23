@@ -331,7 +331,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Internet Archive<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/internet_archive.svg" width="100" title="Internet Archive"><br>800 bytes</td>
 <td>itch.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/itch_io.svg" width="100" title="itch.io"><br>852 bytes</td>
 <td>iTunes<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/itunes_podcasts.svg" width="100" title="iTunes"><br>744 bytes</td>
-<td>Jacobin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jacobin.svg" width="100" title="Jacobin"><br>226 bytes</td>
+<td>Jacobin<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/jacobin.svg" width="100" title="Jacobin"><br>238 bytes</td>
 <td>Java<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/java.svg" width="100" title="Java"><br>779 bytes</td>
 <td>JavaScript<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="100" title="JavaScript"><br>404 bytes</td>
 </tr>
