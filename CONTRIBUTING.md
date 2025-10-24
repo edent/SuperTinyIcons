@@ -36,7 +36,7 @@ You can shrink the file size using tools like:
 * [Yann Armelin's SVG Path Editor](https://yqnn.github.io/svg-path-editor/).
 * [svgo](https://svgo.dev/).
 * [svgcleaner](https://github.com/RazrFalcon/svgcleaner).
-* [SVGOMG](https://svgomg.net/).
+* [SVGOMG](https://jakearchibald.github.io/svgomg/).
 
 ### Guidelines
 
