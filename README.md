@@ -519,7 +519,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Raspberry Pi<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/raspberry_pi.svg" width="100" title="Raspberry Pi"><br>905 bytes</td>
 <td>React<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="100" title="React"><br>339 bytes</td>
-<td>Reddit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="100" title="Reddit"><br>592 bytes</td>
+<td>Reddit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/reddit.svg" width="100" title="Reddit"><br>716 bytes</td>
 <td>RedHat<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redhat.svg" width="100" title="RedHat"><br>534 bytes</td>
 <td>Redis<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/redis.svg" width="100" title="Redis"><br>491 bytes</td>
 <td>Replit<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/replit.svg" width="100" title="Replit"><br>531 bytes</td>
