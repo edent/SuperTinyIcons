@@ -46,24 +46,16 @@ Where possible this links to the organisation's brand guidelines page.</p>
 
 <section id="reference-grid">
 	{% for _, icon in icons | dictsort -%}
+		{% with ref = refs[ icon.name ] %}
 	<div>
 		<div class="info">
-			<span class="label">{{ icon.label }}</span><br>
-			{% if refs[ icon.name ] %}
-				{% with ref = refs[ icon.name ] %}
-					{% if ref.url %}
+			<span class="label" id="{{ icon.name }}">{{ icon.label }}</span><br>
 			<a class="url" href="{{ ref.url }}">{{ ref.url }}</a>
-					{% endif %}
-				{% endwith %}
-			{% endif %}
 		</div>
 		<img alt="" class="svg-icon" src="images/svg/{{ icon.name }}.svg">
-		{% if refs[ icon.name ] %}
-			{% with ref = refs[ icon.name ] %}
 		<img alt="" class="reference" src="images/reference/{{ ref.filename }}">
-			{% endwith %}
-		{% endif %}
 	</div>
+		{% endwith %}
 	{% endfor %}
 </section>
 
