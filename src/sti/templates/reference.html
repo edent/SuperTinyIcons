@@ -47,9 +47,9 @@ Where possible this links to the organisation's brand guidelines page.</p>
 <section id="reference-grid">
 	{% for _, icon in icons | dictsort -%}
 		{% with ref = refs[ icon.name ] %}
-	<div>
+	<div id="{{ icon.name }}">
 		<div class="info">
-			<span class="label" id="{{ icon.name }}">{{ icon.label }}</span><br>
+			<span class="label">{{ icon.label }}</span><br>
 			<a class="url" href="{{ ref.url }}">{{ ref.url }}</a>
 		</div>
 		<img alt="" class="svg-icon" src="images/svg/{{ icon.name }}.svg">
