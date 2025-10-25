@@ -60,7 +60,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Apple<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple.svg" width="100" title="Apple"><br>354 bytes</td>
 <td>Apple Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="100" title="Apple Music"><br>490 bytes</td>
-<td>Apple Podcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/applepodcasts.svg" width="100" title="Apple Podcasts"><br>940 bytes</td>
+<td>Apple Podcasts<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/applepodcasts.svg" width="100" title="Apple Podcasts"><br>939 bytes</td>
 <td>appwrite<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/appwrite.svg" width="100" title="appwrite"><br>724 bytes</td>
 <td>Arch Linux<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arch_linux.svg" width="100" title="Arch Linux"><br>308 bytes</td>
 <td>arduino<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/arduino.svg" width="100" title="arduino"><br>869 bytes</td>
@@ -617,7 +617,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 
 <tr>
 <td>Threads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threads.svg" width="100" title="Threads"><br>365 bytes</td>
-<td>Threema<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threema.svg" width="100" title="Threema"><br>381 bytes</td>
+<td>Threema<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/threema.svg" width="100" title="Threema"><br>483 bytes</td>
 <td>TikTok<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tiktok.svg" width="100" title="TikTok"><br>339 bytes</td>
 <td>Todoist<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/todoist.svg" width="100" title="Todoist"><br>737 bytes</td>
 <td>Tox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/tox.svg" width="100" title="Tox"><br>479 bytes</td>
