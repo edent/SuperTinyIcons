@@ -32,7 +32,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <table>
 <tr>
 <td>1Password<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/1password.svg" width="100" title="1Password"><br>360 bytes</td>
-<td>Acast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/acast.svg" width="100" title="Acast"><br>402 bytes</td>
+<td>Acast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/acast.svg" width="100" title="Acast"><br>420 bytes</td>
 <td>Access<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/access.svg" width="100" title="Access"><br>349 bytes</td>
 <td>ActivityPub<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/activitypub.svg" width="100" title="ActivityPub"><br>337 bytes</td>
 <td>Adobe<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/adobe.svg" width="100" title="Adobe"><br>220 bytes</td>
