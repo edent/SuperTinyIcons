@@ -23,6 +23,12 @@ for svg_file in svg_list:
 	#	Ignore anything which isn't an .svg
 	if not svg_file.endswith('.svg'):
 		continue
+	#	Is this a valid SVG?
+	try:
+		ET.parse( svg_dir + svg_file )
+	except Exception as err:
+		print( f"{terminal.FAIL}❌ {svg_file} is not valid: {err}")
+		success = False
 	#	Check and correct common whitespace issues.
 	with open( svg_dir + svg_file, 'r', encoding="utf-8" ) as open_file:
 		content = open_file.read()
