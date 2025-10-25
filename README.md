@@ -161,7 +161,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Dovecot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dovecot.svg" width="100" title="Dovecot"><br>523 bytes</td>
 <td>Downpour<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/downpour.svg" width="100" title="Downpour"><br>981 bytes</td>
 <td>Draw.io<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drawio.svg" width="100" title="Draw.io"><br>425 bytes</td>
-<td>Dribble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="100" title="Dribble"><br>365 bytes</td>
+<td>Dribble<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dribbble.svg" width="100" title="Dribble"><br>368 bytes</td>
 <td>Drone<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/drone.svg" width="100" title="Drone"><br>291 bytes</td>
 </tr>
 
