@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 465 icons and the average size is _under_ 528 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 465 icons and the average size is _under_ 527 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -314,7 +314,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>HP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hp.svg" width="100" title="HP"><br>471 bytes</td>
 <td>HTML5<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="100" title="HTML5"><br>435 bytes</td>
 <td>Hulu<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/hulu.svg" width="100" title="Hulu"><br>459 bytes</td>
-<td>Humble Bundle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/humblebundle.svg" width="100" title="Humble Bundle"><br>952 bytes</td>
+<td>Humble Bundle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/humblebundle.svg" width="100" title="Humble Bundle"><br>399 bytes</td>
 <td>i18next<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/i18next.svg" width="100" title="i18next"><br>713 bytes</td>
 </tr>
 
