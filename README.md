@@ -656,7 +656,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Uplay<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/uplay.svg" width="100" title="Uplay"><br>517 bytes</td>
 <td>Upstash<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/upstash.svg" width="100" title="Upstash"><br>615 bytes</td>
 <td>Upwork<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/upwork.svg" width="100" title="Upwork"><br>484 bytes</td>
-<td>Vagrant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vagrant.svg" width="100" title="Vagrant"><br>537 bytes</td>
+<td>Vagrant<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vagrant.svg" width="100" title="Vagrant"><br>288 bytes</td>
 <td>Vegetarian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/vegetarian.svg" width="100" title="Vegetarian"><br>668 bytes</td>
 </tr>
 
