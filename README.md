@@ -51,7 +51,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Android<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/android.svg" width="100" title="Android"><br>780 bytes</td>
 <td>AngelList<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angellist.svg" width="100" title="AngelList"><br>965 bytes</td>
-<td>Angular<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="100" title="Angular"><br>317 bytes</td>
+<td>Angular<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/angular.svg" width="100" title="Angular"><br>247 bytes</td>
 <td>Ansible<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ansible.svg" width="100" title="Ansible"><br>311 bytes</td>
 <td>Apache AGE<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apache_age.svg" width="100" title="Apache AGE"><br>720 bytes</td>
 <td>Apereo Foundation<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/apereo.svg" width="100" title="Apereo Foundation"><br>453 bytes</td>
