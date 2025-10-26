@@ -60,8 +60,8 @@ This is the standard guideline. Use this to help with sizing your icons and they
 
 ## (Optional) Create Android Version
 
-To convert in Android Studio, use [Vector Asset Studio](https://developer.android.com/studio/write/vector-asset-studio#running) and [import the SVG](https://developer.android.com/studio/write/vector-asset-studio#svg)
+To convert in Android Studio, use [Vector Asset Studio](https://developer.android.com/studio/write/vector-asset-studio#running) and [import the SVG](https://developer.android.com/studio/write/vector-asset-studio#svg).
 
 Or, use https://inloop.github.io/svg2android/ to create an Android-compatible XML file.
 
-Add the file to `/images/android-vector-drawable/`
+Please check the file carefully to see if the preview matches the original. If it does, add the file to `/images/android-vector-drawable/`
