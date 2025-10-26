@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 465 icons and the average size is _under_ 529 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 465 icons and the average size is _under_ 530 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -409,7 +409,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
-<td>Meetup<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/meetup.svg" width="100" title="Meetup"><br>502 bytes</td>
+<td>Meetup<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/meetup.svg" width="100" title="Meetup"><br>898 bytes</td>
 <td>Messenger<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="100" title="Messenger"><br>491 bytes</td>
 <td>microformats<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/microformats.svg" width="100" title="microformats"><br>783 bytes</td>
 <td>micropython<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/micropython.svg" width="100" title="micropython"><br>256 bytes</td>
