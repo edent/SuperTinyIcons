@@ -466,7 +466,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Overcast<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overcast.svg" width="100" title="Overcast"><br>760 bytes</td>
 <td>Overleaf<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/overleaf.svg" width="100" title="Overleaf"><br>437 bytes</td>
 <td>ParrotOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/parrotos.svg" width="100" title="ParrotOS"><br>512 bytes</td>
-<td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="100" title="Patreon"><br>205 bytes</td>
+<td>Patreon<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/patreon.svg" width="100" title="Patreon"><br>379 bytes</td>
 <td>PayPal<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/paypal.svg" width="100" title="PayPal"><br>495 bytes</td>
 <td>PDF<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pdf.svg" width="100" title="PDF"><br>650 bytes</td>
 </tr>
