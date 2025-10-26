@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 465 icons and the average size is _under_ 530 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 465 icons and the average size is _under_ 531 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -286,7 +286,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Google Scholar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="100" title="Google Scholar"><br>517 bytes</td>
 <td>Google TV<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_tv.svg" width="100" title="Google TV"><br>552 bytes</td>
 <td>Google Wallet<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/google_wallet.svg" width="100" title="Google Wallet"><br>510 bytes</td>
-<td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="100" title="Gradle"><br>654 bytes</td>
+<td>Gradle<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gradle.svg" width="100" title="Gradle"><br>815 bytes</td>
 <td>Grafana<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana.svg" width="100" title="Grafana"><br>674 bytes</td>
 <td>Loki<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/grafana_loki.svg" width="100" title="Loki"><br>566 bytes</td>
 </tr>
