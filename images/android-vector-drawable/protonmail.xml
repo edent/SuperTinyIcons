@@ -14,7 +14,7 @@
           android:startX="359.2"
           android:startY="395"
           android:endX="428"
-          android:endY="115.63"
+          android:endY="112"
           android:type="linear">
         <item android:offset="0" android:color="#FFD8CBFF"/>
         <item android:offset="1" android:color="#FF9D7AFF"/>

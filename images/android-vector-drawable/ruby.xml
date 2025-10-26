@@ -80,10 +80,10 @@
       android:pathData="m155,157a62,139 45,1 0,1 -1.02">
     <aapt:attr name="android:fillColor">
       <gradient 
-          android:startX="93.89"
-          android:startY="305.76"
-          android:endX="309.13"
-          android:endY="90.52"
+          android:startX="90.55"
+          android:startY="308.52"
+          android:endX="312.43"
+          android:endY="87.68"
           android:type="linear">
         <item android:offset="0" android:color="#FFFFFFFF"/>
         <item android:offset="0.1" android:color="#FFDD3322"/>
