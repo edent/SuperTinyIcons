@@ -2,4 +2,4 @@
 aria-label="Kotlin" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#27282c"/><path fill="#09d" d="M410 410H102V102h154v154"/><path fill="#f80" d="M410 102H256L102 267v143"/></svg>
+fill="#000"/><linearGradient id="a" y1="1"><stop offset="0" style="stop-color:#7F52FF"/><stop offset="0.53" style="stop-color:#C711E1"/><stop offset="1" style="stop-color:#E44857"/></linearGradient><path fill="url(#a)" d="M120 120H392L256 256 392 392H120Z"/></svg>
