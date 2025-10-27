@@ -1,6 +1,6 @@
 # Super Tiny Icons
 
-Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 465 icons and the average size is _under_ 531 bytes!
+Under 1KB each! Super Tiny Web Icons are minuscule SVG versions of your favourite logos. There are currently 465 icons and the average size is _under_ 532 bytes!
 
 The logos have a 512x512 viewbox, they will fit in a circle with radius 256. They will scale up and down to suit your needs.
 
@@ -252,7 +252,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Godot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="100" title="Godot"><br>568 bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="100" title="GOG.com"><br>648 bytes</td>
 <td>Gojek<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gojek.svg" width="100" title="Gojek"><br>258 bytes</td>
-<td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="100" title="Goodreads"><br>370 bytes</td>
+<td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="100" title="Goodreads"><br>717 bytes</td>
 </tr>
 
 <tr>
