@@ -528,7 +528,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Research Gate<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/researchgate.svg" width="100" title="Research Gate"><br>866 bytes</td>
 <td>Riot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/riot.svg" width="100" title="Riot"><br>385 bytes</td>
-<td>Roblox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/roblox.svg" width="100" title="Roblox"><br>285 bytes</td>
+<td>Roblox<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/roblox.svg" width="100" title="Roblox"><br>281 bytes</td>
 <td>Rockstar Games<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rockstar.svg" width="100" title="Rockstar Games"><br>835 bytes</td>
 <td>Roundcube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/roundcube.svg" width="100" title="Roundcube"><br>514 bytes</td>
 <td>RSS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/rss.svg" width="100" title="RSS"><br>276 bytes</td>
