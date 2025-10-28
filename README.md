@@ -141,7 +141,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>DataCamp<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/datacamp.svg" width="100" title="DataCamp"><br>476 bytes</td>
 <td>Debian<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/debian.svg" width="100" title="Debian"><br>922 bytes</td>
-<td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="100" title="Deezer"><br>691 bytes</td>
+<td>Deezer<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deezer.svg" width="100" title="Deezer"><br>690 bytes</td>
 <td>Delicious<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/delicious.svg" width="100" title="Delicious"><br>259 bytes</td>
 <td>dev.to<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/dev_to.svg" width="100" title="dev.to"><br>521 bytes</td>
 <td>DeviantArt<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/deviantart.svg" width="100" title="DeviantArt"><br>263 bytes</td>
@@ -252,7 +252,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Godot<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/godot.svg" width="100" title="Godot"><br>568 bytes</td>
 <td>GOG.com<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gogcom.svg" width="100" title="GOG.com"><br>648 bytes</td>
 <td>Gojek<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/gojek.svg" width="100" title="Gojek"><br>258 bytes</td>
-<td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="100" title="Goodreads"><br>717 bytes</td>
+<td>Goodreads<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/goodreads.svg" width="100" title="Goodreads"><br>716 bytes</td>
 </tr>
 
 <tr>
