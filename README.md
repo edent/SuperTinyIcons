@@ -105,7 +105,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <tr>
 <td>Calendar<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/calendar.svg" width="100" title="Calendar"><br>744 bytes</td>
 <td>Cash App<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/cash_app.svg" width="100" title="Cash App"><br>772 bytes</td>
-<td>CentOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="100" title="CentOS"><br>679 bytes</td>
+<td>CentOS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/centos.svg" width="100" title="CentOS"><br>856 bytes</td>
 <td>ChatGPT<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chatgpt.svg" width="100" title="ChatGPT"><br>763 bytes</td>
 <td>Chrome<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chrome.svg" width="100" title="Chrome"><br>401 bytes</td>
 <td>Chromium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/chromium.svg" width="100" title="Chromium"><br>403 bytes</td>
