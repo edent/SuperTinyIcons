@@ -35,10 +35,13 @@ changedFilesArray.forEach((filename, i) => {
 
         it("should be validated by the w3c validator", async () => {
             await delay(200);
+            //  Send as HTML to ensure validator checks properly.
+            //  Replace newlines with spaces.
+            //  https://github.com/validator/validator/wiki/Service-%C2%BB-Input-%C2%BB-POST-body
             await fetch("https://validator.w3.org/nu/?out=gnu", {
                     method: "POST",
-                    body: fs.readFileSync(filepath, "utf8").replace(/aria-label="[^"]+"/g, ""),
-                    headers: {"Content-Type": "application/xml"}
+                    body: '<!doctype html><html lang=en><title>A</title>' + fs.readFileSync(filepath, "utf8").replaceAll("\n", " "),
+                    headers: {"Content-Type": "text/html; charset=utf-8"}
                 })
                 .then(res => res.text())
                 .then(res => {
