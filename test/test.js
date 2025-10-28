@@ -38,7 +38,7 @@ changedFilesArray.forEach((filename, i) => {
             //  Send as HTML to ensure validator checks properly.
             //  Replace newlines with spaces.
             //  https://github.com/validator/validator/wiki/Service-%C2%BB-Input-%C2%BB-POST-body
-            await fetch("https://validator.w3.org/nu/?out=gnu", {
+            await fetch("https://validator.nu/?out=gnu", {
                     method: "POST",
                     body: '<!doctype html><html lang=en><title>A</title>' + fs.readFileSync(filepath, "utf8").replaceAll("\n", " "),
                     headers: {"Content-Type": "text/html; charset=utf-8"}
