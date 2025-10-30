@@ -481,7 +481,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 </tr>
 
 <tr>
-<td>Photoshop<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/photoshop.svg" width="100" title="Photoshop"><br>631 bytes</td>
+<td>Photoshop<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/photoshop.svg" width="100" title="Photoshop"><br>630 bytes</td>
 <td>PHP<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/php.svg" width="100" title="PHP"><br>524 bytes</td>
 <td>Pinboard<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinboard.svg" width="100" title="Pinboard"><br>241 bytes</td>
 <td>Pinterest<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/pinterest.svg" width="100" title="Pinterest"><br>508 bytes</td>
