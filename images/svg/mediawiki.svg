@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="MediaWiki" role="img"
+viewBox="0 0 512 512"><path
+fill="#fff"
+d="M0 0h512v512H0"/><linearGradient
+id="d" y1="1"><stop
+stop-color="#0a00b2a6"/><stop
+offset=".5" stop-color="#ff0000a6"/><stop
+offset="1" stop-color="#fffc00a6"/></linearGradient><mask
+id="e"><g
+id="c" fill="#fff"><g
+id="b"><path
+id="a"
+d="M-25-166q-7 22 0 46A44 44 90 0 0-4-98a11 11 90 0 0 10 0q21-13 23-38c3-29-10-53-28-76q-18 22-26 46"/><use
+href="#a" transform="rotate(24)"/><use
+href="#a" transform="rotate(48)"/></g><use
+href="#b" transform="rotate(72)"/><use
+href="#b" transform="rotate(144)"/><use
+href="#b" transform="rotate(216)"/><use
+href="#b" transform="rotate(288)"/></g></mask><mask
+id="f"><use
+href="#c" transform="rotate(12)"/></mask><g
+fill="url(#d)" transform="translate(256 256)"><circle
+r="256" mask="url(#e)"/><circle
+r="256" mask="url(#f)"/></g></svg>
