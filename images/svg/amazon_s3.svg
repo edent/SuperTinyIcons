@@ -2,4 +2,4 @@
 aria-label="Amazon Simple Storage Service" role="img"
 viewBox="0 0 512 512"><path
 d="m0 0H512V512H0"
-fill="#7aa116"/><g style="stroke-width:12px;stroke:#fff;fill:none"><ellipse cx="256.078" cy="147.287" rx="147.356" ry="45.371"/><path d="m 108.647 147.537 l 33.353 252.463 c 12.433 38.205 217.497 40.651 227.755 -1.533 l 33.631 -249.922 M 255.811 234.788 c 87.608 51.308 232.939 84.917 133.189 24.212"/></g><circle cx="255.667" cy="234.975" r="14.5" style="fill:#fff;stroke:none"/></svg>
+fill="#7aa116"/><path d="M108.6 147.5 142 400c12.4 38.2 217.5 40.7 227.8-1.5l33.6-250c7.1-58.9-302.2-59.3-294.7-.7 7.6 58.7 287.3 61.8 294.7.5m-147.6 86.5c87.6 51.3 233 85 133.2 24.2" stroke-width="12" stroke="#fff" fill="none"/><circle cx="255.7" cy="235" r="14.5" fill="#fff" stroke="none"/></svg>
