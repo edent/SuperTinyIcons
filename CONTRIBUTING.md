@@ -6,12 +6,6 @@ Thanks for submitting or fixing an icon! Here is a helpful guide to what you nee
 - [ ] Add official brand guidelines URl.
 - [ ] Run `python check.py` to makes sure everything is correct.
 
-## Hacktoberfest - Important!
-
-You do not need to be assigned to an issue. You can start working on it right now 😃
-
-If you send an inappropriate PR, you will be marked as spam. If you have questions, please ask *before* sending a PR.
-
 ## New File
 
 * The filename should be `nameofservice.svg` - all in lower-case.

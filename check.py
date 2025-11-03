@@ -79,7 +79,7 @@ total_bytes = 0
 
 #	Loop through all the SVGs
 for svg_file in svg_list:
-	#	Ignore anything which isn't an .svg
+	#	Warn about anything which isn't an .svg
 	if not svg_file.endswith('.svg'):
 		print(f"{terminal.WARN}⚠️  Filetype: {svg_file} does not end with .svg")
 		success = False
