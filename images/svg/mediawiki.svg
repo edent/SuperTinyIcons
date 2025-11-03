@@ -4,7 +4,7 @@ viewBox="0 0 512 512"><path
 fill="#fff"
 d="M0 0h512v512H0"/><linearGradient
 id="d" y1="1"><stop
-stop-color="#0a00b2a6"/><stop
+stop-color="#0a00b2a6" offset=""/><stop
 offset=".5" stop-color="#ff0000a6"/><stop
 offset="1" stop-color="#fffc00a6"/></linearGradient><mask
 id="e"><g
