@@ -412,7 +412,7 @@ If you do not follow the instructions, your contribution will be marked as spam 
 <td>Mattermost<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mattermost.svg" width="100" title="Mattermost"><br>291 bytes</td>
 <td>McAfee<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mcafee.svg" width="100" title="McAfee"><br>262 bytes</td>
 <td>McDonald's<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mcdonald_s.svg" width="100" title="McDonald's"><br>402 bytes</td>
-<td>MediaWiki<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mediawiki.svg" width="100" title="MediaWiki"><br>889 bytes</td>
+<td>MediaWiki<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/mediawiki.svg" width="100" title="MediaWiki"><br>899 bytes</td>
 <td>Medium<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/medium.svg" width="100" title="Medium"><br>225 bytes</td>
 <td>Meetup<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/meetup.svg" width="100" title="Meetup"><br>898 bytes</td>
 </tr>
