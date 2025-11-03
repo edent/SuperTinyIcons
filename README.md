@@ -929,3 +929,5 @@ From [SVGporn](https://github.com/gilbarbara/logos/) - CC0
 IBM, Yammer, Android, Authy, Cloudflare, CodePen, DigitalOcean, Discord, Airbnb, WiFi, Delicious, Open Source, Patreon, Tim Cuthbertson
 
 Where possible, they retain their original licenses. Some logos may be subject to copyright and trademark laws, but these files are small enough to memorise.
+
+[The Nu Validator is Copyright ⓒ 2007-2016 Mozilla Foundation](https://github.com/validator/validator)
