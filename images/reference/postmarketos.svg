@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.0570862"
+     inkscape:cx="17.895681"
+     inkscape:cy="48.545741"
+     inkscape:window-width="1916"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <polygon
+     points="65,0 58,8.5 65,17 29.8,17 29.7,17.5 25.9,27.8 15,26 0,0 "
+     fill="#009900"
+     id="polygon1"
+     transform="rotate(180,50,46.650635)"
+     style="fill:#008443;fill-opacity:1" />
+  <g
+     transform="rotate(-60,80.801271,46.650635)"
+     id="g2"
+     style="fill:#008443;fill-opacity:1">
+    <polygon
+       points="65,0 58,8.5 65,17 29.8,17 29.7,17.5 25.9,27.8 15,26 0,0 "
+       fill="#009900"
+       id="polygon2"
+       style="fill:#008443;fill-opacity:1" />
+  </g>
+  <polygon
+     points="65,17 29.8,17 29.7,17.5 25.9,27.8 15,26 0,0 65,0 58,8.5 "
+     fill="#009900"
+     id="polygon3"
+     transform="rotate(60,19.198729,46.650635)"
+     style="fill:#008443;fill-opacity:1" />
+</svg>
