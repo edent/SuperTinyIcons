@@ -1,8 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-aria-label="BambuLabs" role="img"
-viewBox="0 0 512 512" fill="#00AE42"><path
+aria-label="Bambu Lab" role="img"
+viewBox="0 0 512 512"><path
 d="m0 0H512V512H0" fill="#fff"/><path
-d="M131.4,93.3h115.7v158.1l-115.7,45.8"/><path
-d="M264.9,93.3v101.7l115.7,45.8v-147.5"/><path
-d="M264.9,214.9v203.9h115.7v-158.1"/><path
-d="M131.4,316.6l115.3,-45.3v147.5h-115.3"/></svg>
+d="M131.4 93.3h115.7v158.1l-115.7 45.8M264.9 93.3v101.7l115.7 45.8v-147.5M264.9 214.9v203.9h115.7v-158.1M131.4 316.6l115.3 -45.3v147.5h-115.3" fill="#00AE42"/></svg>
