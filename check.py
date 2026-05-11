@@ -33,10 +33,17 @@ success = True
 svg_dir = Path(__file__).parent / "images" / "svg/"
 ref_dir = Path(__file__).parent / "images" / "reference/"
 
-#	Start the Nu Validator server
-if not shutil.which("java"):
+#	VNU requires JDK >= 17
+try:
+	output = subprocess.check_output(["java", "-version"], stderr=subprocess.STDOUT, text=True)
+	#	Extracts the major version number.
+	major = int(re.search(r'version "(1\.)?(\d+)', output).group(2))
+	if ( major < 17 ):
+		raise RuntimeError("Java JDK version must be 17 or higher.")
+except:
 	raise RuntimeError("Java not found. Please install it or add it to PATH.")
 
+#	Start the Nu Validator server
 jar_dir = Path(__file__).parent / "test" / "vnu.jar"
 jar_port = 8888
 server = subprocess.Popen(
