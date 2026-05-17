@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Rclone" role="img"
+viewBox="0 0 512 512"><path
+d="m0 0H512V512H0"
+fill="#fff"/><path
+id="a"
+d="M247.9 236.3l-19.1 33.1H181.5a51 51 0 1026.1 95l11.6 20.3q10.9 18.4 27.7 33.3A118 117 0 11181.4 203.2h47.5"
+fill="#3f79ad"/><use
+href="#a"
+transform="rotate(240,256,277.54)"
+filter="hue-rotate(-10deg) saturate(70%) brightness(165%)"/><use
+href="#a"
+transform="rotate(120,256,277.54)"
+filter="hue-rotate(-9deg) saturate(37%) brightness(196%)"/></svg>
