@@ -728,10 +728,10 @@ The logos have a 512x512 viewbox, they will fit in a circle with radius 256. The
 
 <tr>
 <td>YouTube<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="100" title="YouTube"><br>333 bytes</td>
-<td>Youtube Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="100" title="Youtube Music"><br>324 bytes</td>
+<td>YouTube Music<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/ytmusic.svg" width="100" title="YouTube Music"><br>325 bytes</td>
 <td>Yubico<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/yubico.svg" width="100" title="Yubico"><br>250 bytes</td>
 <td>Zoom<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zoom.svg" width="100" title="Zoom"><br>635 bytes</td>
-<td>Zorinos<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="100" title="Zorinos"><br>254 bytes</td>
+<td>Zorin OS<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/zorinos.svg" width="100" title="Zorin OS"><br>256 bytes</td>
 </tr>
 
 </table>
