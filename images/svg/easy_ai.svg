@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Easy AI" role="img"
+viewBox="0 0 512 512"><linearGradient id="a" x2="1" y2="1"><stop offset="0" stop-color="#ab5fa6"/><stop offset="1" stop-color="#4a2b76"/></linearGradient><linearGradient id="b" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#d660a5"/><stop offset=".5" stop-color="#daa8ab"/><stop offset="1" stop-color="#f2e491"/></linearGradient><linearGradient id="c"><stop offset=".05" stop-color="#9adb9a" stop-opacity=".8"/><stop offset=".4" stop-color="#b6bcab" stop-opacity="0"/><stop offset=".6" stop-color="#fcd399" stop-opacity="0"/><stop offset=".95" stop-color="#fcd399" stop-opacity=".95"/></linearGradient><path
+d="m0 0H512V512H0"
+fill="url(#a)"/><path fill="url(#b)" d="M256 61C282 164 356 234 460 256C356 279 282 349 256 452C230 349 156 279 52 256C156 234 230 164 256 61z"/><path fill="url(#c)" d="M256 61C282 164 356 234 460 256C356 279 282 349 256 452C230 349 156 279 52 256C156 234 230 164 256 61z"/></svg>
